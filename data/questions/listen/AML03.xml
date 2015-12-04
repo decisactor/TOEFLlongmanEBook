@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<question-list type='listen' genre='conversation' audio-file='AML03.mp3' script-file='AML03P0.xml'>
+
+<question type='multichoice' script-file='AML03P1.xml' skills='1'>
+<question-text audio-file='AML03Q1.mp3'>Why does the student go to see the professor?</question-text>
+<answer-list>
+<answer-text>To discuss something she read with the professor</answer-text>
+<answer-text><exp>To ask about something the professor discussed in class</exp></answer-text>
+<answer-text>To ask what she should read for the next class</answer-text>
+<answer-text>To ask him to explain a particular test question</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the conversation, the student says <exp>I have a question for you</exp>, and <exp>it's about your lecture this morning</exp>, and <exp>you were talking about a theory by Anderson. I couldn't understand what that theory was&#8230;or&#8230;where it came from</exp>. From this, it can be determined that the student goes to see the professor <exp>to ask about something the professor discussed in class</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML03P2.xml' skills='4'>
+<question-text audio-file='AML03Q2.mp3' replay-before='AML03Q2B.mp3' replay-before-graphic='AML03G2.jpg'>How did the professor misunderstand the student?</question-text>
+<answer-list>
+<answer-text>He <exp>thought the student was asking how the theory came to be</exp>.</answer-text>
+<answer-text>He thought the student wanted to know what to read for the next class.</answer-text>
+<answer-text>He thought the student was asking him to explain a particular theory.</answer-text>
+<answer-text>He thought the student was asking why he discussed a particular theory.</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the conversation, the student says <exp>I couldn't understand what that theory was or&#8230;where it came from</exp>, and the professor reponds by saying <exp>what do you mean by where it came from? Are you asking how the theory was developed?</exp>  It is implied in the professor's response that the professor <exp>thought the student was asking how the theory came to be</exp>. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML03P3.xml' skills='2'>
+<question-text audio-file='AML03Q3.mp3'>What did the student really want to know?</question-text>
+<answer-list>
+<answer-text>How the theory came to be</answer-text>
+<answer-text>What the main point of the theory is</answer-text>
+<answer-text>Why the professor discussed this theory in class</answer-text>
+<answer-text><exp>Where the theory could be found in the course materials</exp></answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the conversation, the student says <exp>I'm asking where I can find information about the theory</exp> and <exp>after the lecture I looked all through the text, and I couldn't find any theory by Anderson in the text</exp>. From this, it can be determined that the student really wants to know <exp>where the theory could be found in the course materials</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML03P4.xml' skills='4'>
+<question-text audio-file='AML03Q4.mp3' replay-before='AML03Q4B.mp3' replay-after='AML03Q4A.mp3' replay-before-graphic='AML03G2.jpg'>What does the professor mean when he says this:</question-text>
+<answer-list>
+<answer-text>"It's really not important for you to understand this."</answer-text>
+<answer-text>"I'm quite sure you already understand this."</answer-text>
+<answer-text><exp>"I'm not sure you understand this, and you should."</exp></answer-text>
+<answer-text>"You don't seem to understand this, and you don't need to."</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the conversation, the student says <exp>you were talking about it in the lecture</exp>, and the professor responds by asking <exp>you do understand that a certain amount of the material I cover in the lectures isn't in the text?</exp> When the professor says <exp>you do understand&#8230;</exp>, it is implied that the professor is not sure that the student does understand but wants to be sure the student does. The professor would most likely say <exp>I'm not sure you understand this, and you should</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML03P5.xml' skills='2'>
+<question-text audio-file='AML03Q5.mp3'>What does the student say about what has happened in the past?</question-text>
+<answer-list>
+<answer-text>She's never had the same problem in the past.</answer-text>
+<answer-text>She thought it was the professor's fault in the past, so she did not worry about it.</answer-text>
+<answer-text>She knew what the problem was in the past and did not do anything about it.</answer-text>
+<answer-text><exp>She thought it was her own fault in the past, so she thought she would try harder in the future.</exp></answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the conversation, the student says <exp>it's happened a number of other times before, but then I just thought that I wasn't reading carefully enough. So this time, I read everything in the text very carefully and took detailed notes</exp>. From this, it can be determined that <exp>she thought it was her own fault in the past, so she thought she would try harder in the future</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+</question-list>

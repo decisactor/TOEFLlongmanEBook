@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<question-list type='listen' genre='conversation' audio-file='AML08.mp3' script-file='AML08P0.xml'>
+
+<question type='multichoice' script-file='AML08P1.xml' skills='1'>
+<question-text audio-file='AML08Q1.mp3'>Why is the student meeting with his advisor?</question-text>
+<answer-list>
+<answer-text><exp>To find out how he scored on some placement tests</exp></answer-text>
+<answer-text>To retake the math skills test</answer-text>
+<answer-text>To plan his schedule of classes</answer-text>
+<answer-text>To see his scores on some final exams</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the conversation, the advisor asks <exp>you're here to see the results of your placement tests</exp>, and the student replies <exp>yes, I am</exp>. From this, it can be determined that the student is meeting with his advisor <exp>to find out how he scored on some placement tests</exp>. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='AML08P2.xml' skills='2'>
+<question-text audio-file='AML08Q2.mp3'>What is true about the student's placement test scores?</question-text>
+<answer-list>
+<answer-text><exp>He did well on the language skills test and can take a credit English class</exp>.</answer-text>
+<answer-text>He did poorly on the language skills test and cannot take a credit English class.</answer-text>
+<answer-text>He did well on the math skills test and can take a credit math class.</answer-text>
+<answer-text><exp>He did poorly on the math skills test and cannot take a credit math class</exp>.</answer-text>
+</answer-list>
+<key>1001</key>
+<explain-text>In the conversation, the advisor says <exp>your score in language skills is 82</exp>, and <exp>that's pretty good, and it means you're ready for the credit class, English 101</exp>. She also mentions <exp>the math skills score</exp> and says <exp>this score isn't as high</exp> and <exp>it means that you're not ready for Mathmatics 101</exp>, and <exp>you'll need to take a remedial math class, which is a non-credit class</exp>. From this, it can be determined that <exp>he did well on the language skills test and can take a credit English class</exp> and <exp>he did poorly on the math skills test and cannot take a credit math class</exp>. The first and last answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML08P3.xml' skills='4'>
+<question-text audio-file='AML08Q3.mp3' replay-before='AML08Q3B.mp3' replay-after='AML08Q3A.mp3' replay-before-graphic='AML08G2.jpg'>What does the advisor mean when she says this:</question-text>
+<answer-list>
+<answer-text>"I need more information from you."</answer-text>
+<answer-text><exp>"The solution isn't so simple."</exp></answer-text>
+<answer-text>"You seem to understand more than I thought."</answer-text>
+<answer-text>"It's all really quite easy to understand."</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the conversation, the student says <exp>I need to take the Math Review course, and then I can take Math 101</exp>, and the advisor says <exp>after you take Math Review, you'll have to take the math placement test again before you can enroll in Math 101</exp>. From this, it can be determined that, when the advisor says <exp>there's more to it than that</exp>, she means <exp>the solution isn't so simple</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML08P4.xml' skills='4'>
+<question-text audio-file='AML08Q4.mp3'>How does the student seem to feel about the results?</question-text>
+<answer-list>
+<answer-text>Quite incredulous</answer-text>
+<answer-text>Really angry</answer-text>
+<answer-text>Truly delighted</answer-text>
+<answer-text><exp>Rather accepting</exp></answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the conversation, the student says <exp>so which math course should I take?</exp> and <exp>can you please tell me, is it a problem that I got such a low score on the math skills test?</exp>  From this, it can be determined that the student seems to feel <exp>rather accepting</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML08P5.xml' skills='6'>
+<question-text audio-file='AML08Q5.mp3'>What conclusion can be drawn from the conversation?</question-text>
+<answer-list>
+<answer-text>The student will most likely have to take the math placement test more than twice.</answer-text>
+<answer-text>The student's score on the math placement test was not really very low.</answer-text>
+<answer-text>The student will most likely have to take both the language skills test and the math skills test again.</answer-text>
+<answer-text><exp>The student will most likely have to take an extra class because he has to take a non-credit class now</exp>.</answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the conversation, the advisor says <exp>because that class is a remedial class, you won't get any credits for it. You'll most likely need to take a summer course or two in order to graduate on time</exp>. From this, it can be determined that <exp>the student will most likely have to take an extra class because he has to take a non-credit class now</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+</question-list>

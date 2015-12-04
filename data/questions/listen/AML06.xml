@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<question-list type='listen' audio-file='AML06.mp3' script-file='AML06P0.xml'>
+
+<question type='multichoice' script-file='AML06P1.xml' skills='1'>
+<question-text audio-file='AML06Q1.mp3'>Why does the student go to see the professor?</question-text>
+<answer-list>
+<answer-text>She wants to ask why her exam grade was so low.</answer-text>
+<answer-text>She wants to ask the professor about the course syllabus.</answer-text>
+<answer-text>She wants to find out how she could participate better in class.</answer-text>
+<answer-text><exp>She wants to find out why the unit grade did not reflect her exam grade</exp>.</answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the conversation, the student says <exp>you just gave out unit grades&#8230;for the first unit of the public policy class&#8230;I was kind of surprised to get a C for a unit grade</exp>, and <exp>I was expecting an A&#8230;because of the exam grade</exp>. From this, it can be determined that the student goes to see the professor because <exp>she wants to find out why the unit grade did not reflect her exam grade</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='AML06P2.xml' skills='3'>
+<question-text audio-file='AML06Q2.mp3'>What is the situation?</question-text>
+<answer-list>
+<answer-text><exp>The student's exam grade was high</exp>.</answer-text>
+<answer-text>The student's exam grade was low.</answer-text>
+<answer-text>The student's unit grade was high.</answer-text>
+<answer-text><exp>The student's unit grade was low</exp>.</answer-text>
+</answer-list>
+<key>1001</key>
+<explain-text>In the conversation, the student says <exp>I got a high grade on the unit exam&#8230;I was kind of surprised to get a C for a unit grade</exp>, and <exp>I was expecting an A&#8230;because of the exam grade</exp>. From this, it can be determined that <exp>the student's exam grade was high</exp> and <exp>the student's unit grade was low</exp>. The first and last answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML06P3.xml' skills='3'>
+<question-text audio-file='AML06Q3.mp3'>Why does the professor mention the syllabus that he gave out on the first day of class?</question-text>
+<answer-list>
+<answer-text><exp>Because the syllabus explains the professor's system of grading</exp>.</answer-text>
+<answer-text>Because the syllabus indicates what is in each of the three units.</answer-text>
+<answer-text>Because the syllabus explains exactly what is on the exams.</answer-text>
+<answer-text>Because the syllabus indicates that participation is an important part of the exam grade.</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the conversation, the professor says <exp>you know, my grading system was on the syllabus I gave out on the first day of class</exp>, and <exp>I discussed the grading system the first day&#8230;the grading system the was on the syllabus</exp>. From this, it can be determined that the professor mentions that syllabus that he gave out on the first day of class <exp>because the syllabus explains the professor's system of grading</exp>. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML06P4.xml' skills='2'>
+<question-text audio-file='AML06Q4.mp3'>How could the student's problem best be described?</question-text>
+<answer-list>
+<answer-text>She had not learned the material well for the exam.</answer-text>
+<answer-text>She had not attended class at all.</answer-text>
+<answer-text><exp>She knew the material but did not apply what she knew in class</exp>.</answer-text>
+<answer-text>She liked to participate, but what she said was not very accurate.</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the conversation, the student says <exp>I got a high grade on the unit exam. I mean&#8230;it was a 95</exp>, and the professor later says <exp>your grade for attendance and participation was very low, because you didn't attend regularly, and when you did attend you didn't take part in the class discussions&#8230;and that was 50 percent of your grade</exp>. From this, it can be determined that the student's problem is that <exp>she knew the material but did not apply what she knew in class</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML06P5.xml' skills='4'>
+<question-text audio-file='AML06Q5.mp3'>What might this professor say?</question-text>
+<answer-list>
+<answer-text>"Attendance is not important as long as you learn the material."</answer-text>
+<answer-text><exp>"Being able to discuss issues with other students is a vital part of this class."</exp></answer-text>
+<answer-text>"You don't seem to understand that I put a huge amount of emphasis on exam grades in this course."</answer-text>
+<answer-text>"It's better to listen more and speak less in class."</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the conversation, the professor says <exp>50 percent of the grade comes from attendance and participation during class</exp>, and <exp>your grade for attendance and participation was very low, because you didn't attend regularly, and when you did attend you didn't take part in the class discussions&#8230;and that was 50 percent of your grade</exp>. From this, it can be determined that the professor would most likely say that <exp>being able to discuss issues with other students is a vital part of this class</exp>. The second answer is therefore the best answer to this question. </explain-text>
+</question>
+</question-list>

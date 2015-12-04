@@ -1,0 +1,72 @@
+<?xml version='1.0'?>
+<question-list type='listen' genre='conversation' audio-file='ATL02.mp3' script-file='ATL02P0.xml'>
+
+<question type='multichoice' script-file='ATL02P1.xml' skills='1'>
+<question-text audio-file='ATL02Q1.mp3'>Why is the student talking to the professor?</question-text>
+<answer-list>
+<answer-text>To ask what will be on an exam</answer-text>
+<answer-text>To review some material the professor covered in class</answer-text>
+<answer-text>To turn in an exam paper</answer-text>
+<answer-text><exp>To find out why he did poorly on an exam</exp></answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the conversation, the student says <exp>I'd like to ask you a question if I could</exp> and <exp>I didn't do very well on the last exam, the one on the structure of the Earth</exp>. From this, it can be determined that the student is talking to the professor <exp>to find out why he did poorly on an exam</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.2' script-file='ATL02P2.xml' skills='5' width='500'>
+<question-text audio-file='ATL02Q2.mp3'>Indicate whether the ideas below are included in the conversation.</question-text>
+<answer-list height='40'>
+<answer-text><exp>The Earth's crust is thinner under land<br/>than under the ocean</exp>.</answer-text>
+<answer-text><exp>The mantle makes up a large part of the<br/>Earth's crust</exp>.</answer-text>
+<answer-text><exp>The Earth's core has three parts</exp>.</answer-text>
+<answer-text><exp>The Earth's inner core is liquid, and the<br/>outer core is not</exp>.</answer-text>
+</answer-list>
+<choice-list>
+<choice-text>YES</choice-text>
+<choice-text>NO</choice-text>
+</choice-list>
+<key>2122</key>
+<explain-list>
+<explain-text>The professor says <exp>here you said that the Earth's crust under landmasses is thin and the crust under the oceans is thick</exp> and <exp>that's not right; it's the opposite</exp>. This means that it is NOT true that <exp>the Earth's crust is thinner under land than under the ocean</exp>. You should therefore click in the NO column.</explain-text>
+<explain-text>The professor says <exp>you said that the mantle is only a small part of the crust, but that's also not true</exp>. This means that it is true that <exp>the mantle makes up a large part of the Earth's crust</exp>. You should therefore click in the YES column.</explain-text>
+<explain-text>The professor says <exp>there aren't <u>three</u> parts to the core; there are only two</exp>. This means that it is NOT true that <exp>the Earth's core has three parts</exp>. You should therefore click in the NO column.</explain-text>
+<explain-text>The professor says <exp>look here, you got this wrong, too</exp> and <exp>you said that the inner core was liquid and the outer core was not</exp>. This means that it is NOT true that <exp>the Earth's inner core is liquid, and the outer core is not</exp>. You should therefore click in the NO column.</explain-text>
+</explain-list>
+</question>
+
+<question type='multichoice' script-file='ATL02P3.xml' skills='4'>
+<question-text audio-file='ATL02Q3.mp3' replay-before='ATL02Q3B.mp3' replay-after='ATL02Q3A.mp3' replay-before-graphic='ATL02G2.jpg'>What does the professor mean when she says this:</question-text>
+<answer-list>
+<answer-text><exp>"Perhaps your grade should have been lower."</exp></answer-text>
+<answer-text>"I don't think you deserve a score on this exam."</answer-text>
+<answer-text>"I think you deserve a higher grade."</answer-text>
+<answer-text>"It wasn't possible for you to do better."</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the conversation, the professor says <exp>I think you can see why your grade was not very high</exp> and <exp>you'll need to do much better on the next exam</exp>. From this, it can be determined that when the professor says <exp>in fact, I'm not even sure you deserve the score you got</exp>, she means <exp>perhaps your grade should have been lower</exp>. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL02P4.xml' skills='4'>
+<question-text audio-file='ATL02Q4.mp3' replay-before='ATL02Q4B.mp3' replay-after='ATL02Q4A.mp3' replay-before-graphic='ATL02G2.jpg'>What does the professor mean when she says this:</question-text>
+<answer-list>
+<answer-text>"I don't like arguing."</answer-text>
+<answer-text>"I'll tell you if I agree with you."</answer-text>
+<answer-text>"I am <exp>in absolute agreement</exp>."</answer-text>
+<answer-text>"I don't want to argue about it."</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the conversation, the student says <exp>it would probably be quite difficult to do much worse</exp>, which means that he did really poorly on the exam, and the professor says <exp>you won't get an argument from me on that</exp>, which means that she is <exp>in absolute agreement</exp> with the student. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL02P5.xml' skills='6'>
+<question-text audio-file='ATL02Q5.mp3'>What conclusion can be drawn about how the student did on the exam?</question-text>
+<answer-list>
+<answer-text>He did not even know what the exam was about.</answer-text>
+<answer-text>He <exp>got a lot of the information backwards</exp>.</answer-text>
+<answer-text>He had most of the details correct.</answer-text>
+<answer-text>He did a lot better on the exam than the professor thought.</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the conversation, the professor says <exp>that's not right; it's the opposite</exp> and <exp>that's also not true</exp> and <exp>there aren't <u>three</u> parts to the core; there are only two</exp>, and <exp>look here, you got this wrong, too</exp>, and <exp>that's backwards, too</exp>. From this, it can be determined that the student <exp>got a lot of the information backwards</exp> on the exam. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+</question-list>

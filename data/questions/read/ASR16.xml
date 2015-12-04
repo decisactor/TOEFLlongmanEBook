@@ -1,0 +1,19 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR16P00.xml'>
+
+    <question type='insert' passage-file='ASR16P01.xml' skills='4'>
+        <insert-text>
+            <b>U-234 has 92 protons and 142 neutrons for an atomic mass of 234, U-235 has 92 protons and 143 neutrons for a total of 235, and U-238 has 92 protons and 146 neutrons for a total of 238.</b>
+        </insert-text>
+        <key>4</key>
+    </question>
+
+    <question type='insert' passage-file='ASR16P02.xml' skills='4'>
+        <insert-text>
+            <b>These neutrons can create a chain reaction by causing other U-235 nuclei to break up.</b>
+        </insert-text>
+        <key>3</key>
+    </question>
+
+</question-list>   
+

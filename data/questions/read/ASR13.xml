@@ -1,0 +1,19 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR13P00.xml'>
+
+    <question type='insert' passage-file='ASR13P01.xml' skills='4'>
+        <insert-text>
+            <b>Native Americans have been popping corn for at least 5,000 years, using a variety of different methods.</b>
+        </insert-text>
+        <key>1</key>
+    </question>
+
+    <question type='insert' passage-file='ASR13P02.xml' skills='4'>
+        <insert-text>
+            <b>A century after these early explorers, the Pilgrims at Plymouth may have been introduced to popcorn at the first Thanksgiving dinner.</b>
+        </insert-text>
+        <key>3</key>
+    </question>
+
+</question-list>   
+

@@ -1,0 +1,59 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR03P00.xml'>
+      
+    <question type='multichoice' passage-file='ASR03P01.xml' skills='1'>
+        <question-text>The word <bg>umbrageous</bg> in paragraph 1 is closest in meaning to</question-text>
+        <answer-list>
+            <answer-text>moist</answer-text>
+            <answer-text>well lit</answer-text>
+            <answer-text>shaded</answer-text>
+            <answer-text>buried</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>
+    
+    <question type='multichoice' passage-file='ASR03P02.xml' skills='1'>
+        <question-text><bg>Haustoria</bg> in paragraph 1 are most likely</question-text>
+        <answer-list>
+            <answer-text>offshoots from the parasite</answer-text>
+            <answer-text>seeds of the host plant</answer-text>
+            <answer-text>fruits from the host plant</answer-text>
+            <answer-text>food for the parasite</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+    
+    <question type='multichoice' passage-file='ASR03P03.xml' skills='1'>
+        <question-text>The phrase <bg>make its way into</bg> in paragraph 1 is closest in meaning to</question-text>
+        <answer-list>
+            <answer-text>develop</answer-text>
+            <answer-text>penetrate</answer-text>
+            <answer-text>outline</answer-text>
+            <answer-text>eat</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>
+    
+    <question type='multichoice' passage-file='ASR03P04.xml' skills='1'>
+        <question-text>The word <bg>ponderous</bg> in paragraph 2 is closest in meaning to</question-text>
+        <answer-list>
+            <answer-text>smelly</answer-text>
+            <answer-text>hidden</answer-text>
+            <answer-text>mature</answer-text>
+            <answer-text>heavy</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>
+    
+    <question type='multichoice' passage-file='ASR03P05.xml' skills='1'>
+        <question-text>The word <bg>across</bg> in paragraph 2 could best be replaced by</question-text>
+        <answer-list>
+            <answer-text>in diameter</answer-text>
+            <answer-text>on the other side</answer-text>
+            <answer-text>at a distance</answer-text>
+            <answer-text>inside and out</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+   
+</question-list>

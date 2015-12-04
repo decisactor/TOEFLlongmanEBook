@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<question-list type='listen' audio-file='ATL08.mp3' script-file='ATL08P0.xml'>
+
+<question type='multichoice' script-file='ATL08P1.xml' skills='1'>
+<question-text audio-file='ATL08Q1.mp3'>Why does the student go to see the professor?</question-text>
+<answer-list>
+<answer-text>To ask about something he read</answer-text>
+<answer-text>To ask about something on an exam</answer-text>
+<answer-text><exp>To ask about something the professor said in class</exp></answer-text>
+<answer-text>To ask about something he is researching</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the conversation, the student says <exp>I mean, I hope you can explain something to me quickly and easily</exp> and <exp>it's about something you were talking about in class today, and I didn't understand it</exp>. From this, it can be determined that the student goes to see the professor <exp>to ask about something the professor said in class</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL08P2.xml' skills='4'>
+<question-text audio-file='ATL08Q2.mp3' replay-after='ATL08Q2B.mp3'>Why does the professor most likely say this:</question-text>
+<answer-list>
+<answer-text>It is a word that the professor has already discussed a lot.</answer-text>
+<answer-text><exp>An understanding of this word will help the student understand the concept</exp>.</answer-text>
+<answer-text>This word is one of the key ideas in the material the professor is covering.</answer-text>
+<answer-text>It is a word that the professor thinks the student does not understand.</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the conversation, the student says <exp>my question is about externalities</exp>, and the professor responds <exp>do you understand the word <i>external</i>?</exp> and <exp><i>externalities</i> is related to this word</exp>. From this, it can be determined that the professor says this because <exp>an understanding of this word will help the student understand the concept</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL08P3.xml' skills='2'>
+<question-text audio-file='ATL08Q3.mp3'>What are externalities?</question-text>
+<answer-list>
+<answer-text>Activities that are outside of the economy</answer-text>
+<answer-text>Expected results of an activity</answer-text>
+<answer-text>An activity that economists expect to happen</answer-text>
+<answer-text><exp>Unintended consequences of an action</exp></answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the conversation, the professor says <exp>when economists talk about externalities, they refer to spillover from an activity</exp> and <exp>spillover's a side effect of an activity, an effect that occurs <u>outside</u> of the activity</exp>. From this, it can be determined that externalities are <exp>unintended consequences of an action</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL08P4.xml' skills='3'>
+<question-text audio-file='ATL08Q4.mp3'>Why does the professor talk about a two-story house?</question-text>
+<answer-list>
+<answer-text><exp>The addition of the second story creates the unintended outcome of a lost view</exp>.</answer-text>
+<answer-text>An improved view is an expected outcome of the addition of the second story.</answer-text>
+<answer-text>The person who added the second story intended to harm the neighbor's view.</answer-text>
+<answer-text>The addition of the second story was the topic of the lecture.</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the conversation, the student summarizes what the professor has said by saying <exp>an externality is a result of an activity outside of the activity</exp> and then asks <exp>could you, maybe, give me an example</exp>, and the professor responds by talking about a <exp>two-story house</exp>. From this, it can be determined that the professor talks about a two-story house because <exp>the addition of the second story creates the unintended outcome of a lost view</exp>. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='ATL08P5.xml' skills='2'>
+<question-text audio-file='ATL08Q5.mp3'>What makes the lost view an externality?</question-text>
+<answer-list>
+<answer-text><exp>The lost view is an unintended consequence of another activity</exp>.</answer-text>
+<answer-text>The lost view hurts the value of the neighbor's house.</answer-text>
+<answer-text><exp>It is difficult to put a price on the lost view</exp>.</answer-text>
+<answer-text>The lost view shows that better planning is necessary for a second story that is being added.</answer-text>
+</answer-list>
+<key>1010</key>
+<explain-text>In the conversation, the professor asks <exp>what would be the externality, the unintended side effect of this activity</exp>, and the student responds with <exp>the fact that I would lose my view of the park</exp>. The professor also asks <exp>what price would you put on losing your view</exp>, the student says <exp>it would be difficult to put a price on it</exp>, and the professor finishes by saying <exp>now you see what externalities are</exp>. From this, it can be determined that the lost view is an externality because <exp>the lost view is an unintended consequence of another activity</exp> and because <exp>it is difficult to put a price on the lost view</exp>. The first and third answers are therefore the best answers to this question.</explain-text>
+</question>
+</question-list>

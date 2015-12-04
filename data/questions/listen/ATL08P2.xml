@@ -1,0 +1,43 @@
+<?xml version='1.0'?>
+<script>
+<page>
+<paragraph time='00:00:00' speaker='narrator' graphic-file='ATL08G1.jpg'>Listen to a conversation between a student and a professor.</paragraph>
+</page>
+<page>
+<paragraph time='00:00:04' speaker='student' graphic-file='ATL08G2.jpg'>Professor, do you have a few minutes? I have a question for you.</paragraph>
+<paragraph   speaker='professor' graphic-file='ATL08G2.jpg'>I'm here for another ten minutes, and then I have to leave for class. Is that enough time?</paragraph>
+<paragraph   speaker='student' graphic-file='ATL08G2.jpg'>I hope so&#8230;I mean, I hope you can explain something to me quickly and easily. I hope it's something that won't take you too long to explain.</paragraph>
+<paragraph   speaker='professor' graphic-file='ATL08G2.jpg'>And what's your question?</paragraph>
+<paragraph   speaker='student' graphic-file='ATL08G2.jpg'>It's something you were talking about in class today, and I didn't understand it&#8230;it was&#8230;I think you were saying,&#8230;eternalities? Something like that.</paragraph>
+<paragraph   speaker='professor' graphic-file='ATL08G2.jpg'>Oh, you mean externalities. It begins with E-X-T.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL08G2.jpg'>Externalities&#8230;OK, <exp>my question is about externalities</exp>. You mentioned this several times today, and I didn't quite understand what you were talking about.</paragraph>
+<paragraph   speaker='professor' graphic-file='ATL08G2.jpg'><exp><b>Do you understand the word <i>external</i>?</b> The word <i>externalities</i> is related to this word</exp>.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL08G2.jpg'>It means something like "outside"?</paragraph>
+<paragraph   speaker='professor' graphic-file='ATL08G2.jpg'>Yes, that's right, it means something like "outside." Well, when economists talk about externalities, they refer to spillover from an activity.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL08G2.jpg'>Spillover? What's that?</paragraph>
+<paragraph   speaker='professor' graphic-file='ATL08G2.jpg'>Spillover's a side effect of an activity, an effect that occurs <u>outside</u> of the activity.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL08G2.jpg'>So spillover is called an externality because it's something that results from an activity and is <u>outside</u> of the activity.</paragraph>
+<paragraph   speaker='professor' graphic-file='ATL08G2.jpg'>That's right&#8230;and a common characteristic of an externality is that it doesn't naturally have a clear market price.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL08G2.jpg'>It doesn't naturally have a clear market price? So an externality is a result of an activity outside of the activity&#8230;and it doesn't naturally have a clear market price.</paragraph>
+<paragraph   speaker='professor' graphic-file='ATL08G2.jpg'>That's right. Is it clear to you now?</paragraph>
+<paragraph   speaker='student' graphic-file='ATL08G2.jpg'>Uh&#8230;not exactly&#8230;could you, maybe, give me an example or something?</paragraph>
+<paragraph   speaker='professor' graphic-file='ATL08G2.jpg'>OK&#8230;uh&#8230;let's see&#8230;Say, if you live in a house, a two-story house, and you have a lovely view of a park&#8230;</paragraph>
+<paragraph   speaker='student' graphic-file='ATL08G2.jpg'>That would be nice&#8230;a two-story house with a view of a park.</paragraph>
+<paragraph   speaker='professor' graphic-file='ATL08G2.jpg'>And a neighbor, one who lives between you and the park, well, this neighbor decides to build a second story on his house.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL08G2.jpg'>So it blocks my view of the park?</paragraph>
+<paragraph   speaker='professor' graphic-file='ATL08G2.jpg'>Yes.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL08G2.jpg'>Well, that wouldn't be too nice.</paragraph>
+<paragraph   speaker='professor' graphic-file='ATL08G2.jpg'>So, you see, in this case, the activity is the neighbor's adding the second story to his house. You understand?</paragraph>
+<paragraph   speaker='student' graphic-file='ATL08G2.jpg'>Yeah.</paragraph>
+<paragraph   speaker='professor' graphic-file='ATL08G2.jpg'>And what would be the externality, the unintended side effect of this activity?</paragraph>
+<paragraph   speaker='student' graphic-file='ATL08G2.jpg'>The fact that I would lose my view of the park?</paragraph>
+<paragraph   speaker='professor' graphic-file='ATL08G2.jpg'>Exactly. So you see that losing your view is a result of your neighbor's action?</paragraph>
+<paragraph   speaker='student' graphic-file='ATL08G2.jpg'>Yeah.</paragraph>
+<paragraph   speaker='professor' graphic-file='ATL08G2.jpg'>And what price would you put on losing your view?</paragraph>
+<paragraph   speaker='student' graphic-file='ATL08G2.jpg'>I don't know&#8230;it would be difficult to put a price on it.</paragraph>
+<paragraph   speaker='professor' graphic-file='ATL08G2.jpg'>Exactly. Now you see what externalities are.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL08G2.jpg'>I think I do.</paragraph>
+<paragraph   speaker='professor' graphic-file='ATL08G2.jpg'>And now I need to get going to class.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL08G2.jpg'>Thanks for your help.</paragraph>
+</page>
+</script>

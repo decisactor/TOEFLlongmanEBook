@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+<script>
+<page>
+<paragraph time='00:00:00' speaker='narrator' graphic-file='AML06G1.jpg'>Listen to a conversation between a student and a professor.</paragraph>
+</page>
+<page>
+<paragraph time='00:00:04' speaker='professor' graphic-file='AML06G2.jpg'>Hi, Anna. How are you today?</paragraph>
+<paragraph   speaker='student' graphic-file='AML06G2.jpg'>Just fine, thank you.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML06G2.jpg'>Did you want to see me about something? Do you have a question?</paragraph>
+<paragraph   speaker='student' graphic-file='AML06G2.jpg'>Yes.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML06G2.jpg'>OK&#8230;well&#8230;what's your question?</paragraph>
+<paragraph   speaker='student' graphic-file='AML06G2.jpg'>Well, it's&#8230;um&#8230;about the unit grade&#8230;you know&#8230;you just gave out unit grades&#8230;for the first unit of the public policy class.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML06G2.jpg'>Yes, I did.</paragraph>
+<paragraph   speaker='student' graphic-file='AML06G2.jpg'>And&#8230;well&#8230;I guess I was kind of surprised at the unit grade.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML06G2.jpg'>You&#8230;You were? Why?&#8230;It wasn't the grade you were expecting?</paragraph>
+<paragraph   speaker='student' graphic-file='AML06G2.jpg'>Um, not quite.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML06G2.jpg'>Ah, but my grading system is very clear, I think. There shouldn't have been any surprises.</paragraph>
+<paragraph   speaker='student' graphic-file='AML06G2.jpg'>Well, you see, I got a high grade on the unit exam. I mean&#8230;it was a 95, and I think you said the highest grade on the exam was a 97, and I had almost the top grade, you know, a 95&#8230;.</paragraph><paragraph   speaker='professor' graphic-file='AML06G2.jpg'>Yes?</paragraph>
+<paragraph   speaker='student' graphic-file='AML06G2.jpg'>So I was kind of surprised to get a C for a unit grade. I was expecting an A&#8230;because of the exam grade.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML06G2.jpg'>Oh, I see what the problem is&#8230;well, I thought my grading system was clear, but I guess it's not so clear after all. <exp>You know, my grading system was on the syllabus I gave out on the first day of class</exp>&#8230;You were in class on the first day, weren't you?</paragraph>
+<paragraph   speaker='student' graphic-file='AML06G2.jpg'>Yes, I was.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML06G2.jpg'>And you did get the syllabus?</paragraph>
+<paragraph   speaker='student' graphic-file='AML06G2.jpg'>Yes, I did.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML06G2.jpg'>And <exp>I discussed the grading system the first day&#8230;the grading system that was on the syllabus</exp>&#8230;. That wasn't clear to you?</paragraph>
+<paragraph   speaker='student' graphic-file='AML06G2.jpg'>Um&#8230;I guess not, because I thought that if I got a grade of 95 on the exam, an A on the exam, then I thought I'd be getting an A for the unit grade.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML06G2.jpg'>Ah, you see, that's what the problem is. If you look on the syllabus, it says that the exam grade is only 50 percent of the unit grade.</paragraph>
+<paragraph   speaker='student' graphic-file='AML06G2.jpg'>Only 50 percent?</paragraph>
+<paragraph   speaker='professor' graphic-file='AML06G2.jpg'>That's right. The other 50 percent of the grade comes from attendance and participation during class. You see, only part of your grade is learning the course material for the exam. The other really important part is to be able to use the information&#8230;to&#8230;ah&#8230;apply the information by interacting with the other students in class. You know what, let me look at my grade book&#8230;You were absent twice? You missed two class meetings?</paragraph>
+<paragraph   speaker='student' graphic-file='AML06G2.jpg'>Um&#8230;yes, I did, but I got notes from one of my friends, so I know what was covered in the two class meetings I missed&#8230;well, that's why I was able to do so well on the exam.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML06G2.jpg'>But class isn't just about getting information from me by taking notes of what I say. It's about discussions of the material, applying it to various situations&#8230;Now, when you were in class, just how often did you join in discussing, you know, comment on the material, uh&#8230;debate with other students about how the course material can be applied to various situations?</paragraph>
+<paragraph   speaker='student' graphic-file='AML06G2.jpg'>Well, not much&#8230;not at all, I guess.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML06G2.jpg'>So your grade for attendance and participation was very low, because you didn't attend regularly, and when you did attend you didn't take part in the class discussions&#8230;and that was 50 percent of your grade. Do you understand now why your unit grade was a C and not an A?</paragraph>
+<paragraph   speaker='student' graphic-file='AML06G2.jpg'>Yeah, I see that now.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML06G2.jpg'>Uh-hmm. And&#8230;and you understand what you need to do in the next two units?</paragraph>
+<paragraph   speaker='student' graphic-file='AML06G2.jpg'>Yes, I actually do now.</paragraph>
+</page>
+</script>

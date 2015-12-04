@@ -1,0 +1,84 @@
+<?xml version='1.0'?>
+<question-list type='listen' genre='lecture' audio-file='AML13.mp3' script-file='AML13P0.xml'>
+
+<question type='multichoice' script-file='AML13P1.xml' skills='1'>
+<question-text audio-file='AML13Q1.mp3'>Why is the professor discussing "Yankee Doodle"?</question-text>
+<answer-list>
+<answer-text>To make the point that American music developed from British music</answer-text>
+<answer-text>To prepare the students to teach the song to children</answer-text>
+<answer-text>To provide an example of a song that glorifies war</answer-text>
+<answer-text><exp>To demonstrate that the song has historical significance</exp></answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the lecture, the professor states that <exp>today we'll be talking about the historical background of the song "Yankee Doodle,"</exp> that <exp>here're the words to "Yankee Doodle," and let's think about the perspective these words provide on the prevailing attitudes at the time of the American Revolution</exp>, and that <exp>now that we've talked about the meaning of the song, let's look at the song's rather unusual history</exp>. From this, it can be determined that the professor is discussing "Yankee Doodle" <exp>to demonstrate that the song has historical significance</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.2' script-file='AML13P2.xml' skills='5'>
+<question-text audio-file='AML13Q2.mp3'>The professor explains various terms in the lecture. Indicate for each term how it can be explained.</question-text>
+<answer-list>
+<answer-text><exp>Yankee</exp></answer-text>
+<answer-text><exp>Doodle</exp></answer-text>
+<answer-text><exp>Macaroni</exp></answer-text>
+</answer-list>
+<choice-list width='127'>
+<choice-text><exp>INSULT ABOUT IMPROPER DRESS</exp></choice-text>
+<choice-text><exp>AMERICAN COLONIST</exp></choice-text>
+<choice-text><exp>MISGUIDED ATTEMPT TO BE FASHIONABLE</exp></choice-text>
+</choice-list>
+<key>213</key>
+<explain-list>
+<explain-text>The professor states that <exp>the word <i>Yankee</i> in this song refers to an American colonist</exp>. From this, it can be determined that a <exp><i>Yankee</i></exp> refers to an <exp>American colonist</exp>. You should therefore click in the second column.</explain-text>
+<explain-text>The professor states that <exp>the word <i>Doodle</i> pretty clearly seems to be some kind of insult about the American colonists' manner of dress</exp>. From this, it can be determined that a <exp><i>Doodle</i></exp> refers to an <exp>insult about improper dress</exp>. You should therefore click in the first column.</explain-text>
+<explain-text>The professor states that <exp>the word <i>Macaroni</i>&#8230;was used to describe a person who dressed extravagantly in order to look fashionable but ended up looking silly instead</exp>. From this, it can be determined that <exp><i>macaroni</i></exp> refers to a <exp>misguided attempt to be fashionable</exp>. You should therefore click in the third column.</explain-text>
+</explain-list>
+</question>
+
+<question type='multichoice' script-file='AML13P3.xml' skills='3'>
+<question-text audio-file='AML13Q3.mp3' replay-before='AML13Q3B.mp3' replay-before-graphic='AML13G4.jpg'>How do the drawings help the students to understand the message of the song?</question-text>
+<answer-list>
+<answer-text>The message of the song is about how similar the British and Americans were.</answer-text>
+<answer-text>The drawings would help the students understand how it felt to be living at the time of the Revolution.</answer-text>
+<answer-text><exp>The message of the song was based on how the soldiers looked</exp>.</answer-text>
+<answer-text>The drawings show clearly why the British soldiers were called "Doodles."</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In  the lecture, the professor says <exp>let's look at some drawings of a typical American colonist and a typical British soldier as we try to understand the message of the song</exp> and <exp>as you look at these two pictures, the message of the song should seem quite clear: the British considered themselves quite fashionable and neat, and they considered the American colonists unfashionable and sloppy</exp>. From this, it can be determined that <exp>the message of the song was based on how the soldiers looked</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML13P4.xml' skills='2'>
+<question-text audio-file='AML13Q4.mp3'>When did the song "Yankee Doodle" first appear?</question-text>
+<answer-list>
+<answer-text>Prior to the colonization of America</answer-text>
+<answer-text><exp>Before the Revolutionary War</exp></answer-text>
+<answer-text>During the Revolutionary War</answer-text>
+<answer-text>After the Revolutionary War</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the lecture, the professor states that <exp>the song came about in the period prior to the American Revolution</exp>. This means that the song first appeared <exp>before the Revolutionary War</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='AML13P5.xml' skills='2'>
+<question-text audio-file='AML13Q5.mp3'>How was the song "Yankee Doodle" developed?</question-text>
+<answer-list>
+<answer-text><exp>It was written by the British</exp>.</answer-text>
+<answer-text>It was written by the Americans.</answer-text>
+<answer-text>It was intended to show honor.</answer-text>
+<answer-text><exp>It was intended to be offensive</exp>.</answer-text>
+</answer-list>
+<key>1001</key>
+<explain-text>In the lecture, the professor states that <exp>this song was invented by the British to be insulting to Americans</exp>. From this, it can be determined that <exp>it was written by the British</exp> and that <exp>it was intended to be offensive</exp>. The first and last answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML13P6.xml' skills='6'>
+<question-text audio-file='AML13Q6.mp3'>What conclusion can be drawn from this lecture?</question-text>
+<answer-list>
+<answer-text><exp>A simple children's song can actually have historical significance</exp>.</answer-text>
+<answer-text>It is important for children to learn to sing.</answer-text>
+<answer-text>Music was very important at the time of the Revolution.</answer-text>
+<answer-text>American music differs considerably from British music.</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the lecture, the professor states that <exp>today we'll be talking about the historical background of the song "Yankee Doodle,"</exp> that <exp>here're the words to "Yankee Doodle," and let's think about the perspective these words provide on the prevailing attitues at the time of the American Revolution</exp>, and that <exp>now that we've talked about the meaning of the song, let's look at the song's rather unusual history</exp>. From this, it can be determined that <exp>a simple children's song can actually have historical significance</exp>. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+</question-list>
+

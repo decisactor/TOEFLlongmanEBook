@@ -1,0 +1,197 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='AMR03P0.xml'>
+<question type="multichoice" passage-file="AMR03P1.xml" skills="3">
+      <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 1?</question-text>
+      <answer-list>
+         <answer-text><exp>As early as the Upper Paleolithic period, humans have been interested in certain valuable substances</exp>.</answer-text>
+         <answer-text>Humans have been around since at least the Upper Paleolithic period and have developed valuable symbols of culture and religion.</answer-text>
+         <answer-text>Humans have always been interested in symbols that were important during the Paleolithic period.</answer-text>
+         <answer-text>In the Upper Paleolithic period, humans used up a lot of energy creating various types of commodities for exchange.</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The highlighted sentence states that <exp>since at least the Upper Paleolithic period</exp>, which means <exp>as early as the Upper Paleolithic period</exp>, and that <exp>humans have invested a tremendous amount of energy and time in the creation and acquisition of items with little or no practical use but nonetheless with an extremely high value because of their cultural, symbolic, or religious importance</exp>, which means that <exp>humans have been interested in certain valuable substances</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR03P2.xml" skills="1">
+      <question-text>The phrase <bg>insight into</bg> in paragraph 1 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>foreshadowing</answer-text>
+         <answer-text><exp>understanding of</exp></answer-text>
+         <answer-text>description of</answer-text>
+         <answer-text>illusions of</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>archeological valuables&#8230;provide considerable insight into ancient cultures</exp>. From this context, it can be determined that the phrase <exp>insight into</exp> is closest in meaning to <exp>understanding of</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="AMR03P3.xml" skills="1">
+      <question-text>The word <bg>note</bg> in paragraph 2 could be best replaced by</question-text>
+      <answer-list>
+         <answer-text>record</answer-text>
+         <answer-text>define</answer-text>
+         <answer-text>outline</answer-text>
+         <answer-text><exp>observe</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>it is interesting to note that many of the substances&#8230;came to be held in high regard</exp>. From this context, it can be determined that <exp>note</exp> could best be replaced by <exp>observe</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="AMR03P4.xml" skills="5">
+      <question-text>It is stated in the passage that certain substances of value in ancient cultures became valuable</question-text>
+      <answer-list>
+         <answer-text>in the same period of time</answer-text>
+         <answer-text><exp>in separate situations</exp></answer-text>
+         <answer-text>in places where they were abundant</answer-text>
+         <answer-text>in limited geographic areas</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>many of the substances that were held in high regard by ancient cultures came to be held in high regard as precious commodities independently, in different eras and in geographically distant parts of the world</exp>. From this, it can be determined that certain substances of value in ancient cultures became valuable <exp>in separate situations</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="AMR03P5.xml" skills="1">
+      <question-text>The word <bg>ubiquitous</bg> in paragraph 2 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text><exp>common</exp></answer-text>
+         <answer-text>regal</answer-text>
+         <answer-text>vaulable</answer-text>
+         <answer-text>mysterious</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that <exp>gold was quite common</exp> and that <exp>jade was equally ubiquitous</exp>. From this context, it can be determined that <exp>ubiquitous</exp> is closest in meaning to <exp>common</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="AMR03P6.xml" skills="6">
+      <question-text>It is NOT stated in the passage that jade denoted</question-text>
+      <answer-list>
+        <answer-text><exp>eternity</exp></answer-text>
+         <answer-text><exp>royalty</exp></answer-text>
+         <answer-text>religion</answer-text>
+         <answer-text><exp>power</exp></answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage mentions <exp>gold</exp> and states that <exp>jade was equally ubiquitous in the burial chambers of Chinese rulers because these substances symbolized eternity in these cultures</exp>, that <exp>royalty was denoted&#8230;through the use of jade in the scepters of ancient China</exp>, and that <exp>jade axes from Neolithic Europe may well have been symbols of power</exp>. From this context, it can be determined that jade denoted <exp>eternity</exp> in the first answer, <exp>royalty</exp> in the second answer, and <exp>power</exp> in the last answer. The third answer is the one that is NOT stated and is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type='insert' passage-file='AMR03P7.xml' skills='4'>
+<insert-text><b><exp>Jade has also been found in ancient valuables of the Eskimos</exp> from areas in the northern reaches of North America.</b></insert-text>
+<key>2</key>
+<explain-text>
+The passage mentions <exp>jade, which was considered valuable in such diverse places and times as prehistoric Europe, in Central America prior to the arrival of the Spanish, and in China</exp>. A sentence stating that <exp>jade has also been found in ancient valuables of the Eskimos</exp> would logically follow such an idea. The second square in paragraph 2 is therefore the best answer to this question.
+</explain-text>
+</question>    
+<question type="multichoice" passage-file="AMR03P8.xml" skills="1">
+      <question-text>The phrase <bg>a mere coincidence</bg> in paragraph 3 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>a special coincidence</answer-text>
+         <answer-text>a simple error</answer-text>
+         <answer-text>a stated detail</answer-text>
+         <answer-text><exp>a chance occurrence</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>the fact that widely separated cultures attributed value to the same materials leads to the conclusion that this attributed value is more than a mere coincidence</exp>. From this context, it can be determined that <exp>a mere coincidence</exp> is closest in meaning to <exp>a chance occurrence</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="AMR03P9.xml" skills="8">
+      <question-text>Why does the author use the expression <bg>of course</bg> in paragraph  3?</question-text>
+      <answer-list>
+         <answer-text><exp>To emphasize the idea that appearance is the most obvious characteristic that leads to value</exp></answer-text>
+         <answer-text>To support the claim that widely separated cultures rarely attributed value to similar materials</answer-text>
+         <answer-text>To contradict the idea that attractiveness leads to value</answer-text>
+         <answer-text>To make it clear that rarity of precious materials is insignificant</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that <exp>the appearance of these valuable materials must, of course, have been extremely important</exp>. From this context, it can be determined that the author uses the expression <exp>of course</exp> in order <exp>to emphasize the idea that appearance is the most obvious characteristic that leads to value</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR03P10.xml" skills="1">
+      <question-text>The word <bg>durability</bg> in paragraph 3 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>hidden meaning</answer-text>
+         <answer-text><exp>resistance to decay</exp></answer-text>
+         <answer-text>comparative hardness</answer-text>
+         <answer-text>tendency to increase in status</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>the durability of the valued substances was also important&#8230;with the idea that they would last for eternity</exp>. From this context, it can be determined that <exp>durability</exp> is closest in meaning to <exp>resistance to decay</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="AMR03P11.xml" skills="7">
+      <question-text>If a substance is not either rare or difficult to access, then it would most likely</question-text>
+      <answer-list>
+         <answer-text>last for an eternity</answer-text>
+         <answer-text>be prized by various cultures</answer-text>
+         <answer-text>indicate social status or power</answer-text>
+         <answer-text><exp>lose its value</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>it was important that a valued substance be either rare or difficult to access in order to retain its value</exp>. From this, it can be determined that, if a substance is not either rare or difficult to access, then it would most likely <exp>lose its value</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>      
+<question type="multichoice" passage-file="AMR03P12.xml" skills="2">
+      <question-text>The word <bg>their</bg> in paragraph 3 refers to</question-text>
+      <answer-list>
+         <answer-text>the areas</answer-text>
+         <answer-text>huge costs</answer-text>
+         <answer-text><exp>the substances</exp></answer-text>
+         <answer-text>the wealthiest and most powerful members</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage mentions <exp>the substances</exp> and <exp>the costs associated with their mining or extraction from the earth</exp>. From this context, it can be determined that <exp>their</exp> refers to <exp>the substances</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>         
+<question type='select.1' passage-file='AMR03P13.xml' skills='9'>
+<direction-text>Select the appropriate sentences from the answer choices that are key points in a discussion of <exp>archeological valuables.</exp> THREE of the answer choices will NOT be used. <i><b>This question is worth 3 points.</b></i></direction-text>
+<intro-text><b>Archeological Valuables</b></intro-text>
+<answer-list>
+<answer>
+<answer-text><exp>Jade was considered a valuable commodity in early China</exp>.</answer-text>
+<explain-text>
+The passage mentions <exp>jade, which was considered valuable in such diverse places and times as prehistoric Europe, in Central America prior to the arrival of the Spanish, and in China</exp>. While it is true that <exp>jade was considered a valuable commodity in early China</exp>, this is a detail rather than a main idea. This answer is therefore not a correct answer to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Certain substances have been considered valuable in cultures separated by distance and time</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>many of the substances that were held in high regard by ancient cultures came to be held in high regard as precious commodities independently, in different eras and in geographically distant parts of the world</exp>. From this, it can be determined that <exp>certain substances have been considered valuable in cultures separated by distance and time</exp>. This answer provides critical information to support the topic of <exp><b>archeological valuables</b></exp> and is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>The features that determine the value of substances in cultures today differ from the factors that determined value in earlier cultures</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>the appearance of these valuable materials must, of course, have been extremely important</exp>, that <exp>the durability of the valued substances was also important</exp>, and that <exp>finally, it was important that a valued substance be either rare or difficult to access in order to retain its value</exp>. However, the passage does NOT discuss how <exp>the features that determine the value of substances in cultures today differ from the factors that determined value in earlier cultures</exp>. This answer is therefore not a correct answer to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Cultures have attributed value to certain substances for a considerable amount of time</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>this high regard for certain substances and their designation as valuable commodities within various cultures has been around since at least the Upper Paleolithic period</exp>. From this, it can be determined that <exp>cultures have attributed value to certain substances for a considerable amount of time</exp>. This answer provides critical information to support the topic of <exp><b>archeological valuables</b></exp> and is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>The rarity of a substance was the most important factor in determining its value</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>the appearance of these valuable materials must, of course, have been extremely important</exp>, that <exp>the durability of the valued substances was also important</exp>, and that <exp>finally, it was important that a valued substance be either rare or difficult to access in order to retain its value</exp>. From this, it can be determined that it is NOT true that <exp>the rarity of a substance was the most important factor in determining its value</exp>. This answer is therefore not a correct answer to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Substances most likely achieved status or value in a culture because of special qualities that they possessed</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>the fact that widely separated cultures attributed value to the same materials leads to the conclusion that this attributed value is more than a mere coincidence and instead is based upon special qualities that the materials possess</exp>. From this, it can be determined that <exp>substances most likely achieved status or value in a culture because of special qualities that they possessed</exp>. This answer provides critical information to support the topic of <exp><b>archeological valuables</b></exp> and is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+</answer-list>
+<key count='3'>.1.0.2</key>            
+</question>                  
+</question-list>   
+

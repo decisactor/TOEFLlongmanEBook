@@ -1,0 +1,221 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ATR02P0.xml'>
+<question type="multichoice" passage-file="ATR02P1.xml" skills="1">
+      <question-text>The word <bg>gleaned</bg> in paragraph 1 could best be replaced by</question-text>
+      <answer-list>
+         <answer-text><exp>put together</exp></answer-text>
+         <answer-text>pulled up</answer-text>
+         <answer-text>taken back</answer-text>
+         <answer-text>left out</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that <exp>from the numerous examples of these two types of writing from the period, a portrait of daily life of the period can be gleaned</exp>. From this context, it can be determined that <exp>gleaned</exp> could best be replaced by <exp>put together</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR02P2.xml" skills="2">
+      <question-text>What can be inferred from the passage about situational diaries?</question-text>
+      <answer-list>
+         <answer-text>They were the only type of eighteenth-century diary.</answer-text>
+         <answer-text>Very few of them still exist.</answer-text>
+         <answer-text>They were limited to reflective self-examination.</answer-text>
+         <answer-text>They <exp>were not ongoing journals of the details of daily life</exp>.</answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage mentions <exp>situational diaries, those prompted by and limited to&#8230;a particular event</exp>. From this, it can be inferred that situational diaries <exp>were not ongoing journals of the details of daily life</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+   
+<question type="multichoice" passage-file="ATR02P3.xml" skills="1">
+      <question-text>The word <bg>prompted</bg> in paragraph 2 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>timed</answer-text>
+         <answer-text>readied</answer-text>
+         <answer-text><exp>activated</exp></answer-text>
+         <answer-text>sharpened</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage mentions <exp>situational diaries, those prompted by and limited to&#8230;a particular event</exp>. From this context, it can be determined that <exp>prompted</exp> is closest in meaning to <exp>activated</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+   
+   
+   
+   
+<question type="multichoice" passage-file="ATR02P4.xml" skills="2">
+      <question-text>The word <bg>it</bg> in paragraph 2 refers to</question-text>
+      <answer-list>
+         <answer-text><exp>this diary</exp></answer-text>
+         <answer-text>an account</answer-text>
+         <answer-text>hardship</answer-text>
+         <answer-text>the way</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that <exp>though this diary does include an account of the hardship&#8230;, it is principally composed of humorous descriptions</exp>. From this context, it can be determined that the word <exp>it</exp> refers to <exp>this diary</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="ATR02P5.xml" skills="1">
+      <question-text>The word <bg>companion</bg> in paragraph 2 could best be replaced by</question-text>
+      <answer-list>
+         <answer-text>longtime friend</answer-text>
+         <answer-text><exp>associated product</exp></answer-text>
+         <answer-text>respected colleague</answer-text>
+         <answer-text>faithful pet</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage mentions <exp>one of the diaries</exp> and <exp>its companion, <i>Secret Diary</i></exp>. From this context, it can be determined that <exp>companion</exp> could best be replaced by <exp>associated product</exp>. The second answer is therefore the best answer to this question. 
+</explain-text>
+</question>  
+<question type="multichoice" passage-file="ATR02P6.xml" skills="8">
+      <question-text>The phrase in parentheses <bg>(in his opinion)</bg> is included in paragraph 2 in order to indicate</question-text>
+      <answer-list>
+         <answer-text><exp>that the author might not share Burd's opinion</exp></answer-text>
+         <answer-text>that Burd had little knowledge of the culture of Virginia</answer-text>
+         <answer-text>that the non-Virginians shared the opinion of the Virginians</answer-text>
+         <answer-text>that Burd had not actually made the trip</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that <exp>Burd used a humorous and satirical approach to describe&#8230;the characteristics which set his beloved Virginia culture apart from the (in his opinion) decidedly less praiseworthy culture of those non-Virginians</exp>. From this context, it can be determined that the phrase <exp>(in his opinion)</exp> is included to indicated <exp>that the author might not share Burd's opinion</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+</question>
+<question type="multichoice" passage-file="ATR02P7.xml" skills="5">
+      <question-text>What is stated in the passage about the works by Knight, Burd, and Hamilton?</question-text>
+      <answer-list>
+         <answer-text>Each was published soon after it was written.</answer-text>
+         <answer-text><exp>Each provided insight into the culture</exp>.</answer-text>
+         <answer-text>Each gave details about business ventures.</answer-text>
+         <answer-text>Each described visits to nice homes.</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states <exp>Sarah Kemble Knight's diary&#8230;is principally composed of&#8230;commentary on the hospitality that she was offered and the manners of those that she encountered</exp>, that <exp>Burd used a humorous and satirical approach to describe&#8230;his beloved Virginia culture</exp>, and that <exp>Hamilton provides considerable commentary on the social customs</exp>. From this context, it can be determined that the works by Knight, Burd, and Hamilton <exp>each provided insight into the culture</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+</question>
+<question type="multichoice" passage-file="ATR02P8.xml" skills="1">
+      <question-text>The phrase <bg>extant from</bg> in paragraph 3 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>created during</answer-text>
+         <answer-text>prepared since</answer-text>
+         <answer-text>written about</answer-text>
+         <answer-text><exp>existing from</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>many letters extant from that period provide insights into the culture, mores, and styles of written communication of that era</exp>. From this context, it can be determined that the phrase <exp>extant from</exp> is closest in meaning to <exp>existing from</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR02P9.xml" skills="3">
+      <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 3?</question-text>
+      <answer-list>
+         <answer-text><exp>Examples from the time</exp> show that <exp>American letter writers were interested in following the style of letters that was fashionable in Europe</exp>.</answer-text>
+         <answer-text>European letter writers were greatly influenced by Americans such as John and Abigail Adams and Thomas Jefferson.</answer-text>
+         <answer-text>The devices used in letter writing from the period made the writing appear more cultivated and cohesive.</answer-text>
+         <answer-text>The use of letter-writing devices by some American authors was criticized by cultured Europeans.</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The highlighted sentence states that <exp>many of the letter writers employed devices in common usage in European models of the time, demonstrating that letter writers felt a sense of cohesiveness with the cultured classes of Europe</exp>, which means that <exp>American letter writers were interested in following the style of letters that was fashionable in Europe</exp>. The highlighted sentence then mentions <exp>John and Abigail Adams</exp> and <exp>Thomas Jefferson</exp>, which are <exp>examples from the time</exp>. From this, it can be determined that the first answer is the best answer to this question.
+</explain-text>
+   </question>
+<question type='insert' passage-file='ATR02P10.xml' skills='4'>
+<insert-text><b><exp>Situational diaries were not the only type of significant writing</exp> to come out of eighteenth-century America.</b></insert-text>
+<key>1</key>
+<explain-text>
+The first paragraph introduces <exp>the diary and the letter</exp>, the second paragraph discusses <exp>situational diaries</exp>, and the third paragraph discusses <exp>letter-writing</exp>. From this, it can be determined that a sentence stating that <exp>situational diaries were not the only type of significant writing</exp> would logically come at the beginning of paragraph 3 to serve as a transition idea relating the topic of paragraph 2 to the topic of paragraph 3. The first square in paragraph 3 is therefore the best answer to this question.
+</explain-text>
+</question> 
+<question type="multichoice" passage-file="ATR02P11.xml" skills="1">
+      <question-text>The word <bg>cement</bg> in paragraph 3 could best be replaced by</question-text>
+      <answer-list>
+         <answer-text>attach</answer-text>
+         <answer-text>muddy</answer-text>
+         <answer-text><exp>strengthen</exp></answer-text>
+         <answer-text>petrify</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage states that <exp>letters were used to cement love matches and friendships</exp>. From this context, it can be determined that <exp>cement</exp> could best be replaced by <exp>strengthen</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR02P12.xml" skills="6">
+      <question-text>Which of the following is NOT listed in paragraph 3 as a purpose served by eighteenth-century letters?</question-text>
+      <answer-list>
+         <answer-text><exp>Maintaining relationships</exp></answer-text>
+         <answer-text>Developing newspapers</answer-text>
+         <answer-text><exp>Conducting business</exp></answer-text>
+         <answer-text><exp>Discussing various ideas</exp></answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage mentions <exp>the variety of purposes that these letters served</exp> and then goes on to state that <exp>the letters were used to cement love matches and friendships</exp>, that <exp>they were often used as a means of carrying out business</exp>, and that <exp>they were used as a way of sharing professional, social, or political ideas</exp>. The idea <exp>cement love matches</exp> refers to <exp>maintaining relationships</exp> in the first answer, the idea of <exp>carrying out business</exp> refers to <exp>conducting business</exp> in the third answer, and the idea of <exp>sharing professional, social, or political ideas</exp> refers to <exp>discussing various ideas</exp> in the last answer. The second answer is the one that is NOT listed and is therefore the best answer for this question.
+</explain-text>
+   </question>
+<question type='select.2' passage-file='ATR02P13.xml' skills='10'>
+<direction-text>Select the appropriate phrases from the answer choices and match them to the type of life writing to which they relate. TWO of the answer choices will NOT be used. <i><b>This question is worth 3 points</b></i>.</direction-text>
+<key>23.051.4</key>
+<category-list>
+<category>
+<category-text><b><exp>Situational diaries</exp></b></category-text>
+</category>
+<category>
+<category-text><b><exp>Letters</exp></b></category-text>
+</category>
+</category-list>
+<answer-list>
+<answer>
+<answer-text><exp>Were often quite descriptive in nature</exp></answer-text>
+<explain-text>
+The passage states that <exp>situational diaries, those prompted by and limited to lengthy descriptions of personal reflections about a particular event</exp>. From this, it can be determined that <exp>situational diaries were often quite descriptive in nature</exp>. This answer should therefore be used to describe <exp>situational diaries</exp>.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Provide insight into eighteenth-century life through written communication</exp></answer-text>
+<explain-text>
+The passage states that <exp>many letters extant from that period provide insights into the culture, mores, and styles of written communication of that era</exp>. From this, it can be determined that letters <exp>provide insight into eigheenth-century life through written communication</exp>. This answer should therefore be used to describe <exp><b>letters</b></exp>.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Were early records of personal introspection</exp></answer-text>
+<explain-text>
+The passage states that <exp>many of the diaries that were kept during this period were life diaries by authors interested in maintaining day-to-day records of reflective self-examination, but some of the most compelling were situational diaries, those prompted by and limited to lengthy descriptions of personal reflections about a particular event</exp>. From this, it can be determined that life diaries, and NOT situational diaries, <exp>were early records of personal introspection</exp>. This answer is therefore not a correct answer choice.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Provide insight into eighteenth-century life through a personal record of an event</exp></answer-text>
+<explain-text>
+The passage mentions <exp>the diary and the letter</exp> and states that <exp>from the numerous examples of these two types of writing from the period, a portrait of the daily life of the period can be gleaned</exp>; the passage later mentions <exp>situational diaries, those prompted by and limited to lengthy descriptions of personal reflections about a particular event</exp>. From this, it can be determined that situational diaries <exp>provide insight into eighteenth-century life through a personal record of an event</exp>. This answer should therefore be used to describe <exp><b>situational diaries</b></exp>.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Were often written in a European style</exp></answer-text>
+<explain-text>
+The passage states that <exp>many of the letter writers employed devices in common usage in European models of the time</exp>. From this, it can be determined that letters <exp>were often written in a European style</exp>. This answer should therefore be used to describe <exp><b>letters</b></exp>.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Centered around a single occasion, often a trip or an expedition</exp></answer-text>
+<explain-text>
+The passage mentions <exp>situational diaries, those prompted by and limited to lengthy descriptions of personal reflections about a particular event</exp> and <exp>Sarah Kemble Knight's diary of her five-month trip</exp> and states that <exp>William Burd II kept two diaries to describe his experiences on a 1729 surveying expedition</exp> and that <exp>Dr. Alexander Hamilton's <i>Itinerarium</i> (1744) describes a four-month voyage of discovery</exp>. From this, it can be determined that situational diaries <exp>centered around a single occasion, often a trip or an expedition</exp>. This answer should therefore be used to describe <exp><b>situational diaries</b></exp>.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Provide insight into eighteenth-century life through oral communication about an event</exp></answer-text>
+<explain-text>
+The first sentence of the passage states that <exp>the diary and the letter were the most extensively practiced forms of life writings in eighteenth-century America</exp>. From this, it can be determined that the passage discusses written communication and does NOT <exp>provide insight into eighteenth-century life through oral communication about an event</exp>. This answer is therefore not a correct answer choice.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Served a variety of personal and professional purposes</exp></answer-text>
+<explain-text>
+The passage mentions <exp>the variety of purposes that these letters served</exp> and then goes on to mention <exp>the examples of love matches and friendships&#8230;news among family and friends&#8230;carrying out business</exp>, and <exp>sharing professional, social, or political ideas</exp>. From this, it can be determined that letters <exp>served a variety of personal and professional purposes</exp>. This answer should therefore be used to describe <exp><b>letters</b></exp>.
+</explain-text>
+</answer>
+</answer-list>
+</question>
+</question-list>   
+

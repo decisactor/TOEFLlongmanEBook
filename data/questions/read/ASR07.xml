@@ -1,0 +1,48 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR07P00.xml'>
+      
+    <question type='multichoice' passage-file='ASR07P01.xml' skills='2'>
+        <question-text>The word <bg>they</bg> in the passage refers to</question-text>
+        <answer-list>
+            <answer-text>the inhabitants</answer-text>
+            <answer-text>epidemic diseases</answer-text>
+            <answer-text>rising oceans</answer-text>
+            <answer-text>the Ice Ages</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+    
+    <question type='multichoice' passage-file='ASR07P02.xml' skills='2'>
+        <question-text>The word <bg>that</bg> in the passage refers to</question-text>
+        <answer-list>
+            <answer-text>a disease-free environment</answer-text>
+            <answer-text>this watery barrier</answer-text>
+            <answer-text>virulent epidemic diseases</answer-text>
+            <answer-text>the ocean</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>
+    
+    <question type='multichoice' passage-file='ASR07P03.xml' skills='2'>
+        <question-text>The word <bg>them</bg> in the passage refers to</question-text>
+        <answer-list>
+            <answer-text>pre-Columbian Americans</answer-text>
+            <answer-text>the antibodies</answer-text>
+            <answer-text>bacteria and viruses</answer-text>
+            <answer-text>European explorers and colonists</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+    
+    <question type='multichoice' passage-file='ASR07P04.xml' skills='2'>
+        <question-text>The word <bg>one</bg> in the passage refers to</question-text>
+        <answer-list>
+            <answer-text>a virgin soil epidemic</answer-text>
+            <answer-text>an unbelievable decline</answer-text>
+            <answer-text>the population of native inhabitants</answer-text>
+            <answer-text>the arrival of Europeans</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>
+   
+</question-list>

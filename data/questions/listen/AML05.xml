@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<question-list type='listen' audio-file='AML05.mp3' script-file='AML05P0.xml'>
+
+<question type='multichoice' script-file='AML05P1.xml' skills='1'>
+<question-text audio-file='AML05Q1.mp3'>What are the student and the professor discussing?</question-text>
+<answer-list>
+<answer-text>Two characters from a story the student has read</answer-text>
+<answer-text><exp>The student's plan for a research assignment</exp></answer-text>
+<answer-text>A research study the student has read</answer-text>
+<answer-text>Ways for the student to improve</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the conversation, the student says <exp>I have a few questions about my outline for the research project&#8230;,and&#8230;well&#8230;I was hoping you could give me a few pointers</exp>.  From this, it can be determined that the student and professor are discussing <exp>the student's plan for a research assignment</exp>.  The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML05P2.xml' skills='1'>
+<question-text audio-file='AML05Q2.mp3'>What point does the professor make about the student's work?</question-text>
+<answer-list>
+<answer-text>The thesis could be stronger.</answer-text>
+<answer-text>The thesis is a very ordinary idea.</answer-text>
+<answer-text><exp>The student will have to work very hard to prove the thesis</exp>.</answer-text>
+<answer-text>The thesis should be easy to prove.</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the conversation, the professor says <exp>I like the point you're trying to make&#8230;but, well, there just doesn't seem to be quite enough support for this thesis</exp>, and <exp>if you're going to make such a strong thesis&#8230;you're definately going to have to come up with very strong ideas to support this</exp>.  From this, it can be determined that the professor makes the point about the student's work that <exp>the student will have to work very hard to prove the thesis</exp>.  The third answer is therefore the best answer to the question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML05P3.xml' skills='2'>
+<question-text audio-file='AML05Q3.mp3'>What is the student's thesis?</question-text>
+<answer-list>
+<answer-text>One character appears in two different novels.</answer-text>
+<answer-text>Two characters that seem alike are not really alike.</answer-text>
+<answer-text>One character acts in two extremely different ways.</answer-text>
+<answer-text><exp>Two characters who do not seem to resemble each other actually have a lot in common</exp>.</answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the conversation, the professor says <exp>you're trying to make the point that these two characters are really quite similar in spite of the fact that they seem so different</exp>, and the student later says <exp>now I need to come up with ideas about how these two characters resemble each other</exp>.  From this, it can be determined that the student's thesis is that <exp>two characters who do not seem to resemble each other actually have a lot in common</exp>.  The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML05P4.xml' skills='4'>
+<question-text audio-file='AML05Q4.mp3'>How does the professor seem to feel about the student's work?</question-text>
+<answer-list>
+<answer-text>She is unsure what the student is doing.</answer-text>
+<answer-text>She is completely disgusted with the student's work.</answer-text>
+<answer-text>She<exp> thinks the student's work may have potential</exp>.</answer-text>
+<answer-text>She is really impressed with the student's work.</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the conversation, the professor says <exp>I like the point you're trying to make</exp>, and <exp>well, there just doesn't seem to be quite enough support</exp>, and <exp>I do think your thesis has possibilities</exp>, and <exp>it can be a really strong thesis, but you need to develop these ideas thoroughly</exp>.  From this, it can be determined that the professor <exp>thinks the student's work may have potential</exp>.  The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML05P5.xml' skills='6'>
+<question-text audio-file='AML05Q5.mp3'>What will the student most likely do next?</question-text>
+<answer-list>
+<answer-text><exp>Work on ways to support his thesis and then share his ideas with the professor</exp></answer-text>
+<answer-text>Stop working on this thesis and start on another</answer-text>
+<answer-text>Write down new ideas and submit his written ideas to the professor</answer-text>
+<answer-text>Work on his thesis to improve it</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the conversation, the student says <exp>would it be OK if I stopped by in a few days to show you my ideas for how to support this thesis</exp>, and the professor responds by saying <exp>see you in a few days</exp>.  From this, it can be determined that the student will most likely <exp>work on ways to support his thesis and then share his ideas with the professor</exp> next.  The first answer is therefore the best answer to this question.</explain-text>
+</question>
+</question-list>

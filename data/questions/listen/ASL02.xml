@@ -1,0 +1,75 @@
+<?xml version='1.0'?>
+<question-list type='listen' audio-file='ASL02.mp3' script-file='ASL02P0.xml'>
+
+<question type='multichoice' script-file='ASL02P1.xml' skills='1'>
+<question-text audio-file='ASL02Q1.mp3'>What is the professor mainly discussing?</question-text>
+<answer-list>
+<answer-text>The importance of function in the design of a building</answer-text>
+<answer-text>A number of modern American architects and the important elements in their work</answer-text>
+<answer-text>Which of the three elements of architecture is the most important</answer-text>
+<answer-text><exp>The important characteristics of the designs of one specific architect</exp></answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the lecture, the professor says <exp>let's review the three main elements that any architect must consider when designing a building</exp> and goes on to say <exp>now we'll move on to discuss the architect who's our topic for today</exp>. From this, it can be determined that the professor is mainly discussing <exp>the important characteristics of the designs of one specific architect</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL02P2.xml' skills='1'>
+<question-text audio-file='ASL02Q2.mp3'>What was NOT mentioned in the lecture as one of the main elements to be considered by an architect?</question-text>
+<answer-list>
+<answer-text>Function</answer-text>
+<answer-text>Appearance</answer-text>
+<answer-text><exp>Tradition</exp></answer-text>
+<answer-text>Durability</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the lecture, the professor says <exp>let's review the three main elements that any architect must consider</exp> and goes on to state that <exp>Wright wanted his buildings to be functional</exp>, that <exp>Wright was very&#8230;concerned about the appearance of his buildings</exp>, and that <exp>durability was also important to Wright, and his choice of building materials was strongly influenced by their durability</exp>. From this, it can be determined that <exp>tradition</exp> is NOT mentioned as one of the main elements to be considered by an architect. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL02P3.xml' skills='2'>
+<question-text audio-file='ASL02Q3.mp3'>What is stated about the Guggenheim?</question-text>
+<answer-list>
+<answer-text>It has numerous rooms.</answer-text>
+<answer-text>It is a long, low building.</answer-text>
+<answer-text>It used to be Wright's home.</answer-text>
+<answer-text>It <exp>exemplifies Wright's belief in openness</exp>.</answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the lecture, the professor states that <exp>the Guggenheim, a museum he designed, is a very good example of the openness that Wright strove for</exp>. This means that the Guggenheim <exp>exemplifies Wright's belief in openness</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='ASL02P4.xml' skills='2'>
+<question-text audio-file='ASL02Q4.mp3'>Which characteristics of prairie-style houses does the professor mention?</question-text>
+<answer-list>
+<answer-text>They <exp>are long, low buildings</exp>.</answer-text>
+<answer-text>They <exp>fit well on the prairies</exp>.</answer-text>
+<answer-text>They are tall, open buildings.</answer-text>
+<answer-text>They were influenced by European architecture.</answer-text>
+</answer-list>
+<key>1100</key>
+<explain-text>In the lecture, the professor states that <exp>Wright felt that low homes emphasizing horizontal lines blended well with the&#8230;midwestern prairies</exp>. From this, it can be determined that prairie-style houses <exp>are long, low buildings</exp> and that they <exp>fit well on the prairies</exp>. The first and second answers are therefore the best answers to this questions.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL02P5.xml' skills='2'>
+<question-text audio-file='ASL02Q5.mp3'>What material does the professor say that Wright appreciated for its durability?</question-text>
+<answer-list>
+<answer-text>Stone</answer-text>
+<answer-text>Wood</answer-text>
+<answer-text><exp>Concrete</exp></answer-text>
+<answer-text>Metal</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the lecture, the professor states that <exp>Wright felt that concrete was highly durable yet flexible in its use for public buildings</exp>. This means that Wright appreciated <exp>concrete</exp> for its durability. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='ASL02P6.xml' skills='2'>
+<question-text audio-file='ASL02Q6.mp3'>What two resources will be tested on the exam?</question-text>
+<answer-list>
+<answer-text>The books on reserve in the library</answer-text>
+<answer-text><exp>The class text</exp></answer-text>
+<answer-text>The biography of Wright</answer-text>
+<answer-text><exp>The professor's lectures</exp></answer-text>
+</answer-list>
+<key>0101</key>
+<explain-text>In the lecture, the professor states that <exp>the exam next week'll cover the information in the textbook and the lectures I've given on Wright</exp>. This means that <exp>the class text</exp> and <exp>the professor's lectures</exp> will be tested on the exam. The second and fourth answers are therefore the best answers to this question.</explain-text>
+</question>
+</question-list>

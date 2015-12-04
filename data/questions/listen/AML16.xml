@@ -1,0 +1,93 @@
+<?xml version='1.0'?>
+<question-list type='listen' genre='conversation' audio-file='AML16.mp3' script-file='AML16P0.xml'>
+
+<question type='multichoice' script-file='AML16P1.xml' skills='1'>
+<question-text audio-file='AML16Q1.mp3'>Why are the man and woman talking?</question-text>
+<answer-list>
+<answer-text><exp>They are reviewing information covered in class</exp>.</answer-text>
+<answer-text>They are preparing to attend a class.</answer-text>
+<answer-text>They are reviewing information from a chapter they read.</answer-text>
+<answer-text>They are preparing to present information in class.</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the discussion, the woman asks <exp>did you get good notes from today's lecture</exp>, and the man responds <exp>the lecture on the names of the continents</exp> and asks <exp>would you like to compare notes and see if we got the same information?</exp> From this, it can be determined that the man and woman are talking because <exp>they are reviewing information covered in class</exp>. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML16P2.xml' skills='1'>
+<question-text audio-file='AML16Q2.mp3'>What are they discussing?</question-text>
+<answer-list>
+<answer-text>How the continents were discovered</answer-text>
+<answer-text><exp>How the continents got their names</exp></answer-text>
+<answer-text>How the continents differ</answer-text>
+<answer-text>How the continents were formed</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the discussion, the man says <exp>I thought it was interesting how the names of the continents developed</exp> and later says <exp>let's go over the continents and see if we understand how each name came about</exp>. From this, it can be determined that they are discussing <exp>how the continents got their names</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.2' script-file='AML16P3.xml' skills='5' width='760' explain-height='70'>
+<question-text audio-file='AML16Q3.mp3'>The professor explains where the name of each continent came from. Indicate which continent each of the explanations matches.</question-text>
+<answer-list height='38'>
+<answer-text><exp>From the name of<br/>an explorer</exp></answer-text>
+<answer-text><exp>From the name of<br/>a culture</exp></answer-text>
+<answer-text><exp>From the name of<br/>an animal</exp></answer-text>
+<answer-text><exp>From a word<br/>meaning "east"</exp></answer-text>
+<answer-text><exp>From a word<br/>meaning "west"</exp></answer-text>
+<answer-text><exp>From a word<br/>meaning "south"</exp></answer-text>
+</answer-list>
+<choice-list>
+<choice-text><exp>AFRICA</exp></choice-text>
+<choice-text><exp>AMERICA</exp></choice-text>
+<choice-text><exp>ANTARCTICA</exp></choice-text>
+<choice-text><exp>ASIA</exp></choice-text>
+<choice-text><exp>AUSTRALIA</exp></choice-text>
+<choice-text><exp>EUROPE</exp></choice-text>
+</choice-list>
+<key>213465</key>
+<explain-list>
+<explain-text>The woman states that <exp>the Americas were named for the Italian explorer Amerigo Vespucci</exp>. This means that the name of the continent <exp>America</exp> came <exp>from the name of an explorer</exp>. You should therefore click in the second column.</explain-text>
+<explain-text>The woman mentions <exp>the Ifri, a culture of people</exp> and states that <exp>the Phoenicians gave the homeland of the Ifri the name Ifrikiya</exp> and that <exp>over time, the name evolved into Africa</exp>. This means that the name of the continent <exp>Africa</exp> came <exp>from the name of a culture</exp>. You should therefore click in the first column.</explain-text>
+<explain-text>The man mentions <exp>the Arctic</exp> and <exp>Antarctica</exp>, and the woman states that <exp>the names of both places came from the same word, the word, uh, <i>arktikos</i> in Greek, which means "bear."</exp>  This means that the name of the continent <exp>Antarctica</exp> came <exp>from the name of an animal</exp>. You should therefore click in the third column.</explain-text>
+<explain-text>The man states that <exp>Asia came from the Semitic word <i>assu</i>, which means "east."</exp>  This means that the name of the continent <exp>Asia</exp> came <exp>from a word meaning "east."</exp>  You should therefore click in the fourth column.</explain-text>
+<explain-text>In the discussion, the man states that <exp>Europe came from a Semitic word <i>ereb</i>, which means "west."</exp>  This means that the name of the continent <exp>Europe</exp> came <exp>from a word meaning "west."</exp> You should therefore click in the sixth column.</explain-text>
+<explain-text>The man states that <exp>Australia was given a Latin name by Europeans: <i>Terra Australis</i>, which actually means "land of the south."</exp>  This means that the name of the continent Australia <exp>came from a word meaning "south."</exp> You should therefore click in the fifth column.</explain-text>
+</explain-list>
+</question>
+
+<question type='multichoice' script-file='AML16P4.xml' skills='2'>
+<question-text audio-file='AML16Q4.mp3'>What misconception did the Greeks have about Europe and Asia?</question-text>
+<answer-list>
+<answer-text>Whether their names came from Semitic or Greek</answer-text>
+<answer-text>Which was located to the east and which was located to the west</answer-text>
+<answer-text>Whether they were <exp>one landmass or two</exp></answer-text>
+<answer-text>Where the dividing line between Europe and Asia lay</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the discussion, the woman states that <exp>the Greeks thought that Europe and Asia were two separate continents</exp>, and the man states that <exp>it was later determined that these two continents were really one landmass</exp>. This means that the Greeks had a misconception about whether Europe and Asia were <exp>one landmass or two</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='AML16P5.xml' skills='2'>
+<question-text audio-file='AML16Q5.mp3'>Which statements about the Arctic and Antarctica are true?</question-text>
+<answer-list>
+<answer-text>The Arctic and Antarctica both have names <exp>based on "bear."</exp></answer-text>
+<answer-text>The Arctic is a continent that means "opposite Antarctica."</answer-text>
+<answer-text>The names of both the Arctic and Antarctica were <exp>derived from Greek</exp>.</answer-text>
+<answer-text>The <i>ant-</i> portion of the Antarctica means "before."</answer-text>
+</answer-list>
+<key>1010</key>
+<explain-text>In the discussion, the man mentions Antarctica and the Arctic, and the woman states that <exp>the names of both places came from the same word, the word, uh, <i>arktikos</i> in Greek, which means "bear."</exp> This means that the names of both places are <exp>based on "bear"</exp> and were <exp>derived from Greek</exp>. The first and third answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML16P6.xml' skills='3'>
+<question-text audio-file='AML16Q6.mp3' replay-before='AML16Q6B.mp3' replay-after='AML16Q6A.mp3' replay-before-graphic='AML16G3.jpg'>Why does the woman say this:</question-text>
+<answer-list>
+<answer-text>To indicate to the man that she did not understand what he said</answer-text>
+<answer-text>To let the man know that she would like to talk more about the previous topic</answer-text>
+<answer-text>To let the man know that they do not have much time left</answer-text>
+<answer-text><exp>To get the man to consider that there might be more to talk about</exp></answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the discussion, the man mentions <exp>Europe, and Asia, and the Americas, and Antarctica, and Africa</exp>, and the woman responds by saying <exp>whoa, hang on there, not so fast</exp> and continues with <exp>let's not forget about Australia</exp>. From this, it can be determined that the woman says <exp>whoa, hang on there, not so fast</exp> in order <exp>to get the man to consider that there might be more to talk about</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+</question-list>
+

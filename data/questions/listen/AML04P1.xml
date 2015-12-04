@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+<script>
+<page>
+<paragraph time='00:00:00' speaker='narrator' graphic-file='AML04G1.jpg'>Listen to a conversation between a student and an advisor.</paragraph>
+</page>
+<page>
+<paragraph time='00:00:04' speaker='student' graphic-file='AML04G2.jpg'>You wanted to see me?</paragraph>
+<paragraph   speaker='advisor' graphic-file='AML04G2.jpg'>Yes, I did, Carl. I have some good news for you, I think.</paragraph>
+<paragraph   speaker='student' graphic-file='AML04G2.jpg'>Good news? I like that. What is it?</paragraph>
+<paragraph   speaker='advisor' graphic-file='AML04G2.jpg'><exp>Well, the academic committee met last week to discuss which students should be admitted to the Honors Program, and,&#8230;guess what&#8230;you were selected</exp>!</paragraph>
+<paragraph   speaker='student' graphic-file='AML04G2.jpg'>I was?  Really? <exp>I didn't even know I was being considered!</exp></paragraph>
+<paragraph   speaker='advisor' graphic-file='AML04G2.jpg'>You certainly were. The academic committee meets and discusses which students have achieved the most and then selects the top candidates. You were one of those who were selected, and I think I can also safely say that you were the top candidate.</paragraph>
+<paragraph   speaker='student' graphic-file='AML04G2.jpg'>Can you&#8230;um&#8230;tell me more about the Honors Program?  It sounds like something good, but I'd like to know more about it.</paragraph>
+<paragraph   speaker='advisor' graphic-file='AML04G2.jpg'>Well,&#8230;the students who are admitted to the 
+program&#8212;and I must say that they are some pretty accomplished students&#8212;take some of their classes together and are able to delve more deeply into course material. They belong to the Honors Program association and can take part in a number of Honors Program events. They also, uh, do receive a small scholarship&#8230;it's not too much, but I'm sure it helps&#8230;. So, what do you think?</paragraph>
+<paragraph   speaker='student' graphic-file='AML04G2.jpg'>Well, first of all, a scholarship, even a small one, would be quite welcome. With even a small scholarship, I might not have to work quite so many hours, and I would have more time for my studies, so that would, of course, be quite nice&#8230;I <u>do</u> have some concerns about the honors courses, about competing for grades with such strong students&#8230;I really want to go to graduate school, to a top graduate school, so I'm very focused on getting high grades.</paragraph>
+<paragraph   speaker='advisor' graphic-file='AML04G2.jpg'>I don't think that's something to worry about. Graduate programs are always looking for students who take part in programs like this. I think it could be really good for you to be in this program now, both for what it'll do for you now and for how it'll benefit you in getting into,&#8230;and succeeding in&#8230;, graduate school. So&#8230;do you think it's something you'd like to do?</paragraph>
+<paragraph   speaker='student' graphic-file='AML04G2.jpg'>It certainly is something I'd like to consider. Maybe I should talk with some students who are already in the program; I'd like to discuss the program with them.</paragraph>
+<paragraph   speaker='advisor' graphic-file='AML04G2.jpg'>Oh, I can arrange that for you. I'll set something up and then let you know about it.</paragraph>
+<paragraph   speaker='student' graphic-file='AML04G2.jpg'>Thanks so much. I look forward to hearing from you about it.</paragraph>
+</page>
+</script>

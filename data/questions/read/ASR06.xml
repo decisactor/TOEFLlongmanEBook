@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<question-list type="read" passage-file="ASR06P00.xml">
+      
+   <question type="multichoice" passage-file="ASR06P01.xml" skills="2">
+      <question-text>The word <bg>they</bg> in paragraph 1 refers to</question-text>
+      <answer-list>
+            <answer-text>chromium compounds</answer-text>
+            <answer-text>brightly colored hues</answer-text>
+            <answer-text>coloring agents</answer-text>
+            <answer-text>pigments</answer-text>
+      </answer-list>
+      <key>1</key>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR06P02.xml" skills="2">
+      <question-text>The word <bg>it</bg> in paragraph 1 refers to</question-text>
+      <answer-list>
+            <answer-text>a pleasing color</answer-text>
+            <answer-text>a paint</answer-text>
+            <answer-text>the surface</answer-text>
+            <answer-text>>a thin, uniform coat</answer-text>
+      </answer-list>
+      <key>2</key>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR06P03.xml" skills="2">
+      <question-text>The word <bg>that</bg> in paragraph 2 refers to</question-text>
+      <answer-list>
+            <answer-text>a powder</answer-text>
+            <answer-text>solid particles</answer-text>
+            <answer-text>the source</answer-text>
+            <answer-text>the color</answer-text>
+      </answer-list>
+      <key>1</key>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR06P04.xml" skills="2">
+      <question-text>The word <bg>which</bg> in paragraph 2 refers to</question-text>
+      <answer-list>
+            <answer-text>powder</answer-text>
+            <answer-text>patterns</answer-text>
+            <answer-text>liquid</answer-text>
+            <answer-text>pigment</answer-text>
+      </answer-list>
+      <key>3</key>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR06P05.xml" skills="2">
+   <question-text>The word <bg>those</bg> in paragraph 2 refers to</question-text>
+      <answer-list>
+            <answer-text>some paints</answer-text>
+            <answer-text>oily solvents</answer-text>
+            <answer-text>petroleum resources</answer-text>
+            <answer-text>deposits of pigment</answer-text>
+      </answer-list>
+      <key>2</key>
+   </question>
+   
+</question-list>

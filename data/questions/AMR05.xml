@@ -1,0 +1,197 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='AMR05P0.xml'>
+<question type="multichoice" passage-file="AMR05P1.xml" skills="1">
+      <question-text>The word <bg>roots</bg> in paragraph 1 could best be replaced by</question-text>
+      <answer-list>
+         <answer-text><exp>basis</exp></answer-text>
+         <answer-text>plants</answer-text>
+         <answer-text>success</answer-text>
+         <answer-text>results</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that <exp>the development of modern business has its roots in the agrarian society of the medieval world</exp>. From this context, it can be determined that <exp>roots</exp> could best be replaced by <exp>basis</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR05P2.xml" skills="7">
+      <question-text>Which of the following would have been LEAST likely to occur in a typical fifteenth-century agrarian society?</question-text>
+      <answer-list>
+         <answer-text>A farmer would work on land owned by someone else.</answer-text>
+         <answer-text>A landowner would receive wheat in return for use of land.</answer-text>
+         <answer-text>Ownership of land would move from a father to a son.</answer-text>
+         <answer-text><exp>A man would go into business trading goods in distant towns</exp>.</answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>in the typical agrarian societies of the thirteenth to sixteenth centuries, business was limited mainly to local trade</exp> and that <exp>business tended to be conducted only on a small scale and consisted mainly of bartering of goods and services in the local marketplace</exp>. From this, it can be determined that it would be LEAST likely that <exp>a man would go into business trading goods in distant towns</exp> in a typical fifteenth-century agrarian society. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="AMR05P3.xml" skills="1">
+      <question-text>The phrase <bg>on a small scale</bg> in paragraph 2 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>with minimal success</answer-text>
+         <answer-text><exp>in a limited way</exp></answer-text>
+         <answer-text>using tiny measurements</answer-text>
+         <answer-text>for insubstantial projects</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>business tended to be conducted only on a small scale and consisted mainly of bartering of goods and services in the local marketplace</exp>. From this context, it can be determined that the phrase <exp>on a small scale</exp> is closest in meaning to <exp>in a limited way</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="AMR05P4.xml" skills="3">
+      <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 3?</question-text>
+      <answer-list>
+         <answer-text><exp>One way that business developed</exp> was that <exp>companies were given exclusive rights to conduct certain types of business</exp>.</answer-text>
+         <answer-text>As exploration expanded, many companies wanted to do business in expanded marketplaces.</answer-text>
+         <answer-text>During the era of exploration, governments were granted charters to do business in certain areas of the world.</answer-text>
+         <answer-text>Governments fought hard against companies that tried to develop monopolistic businesses in certain areas of the world.</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The highlighted sentence states that <exp>a new type of business&#8230;came about during this era</exp>, which means <exp>one way that business developed</exp>; it also states that <exp>such companies were granted charters by governments, often with monopolistic trade rights for specific products</exp>, which means that <exp>companies were given exclusive rights to conduct certain types of business</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR05P5.xml" skills="1">
+      <question-text>The word <bg>facets</bg> in paragraph 3 could best be replaced by</question-text>
+      <answer-list>
+         <answer-text>wall</answer-text>
+         <answer-text>looks</answer-text>
+         <answer-text><exp>aspects</exp></answer-text>
+         <answer-text>laws</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage mentions <exp>a charter agreement that governed all facets of the business, including prices, volumes, profits, and procedures for conducting business</exp>. From this context, it can be determined that <exp>facets</exp> could best be replaced by <exp>aspects</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR05P6.xml" skills="8">
+      <question-text>Why does the author mention <bg>The London Company, the Plymouth Bay Company, and the Massachusetts Bay Company</bg> in paragraph 4?</question-text>
+      <answer-list>
+         <answer-text>To introduce the idea that business continued to develop through colonialism</answer-text>
+         <answer-text><exp>To provide examples of a previously stated idea</exp></answer-text>
+         <answer-text>To support the idea that charter companies were risky</answer-text>
+         <answer-text>To provide examples of a charter company, a joint-stock company, and a limited partnership</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>charter companies often played a role in colonialism: The London Company, the Plymouth Bay Company, and the Massachusetts Bay Company were directly involved in the settlement of colonists in North America</exp>. From this context, it can be determined that the author mentions the London Company, the Plymouth Bay Company, and the Massachusetts Bay Company in order <exp>to provide examples of a previously stated idea</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR05P7.xml" skills="1">
+      <question-text>The phrase <bg>in return</bg> in paragraph 4 could best be replaced by</question-text>
+      <answer-list>
+         <answer-text>for a fee</answer-text>
+         <answer-text>after coming back</answer-text>
+         <answer-text>as a favor</answer-text>
+         <answer-text><exp>in exchange</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>members of the charter borrowed money from investors to finance a particular project and agreed to share profits from the venture with the investors in return</exp>. From this context, it can be determined that the phrase <exp>in return</exp> could best be replaced by <exp>in exchange</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type='insert' passage-file='AMR05P8.xml' skills='4'>
+<insert-text><b>This could happen perhaps through <exp>the loss of a ship in a storm</exp>, through <exp>an attack of a ship by pirates</exp> on the high seas, or through <exp>the spread of a disease through an entire colonial group</exp>.</b></insert-text>
+<key>2</key>
+<explain-text>
+The passage states that <exp>charter companies...were quite a risky form of business</exp> and that <exp>it was possible to lose one hundred percent of one's investment easily</exp>. A sentence mentioning <exp>the loss of a ship in a storm, an attack of a ship by pirates</exp>, or <exp>the spread of a disease through an entire colonial group</exp> would logically follow such an idea. The second square in paragraph 4 is therefore the best answer to this question.
+</explain-text>
+</question>
+<question type="multichoice" passage-file="AMR05P9.xml" skills="1">
+      <question-text>The phrase <bg>wary of</bg> in paragraph 4 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>excited about</answer-text>
+         <answer-text>aware of</answer-text>
+         <answer-text><exp>concerned about</exp></answer-text>
+         <answer-text>interested in</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage states that <exp>a major problem with joint-stock companies, however, was related to the liability</exp> and that <exp>investors became wary of investing in joint ventures because of their liability</exp>. From this context, it can be determined that the phrase <exp>wary of</exp> is closest in meaning to <exp>concerned about</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR05P10.xml" skills="5">
+      <question-text>What point does the author make about forms of business during the colonial era?</question-text>
+      <answer-list>
+         <answer-text>Charter companies were less risky than joint-stock companies.</answer-text>
+         <answer-text>Joint-stock companies were financed entirely by members of charter companies.</answer-text>
+         <answer-text>Joint-stock companies were successful because of the limited liability of investors.</answer-text>
+         <answer-text><exp>Investors participating in limited partnerships had less liability than investors participating in joint-stock companies</exp>.</answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>a new form of business, the limited partnership, came about as investors became wary of investing in joint ventures because of their liability</exp> and that <exp>in a limited partnership, the amount of liability of investors was not as great</exp>. From this, it can be determined that <exp>investors participating in limited partnerships had less liability than investors participating in joint-stock companies</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR05P11.xml" skills="2">
+      <question-text>The word <bg>that</bg> in paragraph 5 refers to</question-text>
+      <answer-list>
+         <answer-text>the world</answer-text>
+         <answer-text>the nineteenth century</answer-text>
+         <answer-text><exp>numerous changes</exp></answer-text>
+         <answer-text>business</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage states that <exp>numerous changes were taking place that greatly influenced the way in which business was conducted</exp>. From this context, it can be determined that <exp>that</exp> refers to <exp>numerous changes</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR05P12.xml" skills="6">
+      <question-text>What is NOT true about the world of business in the nineteenth century, according to paragraph 5?</question-text>
+      <answer-list>
+         <answer-text>A belief in entrepreneurism strengthened.</answer-text>
+         <answer-text>The financial system expanded.</answer-text>
+         <answer-text>The working class was becoming established.</answer-text>
+         <answer-text><exp>The factory system broke up</exp>.</answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>as the world moved into the nineteenth century&#8230;the factory system&#8230;was inaugurated</exp>. This means that it is NOT true that <exp>the factory system broke up</exp> in the nineteenth century. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type='select.1' passage-file='AMR05P13.xml' skills='9'>
+<direction-text>Select the appropriate sentences from the answer choices that are key points in a discussion of <exp>how business has evolved over time</exp>. TWO of the answer choices will NOT be used. <i><b>This question is worth 3 points.</b></i></direction-text>
+<intro-text><b>How business had evolved over time</b></intro-text>
+<answer-list>
+<answer>
+<answer-text><exp>The Industrial Revolution lead to the development of today's system of corporations</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>as the world moved into the nineteenth century, numerous changes were taking place that greatly influenced the way in which business was conducted, in an era referred to as the Industrial Revolution</exp> and that <exp>these factors all played a part in the development of the modern system of corporations of today</exp>. From this, it can be determined that <exp>the Industrial Revolution lead to the development of today's system of corporations</exp>. This answer provides critical information to support the discussion of <exp><b>how business has evolved over time</b></exp> and is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>The agrarian societies of the thirteenth to sixteenth centuries were dependent on charter companies for their survival</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>in the typical agrarian societies of the thirteenth to sixteenth centuries, business was limited mainly to local trade</exp> in paragraph 2, and then mentions <exp>exploration of the world</exp> and states that <exp>a new type of business, charter companies, came about during this era</exp> in paragraph 3. From this, it can be determined that it is NOT true that <exp>the agrarian societies of the thirteenth to sixteenth centuries were dependent on charter companies for their survival</exp>. This answer is therefore not a correct answer to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Exploration of the world expanded markets</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>the scope of business began expanding considerably outside of the local marketplace as exploration of the world expanded</exp>. From this, it can be determined that <exp>exploration of the world expanded markets</exp>. This answer provides critical information to support the discussion of <exp><b>how business has evolved over time</b></exp> and is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>During medieval times, trade was mainly local</exp>.</answer-text>
+<explain-text>
+The passage mentions <exp>the agrarian society of the medieval world</exp> and states that <exp>in the typical agrarian societies of the thirteenth to sixteenth centuries, business was limited mainly to local trade</exp>. From this, it can be determined that <exp>during medieval times, trade was mainly local</exp>. This answer provides critical information to support the discussion of <exp><b>how business has evolved over time</b></exp> and is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>A number of new types of businesses were prominent during the colonial period</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>business continued to develop during the colonial era as colonialism reinforced the charter companies and also gave rise to forms of business known as joint-stock companies and limited partnerships</exp>. From this, it can be determined that <exp>a number of new types of businesses were prominent during the colonial period</exp>. This answer provides critical information to support the discussion of <exp><b>how business has evolved over time</b></exp> and is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Limited partnerships meant that investors in ventures had limited liability</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>in a limited partnership, the amount of liability of investors was not as great</exp>. From this, it can be determined that it is true that <exp>limited partnerships meant that investors in ventures had limited liability</exp>. However, this true information is a minor detail rather than a major point. This answer is therefore not a correct answer to this question.
+</explain-text>
+</answer>
+</answer-list>
+<key>3.102.</key>
+</question> 
+</question-list>
+

@@ -1,0 +1,54 @@
+<?xml version='1.0'?>
+<script>
+<page>
+<paragraph time='00:00:00' speaker='narrator' graphic-file='AML02G1.jpg'>Listen to a conversation between a student and a librarian.</paragraph>
+</page>
+<page>
+<paragraph time='00:00:04' speaker='student' graphic-file='AML02G2.jpg'>Hello, can you help me, please?</paragraph>
+<paragraph   speaker='librarian' graphic-file='AML02G2.jpg'>That's what I'm here for. Do you need help finding something in the library?</paragraph>
+<paragraph   speaker='student' graphic-file='AML02G2.jpg'>Actually, I need help finding a number of books.</paragraph>
+<paragraph   speaker='librarian' graphic-file='AML02G2.jpg'>Well, first you should start at one of the computerized research stations. You can search for books as well as other types of sources there.</paragraph>
+<paragraph   speaker='student' graphic-file='AML02G2.jpg'>I did that. I went to one of the computerized research stations, and I searched for the books there.</paragraph>
+<paragraph   speaker='librarian' graphic-file='AML02G2.jpg'>You found the books you needed there? And you printed out a list of these books from the research station?</paragraph>
+<paragraph   speaker='student' graphic-file='AML02G2.jpg'>Yes.</paragraph>
+<paragraph   speaker='librarian' graphic-file='AML02G2.jpg'>It sounds like you're well on your way.</paragraph>
+<paragraph   speaker='student' graphic-file='AML02G2.jpg'>Well, I got that far, but then it's the next step that's a problem.</paragraph>
+<paragraph   speaker='librarian' graphic-file='AML02G2.jpg'>Why? What's the problem?</paragraph>
+<paragraph   speaker='student' graphic-file='AML02G2.jpg'>Well, I've got a list of the three books that look good to me, but I've actually not been able to find any of them.</paragraph>
+<paragraph   speaker='librarian' graphic-file='AML02G2.jpg'>You haven't found any of them? Where've you been looking?</paragraph>
+<paragraph   speaker='student' graphic-file='AML02G2.jpg'>I've been looking in the stacks&#8230;you know, I've been looking at the books on the shelves.</paragraph>
+<paragraph   speaker='librarian' graphic-file='AML02G2.jpg'>And you didn't find any of them there?&#8230;Alright, then, let me see your printout and maybe I can figure out where they are&#8230;um&#8230;I see&#8230;OK&#8230;For the first book on your list, do you see the letters LL next to the call number?</paragraph>
+<paragraph   speaker='student' graphic-file='AML02G2.jpg'>Yes, I do.</paragraph>
+<paragraph   speaker='librarian' graphic-file='AML02G2.jpg'>Well, that LL refers to limited loan.</paragraph>
+<paragraph   speaker='student' graphic-file='AML02G2.jpg'>Alright, and what does that mean?</paragraph>
+<paragraph   speaker='librarian' graphic-file='AML02G2.jpg'>Limited-loan books're books that can be checked out for only a short time, just three days. Usually a professor puts a book on limited loan when a number of students in a class need to check out the same book. Did your professor tell you this book would be on limited loan?</paragraph>
+<paragraph   speaker='student' graphic-file='AML02G2.jpg'>I think he said something like that in class, but I'm not sure.</paragraph>
+<paragraph   speaker='librarian' graphic-file='AML02G2.jpg'>OK, so <exp>this book's on limited loan, and that means you have to go ask for it at the main desk</exp>. Then if it's there you'll be able to check it out for only three days.</paragraph>
+<paragraph   speaker='student' graphic-file='AML02G2.jpg'>OK, so I'll go ask at the main desk for the book that's on limited loan.</paragraph>
+<paragraph   speaker='librarian' graphic-file='AML02G2.jpg'>Good. Now for the second book on the list. For this one, you see the R in front of the call number?</paragraph>
+<paragraph   speaker='student' graphic-file='AML02G2.jpg'>Yes, I do. What does the R stand for?</paragraph>
+<paragraph   speaker='librarian' graphic-file='AML02G2.jpg'>R stands for reference. You'll have to go to the reference section of the library to find this book.</paragraph>
+<paragraph   speaker='student' graphic-file='AML02G2.jpg'>And I should be able to find the book there and check it out of the library?</paragraph>
+<paragraph   speaker='librarian' graphic-file='AML02G2.jpg'>Well, 50 percent's not bad. You should be able to find the book there, but you won't be able to check it out.</paragraph>
+<paragraph   speaker='student' graphic-file='AML02G2.jpg'>Why not?</paragraph>
+<paragraph   speaker='librarian' graphic-file='AML02G2.jpg'>Because reference books can't be checked out. They can be used only in the library.</paragraph>
+<paragraph   speaker='student' graphic-file='AML02G2.jpg'>At least that means I should probably be able to find it.</paragraph>
+<paragraph   speaker='librarian' graphic-file='AML02G2.jpg'>That's right. Now for the third book on the list.</paragraph>
+<paragraph   speaker='student' graphic-file='AML02G2.jpg'>Can you help me with that one, too?</paragraph>
+<paragraph   speaker='librarian' graphic-file='AML02G2.jpg'>I sure can. Look, you see that it lists a due date here?</paragraph>
+<paragraph   speaker='student' graphic-file='AML02G2.jpg'>Yes, I see the due date. Does that mean it's checked out?</paragraph>
+<paragraph   speaker='librarian' graphic-file='AML02G2.jpg'>It does, and the due date indicates when it should be turned in.</paragraph>
+<paragraph   speaker='student' graphic-file='AML02G2.jpg'>The due date's in four days, so the person who has it needs to turn it in in four days? So do I have to check back in four days to see if it's been returned yet?</paragraph>
+<paragraph   speaker='librarian' graphic-file='AML02G2.jpg'>There's something easier to do. <exp>You can just go to the main desk and put a hold on the book</exp>.</paragraph>
+<paragraph   speaker='student' graphic-file='AML02G2.jpg'>What does that mean?</paragraph>
+<paragraph   speaker='librarian' graphic-file='AML02G2.jpg'>You can put what's called a hold on any book that's been checked out. This means that as soon as the book is returned to the library, you can check it out next.</paragraph>
+<paragraph   speaker='student' graphic-file='AML02G2.jpg'>That sounds good, and I can put a hold on the book today.</paragraph>
+<paragraph   speaker='librarian' graphic-file='AML02G2.jpg'>OK, now, is that it? Do you understand all of this now?</paragraph>
+<paragraph   speaker='student' graphic-file='AML02G2.jpg'>I think so. It's LL for limited loan, R for reference, and a due date for a book that's checked out.</paragraph>
+<paragraph   speaker='librarian' graphic-file='AML02G2.jpg'>That's exactly right.</paragraph>
+<paragraph   speaker='student' graphic-file='AML02G2.jpg'>Great, and thanks for all your help.</paragraph>
+</page>
+</script>
+
+
+

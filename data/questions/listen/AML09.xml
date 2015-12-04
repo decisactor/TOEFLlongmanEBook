@@ -1,0 +1,84 @@
+<?xml version='1.0'?>
+<question-list type='listen' genre='lecture' audio-file='AML09.mp3' script-file='AML09P0.xml'>
+
+<question type='multichoice' script-file='AML09P1.xml' skills='1'>
+<question-text audio-file='AML09Q1.mp3'>What is the professor discussing?</question-text>
+<answer-list>
+<answer-text><exp>The various causes of a particular geographical formation</exp></answer-text>
+<answer-text>The role of meteors in forming craters</answer-text>
+<answer-text>How craters have an impact on their surroundings</answer-text>
+<answer-text>The differences between various types of volcanic craters</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the lecture, the professor states that <exp>today we're going to be talking about the geological formation called a crater</exp>, that <exp>we're going to be looking at two tremendously different types of craters</exp>, that <exp>one type of crater's formed by internal forces</exp>, and that <exp>the other type of crater's formed by an external force</exp>. From this, it can be determined that the professor is discussing <exp>the various causes of a particular geographical formation</exp>. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML09P2.xml' skills='2'>
+<question-text audio-file='AML09Q2.mp3'>Which did the professor NOT mention as a possible cause of craters?</question-text>
+<answer-list>
+<answer-text><exp>Volcanic collapse</exp></answer-text>
+<answer-text>Earthquake activity</answer-text>
+<answer-text><exp>Volcanic explosion</exp></answer-text>
+<answer-text><exp>Collision of a meteor with Earth</exp></answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the lecture, the professor says that <exp>one type of crater's formed by internal forces, during volcanic activity that causes a mountain to either collapse or explode</exp> and that <exp>the other type of crater is formed by an external force, from the impact of a meteor with the surface of the Earth</exp>. <exp>Volcanic activity that causes a mountain to&#8230;collapse</exp> is <exp>volcanic collapse</exp> in the first answer, <exp>volcanic activity that causes a mountain to&#8230;explode</exp> is <exp>volcanic explosion</exp> in the third answer, and <exp>the impact of a meteor with the surface of the Earth</exp> is <exp>collision of a meteor with Earth</exp> in the last answer. The second answer is the one that is NOT mentioned and is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML09P3.xml' skills='3'>
+<question-text audio-file='AML09Q3.mp3' replay-before='AML09Q3B.mp3' replay-after='AML09Q3A.mp3' replay-before-graphic='AML09G2.jpg'>Why does the professor ask this:</question-text>
+<answer-list>
+<answer-text>To point out that the students do not know the answer</answer-text>
+<answer-text>To find out if the students have read the chapter</answer-text>
+<answer-text><exp>To encourage the students to think about something throughout the lecture</exp></answer-text>
+<answer-text>To reinforce an earlier point that he made</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the lecture, the professor asks <exp>do you know which kind of crater is more common on Earth, volcanic craters or impact craters</exp>, and then goes on to explain that <exp>I'm not going to tell you now, but keep the question in your mind as we're going over the information in the lecture, and we'll come back to it later</exp>. From this, it can be determined that the professor asks this question <exp>to encourage the students to think about something throughout the lecture</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML09P4.xml' skills='2'>
+<question-text audio-file='AML09Q4.mp3'>What is Mount Mazama?</question-text>
+<answer-list>
+<answer-text>A mountain now towering over Oregon</answer-text>
+<answer-text>The name of a <exp>mountain that used to exist</exp></answer-text>
+<answer-text>A volcanic mountain that regularly erupts</answer-text>
+<answer-text>A mountain destroyed by the impact of a meteor</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the lecture, the professor calls Mount Mazama a <exp>mountain of yesteryear</exp> and says that <exp>around 7,000 years ago...the unsupported peak of the huge mountain collapsed</exp>. A <exp>mountain of yesteryear</exp> that has <exp>collapsed</exp> is a <exp>mountain that used to exist</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.2' script-file='AML09P5.xml' skills='5' width='500'>
+<question-text audio-file='AML09Q5.mp3'>The professor indicates how each of these craters was formed. Indicate which crater each of these descriptions of the formation matches.</question-text>
+<answer-list height='40'>
+<answer-text><exp>Formed when a volcanic<br/>mountain exploded </exp></answer-text>
+<answer-text><exp>Formed when a volcanic<br/>mountain collapsed</exp></answer-text>
+<answer-text><exp>Not formed as part of a<br/>volcanic mountain</exp></answer-text>
+</answer-list>
+<choice-list>
+<choice-text><exp>CRATER LAKE</exp></choice-text>
+<choice-text><exp>MT. ST. HELENS</exp></choice-text>
+<choice-text><exp>METEOR CRATER</exp></choice-text>
+</choice-list>
+<key>213</key>
+<explain-list>
+<explain-text>The professor states that <exp>this type of crater's formed&#8230;because of a sudden and forceful explosion</exp> and that <exp>this is, I'm sure you know, Mount St. Helens</exp>. This means that Mt. St. Helens was <exp>formed when a volcanic mountain 
+exploded</exp>. You should therefore click in the second column.</explain-text>
+<explain-text>The professor states that <exp>the crater in this photo is Crater Lake</exp> and that <exp>a tremendous mass of lava flowed out of the mountain, and the unsupported peak of the huge mountain collapsed, leaving a crater</exp>. This means that Crater Lake was <exp>formed when a volcanic mountain collapsed</exp>. You should therefore click in the first column.</explain-text>
+<explain-text>The professor states that <exp>the crater&#8230;was caused when a meteor collided with the Earth</exp> and that <exp>this crater&#8230;has the rather appropriate name of Meteor Crater</exp>. This means that Meteor Crater was <exp>not formed as part of a volcanic mountain</exp>. You should therefore click in the third column.</explain-text>
+</explain-list>
+</question>
+
+<question type='multichoice' script-file='AML09P6.xml' skills='6'>
+<question-text audio-file='AML09Q6.mp3'>What does the professor imply about the number of volcanic craters?</question-text>
+<answer-list>
+<answer-text>It is not as large as the number of impact craters.</answer-text>
+<answer-text>It is approximately the same as the number of impact craters.</answer-text>
+<answer-text>It is most likely around eighty.</answer-text>
+<answer-text>It <exp>is far greater than the number of impact craters</exp>.</answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In  the lecture, the professor states that <exp>at least 80 impact craters are known to exist on Earth</exp> and that <exp>this number's nothing like the number of volcanic craters that exist on our geologically active planet</exp>. From this, it can be determined that the number of volcanic craters <exp>is far greater than the number of impact craters</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+</question-list>

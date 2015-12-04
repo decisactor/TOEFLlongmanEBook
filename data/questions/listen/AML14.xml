@@ -1,0 +1,84 @@
+<?xml version='1.0'?>
+<question-list type='listen' audio-file='AML14.mp3' script-file='AML14P0.xml'>
+
+<question type='multichoice' script-file='AML14P1.xml' skills='3'>
+<question-text audio-file='AML14Q1.mp3'>Why are the students discussing this material?</question-text>
+<answer-list>
+<answer-text>They are preparing to attend a lecture.</answer-text>
+<answer-text>They <exp>are going over material presented by a professor</exp>.</answer-text>
+<answer-text>They are reviewing material on an exam.</answer-text>
+<answer-text>They are working on a report.</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the discussion, one of the students says <exp>the professor sure spent a lot of time discussing those huge earthquakes near the Mississippi</exp>. From this, it can be determined that the students <exp>are going over material presented by a professor</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML14P2.xml' skills='2'>
+<question-text audio-file='AML14Q2.mp3'>Where was the center of the earthquakes discussed by the students?</question-text>
+<answer-list>
+<answer-text>Near the Missouri River in the state of Mississippi</answer-text>
+<answer-text>In the Mississippi river valley in the state of Mississippi</answer-text>
+<answer-text><exp>In the Mississippi river valley in the state of Missouri</exp></answer-text>
+<answer-text>Near the Missouri River in the state of Mississippi</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the discussion, one of the students says <exp>the quakes were centered in the state of Missouri and not Mississippi, but they were in the Mississippi river valley in Missouri</exp>. From this, it can be determined that the center of the earthquakes discussed by the students was <exp>in the Mississippi river valley in the state of Missouri</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.2' script-file='AML14P3.xml' skills='5'>
+<question-text audio-file='AML14Q3.mp3'>Based on the information in the discussion, indicate whether the statements below are true about the Mississippi earthquakes.</question-text>
+<answer-list>
+<answer-text><exp>They took place in the eighteenth century</exp>.</answer-text>
+<answer-text><exp>They took place over a three-month period</exp>.</answer-text>
+<answer-text><exp>They were extremely strong</exp>.</answer-text>
+<answer-text><exp>They were felt only along the Mississippi River</exp>.</answer-text>
+</answer-list>
+<choice-list width='75'>
+<choice-text>YES</choice-text>
+<choice-text>NO</choice-text>
+</choice-list>
+<key>2112</key>
+<explain-list>
+<explain-text>The students mention the <exp>earthquakes</exp> and state that <exp>they were in the early 1800s, in the winter of 1811 to 1812</exp> and that <exp>that would be the early part of the nineteenth century</exp>. This means that it is NOT true that <exp>they took place in the eighteenth century</exp>. You should therefore click in the NO column.</explain-text>
+<explain-text>One of the students states that <exp>there were big earthquakes in December, in January, and again in February</exp>. This means that <exp>they took place over a three-month period</exp>. You should therefore click in the YES column.</explain-text>
+<explain-text>One of the students states that <exp>these were supposedly the most powerful earthquakes ever recorded in North America</exp> and that <exp>they were so strong that they could be felt all the way up the East Coast</exp>. This means that <exp>they were extremely strong</exp>. You should therefore click in the YES column.</explain-text>
+<explain-text>One of the students says <exp>the professor said that they could be felt over an area of more than a million square miles</exp>. This means that it is NOT true that <exp>they were felt only along the Mississippi River</exp>. You should therefore click in the NO column.</explain-text>
+</explain-list>
+</question>
+
+<question type='check.1' script-file='AML14P4.xml' skills='2'>
+<question-text audio-file='AML14Q4.mp3'>According to the students, what topographical changes occurred as a result of the Mississippi earthquakes?</question-text>
+<answer-list>
+<answer-text>Rivers disappeared.</answer-text>
+<answer-text><exp>Land sank</exp>.</answer-text>
+<answer-text>Volcanic craters formed.</answer-text>
+<answer-text><exp>New lakes formed</exp>.</answer-text>
+</answer-list>
+<key>0101</key>
+<explain-text>In the discussion, the second man states that <exp>over 30,000 square miles of land sank</exp> and that <exp>lakes were formed</exp>. This means that <exp>land sank</exp> and <exp>new lakes formed</exp>. The second and last answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML14P5.xml' skills='2'>
+<question-text audio-file='AML14Q5.mp3'>What can be concluded from the discussion about 5 percent of the world's earthquakes?</question-text>
+<answer-list>
+<answer-text>They occur in Mississippi.</answer-text>
+<answer-text>They <exp>are not explained by the theory of plate tectonics</exp>.</answer-text>
+<answer-text>They develop in the middle of the North American plate.</answer-text>
+<answer-text>They result from movement along the borders of tectonic plates.</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the discussion, one of the students states that <exp>according to the theory of plate tectonics, earthquakes can occur when the large plates that make up the crust of the Earth move and push up against each other</exp>, and another states that <exp>5 percent of the earthquakes occur in the middle of large plates</exp>. It can be concluded from this that about 5 percent of the world's earthquakes <exp>are not explained by the theory of plate tectonics</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML14P6.xml' skills='3'>
+<question-text audio-file='AML14Q6.mp3'>Why did the professor most likely discuss these earthquakes and plate tectonics in the same lecture?</question-text>
+<answer-list>
+<answer-text>The earthquakes support the theory of plate tectonics.</answer-text>
+<answer-text>The earthquakes occurred where two huge plates crashed together.</answer-text>
+<answer-text>The earthquakes led to the theory of plate tectonics.</answer-text>
+<answer-text><exp>The earthquakes fail to support the theory of plate tectonics</exp>.</answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the discussion, one of the students states that <exp>according to the theory of plate tectonics, earthquakes can occur when the large plates that make up the crust of the Earth move and push up against each other</exp>, and another student states that <exp>the Mississippi earthquakes are intraplate earthquakes</exp> and <exp>they're part of the 5 percent of earthquakes that occur in the middle of plates and not part of the 95 percent of earthquakes that occur along the edges of plates</exp>. From this, it can be determined that the professor discussed these earthquakes and plate tectonics in the same lecture because <exp>the earthquakes fail to support the theory of plate tectonics</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+</question-list>

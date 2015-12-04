@@ -1,0 +1,84 @@
+<?xml version='1.0'?>
+<question-list type='listen' audio-file='ATL10.mp3' script-file='ATL10P0.xml'>
+
+<question type='multichoice' script-file='ATL10P1.xml' skills='2'>
+<question-text audio-file='ATL10Q1.mp3'>What does the professor say about the meanings of various word parts?</question-text>
+<answer-list>
+<answer-text><i>Hyper</i> means "below," and <i>hypo</i> means "above."</answer-text>
+<answer-text><i>Hypo</i> means "above," and <i>thermia</i> means "temperature."</answer-text>
+<answer-text><exp><i>Hypo</i> means "below," and <i>hyper</i> means "above."</exp></answer-text>
+<answer-text><i>Hyper</i> means "below," and <i>thermia</i> means "temperature."</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the lecture, the professor says <exp><i>hyp<u>o</u></i> means "below," while <i>hyp<u>er</u></i> means "above," and <i>thermia</i> refers to "temperature."</exp> The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.2' script-file='ATL10P2.xml' skills='5'>
+<question-text audio-file='ATL10Q2.mp3'>Based on the information in the lecture, indicate whether the symtoms below are exhibited by victims of hypothermia.</question-text>
+<answer-list>
+<answer-text><exp>Lowered temperature</exp></answer-text>
+<answer-text><exp>Elevated heart rate</exp></answer-text>
+<answer-text><exp>Lowered blood pressure</exp></answer-text>
+<answer-text><exp>Rapid breathing</exp></answer-text>
+</answer-list>
+<choice-list>
+<choice-text>YES</choice-text>
+<choice-text>NO</choice-text>
+</choice-list>
+<key>1212</key>
+<explain-list>
+<explain-text>The professor states that <exp>hypothermia&#8230;is a temperature that's below normal</exp>. This means that it is true that a victim of hypothermia suffers from <exp>lowered temperature</exp>. You should therefore click in the YES column.</explain-text>
+<explain-text>The professor states that <exp>victims of hypothermia suffer from a decreased heart rate</exp>. This means that it is NOT true that victims of hypothermia suffer from an <exp>elevated heart rate</exp>. You should therefore click in the NO column.</explain-text>
+<explain-text>The professor states that <exp>victims of hyporthermia suffer from&#8230;decreased blood pressure</exp>. This means that it is true that victims of hypothermia suffer from <exp>lowered blood pressure</exp>. You should therefore click in the YES column.</explain-text>
+<explain-text>The professor states that <exp>victims of hypothermia suffer from&#8230;slow and shallow breathing</exp>. This means that it is NOT true that victims of hypothermia suffer from <exp>rapid breathing</exp>. You should therefore click in the NO column.</explain-text>
+</explain-list>
+</question>
+
+<question type='check.1' script-file='ATL10P3.xml' skills='2'>
+<question-text audio-file='ATL10Q3.mp3'>Who would be most likely to experience hypothermia?</question-text>
+<answer-list>
+<answer-text>Runners</answer-text>
+<answer-text><exp>Snow skiers</exp></answer-text>
+<answer-text>Ball players</answer-text>
+<answer-text><exp>Surfers</exp></answer-text>
+</answer-list>
+<key>0101</key>
+<explain-text>In the lecture, the professor states that <exp>hypothermia</exp> can occur in <exp>anyone who's been exposed to cold</exp> or <exp>participants in summer water sports</exp>. From this, it can be inferred that <exp>snow skiers</exp> and <exp>surfers</exp> would be most likely to experience hypothermia. The second and last answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL10P4.xml' skills='2'>
+<question-text audio-file='ATL10Q4.mp3'>What demographic group is most prone to non-sports-related hypothermia?</question-text>
+<answer-list>
+<answer-text>Infants</answer-text>
+<answer-text>Teenagers</answer-text>
+<answer-text>Young adults</answer-text>
+<answer-text><exp>The elderly</exp></answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the lecture, the professor states that <exp>a less obvious place to look for hypothermia is among the elderly, who can even be affected indoors</exp>. From this, it can be determined that <exp>the elderly</exp> can be prone to non-sports-related hypothermia. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='ATL10P5.xml' skills='2'>
+<question-text audio-file='ATL10Q5.mp3'>What methods of treating a victim of hypothermia does the professor mention?</question-text>
+<answer-list>
+<answer-text>Putting the victim in a really hot bath</answer-text>
+<answer-text><exp>Wrapping the victim in bedding</exp></answer-text>
+<answer-text>Putting the victim in a really hot room</answer-text>
+<answer-text><exp>Having people lie down next to the victim</exp></answer-text>
+</answer-list>
+<key>0101</key>
+<explain-text>In the lecture, the professor says <exp>now let's discuss the treatment</exp>. One <exp>method is wrapping the patient in warm blankets</exp>, and another method is that <exp>two people can lie as close as possible to the victim until help arrives</exp>. From this, it can be determined that the professor mentions <exp>wrapping the victim in bedding</exp> and <exp>having people lie down next to the victim</exp> as methods of treating hypothermia. The second and fourth answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL10P6.xml' skills='6'>
+<question-text audio-file='ATL10Q6.mp3'>What conclusion can be drawn about hypothermia?</question-text>
+<answer-list>
+<answer-text>It is a rather mild condition.</answer-text>
+<answer-text>It pertains only to athletes.</answer-text>
+<answer-text>It does not respond to treatment.</answer-text>
+<answer-text>It <exp>can be quite serious</exp>.</answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the lecture, the professor states that <exp>victims of hypothermia suffer from a decreased heart rate, decreased blood pressure, slow and shallow breathing, and eventually a lack of consciousness</exp> and that <exp>victims of severe hypothermia must be handled gently because the, uh, heart is unstable when it's cold and can easily go into cardiac arrest</exp>. From this, it can be concluded that hypothermia <exp>can be quite serious</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+</question-list>

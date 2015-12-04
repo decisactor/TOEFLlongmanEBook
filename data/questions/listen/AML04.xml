@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<question-list type='listen' audio-file='AML04.mp3' script-file='AML04P0.xml'>
+
+<question type='multichoice' script-file='AML04P1.xml' skills='1'>
+<question-text audio-file='AML04Q1.mp3'>What does the advisor want to tell the student?</question-text>
+<answer-list>
+<answer-text>That he should apply for a particular program</answer-text>
+<answer-text>That he needs to attend a meeting of the academic committee</answer-text>
+<answer-text><exp>That he has been admitted to a special program</exp></answer-text>
+<answer-text>That a program he has applied for has accepted him</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the conversation, the advisor says <exp>well, the academic committee met last week to discuss which students should be admitted to the Honors Program, and,&#8230;guess what&#8230;you were selected</exp>, and the student responds <exp>I didn't even know I was being considered!</exp>  From this, it can be determined that the advisor wants to tell the student <exp>that he has been admitted to a special program</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='AML04P2.xml' skills='2'>
+<question-text audio-file='AML04Q2.mp3'>What is true about the Honors Program?</question-text>
+<answer-list>
+<answer-text>The students in the program take all of their classes together.</answer-text>
+<answer-text><exp>The students in the program take some more in-depth classes</exp>.</answer-text>
+<answer-text><exp>Admission to the program entitles students to attend some special events</exp>.</answer-text>
+<answer-text>The students in the program are given a large amount of money.</answer-text>
+</answer-list>
+<key>0110</key>
+<explain-text>In the conversation, the advisor says <exp>the students who are admitted to the program&#8230;take some of their classes together and are able to delve more deeply into course material</exp> and <exp>they belong to the Honors Program association and can take part in a number of Honors Program events</exp>. From this, it can be determined that <exp>the students in the program take some more in-depth classes</exp> and <exp>admission to the program entitles students to attend some special events</exp>. The second and third answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML04P3.xml' skills='2'>
+<question-text audio-file='AML04Q3.mp3'>Why is the student concerned?</question-text>
+<answer-list>
+<answer-text><exp>He is worried that he might not have high enough grades</exp>.</answer-text>
+<answer-text>He is concerned that he will not like being in classes with the other students in the program.</answer-text>
+<answer-text>He is afraid that the program will not be competitive enough.</answer-text>
+<answer-text>He thinks he does not need the program because he is not going to graduate school.</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the conversation, the student says <exp>I <u>do</u> have some concerns about the honors courses, about competing for grades with such strong students&#8230;I really want to go to graduate school, to a top graduate school, so I'm focused on getting high grades</exp>. From this, it can be determined that the student is concerned because <exp>he is worried that he might not have high enough grades</exp>. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML04P4.xml' skills='4'>
+<question-text audio-file='AML04Q4.mp3'>How does the advisor seem to feel about the student's concern?</question-text>
+<answer-list>
+<answer-text>She thinks he is right to be concerned.</answer-text>
+<answer-text>She believes that the program is not good for the student.</answer-text>
+<answer-text>She thinks it is better for him to go to graduate school than join the program.</answer-text>
+<answer-text>She<exp> thinks that the program would be really good for him</exp>.</answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the conversation, the advisor says <exp>I don't think that's something to worry about&#8230;I think it could be really good for you to be in this program now, both for what it'll do for you now and for how it'll benefit you in getting into&#8230;and succeeding in&#8230;graduate school</exp>. From this, it can be determined that the advisor <exp>thinks that the program would be really good for him</exp>. The last answer is therefore the best answer to the question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML04P5.xml' skills='2'>
+<question-text audio-file='AML04Q5.mp3'>What does the advisor promise to do for the student?</question-text>
+<answer-list>
+<answer-text>Give him plenty of time to make a decision</answer-text>
+<answer-text><exp>Make arrangements for him to talk with other students in the program</exp></answer-text>
+<answer-text>Let him join in on some of the program courses before making a decision</answer-text>
+<answer-text>Arrange for him to talk with the Academic Committee about why he was selected</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the conversation, the student says <exp>maybe I should talk with some students who are already in the program; I'd like to discuss the program with them</exp>, and the advisor responds <exp>I can arrange that for you. I'll set something up and then let you know about it</exp>. From this it can be determined that the advisor promises to <exp>make arrangements for him to talk with other students in the program</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+</question-list>

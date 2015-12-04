@@ -1,0 +1,214 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='AMR04P0.xml'>
+<question type="multichoice" passage-file="AMR04P1.xml" skills="1">
+      <question-text>The word <bg>markedly</bg> in paragraph 1 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>consequently</answer-text>
+         <answer-text>insignificantly</answer-text>
+         <answer-text>spottily</answer-text>
+         <answer-text><exp>considerably</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>these are planets that are closest to the Sun and are smaller rocky planets with thin atmospheres</exp>, that <exp>the Jovian planets&#8230;differ markedly from the terrestrial planets</exp>, and that <exp>they are considerably farther from the Sun than are the terrestrial planets, and they are giant balls of gases and liquids</exp>. From this context, it can be determined that <exp>markedly</exp> is closest in meaning to <exp>considerably</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR04P2.xml" skills="1">
+      <question-text>The word <bg>challenging</bg> in paragraph 1 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text><exp>difficult</exp></answer-text>
+         <answer-text>competitive</answer-text>
+         <answer-text>enthusiastic</answer-text>
+         <answer-text>dramatic</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage mentions <exp>Pluto (which is the most recently discovered planet, the planet that is farther away from the Sun than the terrestrial planets and the Jovian planets, and the planet that is therefore the most challenging to study)</exp>. From this context, it can be determined that <exp>challenging</exp> is closest in meaning to <exp>difficult</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="AMR04P3.xml" skills="7">
+      <question-text>Which of the following can be inferred from the passage?</question-text>
+      <answer-list>
+         <answer-text>Earth's mass is less than that of Mars.</answer-text>
+         <answer-text><exp>Saturn's mass is more than 100 times that of Mars</exp>.</answer-text>
+         <answer-text>Mercury's mass is more than that of Venus.</answer-text>
+         <answer-text>Jupiter's mass is less than that of Saturn.</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>Earth has the most mass of all the terrestrial planets, with&#8230;considerably more mass than&#8230;Mars</exp> and <exp>slightly less than 100 times the mass of Earth or Saturn</exp>. From this, it can be determined that <exp>Saturn's mass is more than 100 times that of Mars</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="AMR04P4.xml" skills="1">
+      <question-text>The word <bg>present</bg> in paragraph 2 could best be replaced by</question-text>
+      <answer-list>
+         <answer-text><exp>demonstrate</exp></answer-text>
+         <answer-text>donate</answer-text>
+         <answer-text>modify</answer-text>
+         <answer-text>take</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that <exp>the atmospheres of the terrestrial and Jovian planets present another distinct contrast</exp>. From this context, it can be determined that <exp>present</exp> could best be replaced by <exp>demonstrate</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="AMR04P5.xml" skills="1">
+      <question-text>The phrase <bg>clear-cut</bg> in paragraph 3 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>chopped</answer-text>
+         <answer-text>light</answer-text>
+         <answer-text><exp>distinct</exp></answer-text>
+         <answer-text>short</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage states that <exp>the differences...are not so clear-cut</exp>. From this context, it can be determined that <exp>clear-cut</exp> is closest in meaning to <exp>distinct</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="AMR04P6.xml" skills="5">
+      <question-text>It is indicated in the passage that</question-text>
+      <answer-list>
+         <answer-text><exp>Venus rotates from east to west with its axis of rotation perpendicular to the plane of its orbit</exp>.</answer-text>
+         <answer-text>Earth rotates from west to east with its axis of rotation parallel to the plane of its orbit.</answer-text>
+         <answer-text>Jupiter rotates from east to west with its axis of rotation perpendicular to the plane of its orbit.</answer-text>
+         <answer-text>Uranus rotates from west to east with its axis of rotation parallel to the plane of its orbit.</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that <exp>all of the planets rotate, and in general they rotate in the same way: their respective axes of rotation are basically perpendicular to thier orbital planes, and the planets rotate from west to east as they revolve around the Sun</exp> and that <exp>there are exceptions, however: Venus and Uranus rotate from east to west</exp> and <exp>the rotation axis of Uranus lies almost in the plane of its orbit</exp>. From this, it can be determined that <exp>Venus rotates from east to west with its axis of rotation perpendicular to the plane of its orbit</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type='insert' passage-file='AMR04P7.xml' skills='4'>
+<insert-text><b><exp>This means that they move in a counterclockwise direction</exp> if viewed from the North Pole.</b></insert-text>
+<key>2</key>
+<explain-text>
+The passage states that <exp>the planets rotate from west to east as they revolve around the Sun</exp>. A sentence stating that <exp>this means that they move in a counterclockwise direction</exp> would logically follow such an idea. The second square in paragraph 3 is therefore the best answer to this question.
+</explain-text>
+</question>   
+<question type="multichoice" passage-file="AMR04P8.xml" skills="3">
+      <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 3?</question-text>
+      <answer-list>
+         <answer-text>Rotation periods on Venus are four times those on Mercury and ten times those on Earth.</answer-text>
+         <answer-text>All of the Jovian planets rotate more than ten times faster than all of the terrestrial planets.</answer-text>
+         <answer-text>The terrestrial planets have much shorter days than do Jupiter and Saturn.</answer-text>
+         <answer-text><exp>Days on Earth and Mars are longer than days on Jupiter and Saturn but much shorter than days on Mercury and Venus</exp>.</answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The highlighted sentence mentions <exp>24-hour rotation periods of Earth and Mars</exp> and states that <exp>Jupiter and Saturn complete rotations in approximately ten hours</exp> and mentions <exp>the 59-day rotation period of Mercury or the 243-day rotation period of Venus</exp>. From this, it can be determined that <exp>days on Earth and Mars are longer than days on Jupiter and Saturn but much shorter than days on Mercury and Venus</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="AMR04P9.xml" skills="1">
+      <question-text>The phrase <bg>at least as strong as</bg> in paragraph 3 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>not as strong as</answer-text>
+         <answer-text><exp>as strong as or stronger than</exp></answer-text>
+         <answer-text>less strong than</answer-text>
+         <answer-text>both stronger than</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>the magnetic fields on Jupiter and Saturn are at least as strong as the magnetic field on Earth</exp> and that <exp>they could be stronger</exp>. From this context, it can be determined that <exp>at least as strong as</exp> is closest in meaning to <exp>as strong as or stronger than</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR04P10.xml" skills="6">
+      <question-text>Which factor does NOT distinguish the terrestrial planets from the Jovian planets?</question-text>
+      <answer-list>
+         <answer-text>Their composition</answer-text>
+         <answer-text>Their size</answer-text>
+         <answer-text>Their density</answer-text>
+         <answer-text><exp>Their magnetic field</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>there are also not clear distinctions between Jovian and terrestrial planets in terms of magnetic fields</exp>. From this, it can be determined that the terrestrial planets cannot be distinguished from the Jovian planets by <exp>their magnetic field</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="AMR04P11.xml" skills="8">
+      <question-text>Why does the author begin paragraph 4 with the question <bg>And what about Pluto?</bg></question-text>
+      <answer-list>
+         <answer-text><exp>To indicate that Pluto has not been adequately covered in the previous material</exp></answer-text>
+         <answer-text>To support the idea that Pluto is the smallest planet</answer-text>
+         <answer-text>To introduce the idea that Pluto is not really a planet</answer-text>
+         <answer-text>To indicate that not much is known about Pluto</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that <exp>the planets in our solar system can be broadly classified into two groups: the <i>terrestrial</i> planets&#8230;and the <i>Jovian</i> planets</exp> and that <exp>only Pluto&#8230;does not really fit into either group of planets</exp> and goes on to discuss the Jovian and terrestrial planets in paragraphs 2 and 3. From this, it can be determined that, when the author begins paragraph 4 with the question <exp>and what about Pluto?</exp>, it is <exp>to indicate that Pluto has not been adequately covered in the previous material</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>      
+<question type="multichoice" passage-file="AMR04P12.xml" skills="8">
+      <question-text>The phrase <bg>these broad categories</bg> in paragraph 4 refers to</question-text>
+      <answer-list>
+         <answer-text>different types of magnetic fields</answer-text>
+         <answer-text>Earth and Venus</answer-text>
+         <answer-text><exp>Jovian and terrestrial planets</exp></answer-text>
+         <answer-text>planets with east-west and west-east rotations</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The first sentence of paragraph 1 mentions <exp>the <i>terrestrial</i> planets&#8230;and the <i>Jovian</i> planets</exp>, the first sentence of paragraph 2 mentions <exp>the terrestrial planets</exp> and <exp>the Jovian planets</exp>, the first sentence of paragraph 3 mentions <exp>the terrestrial and Jovian planets</exp>, and the first sentence of paragraph 4 mentions <exp>these broad categories</exp>. From this, it can be determined that <exp>these broad categories</exp> refers to the <exp>Jovian and terrestrial planets</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>         
+<question type='select.2' passage-file='AMR04P13.xml' skills='10'>
+<direction-text>Select the appropriate phrases from the answer choices and match them to the type of planet to which they relate. TWO of the answer choices will NOT be used. <i><b>This question is worth 3 points.</b></i></direction-text>
+<key>4.051.32</key>
+<category-list>
+<category>
+<category-text><b><exp>Terrestrial planets</exp></b></category-text>
+</category>
+<category>
+<category-text><b><exp>Jovian planets</exp></b></category-text>
+</category>
+</category-list>
+<answer-list>
+<answer>
+<answer-text><exp>Are greater in size and in mass than Earth</exp></answer-text>
+<explain-text>
+The passage states that <exp>the Jovian planets are all much larger than Earth, with diameters ranging from four to eleven times that of the Earth</exp> and that <exp>the mass of each of the Jovian planets is considerably more than that of Earth</exp>. From this, it can be determined that the Jovian planets <exp><b>are greater in size and in mass than Earth</b></exp>. This answer should therefore be used to describe the <exp>Jovian planets</exp>.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Have a retrograde rotation</exp></answer-text>
+<explain-text>
+The passage states that <exp>Mercury, Venus, Earth, and Mars are the terrestrial planets</exp>, mentions <exp>the Jovian planets&#8212;Jupiter, Saturn, Uranus, and Neptune</exp>, and later states that <exp>Venus and Uranus rotate from east to west, which is called retrograde rotation</exp>. From this, it can be determined that either the terrestrial planets as a whole or the Jovian planets as a whole <exp><b>have a retrograde rotation</b></exp>. This answer is therefore not a correct answer choice.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Are located between the Sun and the asteroid belt</exp></answer-text>
+<explain-text>
+The passage states that <exp>the Jovian planets&#8230;are considerably farther from the Sun than are the terrestrial planets</exp> and that <exp>the asteroid belt between the orbits of Mars and Jupiter divides the Jovian planets from the terrestrial planets</exp>. From this, it can be determined that the terrestrial planets <exp>are located between the Sun and the asteroid belt</exp>. This answer should therefore be used to describe the <exp><b>terrestrial planets</b></exp>.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Are less dense planets mainly composed of gases</exp></answer-text>
+<explain-text>
+The passage states that <exp>the terrestrial planets are much denser than the Jovian ones because the terrestrial planets are mainly rocks and metals, while the Jovian planets are mainly gases</exp>. From this, it can be determined that the Jovian planets <exp>are less dense planets mainly composed of gases</exp>. This answer should therefore be used to describe the <exp><b>Jovian planets</b></exp>.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Are less than or equal to the Earth in size and in mass</exp></answer-text>
+<explain-text>
+The passage states that <exp>Earth is the largest of the terrestrial planets, with a diameter slightly larger than the diameter of Venus and much larger than the diameter of either Mercury or Mars</exp> and that <exp>in addition, Earth has the most mass of all the terrestrial planets, with slightly more mass than Venus and considerably more mass than Mercury or Mars</exp>. From this, it can be determined that the terrestrial planets <exp>are less than or equal to the Earth in size and in mass</exp>. This answer should therefore be used to describe the <exp><b>terrestrial planets</b></exp>.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Have atmospheres similar to Earth's</exp></answer-text>
+<explain-text>
+The passage states that <exp>Mercury essentially has no atmosphere, while Venus and Mars have atmospheres that consist mostly of carbon dioxide, and Earth has a unique atmosphere that is rich in oxygen and nitrogen</exp> and that <exp>the Jovian planets have very different atmospheres, mostly hydrogen and helium and various hydrogen compounds</exp>. From this, it can be determined that it is NOT true that either the terrestrial planets as a whole or the Jovian planets <exp>have atmospheres similar to Earth's</exp>. This answer is therefore not a correct answer choice.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Are located outside of the asteroid belt</exp></answer-text>
+<explain-text>The passage states that <exp>the Jovian planets...are considerably farther from the Sun than are the terrestrial planets</exp> and that <exp>the asteroid belt between the orbits of Mars and Jupiter divides the Jovian planets from the terrestrial planets</exp>. From this, it can be determined that the Jovian planets <exp>are located outside of the asteroid belt</exp>. This answer should therefore be used to describe the <exp><b>Jovian planets</b></exp>.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Are denser planets mainly composed of solids</exp></answer-text>
+<explain-text>The passage states that <exp>the terrestrial planets are much denser than the Jovian ones because the terrestrial planets are mainly rocks and metals</exp>. From this, it can be determined that the terrestrial planets <exp>are denser planets mainly composed of solids</exp>. This answer should therefore be used to describe the <exp><b>terrestrial planets</b></exp>.
+</explain-text>
+</answer>
+</answer-list>
+</question>            
+</question-list>
+

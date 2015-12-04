@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<question-list type="read" passage-file="ASR02P00.xml">
+      
+   <question type="multichoice" passage-file="ASR02P01.xml" skills="1">
+      <question-text>The word <bg>primary</bg> in passage could best be replaced by</question-text>
+      <answer-list>
+            <answer-text>elementary</answer-text>
+            <answer-text>main</answer-text>
+            <answer-text>introductory</answer-text>
+            <answer-text>primitive</answer-text>
+      </answer-list>
+      <key>2</key>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR02P02.xml" skills="1">
+      <question-text>The word <bg>onset</bg> in passage is closest in meaning to</question-text>
+      <answer-list>
+            <answer-text>placement</answer-text>
+            <answer-text>arrangement</answer-text>
+            <answer-text>support</answer-text>
+            <answer-text>>beginning</answer-text>
+      </answer-list>
+      <key>4</key>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR02P03.xml" skills="1">
+      <question-text>The word <bg>syndrome</bg> in passage is closest in meaning to</question-text>
+      <answer-list>
+            <answer-text>concurrent set of symptoms</answer-text>
+            <answer-text>feeling of euphoria</answer-text>
+            <answer-text>mental breakdown</answer-text>
+            <answer-text>repetitive task</answer-text>
+      </answer-list>
+      <key>1</key>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR02P04.xml" skills="1">
+      <question-text>The word <bg>etiologies</bg> in passage is closest in meaning to</question-text>
+      <answer-list>
+            <answer-text>symptoms</answer-text>
+            <answer-text>patterns</answer-text>
+            <answer-text>causes</answer-text>
+            <answer-text>onsets</answer-text>
+      </answer-list>
+      <key>3</key>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR02P05.xml" skills="1">
+   <question-text>The phrase <bg>with respect to</bg> in passage is closest in meaning to</question-text>
+      <answer-list>
+            <answer-text>with dignity toward</answer-text>
+            <answer-text>in regard to</answer-text>
+            <answer-text>irrespective of</answer-text>
+            <answer-text>out of politeness for</answer-text>
+      </answer-list>
+      <key>2</key>
+   </question>
+   
+</question-list>

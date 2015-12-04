@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<question-list type='listen' genre='conversataion' audio-file='AML01.mp3' script-file='AML01P0.xml'>
+
+<question type='multichoice' script-file='AML01P1.xml' skills='1'>
+<question-text audio-file='AML01Q1.mp3'>Why does the student go to see the professor?</question-text>
+<answer-list>
+<answer-text>To tell the professor that he is getting married</answer-text>
+<answer-text>To find out when the research project is due</answer-text>
+<answer-text><exp>To get permission to postpone the project due date</exp></answer-text>
+<answer-text>To explain why he was late turning in the paper</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the conversation, the student says <exp>we have that big research project due next month</exp> and <exp>I was wondering if it would be possible to&#8230;turn in the project late</exp>. From this, it can be determined that the student goes to see the professor <exp>to get permission to postpone the project due date</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML01P2.xml' skills='2'>
+<question-text audio-file='AML01Q2.mp3'>What excuse does the student use?</question-text>
+<answer-list>
+<answer-text>He is getting married.</answer-text>
+<answer-text><exp>He has an important family event to attend</exp>.</answer-text>
+<answer-text>The due date for the project is too soon.</answer-text>
+<answer-text>The project is much harder than he had expected.</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the conversation, the student says <exp>I have a really good reason for missing school&#8230;and delaying the project. You see, my brother&#8230;he's getting married then. It's going to be a really big wedding and I'm going to be part of the wedding&#8230;so&#8230;I'll have to&#8230;miss a few days of school next month&#8230;for the wedding</exp>. From this, it can be determined that the excuse that the student uses is that <exp>he has an important family event to attend</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='AML01P3.xml' skills='4'>
+<question-text audio-file='AML01Q3.mp3'>How does the professor seem to feel abut this?</question-text>
+<answer-list>
+<answer-text><exp>Missing a few days of class for the wedding is OK</exp>.</answer-text>
+<answer-text>Missing a few days of class for the wedding is not OK.</answer-text>
+<answer-text>Delaying the research project is OK.</answer-text>
+<answer-text><exp>Delaying the research project is not OK</exp>.</answer-text>
+</answer-list>
+<key>1001</key>
+<explain-text>In the conversation, the professor says to the student <exp>your brother's wedding sounds like a good reason to miss a couple of days of school</exp> and <exp>I want you to get the project done now, get it done early, before the wedding</exp>. From this, it can be determined that the professor seems to feel that <exp>missing a few days of class for the wedding is OK</exp> and <exp>delaying the research project is not OK</exp>. The first and last answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML01P4.xml' skills='4'>
+<question-text audio-file='AML01Q4.mp3' replay-before='AML01Q4B.mp3' replay-before-graphic='AML01G2.jpg'> Which of the following might the professor say?</question-text>
+<answer-list>
+<answer-text><exp>"You have plenty of time to complete the project before the wedding."</exp></answer-text>
+<answer-text>"Maybe the wedding could be postponed."</answer-text>
+<answer-text>"That seems like a good reason to delay the project."</answer-text>
+<answer-text>"I can't believe that the wedding is so soon."</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the conversation, the student says <exp>I'd really appreciate it if I didn't have to finish the research project until after the wedding</exp>, and the professor reponds by saying <exp>but the wedding's not for another month from now</exp>. The professor's reponse implies that the professor thinks that the wedding is a long way away, so the professor would most likely say <exp>you have plenty of time to complete the project before the wedding</exp>. The first answer is therefore the best answer to the question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML01P5.xml' skills='4'>
+<question-text audio-file='AML01Q5.mp3' replay-before='AML01Q5B.mp3' replay-before-graphic='AML01G2.jpg'> What does the professor mean?</question-text>
+<answer-list>
+<answer-text>I'm not really doing you a big favor, but I'm telling you it is.</answer-text>
+<answer-text>I'm sure you don't believe this because you never believe what I say.</answer-text>
+<answer-text>It certainly seems like a big favor, but it's not.</answer-text>
+<answer-text><exp>You're not going to like this now, but you'll appreciate it later</exp>.</answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the conversation, the professor says <exp>listen, I'm going to do you a big favor, though you might not believe right now that it actually <u>is</u> a big favor. I want you to get the project done now, get it done early, before the wedding. That way, you won't have it hanging over your head during the wedding</exp>. From this, it can be determined that the professor means <exp>you're not going to like this now, but you'll appreciate it later</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+</question-list>

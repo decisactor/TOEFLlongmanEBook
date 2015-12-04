@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<question-list type="read" passage-file="ASR01P00.xml">
+   
+   <question type="multichoice" passage-file="ASR01P01.xml" skills="1">
+      <question-text>The word <bg>poised</bg> in paragraph 1 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>interacting</answer-text>
+         <answer-text>sitting</answer-text>
+         <answer-text>blowing</answer-text>
+         <answer-text>poisoning</answer-text>
+      </answer-list>
+      <key>2</key>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR01P02.xml" skills="1">
+      <question-text>The phrase <bg>take place</bg> in paragraph 1 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>position themselves</answer-text>
+         <answer-text>put</answer-text>
+         <answer-text>are seated</answer-text>
+         <answer-text>occur</answer-text>
+      </answer-list>
+      <key>2</key>
+
+   </question>
+   
+   <question type="multichoice" passage-file="ASR01P03.xml" skills="1">
+      <question-text>The word <bg>forced</bg> in paragraph 1 could best be replaced by</question-text>
+      <answer-list>
+         <answer-text>obliged</answer-text>
+         <answer-text>required</answer-text>
+         <answer-text>pushed</answer-text>
+         <answer-text>commanded</answer-text>
+      </answer-list>
+      <key>3</key>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR01P04.xml" skills="1">
+      <question-text>The word <bg>poor</bg> in paragraph 2 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>color</answer-text>
+         <answer-text>odor</answer-text>
+         <answer-text>thickness</answer-text>
+         <answer-text>smoke</answer-text>
+      </answer-list>
+      <key>1</key>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR01P05.xml" skills="1">
+      <question-text>The phrase <bg>play a role</bg> in paragraph 2 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>makes fun of</answer-text>
+         <answer-text>serves a function in</answer-text>
+         <answer-text>acts the part of</answer-text>
+         <answer-text>moves about in</answer-text>
+      </answer-list>
+      <key>2</key>
+   </question>
+   
+</question-list>

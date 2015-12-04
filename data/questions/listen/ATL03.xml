@@ -1,0 +1,84 @@
+<?xml version='1.0'?>
+<question-list type='listen' audio-file='ATL03.mp3' script-file='ATL03P0.xml'>
+
+<question type='multichoice' script-file='ATL03P1.xml' skills='1'>
+<question-text audio-file='ATL03Q1.mp3'>What main topic is the professor discussing?</question-text>
+<answer-list>
+<answer-text><exp>How an event hundreds of years ago affects a product today</exp></answer-text>
+<answer-text>Why cheese is so popular in America today</answer-text>
+<answer-text>What happened during the American Revolution</answer-text>
+<answer-text>Where cheese comes from</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the lecture, the professor asks <exp>is anyone aware that a boycott in 1776 is still affecting the American cheese industry today?</exp> and states that <exp>to introduce our unit on commercial cheese production, I'm going to talk about this boycott</exp>. From this, it can be determined that the main topic that the professor is discussing is <exp>how an event hundreds of years ago affects a product today</exp>. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL03P2.xml' skills='2'>
+<question-text audio-file='ATL03Q2.mp3'>What unit is the class beginning with this lecture?</question-text>
+<answer-list>
+<answer-text>The Revolutionary War</answer-text>
+<answer-text>Different kinds of cheese and where they come from</answer-text>
+<answer-text><exp>Commercial cheese production</exp></answer-text>
+<answer-text>The history of boycotts</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the lecture, the professor states that the purpose of this story is <exp>to introduce our unit on commercial cheese production</exp>. This means that the unit the class is beginning is <exp>commercial cheese production</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='ATL03P3.xml' skills='2'>
+<question-text audio-file='ATL03Q3.mp3'>What products discussed in the lecture were boycotted by the American colonists?</question-text>
+<answer-list>
+<answer-text>Yellow cheese</answer-text>
+<answer-text><exp>White cheese</exp></answer-text>
+<answer-text><exp>English tea</exp></answer-text>
+<answer-text>Boston tea</answer-text>
+</answer-list>
+<key>0110</key>
+<explain-text>In the lecture, the professor states that <exp>colonists protested by boycotting English products</exp>, that <exp>the most famous of these is tea</exp>, that <exp>a lesser-known product that the colonists boycotted was cheddar cheese</exp>, and that <exp>American cheese was easily identified as orange cheddar</exp>. From this it can be determined that the colonists boycotted <exp>white cheese</exp> and <exp>English tea</exp>. The second and third answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL03P4.xml' skills='4'>
+<question-text audio-file='ATL03Q4.mp3'>Which of the following statements would an American colonist most likely have said?</question-text>
+<answer-list>
+<answer-text>"Using boycotts to get what I want is usually not very effective."</answer-text>
+<answer-text><exp>"I would rather use American products than pay taxes to use English products."</exp></answer-text>
+<answer-text>"Cheese actually tastes better to me with carrot juice in it, and it looks better, too."</answer-text>
+<answer-text>"Because there is a boycott on cheese, I'm not going to eat cheese any more."</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the lecture, the professor states that <exp>the colonists felt that it was unfair that they were required to pay ever-increasing taxes on products imported from England</exp>, that <exp>many colonists refused to buy English cheddar because they would have to pay huge taxes on it</exp>, and that <exp>the colonists strongly preferred American cheese over more heavily-taxed English cheese</exp>. From this, it can be determined that an American colonist would most likely have said <exp>"I would rather use American products than pay taxes to use English products."</exp> The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.2' script-file='ATL03P5.xml' skills='5'>
+<question-text audio-file='ATL03Q5.mp3'>Indicate whether the ideas below are included in the lecture.</question-text>
+<answer-list height='40'>
+<answer-text><exp>American colonists had to pay taxes on<br/>English imports</exp>.</answer-text>
+<answer-text><exp>The English began to boycott American<br/>products</exp>.</answer-text>
+<answer-text><exp>Farmers added carrot juice to English<br/>cheese</exp>.</answer-text>
+<answer-text><exp>American cheese is white cheddar</exp>.</answer-text>
+</answer-list>
+<choice-list>
+<choice-text>YES</choice-text>
+<choice-text>NO</choice-text>
+</choice-list>
+<key>1222</key>
+<explain-list>
+<explain-text>The professor states that <exp>the colonists felt it was unfair that they were required to pay ever-increasing taxes on products imported from England</exp>. From this, it can be determined that it is included in the lecture that <exp>American colonists had to pay taxes on English imports</exp>. You should therefore click in the YES column.</explain-text>
+<explain-text>The professor states that <exp>many American colonists protested by boycotting English products</exp>. From this, it can be determined that it is NOT discussed in the lecture that <exp>the English began to boycott American products</exp>. You should therefore click in the NO column.</explain-text>
+<explain-text>The professor states that <exp>to distinguish American cheese, American farmers added carrot juice to their milk</exp>. From this, it can be determined that it is NOT discussed in the lecture that <exp>farmers added carrot juice to English cheese</exp>. You should therefore click in the NO column.</explain-text>
+<explain-text>The professor states that <exp>the orange coloring in American cheese remained</exp>. From this, it can be determined that is NOT mentioned that <exp>American cheese is white cheddar</exp>. You should therefore click in the NO column.</explain-text>
+</explain-list>
+</question>
+
+<question type='multichoice' script-file='ATL03P6.xml' skills='2'>
+<question-text audio-file='ATL03Q6.mp3'>What will be discussed during the next class session?</question-text>
+<answer-list>
+<answer-text>The development of white cheddar</answer-text>
+<answer-text>Processing cream</answer-text>
+<answer-text><exp>Commercial production of soft cheese</exp></answer-text>
+<answer-text>Methods for storing cheese</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the lecture, the professor mentions that <exp>tomorrow, we'll discuss commercial production of soft cheeses</exp>. This means that <exp>commercial production of soft cheese</exp> will be discussed in the next class session. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+</question-list>

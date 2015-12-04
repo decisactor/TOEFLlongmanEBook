@@ -1,0 +1,36 @@
+<?xml version='1.0'?>
+<script>
+<page>
+<paragraph time='00:00:00' speaker='narrator' graphic-file='ATL02G1.jpg'>Listen to a conversation between a student and a professor.</paragraph>
+</page>
+<page>
+<paragraph time='00:00:04' speaker='student' graphic-file='ATL02G2.jpg'>Hello, Dr. Hart, do you have a moment? <exp>I'd like to ask you a question if I could</exp>.</paragraph>
+<paragraph   speaker='professor' graphic-file='ATL02G2.jpg'>Now's just fine. What's your question?</paragraph>
+<paragraph   speaker='student' graphic-file='ATL02G2.jpg'>Well, <exp>I didn't do very well on the last exam, the one on the structure of the Earth</exp>.</paragraph>
+<paragraph   speaker='professor' graphic-file='ATL02G2.jpg'>Do you have your exam paper with you? Let me see what you did&#8230;Um&#8230;You've got a lot of things confused here.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL02G2.jpg'>I do?</paragraph> 
+<paragraph   speaker='professor' graphic-file='ATL02G2.jpg'>Yes,&#8230;for example, here you said that the Earth's crust under landmasses is thin and the crust under the oceans is thick. That's not right; it's the opposite.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL02G2.jpg'>You mean, the crust is thick under landmasses and thin under the oceans?</paragraph> 
+<paragraph   speaker='professor' graphic-file='ATL02G2.jpg'>That's right.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL02G2.jpg'>I knew it was one or the other&#8230;.</paragraph> 
+<paragraph   speaker='professor' graphic-file='ATL02G2.jpg'>Now, look what you said about the Earth's mantle. You said that the mantle is only a small part of the crust, but that's also not true.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL02G2.jpg'>It's a large part of the crust?</paragraph> 
+<paragraph   speaker='professor' graphic-file='ATL02G2.jpg'>(<i>sighs</i>) Yes, the mantle makes up the greatest part of the crust.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL02G2.jpg'>I can see why I didn't get very many points on that answer&#8230;.</paragraph> 
+<paragraph   speaker='professor' graphic-file='ATL02G2.jpg'>Uh&#8230;and here, look what you said about the core, you said the core has three parts, the outer core, the middle core, and the inner core.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL02G2.jpg'>And that's not correct, either?</paragraph> 
+<paragraph   speaker='professor' graphic-file='ATL02G2.jpg'>No, it's not. There aren't <u>three</u> parts to the core; there are only two, the outer core and the inner core.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL02G2.jpg'>There's no middle core?</paragraph> 
+<paragraph   speaker='professor' graphic-file='ATL02G2.jpg'>No, only the outer core and the inner core, as I said.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL02G2.jpg'>OK, I understand&#8230;.</paragraph> 
+<paragraph   speaker='professor' graphic-file='ATL02G2.jpg'>And look here, you got this wrong, too. You said that the inner core was liquid and the outer core was not.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL02G2.jpg'>Is that backwards, too?</paragraph> 
+<paragraph   speaker='professor' graphic-file='ATL02G2.jpg'>Yes, that's backwards, too.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL02G2.jpg'>So the outer core is liquid, and the inner core isn't liquid?</paragraph> 
+<paragraph   speaker='professor' graphic-file='ATL02G2.jpg'>That's right. Now, I think you can see why your grade wasn't very high. In fact, I'm not even sure you deserve the score you got. You'll need to do much better on the next exam.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL02G2.jpg'>I'll try.</paragraph> 
+<paragraph   speaker='professor' graphic-file='ATL02G2.jpg'>You do that.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL02G2.jpg'>It shouldn't be too hard to do better. In fact, it would probably be difficult to do much worse.</paragraph> 
+<paragraph   speaker='professor' graphic-file='ATL02G2.jpg'>You won't get an argument from me on that!</paragraph>
+</page>
+</script>

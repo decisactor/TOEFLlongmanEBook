@@ -1,0 +1,34 @@
+<?xml version='1.0'?>
+<script>
+<page>
+<paragraph time='00:00:00' speaker='narrator' graphic-file='ATL01G1.jpg'>Listen to a conversation between a student and a worker on campus.</paragraph>
+</page>
+<page>
+<paragraph time='00:00:05' speaker='office worker' graphic-file='ATL01G2.jpg'>Next, please&#8230;yes, how can I help you?</paragraph>
+<paragraph   speaker='student' graphic-file='ATL01G2.jpg'>I'm here to apply for a job on campus.</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL01G2.jpg'>Have you filled out the application?</paragraph>
+<paragraph   speaker='student' graphic-file='ATL01G2.jpg'>Yes, I have. Here it is.</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL01G2.jpg'>OK. Let me have it&#8230;and now let me ask you a few questions. First of all, do you have any computer skills?</paragraph>
+<paragraph   speaker='student' graphic-file='ATL01G2.jpg'>Yes, I've been working on computers since I was six years old.</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL01G2.jpg'>Good, because we have a number of jobs available that require computer skills. Now, are you prepared to be responsible? Will you show up for work when you're scheduled?</paragraph>
+<paragraph   speaker='student' graphic-file='ATL01G2.jpg'>Of course.</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL01G2.jpg'>When can you work? It says here that your classes are on Monday, Wednesday, and Friday mornings and Tuesday and Thursday afternoons, so are you free to work when you're not in class?</paragraph>
+<paragraph   speaker='student' graphic-file='ATL01G2.jpg'>Yes, <exp>I can work on Monday, Wednesday, and Friday afternoons and Tuesday and Thursday mornings</exp>. I can also work on the weekends; I'm available then.</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL01G2.jpg'>Oh, we deal only with university offices, and they're not open on the weekends.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL01G2.jpg'>That's too bad because I'd like to work then.</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL01G2.jpg'>You want to work on the weekends? You want to work <u>only</u> on the weekends?</paragraph>
+<paragraph   speaker='student' graphic-file='ATL01G2.jpg'>No, sorry, that's not what I meant. I'd like to work as many hours as possible. I'm free Monday, Wednesday, and Friday afternoons and Tuesday and Thursday mornings, and I'm also available to work on the weekend&#8230;but it sounds like you don't have any work available on weekends. I <u>really</u> do want to work on Monday, Wednesday, and Friday afternoons and Tuesday and Thursday mornings.
+</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL01G2.jpg'>OK, I see now, sorry for the confusion. I do possibly have some work available during the week when you're not in class&#8230;OK, you said earlier that you have good computer skills.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL01G2.jpg'>Yes, I use computers <u>all</u> the time now.</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL01G2.jpg'>Then it sounds as if you're quite comfortable using a computer.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL01G2.jpg'>I think so.</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL01G2.jpg'>And you're available from one o'clock until five o'clock on, on Mondays, Wednesdays and Fridays and from eight o'clock until noon on Tuesdays and Thursdays?</paragraph>
+<paragraph   speaker='student' graphic-file='ATL01G2.jpg'>I am.</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL01G2.jpg'>Good. I have a job opening that requires good computer skills. Also, that's a total of 20 hours per week, and that's the maximum time that a student can work on campus.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL01G2.jpg'>Twenty hours a week sounds great to me!</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL01G2.jpg'>Are you available to start next Monday?</paragraph>
+<paragraph   speaker='student' graphic-file='ATL01G2.jpg'>I'm available even before that. I'm even available right now.</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL01G2.jpg'>Well, you don't need to start right now. Monday's soon enough.</paragraph>
+</page>
+</script>

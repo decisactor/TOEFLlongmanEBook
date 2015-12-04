@@ -1,0 +1,26 @@
+<?xml version='1.0'?>
+<script>
+<page>
+<paragraph time='00:00:00' speaker='narrator' graphic-file='AML03G1.jpg'>Listen to a conversation between a student and a professor.</paragraph>
+</page>
+<page>
+<paragraph time='00:00:04' speaker='student' graphic-file='AML03G2.jpg'>Professor Kelly?</paragraph>
+<paragraph   speaker='professor' graphic-file='AML03G2.jpg'>Yes?</paragraph>
+<paragraph   speaker='student' graphic-file='AML03G2.jpg'>Do you have a minute? I have a question for you.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML03G2.jpg'>Sure. What's your question?</paragraph>
+<paragraph   speaker='student' graphic-file='AML03G2.jpg'>It's about your lecture this morning.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML03G2.jpg'>What about it?</paragraph>
+<paragraph   speaker='student' graphic-file='AML03G2.jpg'>You were talking about a theory by Anderson. I couldn't understand what that theory was&#8230;or&#8230;uh&#8230;actually&#8230;where it came from.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML03G2.jpg'>What do you mean by where it came from? Are you asking how the theory was developed?</paragraph>
+<paragraph   speaker='student' graphic-file='AML03G2.jpg'>No, that's not what I mean&#8230;it's not what I'm asking&#8230;<exp>I'm asking where I can find information about the theory</exp>. I always try to read the assigned material in the text before I come to lectures so the lecture will be easier for me to understand. But when you started talking about a theory of Anderson's, I didn't remember reading about it, and <exp>after the lecture, I looked all through the text, and I couldn't find any theory by Anderson in the text</exp>.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML03G2.jpg'>Well, there's a good reason why you couldn't find that particular theory in the textbook, and it's that it's not there.</paragraph>
+<paragraph   speaker='student' graphic-file='AML03G2.jpg'>It's not? But you were talking about it in the lecture.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML03G2.jpg'>You do understand that a certain amount of the material I cover in the lectures isn't in the text? My lectures don't merely cover the information in the text. In the lectures I refer to the material in the text, and then I bring in related information,&#8230;information that expands on the material in the text.</paragraph>
+<paragraph   speaker='student' graphic-file='AML03G2.jpg'>Oh, I guess I hadn't understood that before, but I do now.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML03G2.jpg'>And do you understand that all the material is covered on the exams, both the material from the text and the supplemental material that I bring into the lectures?</paragraph>
+<paragraph   speaker='student' graphic-file='AML03G2.jpg'>I do understand that now.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML03G2.jpg'>By the way, is this the first time this's happened to you, that you figured out that material from the lecture wasn't covered in the text? I certainly hope it's not because I do this quite often.</paragraph>
+<paragraph   speaker='student' graphic-file='AML03G2.jpg'>Unfortunately, it's not. It's happened a number of other times before, but then I just thought that I wasn't reading carefully enough. So this time, I read everything in the text very carefully and took detailed notes. When you mentioned the theory by Anderson, I was quite sure it wasn't in the text, so this time I decided to ask you about it.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML03G2.jpg'>I'm glad you did because this is a key point of the course.</paragraph>
+</page>
+</script>

@@ -1,0 +1,83 @@
+<?xml version='1.0'?>
+<question-list type='listen' audio-file='ATL11.mp3' script-file='ATL11P0.xml'>
+
+<question type='multichoice' script-file='ATL11P1.xml' skills='1'>
+<question-text audio-file='ATL11Q1.mp3'>What major problem in the construction of the transcontinental railroad does the professor mainly discuss?</question-text>
+<answer-list>
+<answer-text>High-risk investments</answer-text>
+<answer-text>Mountainous terrain</answer-text>
+<answer-text><exp>Finances</exp></answer-text>
+<answer-text>Scandals</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the lecture, the professor states that <exp>today we'll focus on the tremendous financial difficulties of building the railroad</exp> and that <exp>the most difficult task&#8230;was funding</exp>. This means that the primary problem the professor is discussing in this lecture is <exp>finances</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='ATL11P2.xml' skills='2'>
+<question-text audio-file='ATL11Q2.mp3'>Why couldn't the federal government completely fund the construction of the railroad?</question-text>
+<answer-list>
+<answer-text>Congress voted down the Railroad Act.</answer-text>
+<answer-text><exp>Over $100 million was needed to complete the project</exp>.</answer-text>
+<answer-text>The government only had $48,000 available to fund the railroad.</answer-text>
+<answer-text><exp>The railroad cost more than the entire federal budget</exp>.</answer-text>
+</answer-list>
+<key>0101</key>
+<explain-text>In the lecture, the professor states that <exp>the railroad would cost&#8230;over $100 million</exp> and <exp>it was almost twice as much as the federal budget at the time</exp>. This means that <exp>over $100 million was needed to complete the project</exp> and that <exp>the railroad cost more than the entire federal budget</exp>. The second and last answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL11P3.xml' skills='2'>
+<question-text audio-file='ATL11Q3.mp3'>Why did the railroad companies spend thousands of dollars developing businesses out West when they lacked financial resources to build the track?</question-text>
+<answer-list>
+<answer-text>They wanted to demonstrate the usefulness of a transcontinental railroad.</answer-text>
+<answer-text>The government required them to develop businesses along railroad lines.</answer-text>
+<answer-text>They needed more refueling stops for the trains in that area.</answer-text>
+<answer-text><exp>The businesses generated money for the railroad</exp>.</answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the lecture, the professor states that <exp>to raise funds for the railroads, railroad companies found a number of ways to raise funds; one was to make businesses dependent on the railroad</exp> and that <exp>the railroad companies&#8230;forced them to pay outrageous prices for the use of the railroad</exp>. This means that <exp>the businesses generated money for the railroad</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL11P4.xml' skills='2'>
+<question-text audio-file='ATL11Q4.mp3'>What incorrect information did the railroad companies use to get more money than they should have from the government?</question-text>
+<answer-list>
+<answer-text>They <exp>misrepresented the location of a mountain range</exp>.</answer-text>
+<answer-text>They misrepresented who actually built the railroads.</answer-text>
+<answer-text>They misrepresented the date when the project was finished.</answer-text>
+<answer-text>They misrepresented the location of Promontory, Utah.</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the lecture, the professor mentions that <exp>federal loans paid triple the money for tracks laid on mountainous terrain</exp> and that <exp>Central Pacific hired a geologist who would misrepresent the location of the Sierra Mountains</exp>. This means that the railroad companies gave incorrect information when they <exp>misrepresented the location of a mountain range</exp> to get more money. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.2' script-file='ATL11P5.xml' skills='5' width='510'>
+<question-text audio-file='ATL11Q5.mp3'>The professor mentions several categories of raising funds and provides examples of these categories. Indicate for each example which category it belongs to.</question-text>
+<answer-list height='40'>
+<answer-text><exp>Farmers' goods<br/>shipped by rail</exp></answer-text>
+<answer-text><exp>Rails built near<br/>Sacramento</exp></answer-text>
+<answer-text><exp>Funds provided by<br/>the Railroad Act</exp></answer-text>
+</answer-list>
+<choice-list width='120'>
+<choice-text><exp>FEDERAL FUNDS</exp></choice-text>
+<choice-text><exp>RAIL-DEPENDENT BUSINESSES</exp></choice-text>
+<choice-text><exp>UNETHICAL MEANS</exp></choice-text>
+</choice-list>
+<key>231</key>
+<explain-list>
+<explain-text>The professor states that <exp>railroad companies spent thousands of dollars to attract...farmers...and then forced them to pay outrageous prices for the use of the railroad</exp>. From this, it can be determined that <exp>farmers' goods shipped by rail</exp> are an example of <exp>rail-dependent businesses</exp>. You should therefore click in the second column.</explain-text>
+<explain-text>The professor states that the government <exp>agreed to pay $48,000 instead of $16,000 per mile for 24 miles of flat land outside of Sacramento, California</exp>. From this, it can be determined that <exp>rails built near Sacramento</exp> are an example of <exp>unethical means</exp>. You should therefore click in the third column.</explain-text>
+<explain-text>The professor states that <exp>there was some federal funding available through the Railroad Act</exp>. From this, it can be determined that <exp>funds provided by the Railroad Act</exp> are an example of <exp>federal funds</exp>. You should therefore click in the first column.</explain-text>
+</explain-list>
+</question>
+
+<question type='multichoice' script-file='ATL11P6.xml' skills='6'>
+<question-text audio-file='ATL11Q6.mp3'>What can be concluded about the way that the transcontinental railroad was funded?</question-text>
+<answer-list>
+<answer-text>The problems in constructing the transcontinental railroad made it unsuccessful.</answer-text>
+<answer-text>Those who caused the problems in the construction of the transcontinental railroad were eventually held responsible for their actions.</answer-text>
+<answer-text>Though there were problems finding investors to fund the transcontinental railroad, finding government funding was not a problem.</answer-text>
+<answer-text><exp>The railroads did not always act honorably in building the transcontinental railroad</exp>.</answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the lecture, the professor states that <exp>the railroad companies involved in the building of the transcontinental railroad weren't always exactly aboveboard in their handling of this project</exp>, that <exp>these businessmen, farmers, and craftsmen who were lured to the West with promises of success soon found themselves&#8230;unable to make much of a living because of the high prices they had to pay to the railroads to stay in business</exp>, and that <exp>because both the Union Pacific and Central Pacific were desperate and greedy, they turned to increasingly unethical means of obtaining funds</exp>. From this, it can be determined that <exp>the railroads did not always act honorably in building the transcontinental railroad</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+</question-list>

@@ -1,0 +1,25 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR09P00.xml'>
+    <question type="multichoice" passage-file="ASR09P01.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in the passage? <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.</question-text>
+        <answer-list>
+            <answer-text>Opposite conditions in summer and in winter necessitate different protective coloration for Arctic animals.</answer-text>
+            <answer-text>The coloration of the summer and winter landscapes in the Arctic fails to protect the Arctic tundra.</answer-text>
+            <answer-text>In a single season, protective coloring schemes are ineffective in the treeless Arctic.</answer-text>
+            <answer-text>For many animals, a single protective coloring scheme effectively protects them during summer and winter months.</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+   
+    <question type="multichoice" passage-file="ASR09P02.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in the passage? <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.</question-text>
+        <answer-list>
+            <answer-text>The arctic fox is unusual in that the color of its coat changes for no reason.</answer-text>
+            <answer-text>The arctic fox lives in an environment that is brownish gray in the summer and white in the winter.</answer-text>
+            <answer-text>It is a phenomenon that the coat of the arctic fox turns white in the springtime and gray in the fall.</answer-text>
+            <answer-text>The arctic fox demonstrates that protective coloration can change during different seasons.</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>
+   
+</question-list>

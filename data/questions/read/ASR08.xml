@@ -1,0 +1,59 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR08P00.xml'>
+      
+    <question type='multichoice' passage-file='ASR08P01.xml' skills='2'>
+        <question-text>The word <bg>that</bg> in paragraph 1 refers to</question-text>
+        <answer-list>
+            <answer-text>author</answer-text>
+            <answer-text>books</answer-text>
+            <answer-text>boys</answer-text>
+            <answer-text>half</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>
+    
+    <question type='multichoice' passage-file='ASR08P02.xml' skills='2'>
+        <question-text>The word <bg>it</bg> in paragraph 1 refers to</question-text>
+        <answer-list>
+            <answer-text>the second half</answer-text>
+            <answer-text>the nineteenth century</answer-text>
+            <answer-text>100</answer-text>
+            <answer-text>success</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>
+    
+    <question type='multichoice' passage-file='ASR08P03.xml' skills='2'>
+                <question-text>The word <bg>them</bg> in paragraph 2 refers to</question-text>
+        <answer-list>
+            <answer-text>books</answer-text>
+            <answer-text>children</answer-text>
+            <answer-text>slums</answer-text>
+            <answer-text>pawns</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>
+    
+    <question type='multichoice' passage-file='ASR08P04.xml' skills='2'>
+        <question-text>The word <bg>who</bg> in paragraph 2 refers to</question-text>
+        <answer-list>
+            <answer-text>slums</answer-text>
+            <answer-text>society</answer-text>
+            <answer-text>pawns</answer-text>
+            <answer-text>opportunity</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>
+    
+    <question type='multichoice' passage-file='ASR08P05.xml' skills='2'>
+        <question-text>The word <bg>it</bg> in paragraph 2 refers to</question-text>
+        <answer-list>
+            <answer-text>style</answer-text>
+            <answer-text>simplicity</answer-text>
+            <answer-text>repetition</answer-text>
+            <answer-text>audience</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+
+</question-list>

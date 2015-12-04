@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR04P00.xml'>
+      
+    <question type='multichoice' passage-file='ASR04P01.xml' skills='1'>
+        <question-text>The phrase <bg>embark on</bg> in paragraph 1 is closest in meaning to</question-text>
+        <answer-list>
+            <answer-text>took a trip to</answer-text>
+            <answer-text>started out on</answer-text>
+            <answer-text>improved upon</answer-text>
+            <answer-text>had an opinion about</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>
+    
+    <question type='multichoice' passage-file='ASR04P02.xml' skills='1'>
+        <question-text>The word <bg>break</bg> in paragraph 2 could best be replaced by</question-text>
+        <answer-list>
+            <answer-text>rupture</answer-text>
+            <answer-text>revelation</answer-text>
+            <answer-text>opportunity</answer-text>
+            <answer-text>rest</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>
+    
+    <question type='multichoice' passage-file='ASR04P03.xml' skills='1'>
+        <question-text>The word <bg>places</bg> in paragraph 2 could best be replaced by</question-text>
+        <answer-list>
+            <answer-text>locates</answer-text>
+            <answer-text>puts</answer-text>
+            <answer-text>recites</answer-text>
+            <answer-text>positions</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>
+    
+    <question type='multichoice' passage-file='ASR04P04.xml' skills='1'>
+        <question-text>The word <bg>repudiates</bg> in paragraph 2 is closest in meaning to</question-text>
+        <answer-list>
+            <answer-text>refuses to accept</answer-text>
+            <answer-text>lives up to</answer-text>
+            <answer-text>tries to understand</answer-text>
+            <answer-text>makes the best of</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+    
+    <question type='multichoice' passage-file='ASR04P05.xml' skills='1'>
+        <question-text>The word <bg>protagonist</bg> in paragraph 2 is closest in meaning to</question-text>
+        <answer-list>
+            <answer-text>arch enemy</answer-text>
+            <answer-text>voracious reader</answer-text>
+            <answer-text>skilled worker</answer-text>
+            <answer-text>lead character</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>
+
+    <question type='multichoice' passage-file='ASR04P06.xml' skills='1'>
+        <question-text>The phrase <bg>take great pains</bg> in paragraph 3 is closest in meaning to</question-text>
+        <answer-list>
+            <answer-text>work diligently</answer-text>
+            <answer-text>recognize hurtfully</answer-text>
+            <answer-text>accept unequivocally</answer-text>
+            <answer-text>hurt agonizingly</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+    
+    <question type='multichoice' passage-file='ASR04P07.xml' skills='1'>
+        <question-text>The word <bg>endured</bg> in paragraph 3 is closest in meaning to</question-text>
+        <answer-list>
+            <answer-text>lasted</answer-text>
+            <answer-text>tested</answer-text>
+            <answer-text>waited</answer-text>
+            <answer-text>limited</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+    
+    <question type='multichoice' passage-file='ASR04P08.xml' skills='1'>
+        <question-text>The word <bg>epic</bg> in paragraph 4 could best be replaced by</question-text>
+        <answer-list>
+            <answer-text>lengthy narrative</answer-text>
+            <answer-text>detailed non-fictional</answer-text>
+            <answer-text>emotionally romantic</answer-text>
+            <answer-text>rousing Western</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+    
+    <question type='multichoice' passage-file='ASR04P09.xml' skills='1'>
+        <question-text>The phrase <bg>centering on</bg> in paragraph 4 could best be replaced by</question-text>
+        <answer-list>
+            <answer-text>circling around</answer-text>
+            <answer-text>pointing to</answer-text>
+            <answer-text>focusing on</answer-text>
+            <answer-text>arranging for</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>
+    
+</question-list>

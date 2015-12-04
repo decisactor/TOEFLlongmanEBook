@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<question-list type='listen' genre='conversation' audio-file='ASL04.mp3' script-file='ASL04P0.xml'>
+
+<question type='multichoice' script-file='ASL04P1.xml' skills='3'>
+<question-text audio-file='ASL04Q1.mp3' replay-after='ASL04Q1B.mp3' replay-before-graphic='ASL04G1.jpg'>Why does the man say this:</question-text>
+<answer-list>
+<answer-text><exp>To indicate the next topic for discussion</exp></answer-text>
+<answer-text>To suggest a new location for the discussion</answer-text>
+<answer-text>To state what has previously been said</answer-text>
+<answer-text>To clarify why they are having the discussion</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>The man opens the discussion by saying <exp>now, we can move on to discuss the next part of the chapter, the part on land tortoises</exp>. From this, it can be determined that the man says this <exp>to indicate the next topic for discussion</exp>. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL04P2.xml' skills='4'>
+<question-text audio-file='ASL04Q2.mp3' replay-before='ASL04Q2B.mp3' replay-after='ASL04Q2A.mp3' replay-before-graphic='ASL04G3.jpg'>How does the man seem to feel when he says this:</question-text>
+<answer-list>
+<answer-text>Unhappy</answer-text>
+<answer-text><exp>Incredulous</exp></answer-text>
+<answer-text>Incapable</answer-text>
+<answer-text>Disturbed</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the discussion, the woman mentions <exp>tortoises that were supposed to be one- to two-hundred years old</exp>, and the man responds by saying <exp>that couldn't be&#8230;No way</exp>.  From this, it can be determined that the man seems to feel <exp>incredulous</exp> about what the woman said. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL04P3.xml' skills='4'>
+<question-text audio-file='ASL04Q3.mp3' replay-before='ASL04Q3B.mp3' replay-after='ASL04Q3A.mp3' replay-before-graphic='ASL04G4.jpg'>Why does the woman say this:</question-text>
+<answer-list>
+<answer-text>To contradict what was in the book</answer-text>
+<answer-text>To indicate that she is not sure what is correct</answer-text>
+<answer-text>To restate what the man said</answer-text>
+<answer-text><exp>To correct an error by the man</exp></answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the discussion, the man says <exp>I read that Marion's Tortoise was 152 years old</exp>, and the woman responds by saying <exp>actually, I think the book said it was at least 152 years old</exp>. From this, it can be determined that the woman says this <exp>to correct an error by the man</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL04P4.xml' skills='4'>
+<question-text audio-file='ASL04Q4.mp3' replay-before='ASL04Q4B.mp3' replay-after='ASL04Q4A.mp3' replay-before-graphic='ASL04G4.jpg'>What does the man mean when he says this:</question-text>
+<answer-list>
+<answer-text>What was said sounds plausible.</answer-text>
+<answer-text>Marion's tortoise was not on the island of Mauritius.</answer-text>
+<answer-text><exp>There may be an alternate explanation</exp>.</answer-text>
+<answer-text>There was only one tortoise on the island.</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the discussion, the woman says that <exp>Marion's tortoise died in 1918</exp>, and the man responds by saying <exp>how do they know it was the same tortoise? Could it have been a different tortoise?</exp>  From this, it can be determined that the man means that <exp>there may be an alternate explanation</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL04P5.xml' skills='4'>
+<question-text audio-file='ASL04Q5.mp3' replay-before='ASL04Q5B.mp3' replay-after='ASL04Q5A.mp3' replay-before-graphic='ASL04G4.jpg'>Which sentence best describes how the woman feels when she says this:</question-text>
+<answer-list>
+<answer-text><exp>It is possible for a tortoise to live for 200 years</exp>.</answer-text>
+<answer-text>A tortoise could not possibly live to the age of 200.</answer-text>
+<answer-text>No 200-year-old tortoise has ever been found.</answer-text>
+<answer-text>Many types of tortoises live to be very old.</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the discussion, the woman says that <exp>two hundred years old for this type of tortoise isn't inconceivable</exp>. From this, it can be determined that the woman feels that <exp>it is possible for a tortoise to live for 200 years</exp>. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+</question-list>

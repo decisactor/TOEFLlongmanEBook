@@ -1,0 +1,219 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='AMR08P0.xml'>
+<question type="multichoice" passage-file="AMR08P1.xml" skills="1">
+      <question-text>The word <bg>nature</bg> in paragraph 1 could be replaced by</question-text>
+      <answer-list>
+         <answer-text>normalcy</answer-text>
+         <answer-text>landscape</answer-text>
+         <answer-text><exp>character</exp></answer-text>
+         <answer-text>setting</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage mentions <exp>the nature of change</exp>. From this context, it can be determined that <exp>nature</exp> could best be replaced by <exp>character</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR08P2.xml" skills="6">
+      <question-text>What is NOT stated in paragraph 1 about the question of how change in plant coverage takes place?</question-text>
+      <answer-list>
+         <answer-text><exp>It is not easy to explain</exp>.</answer-text>
+         <answer-text><exp>Various explanations have been hypothesized</exp>.</answer-text>
+         <answer-text><exp>It is generally agreed that more than one model is needed to explain it</exp>.</answer-text>
+         <answer-text>Environmentalists have finally decided how to explain it.</answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>this question is one that is difficult to clarify</exp>, which means <exp>it is not easy to explain</exp> in the first answer; the passage also states that <exp>numerous models have been proposed</exp>, which means that <exp>various explanations have been hypothesized</exp> in the second answer; in addition, the passage states that <exp>there is fairly broad agreement that one model cannot possibly cover the various and diverse kinds of changes that take place</exp>, which means that <exp>it is generally agreed that more than one model is needed to explain it</exp> in the third answer. The last answer is the one that is NOT stated and is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="AMR08P3.xml" skills="1">
+      <question-text>The word <bg>they</bg> in paragraph 2 refers to</question-text>
+      <answer-list>
+         <answer-text><exp>plants</exp></answer-text>
+         <answer-text>changes</answer-text>
+         <answer-text>environments</answer-text>
+         <answer-text>surroundings</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage mentions <exp>plants are capable of causing changes</exp> and <exp>the environments that they inhabit</exp>. From this context, it can be determined that <exp>they</exp> refers to <exp>plants</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR08P4.xml" skills="1">
+      <question-text>A <bg>denuded</bg> area in paragraph 2 is one that is</question-text>
+      <answer-list>
+         <answer-text>the cause of natural events</answer-text>
+         <answer-text>hospitable to most plants</answer-text>
+         <answer-text>not in the shadows</answer-text>
+         <answer-text><exp>void of plant life</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage mentions <exp>an area that has been stripped of vegetation</exp> and later mentions <exp>the denuded area</exp>. From this context, it can be determined that a <exp>denuded</exp> area is one that is <exp>void of plant life</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="AMR08P5.xml" skills="7">
+      <question-text>It can be inferred from the passage that pioneers</question-text>
+      <answer-list>
+         <answer-text>tend to stay in one place</answer-text>
+         <answer-text><exp>improve an area for the plants that follow</exp></answer-text>
+         <answer-text>remove needed nutrients from the soil</answer-text>
+         <answer-text>cause the soil to erode</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage mentions <exp>pioneers</exp> and states that <exp>these initial plants cause changes in the environment, perhaps by adding nutrients to the soil or preventing erosion, and at the same time prepare the environment for a second invasion of plants</exp>. From this context, it can be inferred that pioneers <exp>improve an area for the plants that follow</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR08P6.xml" skills="1">
+      <question-text>The phrase <bg>in turn</bg> in paragraph 2 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>all at once</answer-text>
+         <answer-text><exp>one after the other</exp></answer-text>
+         <answer-text>in a circular movement</answer-text>
+         <answer-text>all of a sudden</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>the pioneers are followed or replaced by a second group of plants, and these new plants in turn cause further changes to the environment</exp>. From this context, it can be determined that the phrase <exp>in turn</exp> is closest in meaning to <exp>one after the other</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR08P7.xml" skills="3">
+      <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 2?</question-text>
+      <answer-list>
+         <answer-text><exp>Successive communities move into the area, each one changing the environment, until equilibrium has been achieved</exp>.</answer-text>
+         <answer-text>Plants leave a particular area because of the environment until no more plants are in the area.</answer-text>
+         <answer-text>Different plants prefer different environments, so different plant species find equilibrium by finding environments that are suitable.</answer-text>
+         <answer-text>When a climax community has been reached, it is safe for a wide variety of plants to move into the area.</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that <exp>different communities of plants continue to move into the area as changes to the environment caused by prior communities make the area more receptive to newer communities</exp>, which means that <exp>successive communities move into the area, each one changing the environment</exp> and that this continues until <exp>a state of equilibrium has been reached in the environmental system and the community is stabilized</exp>, which means <exp>until equilibrium has been achieved</exp>. From this, it can be determined that the first answer is the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR08P8.xml" skills="8">
+      <question-text>The author mentions <bg>the basis of the relationship of a community of plants to the environment</bg> in paragraph 3 in order to</question-text>
+      <answer-list>
+         <answer-text>indicate a strength of the idea presented in paragraph 3</answer-text>
+         <answer-text>contrast the main idea of paragraph 3 with that of paragraph 4</answer-text>
+         <answer-text><exp>refer to the idea presented in the previous paragraph</exp></answer-text>
+         <answer-text>explain a problem with the model presented in paragraph 3</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The first sentence of paragraph 2 states that <exp>the community-succession model is based upon the idea that plants are capable of causing changes to occur in the environments that they inhabit</exp>, and the first sentence of paragraph 3 states that <exp>the individualistic model is based on the idea that changes in the distribution of plant coverage can be explained on the basis of the probability of recurrence of individual plants rather than on the basis of the relationship of a community of plants to the environment</exp>. From this, it can be determined that the author mentions <exp>the basis of the relationship of a community of plants to the environment</exp> in paragraph 3 to <exp>refer to the idea presented in the previous paragraph</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR08P9.xml" skills="1">
+      <question-text>The word <bg>space</bg> in paragraph 3 could be replaced by</question-text>
+      <answer-list>
+         <answer-text>sky</answer-text>
+         <answer-text><exp>area</exp></answer-text>
+         <answer-text>air</answer-text>
+         <answer-text>room</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage mentions <exp>the plants that have the highest probabilities of moving into the emptied space</exp>. From this context, it can be determined that the word <exp>space</exp> could best be replaced by <exp>area</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR08P10.xml" skills="5">
+      <question-text>Which of the following is stated in paragraph 3 about a climax community under the individualistic model?</question-text>
+      <answer-list>
+         <answer-text>It is the initial group of plants to enter an area.</answer-text>
+         <answer-text>It is a state where equilibrium does not exist.</answer-text>
+         <answer-text>It is reached when the optimal species are in the area.</answer-text>
+         <answer-text>It <exp>is achieved when species in the area are the most likely to be there</exp>.</answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage mentions <exp>the individualistic model</exp> and states that <exp>under this model, climax communities are stable because probabilities favor the recurrence of existing species and not because the optimal species for a particular environment has been achieved</exp>. From this, it can be determined that a climax community under the individualistic model <exp>is achieved when species in the area are the most likely to be there</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR08P11.xml" skills="1">
+      <question-text>The word <bg>thus</bg> in paragraph 4 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text><exp>therefore</exp></answer-text>
+         <answer-text>nonetheless</answer-text>
+         <answer-text>because</answer-text>
+         <answer-text>indeed</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that <exp>the plants&#8230;either die or fail to reproduce and thus lose territory</exp>. From this context, it can be determined that <exp>thus</exp> is closest in meaning to <exp>therefore</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type='insert' passage-file='AMR08P12.xml' skills='4'>
+<insert-text><b><exp>Examples of such negative forces</exp> are heat, dryness, fire, flooding, or disease.</b></insert-text>
+<key>2</key>
+<explain-text>
+The first sentence of paragraph 4 mentions <exp>negative forces in the environment of the plant</exp>. A sentence providing <exp>examples of such negative forces</exp> would logically follow such a sentence. The second square in paragraph 4 is therefore the best answer to this question.
+</explain-text>
+</question>
+<question type='select.2' passage-file='AMR08P13.xml' skills='10'>
+<direction-text>Select the appropriate phrases from the answer choices and match them to the type of plant distribution model to which they relate. TWO of the answer choices will NOT be used. <i><b>This question is worth 3 points</b></i>.</direction-text>
+<key>41.305.2</key>
+<category-list>
+<category>
+<category-text><b><exp>Community succession model</exp></b></category-text>
+</category>
+<category>
+<category-text><b><exp>Individualistic model</exp></b></category-text>
+</category>
+<category>
+<category-text><b><exp>Disturbance model</exp></b></category-text>
+</category>
+</category-list>
+<answer-list>
+<answer>
+<answer-text><exp>Is used to explain how plants respond to negative factors in the environment</exp></answer-text>
+<explain-text>
+The passage states that <exp>according to the disturbance model, the distribution of plants changes in response to forces in the environment of the plant</exp> and that <exp>when the level of disturbance in the environment exceeds that which a particular plant is able to tolerate, the plants living in the area of disturbance either die or fail to reproduce and thus lose territory</exp>. From this, it can be determined that the <exp><b>disturbance model</b></exp> <exp>is used to explain how plants respond to negative factors in the environment</exp>.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Is based on the idea that the plants best suited to the environment will enter an area</exp></answer-text>
+<explain-text>
+The passage states that <exp>the community-succession model is based upon the idea that plants are capable of causing changes to occur in the environments</exp> and that <exp>different communities of plants continue to move into the area as changes to the environment caused by prior communities make the area more receptive to newer communities</exp>. From this, it can be determined that the <exp><b>community-succession model</b></exp> <exp>is based on the idea that the plants best suited to the environment will enter an area</exp>.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Is based on the idea that plant distribution is strongly affected by the development of human society</exp></answer-text>
+<explain-text>
+The passage does discuss <exp>the distribution of plant coverage</exp>, but it does NOT mention that <exp>plant distribution is strongly affected by the development of human society</exp>. This answer is therefore not a correct answer to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Depends on the idea that the most statistically likely plants will enter an area</exp></answer-text>
+<explain-text>
+The passage states that <exp>it is simply a matter of probabilities as to which plant moves into the newly opened up space</exp>. From this, it can be determined that the <exp><b>individualistic model</b></exp> <exp>depends on the idea that the most statistically likely plants will enter an area</exp>.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Is used most often to explain plant distribution</exp></answer-text>
+<explain-text>
+The passage mentions <exp>three of the most discussed models</exp> and states that <exp>the first of these, the community-succession model, is the one that is most often used to explain various changes in plant distribution</exp>. From this, it can be determined that the <exp><b>community-succession model</b></exp> <exp>is used most often to explain plant distribution</exp>.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Depends on the idea that plants will not survive in an unsuitable environment</exp></answer-text>
+<explain-text>
+The passage states that <exp>according to the disturbance model, the distribution of plants changes in response to forces in the environment of the plant</exp> and that <exp>when the level of disturbance in the environment exceeds that which a particular plant is able to tolerate, the plants living in the area of disturbance either die or fail to reproduce and thus lose territory</exp>. From this, it can be determined that the <exp><b>disturbance model</b></exp> <exp>depends on the idea that plants will not survive in an unsuitable environment</exp>.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Fails to contribute to an explanation of why plants are distributed in the way that they are</exp></answer-text>
+<explain-text>
+The passage mentions <exp>three of the most discussed models</exp> and states that <exp>the first of these, the community-succession model, is the one that is most often used to explain various changes in plant distribution</exp> and that <exp>the remaining two models offer interesting insights into some of the changes</exp>. From this, it can be determined that it is NOT true that any of these models <exp>fails to contribute to an explanation of why plants are distributed in the way that they are</exp>. This answer is therefore not a correct answer to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Is used to explain why probabilities and not just environmental factors affect plant distribution</exp></answer-text>
+<explain-text>
+The passage states that <exp>the individualistic model is based on the idea that changes in the distribution of plant coverage can be explained on the basis of the probability of recurrence of individual plants rather than on the basis of the relationship of a community of plants to the environment.</exp> From this, it can be determined that the <exp><b>individualistic model</b></exp> <exp>is used to explain why probabilities and not just environmental factors affect plant distribution.</exp>
+</explain-text>
+</answer>
+</answer-list>
+</question>
+</question-list>         
+

@@ -1,0 +1,75 @@
+<?xml version='1.0'?>
+<question-list type='listen' audio-file='ASL01.mp3' script-file='ASL01P0.xml'>
+
+<question type='multichoice' script-file='ASL01P1.xml' skills='1'>
+<question-text audio-file='ASL01Q1.mp3'>What is the professor mainly discussing?</question-text>
+<answer-list>
+<answer-text>Insects that feed on plants</answer-text>
+<answer-text>Animals that feed on insects</answer-text>
+<answer-text><exp>Plants that use insects to survive</exp></answer-text>
+<answer-text>Insects that are attractive to plants</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the lecture, the professor states that <exp>today, we're going to be talking about insectivorous plants</exp> and that <exp>insectivorous plants are plants that trap and assimilate insects in order to sustain life</exp>. From this, it can be determined that the professor is mainly discussing <exp>plants that use insects to survive</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL01P2.xml' skills='1'>
+<question-text audio-file='ASL01Q2.mp3'>Why is the professor discussing this topic?</question-text>
+<answer-list>
+<answer-text><exp>He is lecturing about something that the students will see the next day</exp>.</answer-text>
+<answer-text>He is preparing the students for an exam that is tomorrow.</answer-text>
+<answer-text>He is explaining something that the students have just seen.</answer-text>
+<answer-text>He is discussing something that the students will be required to read.</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the lecture, the professor states that <exp>as you know, we have a field trip tomorrow</exp> and that <exp>we'll be going to the botanical gardens, and we're going to be seeing some insectivorous plants there</exp> at the beginning of the lecture and ends the lecture with <exp>you'll need it for the trip tomorrow</exp>. From this, it can be determined that the professor is discussing the topic because <exp>he is lecturing about something that the students will see the next day</exp>. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL01P3.xml' skills='2'>
+<question-text audio-file='ASL01Q3.mp3'>What does an insectivorous plant get from an insect?</question-text>
+<answer-list>
+<answer-text>All of its nutrients</answer-text>
+<answer-text>Chlorophyll</answer-text>
+<answer-text><exp>Nitrogen</exp></answer-text>
+<answer-text>Digestive liquid</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the lecture, the professor states that <exp>insectivorous plants&#8230;consume their insect victims in order to get the nitrogen they need</exp>. This means that an insectivorous plant gets <exp>nitrogen</exp> from an insect. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL01P4.xml' skills='2'>
+<question-text audio-file='ASL01Q4.mp3'>According to the lecturer, how widespread are insectivorous plants?</question-text>
+<answer-list>
+<answer-text><exp>There are hundreds of varieties in the world</exp>.</answer-text>
+<answer-text>They exist in 500 countries in the world.</answer-text>
+<answer-text>They exist only in North America.</answer-text>
+<answer-text>There are five different types throughout the world.</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the lecture, the professor states that <exp>there're perhaps 500 known species of insectivorous plants worldwide</exp>. This means that <exp>there are hundreds of varieties in the world</exp>. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL01P5.xml' skills='2'>
+<question-text audio-file='ASL01Q5.mp3'>What is stated in the lecture about the Venus flytrap?</question-text>
+<answer-list>
+<answer-text>It is the largest insectivorous plant.</answer-text>
+<answer-text>It is found only in South America.</answer-text>
+<answer-text><exp>It has moveable parts</exp>.</answer-text>
+<answer-text>It has only one trap leaf.</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the lecture, the professor states that <exp>the Venus flytrap catches insects by suddenly snapping the ends of one of its trap leaves around an insect</exp>. This means that <exp>it has moveable parts</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='ASL01P6.xml' skills='2'>
+<question-text audio-file='ASL01Q6.mp3'>What is stated in the lecture about the sensory bristles?</question-text>
+<answer-list>
+<answer-text>They are divided into two parts.</answer-text>
+<answer-text><exp>There are three</exp> of them.</answer-text>
+<answer-text>They are on the outside of the leaf.</answer-text>
+<answer-text>They <exp>cause the trap leaf to close</exp>.</answer-text>
+</answer-list>
+<key>0101</key>
+<explain-text>In the lecture, the professor states that <exp>inside the two parts of the trap leaf are three sensory bristles, sensory bristols which resemble tiny hairs</exp> and that <exp>when an insect touches the bristles inside a trap leaf, the two surfaces of the leaf shut instantaneously</exp>. From this, it can be determined that <exp>there are three</exp> sensory bristles and that the sensory bristles <exp>cause the trap leaf to close</exp>. The second and fourth answers are therefore the best answers to this question.</explain-text>
+</question>
+</question-list>

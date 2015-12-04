@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+<question-list type='listen' genre='conversation' audio-file='ASL09.mp3' script-file='ASL09P0.xml'>
+
+<question type='check.1' script-file='ASL09P1.xml' skills='1'>
+<question-text audio-file='ASL09Q1.mp3'>What is true about the topics covered in the biology course?</question-text>
+<answer-list>
+<answer-text><exp>Active poisoners were mainly covered in the previous class</exp>.</answer-text>
+<answer-text>Passive poisoners were mainly covered in the previous class.</answer-text>
+<answer-text>Active poisoners will mainly be discussed at this class meeting.</answer-text>
+<answer-text><exp>Passive poisoners will mainly be discussed at this class meeting</exp>.</answer-text>
+</answer-list>
+<key>1001</key>
+<explain-text>In the discussion, the instructor states that <exp>in our last meeting, we dealt with active poisoners</exp>, and <exp>today we're going to concentrate on passive poisoners</exp>. This means that <exp>active poisoners were mainly covered in the previous class</exp> and that <exp>passive poisoners will mainly be discussed at this class meeting</exp>. The first and last answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL09P2.xml' skills='2'>
+<question-text audio-file='ASL09Q2.mp3'>How do active poisoners differ from passive poisoners?</question-text>
+<answer-list>
+<answer-text><exp>Active poison is initiated by the attacker, while passive poison is initiated by the victim</exp>.</answer-text>
+<answer-text>Active poisoners are animals, while passive poisoners are all plants.</answer-text>
+<answer-text>Active poison is triggered by contact, while passive poison is triggered by consumption.</answer-text>
+<answer-text>Active poisons are deadly, while passive poisons are not.</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the discussion, a student states that <exp>active poisoners are poisoners that deliver poison actively or aggressively in a process initiated by the poisoner</exp> and that <exp>passive poisoners, on the other hand, deliver poison passively, only when the victim initiates the process</exp>. This means that <exp>active poison is initiated by the attacker, while passive poison is initiated by the victim</exp>. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='ASL09P3.xml' skills='2'>
+<question-text audio-file='ASL09Q3.mp3'>What are the two different methods by which passive poison is triggered?</question-text>
+<answer-list>
+<answer-text>Contraction of the passive poisoner</answer-text>
+<answer-text><exp>Contact with the passive poisoner</exp></answer-text>
+<answer-text><exp>Consumption by the victim</exp></answer-text>
+<answer-text>Indigestion in the passive poisoner</answer-text>
+</answer-list>
+<key>0110</key>
+<explain-text>In the discussion, a student states that <exp>the two different methods that activate passive poisoners are contact and consumption. For one type of passive poisoner, the poison is activated when the victim makes contact with the poisoner. For the other types of passive poisoner, the poison is activated when the victim consumes, or ingests, the poisoner</exp>. This means that passive poison is triggered by either <exp>contact with the passive poisoner</exp> or <exp>consumption by the victim</exp>. The second and third answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL09P4.xml' skills='3'>
+<question-text audio-file='ASL09Q4.mp3' replay-before='ASL09Q4B.mp3' replay-after='ASL09Q4A.mp3' replay-before-graphic='ASL09G4.jpg'>Why does the instructor say the following:</question-text>
+<answer-list>
+<answer-text>He's trying to slow down the class discussion.</answer-text>
+<answer-text>He's not sure what was just said.</answer-text>
+<answer-text><exp>He's realized that he said something incorrect</exp>.</answer-text>
+<answer-text>He would like the class to take a short break.</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the discussion, the instructor says that <exp>active poisoners&#8230;are plants&#8230;Oh, wait a minute. Did I say plants?  I meant animals. Of course, active poisoners must be <u>animals</u></exp>. From this, it can be determined that the instructor says this because <exp>he's realized that he said something incorrect</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='ASL09P5.xml' skills='2'>
+<question-text audio-file='ASL09Q5.mp3'>Active and passive poisoners are what types of living beings?</question-text>
+<answer-list>
+<answer-text>Plants may be active poisoners.</answer-text>
+<answer-text><exp>Animals may be passive poisoners</exp>.</answer-text>
+<answer-text>It is possible for a plant or an animal to be an active poisoner.</answer-text>
+<answer-text><exp>It is possible for a plant or an animal to be a passive poisoner</exp>.</answer-text>
+</answer-list>
+<key>0101</key>
+<explain-text>In the discussion, the instructor states that <exp>active poisoners must be <u>animals</u> because they actively initiate the 
+poisoning</exp>, and a student states that <exp>both plants and animals can be passive poisoners</exp>. This means that <exp>animals may be passive poisoners</exp> and that <exp>it is possible for a plant or an animal to be a passive poisoner</exp>. The second and last answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='check.2' script-file='ASL09P6.xml' skills='5' width='500'>
+<question-text audio-file='ASL09Q6.mp3'>Indicate what type of poisoner each of these is.</question-text>
+<answer-list height='40'>
+<answer-text><exp>Active poisoner</exp></answer-text>
+<answer-text><exp>Passive poisoner through<br/>contact</exp></answer-text>
+<answer-text><exp>Passive poisoner through<br/>consumption</exp></answer-text>
+</answer-list>
+<choice-list>
+<choice-text><exp>JELLYFISH</exp></choice-text>
+<choice-text><exp>BEE</exp></choice-text>
+<choice-text><exp>MUSHROOM</exp></choice-text>
+</choice-list>
+<key>213</key>
+<explain-list>
+<explain-text>One of the stduents says <exp>some very common examples of active poisoners are bees</exp>. From this, it can be determined that an example of an <exp>active poisoner</exp> is a <exp>bee</exp>.  You should therefore click in the second column.</explain-text>
+<explain-text>One of the students says <exp>there are also animals that deliver poison passively, through contact, such as the jellyfish</exp>. From this, it can be determined that an example of a <exp>passive poisoner through contact</exp> is a <exp>jellyfish</exp>.  You should therefore click in the first column.</explain-text>
+<explain-text>One of the students says <exp>certain types of mushrooms are extremely poisonous and can cause death if eaten</exp>. From this, it can be determined that an example of a <exp>passive poisoner through consumption</exp> is a <exp>mushroom</exp>. You should therefore click in the third column.</explain-text>
+</explain-list>
+</question>
+
+<question type='multichoice' script-file='ASL09P7.xml' skills='6'>
+<question-text audio-file='ASL09Q7.mp3'>What does the professor imply about the next class?</question-text>
+<answer-list>
+<answer-text>The discussion will be continued.</answer-text>
+<answer-text><exp>A quiz will be given</exp>.</answer-text>
+<answer-text>A new topic will be introduced.</answer-text>
+<answer-text>The students will be able to ask questions.</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the lecture, the professor states that <exp>in our next class&#8230;well, we're going to find out if you really do understand the material</exp> and that <exp>just make sure the material is really clear next class because I'm going to&#8230;uh&#8230;to find out if you really understand it</exp>. From this, it can be determined that the professor implies that <exp>a quiz will be given</exp> in the next class. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+</question-list>

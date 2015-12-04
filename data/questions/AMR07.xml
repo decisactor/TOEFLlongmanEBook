@@ -1,0 +1,198 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='AMR07P0.xml'>
+<question type="multichoice" passage-file="AMR07P1.xml" skills="2">
+      <question-text>The word <bg>that</bg> in paragraph 1 refers to</question-text>
+      <answer-list>
+         <answer-text>social reformer Jane Addams</answer-text>
+         <answer-text>the founder</answer-text>
+         <answer-text><exp>a settlement house</exp></answer-text>
+         <answer-text>Chicago, Illinois</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage states mentions <exp>a settlement house&#8230;that provided much-needed services to the poorest and neediest residents of the 
+area</exp>. From this context, it can be determined that <exp>that</exp> refers to <exp>a settlement house</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR07P2.xml" skills="1">
+      <question-text>The word <bg>time</bg> in paragraph 2 could best be replaced by</question-text>
+      <answer-list>
+         <answer-text><exp>period</exp></answer-text>
+         <answer-text>hour</answer-text>
+         <answer-text>opportunity</answer-text>
+         <answer-text>instant</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that <exp>her father encouraged her education, something unusual for the time</exp>. From this context, it can be determined that <exp>time</exp> could best be replaced by <exp>period</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR07P3.xml" skills="3">
+      <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 2?</question-text>
+      <answer-list>
+         <answer-text>She wanted to go to either Harvard or Yale, but her father sent her to Smith College instead.</answer-text>
+         <answer-text>She preferred to get an appropriate education at Rockford Academy, but her father insisted that she have a more rigorous education.</answer-text>
+         <answer-text>Smith College tried to model itself after Harvard and Yale but was not as successful in doing so as Rockford Academy.</answer-text>
+         <answer-text><exp>Her father did not allow her to get the education that she wanted and instead insisted on an education that he felt was better for a young lady</exp>.</answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The highlighted sentence states that <exp>she had wanted to attend&#8230;Smith College</exp> but that <exp>her father&#8230;sent her to Rockford Academy</exp>, which was <exp>dedicated to turning out proper young ladies</exp>. This means that <exp>her father did not allow her to get the education that she wanted and instead insisted on an education that he felt was better for a young lady</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type='insert' passage-file='AMR07P4.xml' skills='4'>
+<insert-text><b><exp>She suffered from physical problems</exp> such as intense backaches, headaches, <exp>and general malaise as well as</exp> experiencing feelings of <exp>depression and melancholy</exp>.</b></insert-text>
+<key>3</key>
+<explain-text>
+The seventh sentence in paragraph 2 states that <exp>she fell ill</exp>. A sentence stating that <exp>she suffered from physical problems&#8230;and general malaise as well as&#8230;depression and melancholy</exp> would logically follow such a sentence. The third square in paragraph 2 is therefore the best answer to this question.
+</explain-text>
+</question>      
+<question type="multichoice" passage-file="AMR07P5.xml" skills="7">
+      <question-text>It can be inferred from the passage that Jane's family would have preferred that she</question-text>
+      <answer-list>
+         <answer-text>attend Harvard or Yale</answer-text>
+         <answer-text><exp>remain in Cedarville rather than move to Chicago</exp></answer-text>
+         <answer-text>open Hull House without help from her friend</answer-text>
+         <answer-text>work harder to get Hull House opened</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage mentions <exp>their hometown of Cedarville</exp> and later mentions <exp>returning home, where she was expected to take on a role as kindly maiden aunt who would assist in the upbringing of her nieces and nephews</exp> and states that <exp>in spite of strong objections from her family, Jane Addams moved to Chicago</exp>. From this, it can be inferred that Jane's family would have preferred that she <exp>remain in Cedarville rather than move to Chicago</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>         
+<question type="multichoice" passage-file="AMR07P6.xml" skills="1">
+      <question-text>The word <bg>momentous</bg> in paragraph 3 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>extremely sudden</answer-text>
+         <answer-text>quite short</answer-text>
+         <answer-text>rather timely</answer-text>
+         <answer-text><exp>highly significant</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>she made a momentous decision</exp>. From  this context, it can be determined that <exp>momentous</exp> is closest in meaning to <exp>highly significant</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>            
+<question type="multichoice" passage-file="AMR07P7.xml" skills="1">
+      <question-text>The phrase <exp><bg>raise enough</bg></exp> in paragraph 5 could best be replaced by</question-text>
+      <answer-list>
+         <answer-text>increase the use of</answer-text>
+         <answer-text><exp>gather sufficient funds</exp></answer-text>
+         <answer-text>adequately lift up</answer-text>
+         <answer-text>inflate the price of</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>Addams was able to raise enough...to open Hull House</exp>. From this context, it can be determined that <exp>raise enough</exp> could best be replaced by <exp>gather sufficient funds</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>               
+<question type="multichoice" passage-file="AMR07P8.xml" skills="6">
+      <question-text>According to the passage, it is NOT true that Hull House</question-text>
+      <answer-list>
+         <answer-text>was opened with funds that Jane raised</answer-text>
+         <answer-text>was started in a stately but decaying home</answer-text>
+         <answer-text>grew to include a variety of programs</answer-text>
+         <answer-text><exp>was provided government support</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>Hull House grew substantially, financed solely by private funds</exp>. This means that it is NOT true that Hull House <exp>was provided government support</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>                  
+<question type="multichoice" passage-file="AMR07P9.xml" skills="8">
+      <question-text>The author begins paragraph 6 with the phrase <exp><bg>in spite of all the good work accomplished at Hull House</bg></exp> in order to</question-text>
+      <answer-list>
+         <answer-text>indicate that paragraph 6 will discuss Addams' good work</answer-text>
+         <answer-text><exp>relate the ideas in paragraph 5 to those in paragraph 6</exp></answer-text>
+         <answer-text>show that the information presented in paragraph 5 was not accurate</answer-text>
+         <answer-text>explain that the good accomplished at Hull House was not because of Addams</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+Paragraph 5 describes a number of Jane Addams' accomplishments, that she <exp>was able to raise enough&#8230;to open Hull House</exp>, that <exp>programs were created to provide food and housing and medical care</exp>, and that <exp>over time, Hull House, grew substantially</exp>; paragraph 6 begins with the idea that <exp>in spite of all the good work accomplished at Hull House, Jane Addams was not always viewed as a positive influence</exp>. From this, it can be determined that the author begins paragraph 6 with the phrase <exp>in spite of all the good work accomplished at Hull House</exp> in order to <exp>relate the ideas in paragraph 5 to those in paragraph 6</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>                     
+<question type="multichoice" passage-file="AMR07P10.xml" skills="1">
+      <question-text>The phrase <exp><bg>a substantive role</bg></exp> in paragraph 6 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text><exp>a significant function</exp></answer-text>
+         <answer-text>a subservient part</answer-text>
+         <answer-text>a controversial idea</answer-text>
+         <answer-text>an acclaimed character</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that Jane Addams <exp>demonstrated that a woman could have a substantive role outside the home</exp>. From this context, it can be determined that <exp>a substantive role</exp> is closest in meaning to <exp>a significant function</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>                        
+<question type="multichoice" passage-file="AMR07P11.xml" skills="5">
+      <question-text>Which of the following is stated in the passage about Jane Addams?</question-text>
+      <answer-list>
+         <answer-text>She was born into a needy family.</answer-text>
+         <answer-text>She experienced good health throughout her life.</answer-text>
+         <answer-text>She took a trip to Europe to spend time in the finest vacation destinations.</answer-text>
+         <answer-text><exp>Some of her announced positions were not well received by the public</exp>.</answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>she was an outspoken proponent of women's rights&#8230;, a position that was assured of arousing conflict in many parts of society</exp> and that <exp>she strongly advocated peace over war, a position that also made her unpopular</exp>. From this context, it can be determined that <exp>some of her announced positions were not well received by the public</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR07P12.xml" skills="1">
+      <question-text>The phrase <exp><bg>vilified for</bg></exp> in paragraph 6 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>noticed as a result of</answer-text>
+         <answer-text>released from</answer-text>
+         <answer-text>maligned because of</answer-text>
+         <answer-text>cheered due to</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage states that <exp>when the United States entered World War I in 1917, Addams was publicly vilified for her unpopular position against the war</exp>. From this context, it can be determined that the phrase <exp>vilified for</exp> is closest in meaning to <exp>maligned because of</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type='select.1' passage-file='AMR07P13.xml' skills='9'>
+<direction-text>Select the appropriate sentences from the answer choices that are key points in the discussion of <exp>the path that Jane Addams took in her efforts to improve society</exp>. THREE of the answer choices will NOT be used. <i><b>This question is worth 3 points.</b></i></direction-text>
+<intro-text><b>The path that Jane Addams took in her efforts to improve society</b></intro-text>
+<answer-list>
+<answer>
+<answer-text><exp>She was instrumental in establishing and running an institution  devoted to improving the lives of the needy</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>within a few months of her arrival in Chicago, Addams was able to raise enough, through her contacts with church members and members of her social class, to open Hull House</exp> and that <exp>over time, Hull House grew substantially, financed solely by private funds</exp>. From this, it can be determined that <exp>she was instrumental in establishing and running an institution devoted to improving the lives of the needy</exp>. This answer provides critical information to support the topic of <exp><b>the path that Jane Addams took in her efforts to improve society</b></exp> and is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>She was raised quite differently from her brothers and sisters</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>her father was a successful businessman</exp> and that <exp>Jane was raised in a loving environment with all of the advantages of the position that her family held</exp>. However, the passage does NOT mention whether or not <exp>she was raised quite differently from her brothers and sisters</exp>. This answer is therefore not a correct answer to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Her tireless attempts to make the public aware of her views on needed changes were sometimes controversial</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>she was an outspoken proponent of women's rights and lived a life that demonstrated that a woman could have a substantive role outside the home, a position that was assured of arousing conflict in many parts of society</exp> and that <exp>furthermore, she strongly advocated peace over war, a position that also made her unpopular</exp>. From this, it can be determined that <exp>her tireless attempts to make the public aware of her views on needed changes were sometimes controversial</exp>. This answer provides critical information to support the topic of <exp><b>the path that Jane Addams took in her efforts to improve society</b></exp> and is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>She strongly supported the military efforts of her government during World War I</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>she strongly advocated peace over war, a position that also made her unpopular</exp> and that <exp>when the United States entered World War I in 1917, Addams was publicly vilified for her unpopular position against the war</exp>. From this, it can be determined that it is NOT true that <exp>she strongly supported the military efforts of her government during World War I</exp>. This answer is therefore not a correct answer to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>The place that she purchased for a settlement house had formerly been a mansion that had been allowed to deteriorate</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>Hull House, in a slum area of Chicago, was a rundown mansion that was converted to a service organization for the needy population</exp>. From this, it can be determined that it is true that <exp>the place that she purchased for a settlement house had formerly been a mansion that had been allowed to deteriorate</exp>. However, it is only a detail and not a main point. This answer is therefore not a correct answer to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>After graduating from college, she decided to take a different path from the one chosen for her by her family and society</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>after finishing at Rockford&#8230;she decided to travel to Europe</exp> and that <exp>after returning home, where she was expected to take on a role as kindly maiden aunt who would assist in the upbringing of her nieces and nephews, she made a momentous decision to turn her life in a different direction</exp>. From this, it can be determined that <exp>after graduating from college, she decided to take a different path from the one chosen for her by her family and society</exp>. This answer provides critical information to support the topic of <exp><b>the path that Jane Addams took in her efforts to improve society</b></exp> and is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+</answer-list>
+<key>1.2..0</key>
+</question>
+</question-list>                           
+

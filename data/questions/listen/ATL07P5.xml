@@ -1,0 +1,40 @@
+<?xml version='1.0'?>
+<script>
+<page>
+<paragraph time='00:00:00' speaker='narrator' graphic-file='ATL07G1.jpg'>Listen to a conversation between a student and an office worker.</paragraph>
+</page>
+<page>
+<paragraph time='00:00:04' speaker='student' graphic-file='ATL07G2.jpg'>Can you help me, please?</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL07G2.jpg'>Yes?</paragraph>
+<paragraph   speaker='student' graphic-file='ATL07G2.jpg'>I have a question for you.</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL07G2.jpg'>I'll answer if I can. What's your question?</paragraph>
+<paragraph   speaker='student' graphic-file='ATL07G2.jpg'>Um&#8230;I'd like to find out about the auditions for the musical. Do you know anything about the auditions?</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL07G2.jpg'>I do. I can help you with that. What would you like to know?</paragraph>
+<paragraph   speaker='student' graphic-file='ATL07G2.jpg'>Well, first of all, when are the auditions?</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL07G2.jpg'>The auditions are next week on Wednesday, Thursday, and Friday.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL07G2.jpg'>Any time on those days?</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL07G2.jpg'>Well, you need to sign up for a specific time on one of those days. The sign-up sheets are posted right over there on the wall, and there're still some time slots left. You can sign up right now. Any other questions?</paragraph>
+<paragraph   speaker='student' graphic-file='ATL07G2.jpg'>Yes, actually&#8230;I'd like to know what the auditions are like&#8230;I mean&#8230;what'll I need to do at the audition, and what do I need to prepare before the audition? Do I need to prepare a scene to perform?</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL07G2.jpg'>Yes. You should prepare a scene, just a short scene, to perform.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL07G2.jpg'>What kind of scene do you suggest?</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL07G2.jpg'>As I said, just a short scene, and since this production is a comedy, I wouldn't do anything too serious and heavy if I were you. Something light would certainly be better than something serious and dramatic.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL07G2.jpg'>OK, so you think it's best to do a scene that's light and funny?</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL07G2.jpg'>And make it short.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL07G2.jpg'>OK, a short scene that's light and funny.</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL07G2.jpg'>And you should be prepared to sing and dance, too&#8230;You do sing and dance? It's a musical you're auditioning for, after all.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL07G2.jpg'>I think I sing pretty well&#8230;</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL07G2.jpg'>Have you had any training&#8230;any training as a singer?</paragraph>
+<paragraph   speaker='student' graphic-file='ATL07G2.jpg'>Yes, I've had quite a bit of training. I sang in the school choir throughout high school, and I sang in quite a few productions, and I even had two years of private lessons.</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL07G2.jpg'>It sounds like you're prepared for the singing part of the audition&#8230;but what about dancing? There's a lot of dancing in this production.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL07G2.jpg'>I haven't studied dancing, and, well, I don't dance as well as I sing. In fact, I don't dance well at all. To say I have two left feet would be an understatement.</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL07G2.jpg'>Have you had any training in dance at all?</paragraph>
+<paragraph   speaker='student' graphic-file='ATL07G2.jpg'>No.</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL07G2.jpg'>And have you done any dancing in any of the productions you were in?</paragraph>
+<paragraph   speaker='student' graphic-file='ATL07G2.jpg'>Just a little, and it didn't go very well.</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL07G2.jpg'>Well, why don't you try out anyway? There may be some non-dancing roles in the production. Why don't you sign up for an audition? Look, there seems to be an open slot at three o'clock on Thursday. Are you free then?</paragraph>
+<paragraph   speaker='student' graphic-file='ATL07G2.jpg'>I am. I guess I'll take that slot. <exp>It sounds like I should prepare a scene and then also prepare a song for the audition</exp>. Is that right?</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL07G2.jpg'>Yes, that's it, a scene and a song.</paragraph>
+<paragraph   speaker='student' graphic-file='ATL07G2.jpg'><exp>And maybe <u>not</u> a dance</exp>?</paragraph>
+<paragraph   speaker='office worker' graphic-file='ATL07G2.jpg'><exp>Right</exp>!</paragraph>
+</page>
+</script>

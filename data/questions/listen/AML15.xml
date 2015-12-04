@@ -1,0 +1,75 @@
+<?xml version='1.0'?>
+<question-list type='listen' genre='lecture' audio-file='AML15.mp3' script-file='AML15P0.xml'>
+
+<question type='multichoice' script-file='AML15P1.xml' skills='1'>
+<question-text audio-file='AML15Q1.mp3'>What main point does the professor make about these works by Webster?</question-text>
+<answer-list>
+<answer-text>They are both extremely well known today.</answer-text>
+<answer-text><exp>They both describe the actual state of American English at the time they were written</exp>.</answer-text>
+<answer-text>They were the only books that Webster wrote.</answer-text>
+<answer-text>They accurately describe both American and British English.</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the lecture, the professor states that <exp>we're going to be talking about two books</exp>, that <exp>Webster wrote an elementary spelling book</exp> that <exp>contained Americanized spellings of English words rather than British spellings</exp>, and that <exp>this second of his works that we're discussing today is a dictionary</exp> in which <exp>Webster wanted to show the actual state of the American English language</exp>. From this, it can be determined that the professor's main point about these works by Webster is that <exp>they both describe the actual state of American English at the time they were written</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML15P2.xml' skills='2'>
+<question-text audio-file='AML15Q2.mp3'>What is true of Webster's works?</question-text>
+<answer-list>
+<answer-text>He wrote only two books.</answer-text>
+<answer-text>His works are all largely unknown today.</answer-text>
+<answer-text>His writings were all advanced, scholarly dissertations.</answer-text>
+<answer-text>His books <exp>had an impact on modern American English</exp>.</answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the lecture, the professor mentions <exp>two books that have had a tremendous impact in shaping American English</exp> and states that <exp>both of these books were written by Noah Webster</exp>. This means that Webster's books <exp>had an impact on modern American English</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML15P3.xml' skills='3'>
+<question-text audio-file='AML15Q3.mp3' replay-before='AML15Q3B.mp3' replay-before-graphic='AML15G3.jpg'>Why does the professsor discuss a book that is so unfamiliar to the students?</question-text>
+<answer-list>
+<answer-text>Because it is such a contrast to the really famous dictionary.</answer-text>
+<answer-text><exp>Because it was extremely important in the early history of American English</exp>.</answer-text>
+<answer-text>Because it contains the most complete list of American English words ever created.</answer-text>
+<answer-text>Because it accurately showed the correct British English forms of words.</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the lecture, the professor states that <exp>although this little speller is not familiar to most people today, it was hugely successful in its time</exp> and that <exp>by the time of Webster's death in 1843, more than 15 million copies of the book had been printed, and by the beginning of the twentieth century, the number had risen to more than 60 million</exp>. From this, it can be determined that the professor discusses a book that is so unfamiliar to the students <exp>because it was extremely important in the early history of American English</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='AML15P4.xml' skills='2'>
+<question-text audio-file='AML15Q4.mp3'>Which words were mentioned by the lecturer as new words added to the dictionary by Webster?</question-text>
+<answer-list>
+<answer-text><exp>Skunk</exp></answer-text>
+<answer-text>Orthography</answer-text>
+<answer-text>Shower</answer-text>
+<answer-text><exp>Hickory</exp></answer-text>
+</answer-list>
+<key>1001</key>
+<explain-text>In the lecture, the professor states that Webster <exp>added numerous words to the dictionary</exp> and that <exp>a few of the words that were added to the English language in America were the animal called a <i>skunk</i>, the soup known as <i>chowder</i>, and the type of tree named <i>hickory</i></exp>. This means that <exp>skunk</exp> and <exp>hickory</exp> were added to the dictionary by Webster. The first and last answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='AML15P5.xml' skills='2'>
+<question-text audio-file='AML15Q5.mp3'>What were Webster's purposes in writing these two books?</question-text>
+<answer-list>
+<answer-text>To standardize American and British meanings of words</answer-text>
+<answer-text>To weed out purely American vocabulary</answer-text>
+<answer-text><exp>To help Americans understand that their language is their own</exp></answer-text>
+<answer-text><exp>To standardize Americanized spellings of words</exp></answer-text>
+</answer-list>
+<key>0011</key>
+<explain-text>In the lecture, the professor states that <exp>Webster's purpose&#8230;was twofold. He wanted, first, to help Americans realize that they did not need to look to England for a standard of correctness in their own language&#8230;Second, Webster wanted to foster a reasonable amount of uniformity in American English</exp>. From this, it can be determined that Webster's purposes were <exp>to help Americans understand that their language is their own</exp> and <exp>to standardize Americanized spellings of words</exp>. The third and fourth answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML15P6.xml' skills='4'>
+<question-text audio-file='AML15Q6.mp3'>Which of the following best expresses the professor's view of these works by Webster?</question-text>
+<answer-list>
+<answer-text>They accurately describe the lifestyle of early America.</answer-text>
+<answer-text><exp>They were important in the development of American English</exp>.</answer-text>
+<answer-text>They served to reinforce differences between America and Britain.</answer-text>
+<answer-text>They caused changes in American English.</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the lecture, the professor states that <exp>today, we're going to be talking about two books that have had a tremendous impact in shaping American English</exp> and that <exp>I'm sure that you can see from all of this just what a vital role these books by Webster played in establishing American English as a language of its own</exp>. From this, it can be determined that the lecturer's view of these works by Webster is that <exp>they were important in the development of American English</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+</question-list>

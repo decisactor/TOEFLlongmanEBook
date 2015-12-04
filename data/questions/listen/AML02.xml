@@ -1,0 +1,72 @@
+<?xml version='1.0'?>
+<question-list type='listen' genre='conversation' audio-file='AML02.mp3' script-file='AML02P0.xml'>
+
+<question type='multichoice' script-file='AML02P1.xml' skills='1'>
+<question-text audio-file='AML02Q1.mp3'>What is the student's problem?</question-text>
+<answer-list>
+<answer-text>She needs help using the computerized research station.</answer-text>
+<answer-text>She cannot check out three books that have already been checked out.</answer-text>
+<answer-text>She does not know where the reference section is.</answer-text>
+<answer-text><exp>She is having difficulty finding books in the library</exp>.</answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the conversation, the student says <exp>I need help finding a number of books</exp> and <exp>I've got a list of the three books that look good to me, but I've actually not been able to find any of them</exp>. From this, it can be determined that the student's problem is that <exp>she's having difficulty finding books in the library</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML02P2.xml' skills='1'>
+<question-text audio-file='AML02Q2.mp3'>What step has the student NOT taken by the end of the conversation?</question-text>
+<answer-list>
+<answer-text><exp>She has asked the librarian for help</exp>.</answer-text>
+<answer-text><exp>She has searched for the books at the computerized research station</exp>.</answer-text>
+<answer-text><exp>She has printed out a list of the books she had found at the research station</exp>.</answer-text>
+<answer-text>She has asked for the books at the main desk.</answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the conversation, the student says <exp>can you help me, please</exp> to the librarian, which means that <exp>she has asked the librarian for help</exp> in the first answer. She also says <exp>I went to one of the computerized research stations, and I searched for the books there</exp>, which means that <exp>she has searched for the books at the computerized research station</exp> in the second answer. Finally, she says <exp>yes</exp> in response to the librarian's question <exp>and you printed out a list of these books from the research station</exp>, which means that <exp>she has printed out a list of the books she had found at the research station</exp> in the third answer. The last answer is the one that is NOT mentioned in the conversation and is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML02P3.xml' skills='4'>
+<question-text audio-file='AML02Q3.mp3' replay-before='AML02Q3B.mp3' replay-after='AML02Q3A.mp3' replay-before-graphic='AML02G2.jpg'>What does the librarian mean when he says this:</question-text>
+<answer-list>
+<answer-text>It will take only half as long to find the book.</answer-text>
+<answer-text><exp>Half of what you said is correct, and half is not</exp>.</answer-text>
+<answer-text>You were successful in finding half of the books.</answer-text>
+<answer-text>You can check the book out for half as long as you wanted.</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the conversation, the librarian says <exp>50 percent's not bad</exp>, and then goes on to explain that <exp>you should be able to find the book there, but you won't be able to check it out</exp>. From this, it can be determined that the librarian means that <exp>half of what you said is correct, and half is not</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.2' script-file='AML02P4.xml' skills='5' width='500'>
+<question-text audio-file='AML02Q4.mp3'>Indicate what is true about the various types of books in the library.</question-text>
+<answer-list height='40'>
+<answer-text><exp>A book on limited loan cannot be checked<br/>out</exp>.</answer-text>
+<answer-text><exp>A reference book can be checked out for a<br/>few days only</exp>.</answer-text>
+<answer-text><exp>A book with a hold on it cannot be checked<br/>out until it is returned</exp>.</answer-text>
+<answer-text><exp>One can place a hold on a reserve book</exp>.</answer-text>
+</answer-list>
+<choice-list width='90'>
+<choice-text>YES</choice-text>
+<choice-text>NO</choice-text>
+</choice-list>
+<key>2212</key>
+<explain-list>
+<explain-text>The librarian says <exp>this book's on limited loan, and that means&#8230;you'll be able to check it out for only three days</exp>. From this, it can be determined that it is NOT true that <exp>a book on limited loan cannot be checked out</exp>. You should therefore click in the NO column.</explain-text>
+<explain-text>The librarian says <exp>reference books can't be checked out</exp>. From this, it can be determined that it is NOT true that <exp>a reference book can be checked out for a few days only</exp>. You should therefore click in the NO column.</explain-text>
+<explain-text>The librarian says <exp>you can just go to the main desk and put a hold on the book</exp> and <exp>this means that as soon as the book is returned to the library, you can check it out next</exp>. From this, it can be determined that it is true that <exp>a book with a hold on it cannot be checked out until it is returned</exp>. You should therefore click in the YES column.</explain-text>
+<explain-text>The librarian says <exp>reference books can't be checked out</exp> and <exp>you can put what's called a hold on any book that's been checked out</exp>. From this, it can be determined that it is NOT true that <exp>one can place a hold on a reserve book</exp>. You should therefore click in the NO column.</explain-text>
+</explain-list>
+</question>
+
+<question type='check.1' script-file='AML02P5.xml' skills='2'>
+<question-text audio-file='AML02Q5.mp3'>What does the student need to do at the main desk?</question-text>
+<answer-list>
+<answer-text><exp>Ask for a book that has been placed on limited loan</exp></answer-text>
+<answer-text><exp>Place a hold on a book that has been checked out</exp></answer-text>
+<answer-text>Find out when a book that has been checked out will be returned</answer-text>
+<answer-text>Check a book out from the reference section</answer-text>
+</answer-list>
+<key>1100</key>
+<explain-text>In the conversation, the librarian says <exp>this book's on limited loan, and that means you have to go ask for it at the main desk</exp> and <exp>you can just go to the main desk and put a hold on the book</exp>. From this, it can be determined that the student needs to <exp>ask for a book that has been placed on limited loan</exp> and <exp>place a hold on a book that has been checked out</exp>. The first and second answers are therefore the best answers to this question.</explain-text>
+</question>
+</question-list>

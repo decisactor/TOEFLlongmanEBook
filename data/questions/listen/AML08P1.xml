@@ -1,0 +1,36 @@
+<?xml version='1.0'?>
+<script>
+<page>
+<paragraph time='00:00:00' speaker='narrator' graphic-file='AML08G1.jpg'>Listen to a conversation between a student and an advisor.</paragraph>
+</page>
+<page>
+<paragraph time='00:00:04' speaker='advisor' graphic-file='AML08G2.jpg'>Hi, come on in. How are you today?</paragraph>
+<paragraph   speaker='student' graphic-file='AML08G2.jpg'>Just fine, thank you.</paragraph>
+<paragraph   speaker='advisor' graphic-file='AML08G2.jpg'><exp>You're here to see the results of your placement tests</exp>?</paragraph>
+<paragraph   speaker='student' graphic-file='AML08G2.jpg'><exp>Yes, I am</exp>. Do you have them yet?</paragraph>
+<paragraph   speaker='advisor' graphic-file='AML08G2.jpg'>As a matter of fact, I do. They just arrived a few minutes ago.</paragraph>
+<paragraph   speaker='student' graphic-file='AML08G2.jpg'>That's great. I'd love to see them, I think.</paragraph>
+<paragraph   speaker='advisor' graphic-file='AML08G2.jpg'>Well, let's see&#8230;let me find yours&#8230;Your last name's Martin?</paragraph>
+<paragraph   speaker='student' graphic-file='AML08G2.jpg'>Yes.</paragraph>
+<paragraph   speaker='advisor' graphic-file='AML08G2.jpg'>You're John Martin?</paragraph>
+<paragraph   speaker='student' graphic-file='AML08G2.jpg'>That's right.</paragraph>
+<paragraph   speaker='advisor' graphic-file='AML08G2.jpg'>OK&#8230;here are your results&#8230;um&#8230;let me see&#8230;All right now, we should discuss these.</paragraph>
+<paragraph   speaker='student' graphic-file='AML08G2.jpg'>They're not very good?</paragraph>
+<paragraph   speaker='advisor' graphic-file='AML08G2.jpg'>Well, let's talk about them. You have two scores here. See? There are scores in language skills and in math skills. Your score in language skills is 82&#8230;That's pretty good, and it means you're ready for the credit class, English 101.</paragraph>
+<paragraph   speaker='student' graphic-file='AML08G2.jpg'>Is that good? Is that a good course for me to take? English 101's the right course to start with?</paragraph>
+<paragraph   speaker='advisor' graphic-file='AML08G2.jpg'>That's just the right place for you to be now. You'll be right on track to graduate on time. Now let's look at the math skills score. This score isn't as high; it's only a 59.</paragraph>
+<paragraph   speaker='student' graphic-file='AML08G2.jpg'>Oh, no, that's not very good, is it?</paragraph>
+<paragraph   speaker='advisor' graphic-file='AML08G2.jpg'>Well, it means you're not ready for Math 101.</paragraph>
+<paragraph   speaker='student' graphic-file='AML08G2.jpg'>So which math course should I take?</paragraph>
+<paragraph   speaker='advisor' graphic-file='AML08G2.jpg'>You'll need to take a remedial math class, which is a non-credit class, and work harder on your math and get a higher score on the math placement test before you can take Math 101.</paragraph>
+<paragraph   speaker='student' graphic-file='AML08G2.jpg'>OK, so you're saying I need to take a remedial math class? Which class is it?</paragraph>
+<paragraph   speaker='advisor' graphic-file='AML08G2.jpg'>It's called Math Review.</paragraph>
+<paragraph   speaker='student' graphic-file='AML08G2.jpg'>And I need to take the Math Review course, and then I can take Math 101?</paragraph>
+<paragraph   speaker='advisor' graphic-file='AML08G2.jpg'>There's more to it than that. After you take Math Review, you'll have to take the math placement test again before you can enroll in Math 101. And if you don't pass it&#8230;get at least a 75&#8230;the next time, you'll have to take it another time&#8230;take it over again until you pass it.</paragraph>
+<paragraph   speaker='student' graphic-file='AML08G2.jpg'>OK, I think I need to work hard and get at least at least a 75 next time around.</paragraph>
+<paragraph   speaker='advisor' graphic-file='AML08G2.jpg'>After you take the Math Review course.</paragraph>
+<paragraph   speaker='student' graphic-file='AML08G2.jpg'>After I take the Math Review course. Listen&#8230;Can you please tell me, is it a problem that I got such a low score on the math skills test?</paragraph>
+<paragraph   speaker='advisor' graphic-file='AML08G2.jpg'>It's not too serious, but you really need to do well on the math skills test next time around, so you'll need to work hard in the Math Review class. Because that class is a remedial class, you won't get any credits for it. You'll most likely need to take a summer course or two in order to still graduate on time.</paragraph>
+<paragraph   speaker='student' graphic-file='AML08G2.jpg'>I think I can handle that.</paragraph>
+</page>
+</script>

@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+<question-list type='listen' genre='lecture' audio-file='ASL06.mp3' script-file='ASL06P0.xml'>
+
+<question type='multichoice' script-file='ASL06P1.xml' skills='1'>
+<question-text audio-file='ASL06Q1.mp3'>What is the main idea of the lecture?</question-text>
+<answer-list>
+<answer-text>All of the Mother Goose stories were probably written by Charlemagne's mother.</answer-text>
+<answer-text><exp>Though there may have been a real Mother Goose, the Mother Goose stories were not all written by her</exp>.</answer-text>
+<answer-text>Two different versions of the Mother Goose stories have been published by different authors.</answer-text>
+<answer-text>Two characters in Mother Goose stories are based on historical figures.</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the lecture, the professor states that <exp>an interesting point about the Mother Goose stories is that their origin is unclear</exp>, that <exp>most scholars feel that, while the name Mother Goose may refer to a person, the person known as Mother Goose in all probability did not write the stories, rhymes, and songs found in the uh&#8230;Mother Goose books</exp>, and that <exp>the conclusion that the Mother Goose stories had multiple authors seems inescapable</exp>. From this, it can be determined that the main idea of the lecture is that <exp>though there may have been a real Mother Goose, the Mother Goose stories were not all written by her</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL06P2.xml' skills='3'>
+<question-text audio-file='ASL06Q2.mp3' replay-after='ASL06Q2A.mp3'>Why does the professor say this:</question-text>
+<answer-list>
+<answer-text><exp>To show that there is more to the topic than the students might think</exp></answer-text>
+<answer-text>To indicate that she thinks the students do not know anything about the topic</answer-text>
+<answer-text>To clarify that they have already discussed this topic before</answer-text>
+<answer-text>To encourage the students to say what they know about the topic</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the lecture, the professor says <exp>I'm sure you all think you know about Mother Goose</exp>, with the emphasis on <exp>think</exp>, to show that she believes that they do not know everything about Mother Goose, or <exp>to show that there is more to the topic than the students might think</exp>. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL06P3.xml' skills='4'>
+<question-text audio-file='ASL06Q3.mp3' replay-before='ASL06Q3B.mp3' replay-before-graphic='ASL06G2.jpg'>How does the professor seem to feel about the Mother Goose stories?</question-text>
+<answer-list>
+<answer-text>The only important stories in children's literature come from Mother Goose.</answer-text>
+<answer-text>It is important to create a complete overview of children's literature.</answer-text>
+<answer-text><exp>The Mother Goose stories are an important part of children's literature</exp>.</answer-text>
+<answer-text>The Mother Goose stories are too complex for children to understand.</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the lecture, the professor states that <exp>no overview of children's literature would be complete without Mother Goose because Mother Goose is&#8230;such a complex and diverse collection of children's literature</exp>. From this, it can be determined that the professor feels that <exp>the Mother Goose stories are an important part of children's literature</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL06P4.xml' skills='3'>
+<question-text audio-file='ASL06Q4.mp3' replay-after='ASL06Q4A.mp3'>Why does the professor say this:</question-text>
+<answer-list>
+<answer-text>To review material the students have read</answer-text>
+<answer-text>To provide examples of a point she just made</answer-text>
+<answer-text>To let the students know what their assignment is</answer-text>
+<answer-text><exp>To announce how the lecture will proceed</exp></answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the lecture, the professor states that <exp>today we'll look at the two earliest publications of Mother Goose books, one of which gives a suggestion as to who the real Mother Goose may have been</exp> and that <exp>then we'll look at two of the rhymes that suggest multiple authorship</exp>. She mentions <exp>the two earliest publications</exp> and <exp>two of the rhymes that suggest multiple authorship</exp> in order <exp>to announce how the lecture will proceed</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='ASL06P5.xml' skills='2'>
+<question-text audio-file='ASL06Q5.mp3'>What two statements are true about the authorship of the Mother Goose books?</question-text>
+<answer-list>
+<answer-text>The Mother Goose rhymes <exp>probably had different authors</exp>.</answer-text>
+<answer-text>Perrault and Newbery contributed significantly to the writing of Mother Goose stories.</answer-text>
+<answer-text>Charlemagne's mother wrote most of the Mother Goose rhymes.</answer-text>
+<answer-text>Different Mother Goose stories <exp>were probably written at different times</exp>.</answer-text>
+</answer-list>
+<key>1001</key>
+<explain-text>In the lecture, the professor states that <exp>two of the rhymes&#8230;suggest multiple authorship</exp> and that <exp>it seems quite clear that these two rhymes were written in different eras</exp>. This means that the Mother Goose literature <exp>probably had different authors</exp> and <exp>were probably written at different times</exp>. The first and last answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL06P6.xml' skills='2'>
+<question-text audio-file='ASL06Q6.mp3'>Who is the real Mother Goose believed to be?</question-text>
+<answer-list>
+<answer-text>Charlemagne's pet</answer-text>
+<answer-text>Bertha's goose</answer-text>
+<answer-text><exp>The mother of Charlemagne</exp></answer-text>
+<answer-text>A goose with multiple owners</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the lecture, the professor states that <exp>the name Mother Goose is believed to have come from this nickname of Charlemagne's mother</exp>. This means that the real Mother Goose is believed to be <exp>the mother of Charlemagne</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='ASL06P7.xml' skills='2'>
+<question-text audio-file='ASL06Q7.mp3'>What does the lecturer say is known about King Cole?</question-text>
+<answer-list>
+<answer-text>He was a famous musician.</answer-text>
+<answer-text>He <exp>was a king of Britain</exp>.</answer-text>
+<answer-text>He <exp>lived more than 1,000 years ago</exp>.</answer-text>
+<answer-text>He was only a fictional character.</answer-text>
+</answer-list>
+<key>0110</key>
+<explain-text>In the lecture, the professor mentions <exp>King Cole of Britain</exp> and states that <exp>King Cole reigned around 200 A.D.</exp> It is stated that King Cole <exp>was a king of Britain</exp>, and because 200 A.D. was <exp>more than 1,000 years ago</exp>, it is also true that King Cole <exp>lived more than 1,000 years ago</exp>. The second and third answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL06P8.xml' skills='2'>
+<question-text audio-file='ASL06Q8.mp3'>What does the lecturer say about Jack Horner?</question-text>
+<answer-list>
+<answer-text>He became King of England.</answer-text>
+<answer-text>He ate 12 pies.</answer-text>
+<answer-text>He <exp>became owner of an estate illegally</exp>.</answer-text>
+<answer-text>He stole some plums.</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the lecture, the professor states that <exp>Jack Horner&#8230;stole a deed</exp> and that <exp>the Horner family still owns the estate at Mells Park, England, the estate for which the title deed was reportedly stolen</exp>. This means that Jack Horner <exp>became owner of an estate illegally</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+</question-list>

@@ -1,0 +1,19 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR15P00.xml'>
+
+    <question type='insert' passage-file='ASR15P01.xml' skills='4'>
+        <insert-text>
+            <b>They enjoyed the comfort of performing in underwear rather than costumes.</b>
+        </insert-text>
+        <key>4</key>
+    </question>
+
+    <question type='insert' passage-file='ASR15P02.xml' skills='4'>
+        <insert-text>
+            <b>It was a taste sensation that stayed on his mind.</b>
+        </insert-text>
+        <key>4</key>
+    </question>
+
+</question-list>   
+

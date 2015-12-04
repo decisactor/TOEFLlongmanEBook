@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<question-list type='listen' genre='lecture' audio-file='ASL05.mp3' script-file='ASL05P0.xml'>
+
+<question type='multichoice' script-file='ASL05P1.xml' skills='3'>
+<question-text audio-file='ASL05Q1.mp3' replay-after='ASL05Q1A.mp3'>What does the professor mean when he says this:</question-text>
+<answer-list>
+<answer-text>It is not something important.</answer-text>
+<answer-text><exp>The students should already know it</exp>.</answer-text>
+<answer-text>It will be explained later in the lecture.</answer-text>
+<answer-text>The students need to answer his question.</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the lecture, the professor mentions <exp>the Winchester House</exp> and <exp>the Winchester family</exp> and then goes on to say <exp>I don't think I need to tell you why the Winchester family is famous</exp>.  From this, it can be determined that the professor means that <exp>the students should already know it</exp> when he says this.  The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL05P2.xml' skills='4'>
+<question-text audio-file='ASL05Q2.mp3' replay-before='ASL05Q2B.mp3' replay-before-graphic='ASL05G3.jpg'>Which sentence best describes how the speaker feels about the Winchester House?</question-text>
+<answer-list>
+<answer-text>It was a fairly normal house for its time.</answer-text>
+<answer-text>It appears to have been carefully planned.</answer-text>
+<answer-text>It represents a common style of architecture.</answer-text>
+<answer-text>It <exp>is notable for its haphazard design</exp>.</answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the lecture, the professor mentions <exp>an unbelievably wild profusion of rooms, corridors, stairways, doors, and windows</exp> and states that <exp>it had&#8230;can you believe it&#8230;more than 2,000 doors and 10,000 windows</exp>.  From this, it can be determined that the Winchester House <exp>is notable for its haphazard design</exp>.  The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL05P3.xml' skills='3'>
+<question-text audio-file='ASL05Q3.mp3' replay-before='ASL05Q3B.mp3' replay-after='ASL05Q3A.mp3' replay-before-graphic='ASL05G3.jpg'>Why does the professor say this:</question-text>
+<answer-list>
+<answer-text><exp>To announce what he is about to explain</exp></answer-text>
+<answer-text>To encourage the students to respond</answer-text>
+<answer-text>To indicate that the answer is unknown</answer-text>
+<answer-text>To suggest that the students should have prepared more</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the lecture, the professor asks <exp>why do you think someone might build such a house</exp> and then goes on to say <exp>well, here is Sarah's story</exp>.  From this, it can be determined that the professor says <exp>why do you think someone might build such a house</exp> in order <exp>to announce what he is about to explain</exp>.  The first answer is therefore the best answer to the question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL05P4.xml' skills='4'>
+<question-text audio-file='ASL05Q4.mp3' replay-before='ASL05Q4B.mp3' replay-before-graphic='ASL05G3.jpg'>How did Sarah seem to feel about the ghosts?</question-text>
+<answer-list>
+<answer-text><exp>The house was haunted because of the way the way the family had achieved its wealth</exp>.</answer-text>
+<answer-text>The house was not really haunted, but stories about ghosts helped the house to become famous.</answer-text>
+<answer-text>The house may have been haunted, but she did not understand why.</answer-text>
+<answer-text>She made up stories about the house being haunted to get sympathy.</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the lecture, the professor says that <exp>Sarah became convinced that the family was being haunted by the ghosts of those victims of the Winchester rifle</exp> and mentions <exp>the ghosts that Sarah believed were haunting her family</exp>.  From this, it can be determined that <exp>the house was haunted because of the way the family had achieved its wealth</exp>.  The first answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL05P5.xml' skills='3'>
+<question-text audio-file='ASL05Q5.mp3' replay-before='ASL05Q5B.mp3' replay-before-graphic='ASL05G4.jpg'>Which sentence best describes the professor's view of ghosts?</question-text>
+<answer-list>
+<answer-text>He believes in them even more than Sarah did.</answer-text>
+<answer-text>The fact that the house is haunted by ghosts makes it special.</answer-text>
+<answer-text><exp>He does not believe in them, but the fact that Sarah did is important</exp>.</answer-text>
+<answer-text>He does not believe in them, and he thinks that Sarah did not either.</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the lecture, the professor says that <exp>whether or not you believe in ghosts yourself, and&#8230;well&#8230;not everyone does&#8230;you can see that Sarah did</exp>.  From this, it can be determined that the professor's view of ghosts is that <exp>he does not believe in them, but the fact that Sarah did is important</exp>.  The third answer is therefore the best answer to this question.</explain-text>
+</question>
+</question-list>

@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<script>
+<page>
+<paragraph time='00:00:00' speaker='narrator' graphic-file='AML05G1.jpg'>Listen to a conversation between a student and a professor.</paragraph>
+</page>
+<page>
+<paragraph time='00:00:04' speaker='professor' graphic-file='AML05G2.jpg'>Come on in, Bill.</paragraph>
+<paragraph   speaker='student' graphic-file='AML05G2.jpg'>Thanks for seeing me, Professor Stevens.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML05G2.jpg'>What did you want to talk about?</paragraph>
+<paragraph   speaker='student' graphic-file='AML05G2.jpg'>I have a few questions about my outline for the research project,&#8230;and&#8230;well&#8230;I was hoping you could give me a few pointers.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML05G2.jpg'>No problem. You have your outline with you?</paragraph>
+<paragraph   speaker='student' graphic-file='AML05G2.jpg'>Yes, it's right here.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML05G2.jpg'>OK, let me see what you've got&#8230;OK&#8230;um&#8230;well&#8230;I see that you've got an interesting thesis here. <exp>I like the point you're trying to make</exp>&#8230;I mean, I think it's quite interesting that you're trying to make the point that these two characters are really quite similar in spite of the fact that they seem so different. <exp>But, well, there just doesn't seem to be quite enough support for this thesis</exp>&#8230;I mean, there's really not enough support for this at all. <exp>If you're going to make such a strong thesis</exp> that&#8230;uh&#8230;two such opposite characters really have a lot in common&#8230;<exp>you're definitely going to have to come up with very strong ideas to support this</exp>.</paragraph>
+<paragraph   speaker='student' graphic-file='AML05G2.jpg'>OK, I understand that. I need to clearly outline the ways that the characters resemble each other.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML05G2.jpg'>That's exactly right.</paragraph>
+<paragraph   speaker='student' graphic-file='AML05G2.jpg'>I guess what I wanted to know from you was&#8230;well&#8230;whether this thesis is OK, I mean, whether it's a good thesis to try and prove.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML05G2.jpg'>I do think your thesis has possibilities. I mean, it can be a really strong thesis.</paragraph>
+<paragraph   speaker='student' graphic-file='AML05G2.jpg'>If I have strong enough support for it.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML05G2.jpg'>Exactly.</paragraph>
+<paragraph   speaker='student' graphic-file='AML05G2.jpg'>So now I need to come up with ideas about how these two characters resemble each other.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML05G2.jpg'>And then develop these ideas thoroughly.</paragraph>
+<paragraph   speaker='student' graphic-file='AML05G2.jpg'>Would it be OK if I stopped by in a few days to show you my ideas for how to support this thesis?</paragraph>
+<paragraph   speaker='professor' graphic-file='AML05G2.jpg'>Absolutely. Any time during my regular office hours is fine.</paragraph>
+<paragraph   speaker='student' graphic-file='AML05G2.jpg'>See you in a few days&#8230;hey&#8230;and thanks for your help.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML05G2.jpg'>You're quite welcome.</paragraph>
+</page>
+</script>

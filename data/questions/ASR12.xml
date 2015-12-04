@@ -1,0 +1,165 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR12P0.xml'>
+<question type="multichoice" passage-file="ASR12P1.xml" skills="2">
+      <question-text>The word <bg>it</bg> in paragraph 1 refers to</question-text>
+      <answer-list>
+         <answer-text><exp>the term</exp></answer-text>
+         <answer-text>the style</answer-text>
+         <answer-text>the potential</answer-text>
+         <answer-text>the success</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that <exp>the term <i>crisis management</i> can be used in business</exp> and later states that <exp>it can be used in a positive way</exp>. From this context, it can be determined that <exp>it</exp> refers to <exp>the term</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ASR12P2.xml" skills="7">
+      <question-text>It can be inferred from paragraph 1 that the third way that the term <i>crisis management</i> is used is</question-text>
+      <answer-list>
+         <answer-text>the least common</answer-text>
+         <answer-text><exp>the least positive</exp></answer-text>
+         <answer-text>the most successful</answer-text>
+         <answer-text>the most critical</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>the term <i>crisis management</i>&#8230;can be used in a positive way&#8230;to deal with either chronic or critical crises</exp> and that <exp>it can also be used&#8230;to deal with every event, even everyday events, as crises</exp>. From this context, it can be inferred that the third way that the term <i>crisis management</i> is used is <exp>the least positive</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="ASR12P3.xml" skills="1">
+      <question-text>The word <bg>hike</bg> in paragraph 2 could best be replaced by</question-text>
+      <answer-list>
+         <answer-text>long walk</answer-text>
+         <answer-text>slight variation</answer-text>
+         <answer-text>imperceptible shrinkage</answer-text>
+         <answer-text><exp>sharp increase</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage mentions <exp>a chronic crisis&#8230;because of a hike in interest rates</exp>. From this context, it can be determined that <exp>hike</exp> could best be replaced by <exp>sharp increase</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="ASR12P4.xml" skills="5">
+      <question-text>The <bg>three general principles</bg> mentioned in paragraph 2 are related to</question-text>
+      <answer-list>
+         <answer-text>business cycles, costs, and production</answer-text>
+         <answer-text>product development, production, and morale</answer-text>
+         <answer-text><exp>costs, production, and morale</exp></answer-text>
+         <answer-text>business cycles, costs, and product development</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage states that <exp>management must, of course, be concerned with cost</exp>, that <exp>management must also be concerned about production</exp>, and that <exp>in addition to reliance on the principles of cost reduction and production enhancement, management must also pay attention to the morale of its current employees</exp>. From this, it can be determined that the three general principles are related to <exp>costs, production, and morale</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="ASR12P5.xml" skills="7">
+      <question-text>It is implied in paragraph 2 that, during a chronic crisis, it is less important to be concerned about</question-text>
+      <answer-list>
+         <answer-text>keeping costs low</answer-text>
+         <answer-text><exp>hiring new employees</exp></answer-text>
+         <answer-text>improving existing products</answer-text>
+         <answer-text>keeping employee emotions high</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>during a chronic crisis, management must, of course, be concerned with cost</exp>, that <exp>management must also be concerned about&#8230;finding ways to enhance its current products</exp>, and that <exp>in addition to reliance on the principles of cost reduction and production enhancement, management must also pay attention to the morale of current employees</exp>. It is implied in this that it is less important to be concerned about <exp>hiring new employees</exp> during a chronic crisis. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="ASR12P6.xml" skills="8">
+      <question-text>The author mentions a <bg>sinking ship</bg> in paragraph 2 in order to</question-text>
+      <answer-list>
+         <answer-text><exp>create a visual image of a company that is going out of business</exp></answer-text>
+         <answer-text>make reference to a potential type of crisis</answer-text>
+         <answer-text>describe how employees perform during a crisis</answer-text>
+         <answer-text>draw attention to the need to cut costs during a crisis</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that <exp>a pervasive feeling among employees that a company is in trouble can have a negative effect on the performance of the company and can cause key employees to desert what they believe is a sinking ship</exp>. From this, it can be determined that the author mentions <exp>a sinking ship</exp> in order to <exp>create a visual image of a company that is going out of business</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ASR12P7.xml" skills="1">
+      <question-text>The word <bg>times</bg> in paragraph 2 could best be replaced by</question-text>
+      <answer-list>
+         <answer-text>hours</answer-text>
+         <answer-text><exp>periods</exp></answer-text>
+         <answer-text>expanses</answer-text>
+         <answer-text>programs</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage mentions the phrase <exp>during a chronic crisis</exp> and later mentions the phrase <exp>during normal times</exp>. From this context, it can be determined that <exp>times</exp> could best be replaced by <exp>periods</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type='insert' passage-file='ASR12P8.xml' skills='4'>
+<insert-text><b><exp>On the other hand, strong morale during a chronic crisis can result in a stronger than normal effort</exp> on the part of employees who believe that they can make an important contribution to the survival of the company.</b></insert-text>
+<key>3</key>
+<explain-text>
+The passage states that <exp>a pervasive feeling among employees that a company is in trouble can have a negative effect on the performance of the company</exp>. A sentence stating that <exp>on the other hand, strong morale during a chronic crisis can result in a stronger than normal effort</exp> would logically follow such an idea. The third square in paragraph 2 is therefore the best answer to this question.
+</explain-text>
+</question>      
+<question type="multichoice" passage-file="ASR12P9.xml" skills="6">
+      <question-text>Which of the following potential causes of a critical crisis is NOT mentioned in paragraph 3?</question-text>
+      <answer-list>
+         <answer-text><exp>A seismic event</exp></answer-text>
+         <answer-text><exp>An epidemic</exp></answer-text>
+         <answer-text><exp>A midair collision</exp></answer-text>
+         <answer-text>A nuclear meltdown</answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage mentions <exp>an earthquake&#8230;, widespread disease&#8230;, and a major accident such as an airline disaster</exp>. <exp>A seismic event</exp> in the first answer refers to <exp>an earthquake</exp>, <exp>an epidemic</exp> in the second answer refers to <exp>widespread disease</exp>, and <exp>a midair collision</exp> in the third answer refers to <exp>a major accident such as an airline disaster</exp>. The last answer is the one that is NOT mentioned and is therefore the best answer to this question.
+</explain-text>
+   </question>         
+<question type="multichoice" passage-file="ASR12P10.xml" skills="5">
+      <question-text>According to paragraph 3, which companies tend to make it through critical crises?</question-text>
+      <answer-list>
+         <answer-text>Ones that have the most involved mechanisms</answer-text>
+         <answer-text><exp>Ones that have gotten prepared</exp></answer-text>
+         <answer-text>Ones that predict these crises</answer-text>
+         <answer-text>Ones that are willing to act ruthlessly</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>when critical crises occur, the companies that generally survive them are those that have mechanisms in place prior to a particular crisis to deal with the crisis</exp>. This means that the companies that tend to make it through critical crises are <exp>ones that have gotten prepared</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question> 
+<question type="multichoice" passage-file="ASR12P11.xml" skills="3">
+      <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 3?</question-text>
+      <answer-list>
+         <answer-text><exp>A company that is unprepared for a crisis suffers in two ways</exp>, by <exp>not being able to deal with it</exp> and by <exp>not caring about its victims</exp>.</answer-text>
+         <answer-text>If a company does not deal well with crises, it will appear two-faced to both company employees and people outside the company.</answer-text>
+         <answer-text>A company that is not prepared to deal with crises will suffer from one crisis after another.</answer-text>
+         <answer-text>In times of crisis, the perceptions of the company are not as important as the actions that the company is taking.</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The highlighted sentence mentions <exp>situations where a company is unprepared to deal with a severe crisis</exp>, which means <exp>a company that is unprepared for a crisis</exp>, and states that such a company <exp>can suffer the dual blow</exp>, which means that it <exp>suffers in two ways</exp>. The highlighted sentence goes on to state that the first way that it can suffer is <exp>not being able to resolve the crisis</exp>, which means <exp>not being able to deal with it</exp>, and that the second way that it can suffer is by <exp>giving the perception that it lacks concern for those who are suffering</exp>, which means by <exp>not caring about its victims</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>               
+<question type="multichoice" passage-file="ASR12P12.xml" skills="8">
+      <question-text>Why does the author add the information <bg>not as the type of management that is needed to respond to a chronic or critical crisis</bg> in paragraph 4?</question-text>
+      <answer-list>
+         <answer-text>To indicate that this use of the term is not as common as other uses</answer-text>
+         <answer-text>To indicate that this term is not used to refer to regular, everyday events</answer-text>
+         <answer-text><exp>To indicate that the third use of the term is quite distinct from the other two</exp></answer-text>
+         <answer-text>To indicate that this term should not be used to refer to chronic or critical crises</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage mentions <exp>a chronic crisis</exp> at the beginning of paragraph 2 and <exp>a critical crisis</exp> at the beginning of paragraph 3 and goes on to state that <exp>the term <i>crisis management</i> is sometimes used in a different way</exp> at the beginning of paragraph 3. From this, it can be determined that the author adds the information <exp>not as the type of management that is needed to respond to a chronic or critical crisis</exp> in order <exp>to indicate that the third use of the term is quite distinct from the other two</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>                             
+<question type="multichoice" passage-file="ASR12P13.xml" skills="1">
+      <question-text>The word <bg>fester</bg> in paragraph 4 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text><exp>continue to worsen</exp></answer-text>
+         <answer-text>heat themselves</answer-text>
+         <answer-text>initiate discussions</answer-text>
+         <answer-text>make an appearance</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that <exp>these everyday situations regularly fester to the point of crisis</exp>. From this context, it can be determined that <exp>fester</exp> is closest in meaning to <exp>continue to worsen</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>                                                                                                                                                                                                              </question-list>    

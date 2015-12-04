@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<question-list type='listen' audio-file='ATL01.mp3' script-file='ATL01P0.xml'>
+
+<question type='multichoice' script-file='ATL01P1.xml' skills='1'>
+<question-text audio-file='ATL01Q1.mp3'>Why is the student talking with the office worker?</question-text>
+<answer-list>
+<answer-text><exp>She would like to find work on campus</exp>.</answer-text>
+<answer-text>She is beginning a new job today.</answer-text>
+<answer-text>She is arranging to work in the campus computer lab.</answer-text>
+<answer-text>She is planning her new schedule of classes.</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the conversation, the student says <exp>I'm here to apply for a job on campus.</exp>  This means that <exp>she would like to find work on campus</exp>. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='ATL01P2.xml' skills='2'>
+<question-text audio-file='ATL01Q2.mp3'>What characteristics does the office worker think the student should have to get a job?</question-text>
+<answer-list>
+<answer-text><exp>The student must have computer skills</exp>.</answer-text>
+<answer-text><exp>The student needs to be responsible</exp>.</answer-text>
+<answer-text>The student must be available to work on the weekend.</answer-text>
+<answer-text>The student must be able to work thirty hours each week.</answer-text>
+</answer-list>
+<key>1100</key>
+<explain-text>In the conversation, the office worker asks <exp>do you have any computer skills</exp> and <exp>are you prepared to be responsible?</exp>  This means that the office worker thinks that <exp>the student must have computer skills</exp> and <exp>the student needs to be responsible</exp> to get a job. The first and second answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='ATL01P3.xml' skills='2'>
+<question-text audio-file='ATL01Q3.mp3'>When is the student NOT available to work?</question-text>
+<answer-list>
+<answer-text><exp>Monday, Wednesday, and Friday mornings</exp></answer-text>
+<answer-text>Monday, Wednesday, and Friday afternoons</answer-text>
+<answer-text>Tuesday and Thursday mornings</answer-text>
+<answer-text><exp>Tuesday and Thursday afternoons</exp></answer-text>
+</answer-list>
+<key>1001</key>
+<explain-text>In the conversation, the student says <exp>I can work on Monday, Wednesday, and Friday afternoons and Tuesday and Thursday mornings</exp>. From this, it can be determined that the student is NOT available to work on <exp>Monday, Wednesday, and Friday mornings</exp> and <exp>Tuesday and Thursday afternoons</exp>. The first and last answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL01P4.xml' skills='2'>
+<question-text audio-file='ATL01Q4.mp3'>How was the office worker momentarily confused?</question-text>
+<answer-list>
+<answer-text>He mistakenly thought that the student wanted to work in a university office.</answer-text>
+<answer-text>He mistakenly thought that the student wanted to work in the computer lab.</answer-text>
+<answer-text>He mistakenly thought that the student was already working in a university office.</answer-text>
+<answer-text><exp>He mistakenly thought that the student was looking for a job only on the weekends</exp>.</answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the conversation, the office worker asks <exp>you want to work on the weekends? You want to work <u>only</u> on the weekends?</exp>  The student then responds <exp>no, sorry, that's not what I meant</exp>. From this, it can be determined that the office was momentarily confused when <exp>he mistakenly thought that the student was looking for a job only on the weekends</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL01P5.xml' skills='6'>
+<question-text audio-file='ATL01Q5.mp3'>What is the most likely outcome of the conversation?</question-text>
+<answer-list>
+<answer-text>The student will start work right now.</answer-text>
+<answer-text>The student will begin work on the weekend.</answer-text>
+<answer-text>The student will begin work next Monday morning.</answer-text>
+<answer-text><exp>The student will begin work next Monday afternoon</exp>.</answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the conversation, the student says <exp>I can work on Monday, Wednesday, and Friday afternoons and Tuesday and Thursday mornings</exp>, and the office worker later asks <exp>are you available to start next Monday?</exp>  From this, it can be determined that the most likely outcome of the conversation is that <exp>the student will begin work next Monday afternoon</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+</question-list>

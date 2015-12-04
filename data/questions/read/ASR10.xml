@@ -1,0 +1,49 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR10P00.xml'>
+    <question type="multichoice" passage-file="ASR10P01.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 1? <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.</question-text>
+        <answer-list>
+            <answer-text>Of the many adhesives that were being developed at 3M, one was not a particularly strong adhesive.</answer-text>
+            <answer-text>Researchers at 3M spent many years trying to develop a really weak adhesive.</answer-text>
+            <answer-text>Numerous weak adhesives resulted from a program to develop the strongest adhesive of all.</answer-text>
+            <answer-text>Researchers were assigned to develop different types of uses for acrylate copolymer microspheres.</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+   
+    <question type="multichoice" passage-file="ASR10P02.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 1? <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.</question-text>
+        <answer-list>
+            <answer-text>The 3M company suggested applying for a patent on the product in a report prepared by a colleague.</answer-text>
+            <answer-text>One unexpectedly-discovered use for the adhesive was in sending and receiving notes attached to documents.</answer-text>
+            <answer-text>A note was attached to a report asking for suggestions for uses of one of 3M's products.</answer-text>
+            <answer-text>A colleague who developed the new product kept notes with suggestions by other workers.</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>
+
+    <question type="multichoice" passage-file="ASR10P03.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 2? <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.</question-text>
+        <answer-list>
+            <answer-text>The 3M company was unfamiliar with the process of using test cities to introduce innovative products.</answer-text>
+            <answer-text>Sales of the product soared even though the product was quite unfamiliar to most customers.</answer-text>
+            <answer-text>The new product did not sell well because potential customers did not understand it.</answer-text>
+            <answer-text>After selling the product for a while, the company understood that the product was not innovative enough.</answer-text>
+        </answer-list>
+        <key>3</key>
+
+    </question>
+    <question type="multichoice" passage-file="ASR10P04.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 2? <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.</question-text>
+        <answer-list>
+            <answer-text>The company immediately understood the potential of the product and began to develop it further.</answer-text>
+            <answer-text>The company worked overtime to develop its new product, initially creating numerous varieties to make it successful.</answer-text>
+            <answer-text>The company initially introduced 400 varieties of the product and then watched for decades as sales improved.</answer-text>
+            <answer-text>It took some time for the company to understand how importa11t its new product was and how many variations were possible.</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>
+   
+</question-list>
+
+

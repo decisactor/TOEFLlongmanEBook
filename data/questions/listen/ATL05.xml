@@ -1,0 +1,92 @@
+<?xml version='1.0'?>
+<question-list type='listen' audio-file='ATL05.mp3' script-file='ATL05P0.xml'>
+
+<question type='multichoice' script-file='ATL05P1.xml' skills='5'>
+<question-text audio-file='ATL05Q1.mp3'>How is the information in the lecture organized?</question-text>
+<answer-list>
+<answer-text><exp>Examples of each of three characteristics of an author are provided</exp>.</answer-text>
+<answer-text>All of an author's works are presented in chronological order.</answer-text>
+<answer-text>Various events in an author's life are outlined.</answer-text>
+<answer-text>The steps an author takes to write novels are described.</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the lecture, the professor says <exp>we'll focus&#8230;on three specific reasons that make Twain so enjoyable</exp>, and <exp>the first is a short story&#8230;that demonstrates his ability to develop very human character sketches</exp>, and <exp>the second is&#8230;famous as the first American novel that reflected real speech</exp>, and <exp>our last book, <i>A Connecticut Yankee in King Arthur's Court</i>, is one of Twain's most skillful combinations of humor and satire</exp>. From this, it can be determined that the organization of the information in the lecture is that <exp>examples of each of three characteristics of an author are provided</exp>. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL05P2.xml' skills='2'>
+<question-text audio-file='ATL05Q2.mp3'>What is true about the name of the writer discussed in the lecture?</question-text>
+<answer-list>
+<answer-text>He was given the name Mark Twain at birth.</answer-text>
+<answer-text>He is <exp>not as well known by his birth name as his pen name</exp>.</answer-text>
+<answer-text>His pen name was Samuel Clemens.</answer-text>
+<answer-text>He tried to change his name from Mark Twain to Samuel Clemens.</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the lecture, the professor states that <exp>this writer's real name is Samuel Clemens</exp> and that <exp>Samuel Clemens is much better known by the name Mark Twain</exp>. This means that his birth name is Samuel Clemens and he is <exp>not as well known by his birth name as his pen name</exp>. The second answer is therefore the best answer.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL05P3.xml' skills='2'>
+<question-text audio-file='ATL05Q3.mp3'>When did Mark Twain say he learned the most about human nature?</question-text>
+<answer-list>
+<answer-text>While writing his short stories</answer-text>
+<answer-text>While suffering from depression</answer-text>
+<answer-text>While facing financial problems</answer-text>
+<answer-text><exp>While working on a steamboat</exp></answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the lecture, the professor states that <exp>Twain spent five years as a steamboat pilot on the Mississippi</exp> and that <exp>it was&#8230;during his time on the Mississippi that Twain claims to have developed his knowledge of human nature</exp>. This means that he learned about human nature <exp>while working on a steamboat</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.2' script-file='ATL05P4.xml' skills='5'>
+<question-text audio-file='ATL05Q4.mp3'>Does the professor focus on each of these characteristics in Mark Twain's work?</question-text>
+<answer-list height='40'>
+<answer-text><exp>The creation of credible descriptions of<br/>people</exp></answer-text>
+<answer-text><exp>The creation of dream-like places</exp></answer-text>
+<answer-text><exp>The creation of characters that speak<br/>in a real way</exp></answer-text>
+<answer-text><exp>The creation of stories with both humor<br/>and satire</exp></answer-text>
+</answer-list>
+<choice-list>
+<choice-text>YES</choice-text>
+<choice-text>NO</choice-text>
+</choice-list>
+<key>1211</key>
+<explain-list>
+<explain-text>The professor states that <exp>Twain was incredibly talented at creating characters that were really human and that readers could easily identify with</exp>. This means that it is true that the professor focused on <exp>the creation of credible descriptions of people</exp> in Mark Twains's work. You should click in the YES column.</explain-text>
+<explain-text>The professor states that Mark Twain created <exp>characters that were really human</exp> and <exp>speak just like any average joe on the street</exp>. He also wrote <exp>descriptions of various frontiersmen</exp> and <exp>a delightful tale about a young boy and a runaway slave</exp>. It can be inferred from this that the professor did NOT focus on <exp>the creation of dream-like places</exp> in Mark Twain's work. You should click in the NO column.</explain-text>
+<explain-text>The professor states that <exp>Twain tried to reflect real speech in his writing</exp>. This means that it is true that the professor focused on <exp>the creation of characters that speak in a real way</exp>. You should click in the YES column.</explain-text>
+<explain-text>The professor states that <exp>Twain was a master at combining humor and satire</exp>. This means that the professor focused on <exp>the creation of stories with both humor and satire</exp> in Mark Twain's work. You should click in the YES column.</explain-text>
+</explain-list>
+</question>
+
+<question type='check.2' script-file='ATL05P5.xml' skills='5' width='500'>
+<question-text audio-file='ATL05Q5.mp3'>The professor describes a major characteristic of each of three works by Twain. Indicate for each work the major characteristic that the professor attributes to it.</question-text>
+<answer-list height='40'>
+<answer-text><exp>"The Celebrated Jumping<br/>Frog of Calaveras County"</exp></answer-text>
+<answer-text><exp><i>Huckleberry Finn</i></exp></answer-text>
+<answer-text><exp><i>A Connecticut Yankee in<br/>King Arthur's Court</i></exp></answer-text>
+</answer-list>
+<choice-list width='95'>
+<choice-text><exp>REFLECTS REAL SPEECH</exp></choice-text>
+<choice-text><exp>COMBINES HUMOR AND SATIRE</exp></choice-text>
+<choice-text><exp>USES CHARACTER TO EXPRESS HUMAN NATURE</exp></choice-text>
+</choice-list>
+<key>312</key>
+<explain-list>
+<explain-text>The professor states that <exp>"The Celebrated Jumping Frog of Calaveras County"&#8230;demonstrates his ability to develop very human character sketches</exp>. This means that this work <exp>uses character to express human nature</exp>. You should therefore click in the third column.</explain-text>
+<explain-text>The professor states that <exp><i>Huckleberry Finn</i></exp> is <exp>famous as the first American novel that reflected real speech</exp>. This means that this work <exp>reflects real speech</exp>. You should therefore click in the first column.</explain-text>
+<explain-text>The professor states that <exp><i>A Connecticut Yankee in King Arthur's Court,</i> is one of Twain's most skillful combinations of humor and satire</exp>. This means that this work <exp>combines humor and satire</exp>. You should therefore click in the third column.</explain-text>
+</explain-list>
+</question>
+
+<question type='multichoice' script-file='ATL05P6.xml' skills='2'>
+<question-text audio-file='ATL05Q6.mp3'><i>A Connecticut Yankee in King Arthur's Court</i> is a satirical comment on what?</question-text>
+<answer-list>
+<answer-text>Modern roles of men and women</answer-text>
+<answer-text>The American frontier</answer-text>
+<answer-text><exp>The Industrial Revolution</exp></answer-text>
+<answer-text>The American Depression</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the lecture, the professor states that <exp><i>A Connecticut Yankee in King Arthur's Court</i> is a satirical comment on the Industrial Revolution</exp>. The third answer, <exp>the Industrial Revolution</exp>, is therefore the best answer to this question.</explain-text>
+</question>
+</question-list>

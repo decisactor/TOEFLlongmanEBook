@@ -1,0 +1,84 @@
+<?xml version='1.0'?>
+<question-list type='listen' audio-file='ATL12.mp3' script-file='ATL12P0.xml'>
+
+<question type='multichoice' script-file='ATL12P1.xml' skills='1'>
+<question-text audio-file='ATL12Q1.mp3'>Why are the students discussing the topic?</question-text>
+<answer-list>
+<answer-text><exp>They are reviewing information that will be on an exam</exp>.</answer-text>
+<answer-text>They are preparing to attend an upcoming lecture.</answer-text>
+<answer-text>They are going over a presentation they will be giving.</answer-text>
+<answer-text>They are reviewing textbook material they just read.</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the discussion, the first man states that <exp>we need to understand the information from the lecture for the next exam</exp>. This means that <exp>they are reviewing information that will be on an exam</exp>. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL12P2.xml' skills='4'>
+<question-text audio-file='ATL12Q2.mp3'>How do the students seem to feel about the material?</question-text>
+<answer-list>
+<answer-text>They are unimpressed.</answer-text>
+<answer-text>They are nervous.</answer-text>
+<answer-text>They <exp>are enthusiastic</exp>.</answer-text>
+<answer-text>They are worried.</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the discussion, the first woman says that <exp>that was a fascinating lecture, wasn't it</exp>, the man replies <exp>it certainly was</exp>, and the second woman adds <exp>I really enjoyed the lecture, too</exp>. From this, it can be determined that the students <exp>are enthusiatic</exp> about the material. The third answer is therefore the best answer to the question.</explain-text>
+</question>
+
+<question type='check.1' script-file='ATL12P3.xml' skills='2'>
+<question-text audio-file='ATL12Q3.mp3'>Why did scientists use to believe that little life was possible at the bottom of the ocean?</question-text>
+<answer-list>
+<answer-text><exp>Because of the temperature</exp></answer-text>
+<answer-text>Because of the lack of oxygen</answer-text>
+<answer-text><exp>Because there was no sunlight</exp></answer-text>
+<answer-text>Because there was too much smoke</answer-text>
+</answer-list>
+<key>1010</key>
+<explain-text>In the discussion, the first woman states that <exp>for a long time, scientists thought that there was little or no life at the bottom of the ocean...not just because it's so cold, but also because of the lack of sunlight</exp>. This means that scientists used to believe that little life was possible at the bottom of the ocean <exp>because of the temperature</exp> and <exp>because there was no sunlight</exp>. The first and third answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL12P4.xml' skills='2'>
+<question-text audio-file='ATL12Q4.mp3'>Why are the underwater volcanoes called black smokers?</question-text>
+<answer-list>
+<answer-text><exp>Hot water coming out of them resembles black smoke</exp>.</answer-text>
+<answer-text>The lava in them has a smoky color.</answer-text>
+<answer-text>The volcanoes smell like smoke.</answer-text>
+<answer-text>The ocean water in which they are located is so dark.</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the discussion, the second woman states that <exp>these underwater volcanoes are called black smokers because, when the hot, hot, water shoots out, it looks like black smoke</exp>. This means that <exp>hot water coming out of them resembles black smoke</exp>. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.2' script-file='ATL12P5.xml' skills='5' width='500'>
+<question-text audio-file='ATL12Q5.mp3'>Are these statements about black smokers true, according to the passage?</question-text>
+<answer-list height='40'>
+<answer-text><exp>They really are volcanoes</exp>.</answer-text>
+<answer-text><exp>The water near them is heated</exp>.</answer-text>
+<answer-text><exp>They kill off the living beings around them</exp>.</answer-text>
+<answer-text><exp>They are part of the process of<br/>chemosynthesis</exp>.</answer-text>
+</answer-list>
+<choice-list>
+<choice-text>YES</choice-text>
+<choice-text>NO</choice-text>
+</choice-list>
+<key>1121</key>
+<explain-list>
+<explain-text>The first woman mentions <exp>black smokers</exp> and states that <exp>they actually are volcanoes on the ocean floor</exp>. This means that it is true about black smokers that <exp>they really are volcanoes</exp>. You should therefore click in the YES column.</explain-text>
+<explain-text>The first man states that <exp>this water from the black smokers heats up the cold, cold water around them</exp>. This means that it is true about black smokers that <exp>the water near them is heated</exp>. You should therefore click in the YES column.</explain-text>
+<explain-text>The first woman states that <exp>scientists now know there's a tremendous amount of thriving life down in the depths of the ocean around the black smokers</exp>. This means that it is NOT true about black smokers that <exp>they kill off the living beings around them</exp>. You should therefore click in the NO column.</explain-text>
+<explain-text>The second man states that <exp>life in the depths of the ocean is dependent on chemosynthesis</exp> and goes on to explain that <exp>the volcanic water heated by the earth's inner core is full of minerals</exp> and that <exp>when the heated water erupts from the black smokers, the bacteria around the black smokers are able to metabolize the minerals</exp>. From this, it can be determined that it is true about black smokers that <exp>they are part of the process of chemosynthesis</exp>. You should therefore click in the YES column.</explain-text>
+</explain-list>
+</question>
+
+<question type='check.1' script-file='ATL12P6.xml' skills='2'>
+<question-text audio-file='ATL12Q6.mp3'>How do black smokers help to support life?</question-text>
+<answer-list>
+<answer-text>They provide oxygen.</answer-text>
+<answer-text>They make photosynthesis possible.</answer-text>
+<answer-text>They provide <exp>warmth</exp>.</answer-text>
+<answer-text>They provide <exp>nourishment</exp>.</answer-text>
+</answer-list>
+<key>0011</key>
+<explain-text>In the discussion, the second man states that <exp>the black smokers do more than provide heat to support life. They also provide food</exp>. This means that the black smokers support life by providing <exp>warmth</exp> and <exp>nourishment</exp>. The third and fourth answers are therefore the best answers to this question.</explain-text>
+</question>
+</question-list>

@@ -1,0 +1,74 @@
+<?xml version='1.0'?>
+<question-list type='listen' genre='conversation' audio-file='ATL07.mp3' script-file='ATL07P0.xml'>
+
+<question type='multichoice' script-file='ATL07P1.xml' skills='1'>
+<question-text audio-file='ATL07Q1.mp3'>Why does the student go to this office?</question-text>
+<answer-list>
+<answer-text>She wants to find out how to get tickets for a musical.</answer-text>
+<answer-text><exp>She would like to know what to do to try out for a musical</exp>.</answer-text>
+<answer-text>She is trying to find out when the musical takes place.</answer-text>
+<answer-text>She would like tips on how to give a performance.</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the conversation, the student says <exp>I'd like to find out about the auditions for the musical. Do you know anything about the auditions?</exp>  From this, it can be determimed that the student goes to the office because <exp>she would like to know what to do to try out for a musical</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL07P2.xml' skills='4'>
+<question-text audio-file='ATL07Q2.mp3' replay-before='ATL07Q2B.mp3' replay-before-graphic='ATL07G2.jpg'>What would the office worker most likely say?</question-text>
+<answer-list>
+<answer-text>"I'm going to prepare something serious and heavy."</answer-text>
+<answer-text>"You should prepare something serious and heavy."</answer-text>
+<answer-text>"I'm going to prepare something light and funny."</answer-text>
+<answer-text><exp>"You should prepare something light and funny."</exp></answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the conversation, the office worker says <exp>I wouldn't do anything too serious and heavy if I were you</exp>. This means that he suggests not doing anything too serious or heavy, so he would most likely say <exp>you should prepare something light and funny</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.2' script-file='ATL07P3.xml' skills='5' width='500'>
+<question-text audio-file='ATL07Q3.mp3'>Indicate whether each of these is true about the student's experience.</question-text>
+<answer-list>
+<answer-text><exp>She has had a lot of training in singing</exp>.</answer-text>
+<answer-text><exp>She has had a lot of training in dancing</exp>.</answer-text>
+<answer-text><exp>She has sung in a lot of productions</exp>.</answer-text>
+<answer-text><exp>She had danced in a lot of productions</exp>.</answer-text>
+</answer-list>
+<choice-list>
+<choice-text>YES</choice-text>
+<choice-text>NO</choice-text>
+</choice-list>
+<key>1212</key>
+<explain-list>
+<explain-text>The student says <exp>I've had quite a bit of training&#8230;, I sang in quite a few productions, and I even had two years of private lessons</exp>. This means that it is true that <exp>she has had a lot of training in singing</exp>. You should therefore click in the YES column.</explain-text>
+<explain-text>The student says <exp>I haven't studied dancing</exp>. This means that it is NOT true that <exp>she has had a lot of training in dancing</exp>. You should therefore click in the NO column.</explain-text>
+<explain-text>The student says <exp>I sang in quite a few productions, and I even had two years of private lessons</exp>. This means that it is true that <exp>she has sung in a lot of productions</exp>. You should therefore click in the YES column.</explain-text>
+<explain-text>The office worker asks <exp>have you done any dancing in any of the productions you were in</exp>, and the student responds by saying <exp>just a little, and it didn't go very well</exp>. This means that it is NOT true that <exp>she has danced in a lot of productions</exp>. You should therefore click in the NO column.</explain-text>
+</explain-list>
+</question>
+
+<question type='multichoice' script-file='ATL07P4.xml' skills='4'>
+<question-text audio-file='ATL07Q4.mp3' replay-before='ATL07Q4B.mp3' replay-after='ATL07Q4A.mp3' replay-before-graphic='ATL07G2.jpg'>What does the student mean when she says this:</question-text>
+<answer-list>
+<answer-text>"Something is physically wrong with my feet."</answer-text>
+<answer-text>"My <exp>dancing is really horrible</exp>."</answer-text>
+<answer-text>"I really don't dance too poorly."</answer-text>
+<answer-text>"I have understated how well I dance."</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the conversation, the student says <exp>I don't dance well at all</exp> and <exp>I have two left feet</exp>. This means that the student's <exp>dancing is really horrible</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL07P5.xml' skills='6'>
+<question-text audio-file='ATL07Q5.mp3'>What does the office worker seem to suggest to the student?</question-text>
+<answer-list>
+<answer-text>Not signing up for an audition</answer-text>
+<answer-text>Dancing at her audition</answer-text>
+<answer-text>Singing and dancing at her audition</answer-text>
+<answer-text><exp>Singing but not dancing at her audition</exp></answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the conversation, the student says <exp>it sounds like I should prepare a scene and then also prepare a song for the audition&#8230;and maybe <u>not</u> a dance</exp>, and the office worker responds with <exp>right</exp>!  From this, it can be determined that the office worker seems to suggest <exp>singing but not dancing at her audition</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+
+</question-list>

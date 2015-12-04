@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+<question-list type='listen' audio-file='ASL03.mp3' script-file='ASL03P0.xml'>
+
+<question type='multichoice' script-file='ASL03P1.xml' skills='1'>
+<question-text audio-file='ASL03Q1.mp3'>What is the topic of this discussion?</question-text>
+<answer-list>
+<answer-text><exp>West Point before the establishment of the military academy</exp></answer-text>
+<answer-text>Key battles during the American Revolution</answer-text>
+<answer-text>Benedict Arnold's military career</answer-text>
+<answer-text>The recent history of West Point</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the discussion, the instructor states that <exp>what we're going to discuss today is the important role of West Point during the American Revolution, prior to the time that the Military Academy was founded there</exp>. From this, it can be determined that the topic of this discussion is <exp>West Point before the establishment of the military academy</exp>. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL03P2.xml' skills='2'>
+<question-text audio-file='ASL03Q2.mp3'>Why is this topic being discussed?</question-text>
+<answer-list>
+<answer-text>The students will be visiting the place under discussion.</answer-text>
+<answer-text>The students asked the instructor about it.</answer-text>
+<answer-text><exp>The students are expected to know about it for a test</exp>.</answer-text>
+<answer-text>It appeared on an exam that the students took.</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the discussion, the instructor states that <exp>you may want to pay careful attention to this discussion because there's an exam at the end of the week, and the information we're discussing today just might be covered on the exam</exp> at the beginning of the discussion and that <exp>you most likely want to be quite knowledgeable about this before Friday's exam</exp> at the end of the discussion. From this, it can be determined that this topic is being discussed because <exp>the students are expected to know about it for a test</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL03P3.xml' skills='2'>
+<question-text audio-file='ASL03Q3.mp3'>Where is West Point located?</question-text>
+<answer-list>
+<answer-text>Across the Hudson from Manhattan</answer-text>
+<answer-text><exp>Forty-five miles from Manhattan</exp></answer-text>
+<answer-text>In the middle of the Hudson</answer-text>
+<answer-text>Forty-five miles from the Hudson</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the discussion, Matt states that <exp>West Point's located 45 miles above Manhattan on the Hudson River</exp>. This means that West Point is <exp>forty-five miles from Manhattan</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='ASL03P4.xml' skills='2'>
+<question-text audio-file='ASL03Q4.mp3'>In what ways mentioned in the discussion was the Hudson strategically important to the British?</question-text>
+<answer-list>
+<answer-text><exp>Economically</exp></answer-text>
+<answer-text>Educationally</answer-text>
+<answer-text>Historically</answer-text>
+<answer-text><exp>Militarily</exp></answer-text>
+</answer-list>
+<key>1001</key>
+<explain-text>In the discussion, Matt states that <exp>the British military forces knew that if they could&#8230;control the Hudson, then they could dominate the colonies, both economically and militarily</exp>. This means that the Hudson was important to the British <exp>economically</exp> and <exp>militarily</exp>. The first and last answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='ASL03P5.xml' skills='2'>
+<question-text audio-file='ASL03Q5.mp3'>What types of fortifications were installed by the colonists around West Point?</question-text>
+<answer-list>
+<answer-text>A massive wall around the military academy</answer-text>
+<answer-text><exp>Cannons in the hills</exp></answer-text>
+<answer-text><exp>Forts in the area</exp></answer-text>
+<answer-text>A chain around Constitution Island</answer-text>
+</answer-list>
+<key>0110</key>
+<explain-text>In the discussion, Pam states that <exp>cannons were installed in the hills overlooking the Hudson in the area around West Point, and a number of forts were constructed</exp>. This means that the colonists installed <exp>cannons in the hills</exp> and <exp>forts in the area</exp> around West Point. The second and third answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='ASL03P6.xml' skills='2'>
+<question-text audio-file='ASL03Q6.mp3'>What is stated in the discussion about Benedict Arnold?</question-text>
+<answer-list>
+<answer-text>He constructed the fortifications at West Point.</answer-text>
+<answer-text><exp>He was recognized for his accomplishments early in the war</exp>.</answer-text>
+<answer-text>He served as commander-in-chief of the American forces.</answer-text>
+<answer-text><exp>He tried to surrender West Point to the British</exp>.</answer-text>
+</answer-list>
+<key>0101</key>
+<explain-text>In the discussion, Matt mentions <exp>Benedict Arnold, who had been a military hero earlier in the war</exp>, and Pam states that <exp>he agreed to surrender West Point to the British in exchange for 20,000 British pounds</exp>. This means that he <exp>was recognized for his accomplishments early in the war</exp> and that <exp>he tried to surrender West Point to the British</exp>. The second and fourth answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL03P7.xml' skills='2'>
+<question-text audio-file='ASL03Q7.mp3'>What did Benedict Arnold expect to gain for his act of treason?</question-text>
+<answer-list>
+<answer-text>British citizenship</answer-text>
+<answer-text>Acknowledgment as a military hero</answer-text>
+<answer-text>The rank of major in the British military</answer-text>
+<answer-text><exp>Financial reward</exp></answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the discussion, Pam states that Benedict Arnold <exp>agreed to surrender West Point to the British in exchange for 20,000 British pounds</exp>. This means that he expected to gain a <exp>financial reward</exp> for his act of treason. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='ASL03P8.xml' skills='2'>
+<question-text audio-file='ASL03Q8.mp3'>What is stated in the discussion about Benedict Arnold?</question-text>
+<answer-list>
+<answer-text><exp>He was viewed as a hero early in his career</exp>.</answer-text>
+<answer-text>He was viewed as a traitor early in his career.</answer-text>
+<answer-text>He was viewed as a hero late in his career.</answer-text>
+<answer-text><exp>He was viewed as a traitor late in his career</exp>.</answer-text>
+</answer-list>
+<key>1001</key>
+<explain-text>In the discussion, one of the students says about Benedict Arnold that <exp>he may have been a hero early in his career, but by the end of the war he was known only as a traitor</exp>. From this, it can be determined about Benedict Arnold that <exp>he was viewed as a hero early in his career</exp> and that <exp>he was viewed as a traitor late in his career</exp>. The first and last answers are therefore the best answers to this question.</explain-text>
+</question>
+</question-list>

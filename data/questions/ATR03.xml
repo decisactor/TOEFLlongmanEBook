@@ -1,0 +1,197 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ATR03P0.xml'>
+<question type="multichoice" passage-file="ATR03P1.xml" skills="1">
+      <question-text>A <bg>moderating</bg> influence in paragraph 1 is one that</question-text>
+      <answer-list>
+         <answer-text>proves inconsequential</answer-text>
+         <answer-text>causes serious problems</answer-text>
+         <answer-text>makes a reasonable deduction</answer-text>
+         <answer-text><exp>serves to avoid extremes</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage describes <exp>the main moderating influence of the ocean on our climate</exp> and states that <exp>this means that the temperature of the ocean tends to remain steady rather than fluctuating wildly</exp>. From this context, it can be determined that a <exp>moderating</exp> influence is one that <exp>serves to avoid extremes</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR03P2.xml" skills="5">
+      <question-text>According to the passage, thermal inertia in the ocean</question-text>
+      <answer-list>
+         <answer-text>results from climate change</answer-text>
+         <answer-text><exp>results in more consistent ocean temperatures</exp></answer-text>
+         <answer-text>is due to seasonal changes in temperature</answer-text>
+         <answer-text>contributes to specific heat, light penetration, mixing, and phase change</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage mentions <exp>the ocean</exp> and <exp>its <b>thermal inertia</b></exp> and states that <exp>this means that the temperature of the ocean tends to remain steady rather than fluctuating wildly</exp>. This means that thermal inertia in the ocean <exp>results in more consistent ocean temperatures</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="ATR03P3.xml" skills="2">
+      <question-text>The word <bg>that</bg> in paragraph 1 refers to</question-text>
+      <answer-list>
+         <answer-text>oceans</answer-text>
+         <answer-text><exp>swings</exp></answer-text>
+         <answer-text>temperature</answer-text>
+         <answer-text>substances</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>the waters of the ocean do not undergo the large seasonal swings in temperature that other substances do</exp>. From this context, it can be determined that <exp>that</exp> refers to <exp>swings</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="ATR03P4.xml" skills="8">
+      <question-text>The author mentions <bg>a trip to the beach</bg> in paragraph 2 in order to</question-text>
+      <answer-list>
+         <answer-text><exp>provide an example of a previously stated point</exp></answer-text>
+         <answer-text>make the tone of the passage less academic</answer-text>
+         <answer-text>introduce a new concept to the passage</answer-text>
+         <answer-text>provide a transition from the first factor to the second factor</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that <exp>the specific heat of water is much greater than the specific heat of the materials that compose the earth's crust</exp> and that <exp>a trip to the beach on a hot day should be enough to clarify this point</exp>. From this, it can be determined that the author mentions a trip to the beach in order to <exp>provide an example of a previously stated point</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type='insert' passage-file='ATR03P5.xml' skills='4'>
+<insert-text><b>That is, if equal amounts of <exp>heat</exp> are <exp>applied to</exp> equal amounts of <exp>soil and water</exp>, the soil will heat up much faster and then cool off much faster than the water.</b></insert-text>
+<key>2</key>
+<explain-text>
+The second sentence of paragraph 2 mentions <exp>the specific heat of water</exp> and <exp>the specific heat of the materials that compose the earth's crust</exp>. A sentence mentioning <exp>heat&#8230;applied to&#8230;soil and water</exp> would logically follow such an idea. The second square in paragraph 2 is therefore the best answer to this question.
+</explain-text>
+</question>   
+<question type="multichoice" passage-file="ATR03P6.xml" skills="3">
+      <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 3?</question-text>
+      <answer-list>
+         <answer-text>Sunlight shines more brightly in the ocean than it does on land.</answer-text>
+         <answer-text>Sunlight is more concentrated on the surface of water than it is beneath the surface.</answer-text>
+         <answer-text><exp>Sunlight penetrates through water better than it does through sand</exp>.</answer-text>
+         <answer-text>There is a much thicker layer of water deep in the ocean than there is near land.</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The highlighted sentence mentions <exp>land, where sunlight&#8230;fails to penetrate deeply</exp> and states that <exp>sunlight penetrates through a much thicker layer of water</exp>, which means that <exp>sunlight penetrates through water better than it does through sand</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR03P7.xml" skills="1">
+      <question-text>The phrase <exp><bg>at least in part</bg></exp> in paragraph 3 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>in every respect</answer-text>
+         <answer-text>based on limited information</answer-text>
+         <answer-text><exp>wholly or partially</exp></answer-text>
+         <answer-text>in bits and pieces</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage states that <exp>there is not such a wide difference in temperature...at least in part because of the fact</exp>. From this context, it can be determined that the phrase <exp>at least in part</exp> is closest in meaning to <exp>wholly or partially</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR03P8.xml" skills="7">
+      <question-text>It can be inferred from the passage that very calm waters would tend to have</question-text>
+      <answer-list>
+         <answer-text>a high degree of mixing</answer-text>
+         <answer-text>a high degree of heat distribution</answer-text>
+         <answer-text><exp>warmer water near the surface</exp></answer-text>
+         <answer-text>a high degree of turbulence</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage states that <exp>wave action and turbulence cause the waters of the ocean to circulate, resulting in the distribution of heat from the sun throughout the water closer to the surface</exp>. From this, it can be inferred that very calm waters would tend to have <exp>warmer water near the surface</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR03P9.xml" skills="1">
+      <question-text>The word <bg>significantly</bg> in paragraph 4 is closest in meaning to the phrase</question-text>
+      <answer-list>
+         <answer-text><exp>to a great extent</exp></answer-text>
+         <answer-text>with symbolic meaning</answer-text>
+         <answer-text>based on sound thought</answer-text>
+         <answer-text>to a trivial degree</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that <exp>as the cold waters from well below the surface intermix with the warmer waters closer to the surface, the surface waters are unable to heat up significantly</exp>. From this context, it can be determined that <exp>significantly</exp> is closest in meaning to <exp>to a great extent</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR03P10.xml" skills="6">
+      <question-text>Which of the following is NOT mentioned as a phase change that affects the thermal inertia of the oceans?</question-text>
+      <answer-list>
+         <answer-text>Evaporation and condensation at lower latitudes</answer-text>
+         <answer-text>Evaporation and condensation at higher latitudes</answer-text>
+         <answer-text><exp>Freezing and melting at lower latitudes</exp></answer-text>
+         <answer-text>Freezing and melting at higher latitudes</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage states that <exp>these two types of phase change, evaporation and condensation at all latitudes and freezing and thawing at very high latitudes, each has the effect of contributing to thermal inertia</exp>. From this, it can be determined that it is NOT mentioned that <exp>freezing and melting at lower latitudes</exp> is a phase change that affects the thermal inertia of the oceans. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR03P11.xml" skills="1">
+      <question-text>The word <bg>reverses</bg> in paragraph 6 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>moves in the wrong direction</answer-text>
+         <answer-text><exp>turns around</exp></answer-text>
+         <answer-text>cools down</answer-text>
+         <answer-text>stops working</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>during hours of daylight, the removal of latent heat through evaporation tends to maintain the coolness</exp> and that <exp>at night the process reverses</exp>. From this context, it can be determined that <exp>reverses</exp> is closest in meaning to <exp>turns around</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR03P12.xml" skills="1">
+      <question-text>The phrase <bg>contribute to</bg> in paragraph 7 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>take part in</answer-text>
+         <answer-text>donate to</answer-text>
+         <answer-text><exp>play a part in</exp></answer-text>
+         <answer-text>detract from</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage states that <exp>at higher latitudes, the freezing and melting also contribute to thermal inertia</exp>. From this context, it can be determined that <exp>contribute to</exp> is closest in meaning to <exp>play a part in</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type='select.1' passage-file='ATR03P13.xml' skills='9'>
+<direction-text>Select the appropriate sentences from the answer choices that are key points in a discussion of <exp>factors affecting the ocean's thermal inertia</exp>. TWO of the answer choices will NOT be used. <i><b>This question is worth 3 points.</b></i></direction-text>
+<intro-text><b>Factors affecting the ocean's thermal inertia</b></intro-text>
+<answer-list>
+<answer>
+<answer-text><exp>The sands on the beaches surrounding the oceans have higher specific heat than does water</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>the sand only a few centimeters beneath the surface is much cooler because the sunlight has failed to penetrate very far beneath the surface</exp>. From this, it can be determined that it is NOT true that <exp>the sands on the beaches surrounding the oceans have higher specific heat than does water</exp>. This answer is therefore not a correct answer to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Light is able to penetrate fairly easily through water</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>another factor that contributes to the thermal inertia of the ocean is the relatively high degree of light penetration that occurs with water</exp>. From this, it can be determined that <exp>light is able to penetrate fairly easily through water</exp>. This answer provides critical information to support the topic of <exp><b>factors affecting the ocean's thermal inertia</b></exp> and is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Ocean water changes from liquid to solid or gas and back at different latitudes</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>another mechanism that is extremely influential in moderating the temperature of the surface water of the ocean is phase change, which includes both changes between liquid and vapor phases at all latitudes and changes between liquid and solid phases at higher latitudes</exp>. From this, it can be determined that <exp>ocean water changes from liquid to solid or gas and back at different latitudes</exp>. This answer provides critical information to support the topic of <exp><b>factors affecting the ocean's thermal inertia</b></exp> and is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>The circulation of the water in the ocean results in the distribution of heat</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>mixing is a third factor that plays a role in the thermal inertia of the ocean</exp> and that <exp>wave action and turbulence cause the waters of the ocean to circulate</exp>. From this, it can be determined that <exp>the circulation of the water in the ocean results in the distribution of heat</exp>. This answer provides critical information to support the topic of <exp><b>factors affecting the ocean's thermal inertia</b></exp> and is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>The atmosphere above the earth results from the earth's climate</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>interactions between the atmosphere and the surface waters of the oceans dominate the earth's climate</exp>. From this, it can be determined that it is NOT true that <exp>the atmosphere above the earth results from the earth's climate</exp>. This answer is therefore not a correct answer to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Water requires a considerable amount of heat energy to increase its temperature</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>one factor that contributes to the thermal inertia of water is its specific heat</exp> and that <exp>specific heat is the amount of heat energy that is needed to raise the temperature of 1 gram of a substance by 1 degree Celsius</exp>. From this, it can be determined that <exp>water requires a considerable amount of heat energy to increase its temperature</exp>. This answer provides critical information to support the topic of <exp><b>factors affecting the ocean's thermal inertia</b></exp> and is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+</answer-list>
+<key>.130.2</key>            
+</question>   
+</question-list>   
+

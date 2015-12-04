@@ -1,0 +1,84 @@
+<?xml version='1.0'?>
+<question-list type='listen' audio-file='ATL04.mp3' script-file='ATL04P0.xml'>
+
+<question type='multichoice' script-file='ATL04P1.xml' skills='5'>
+<question-text audio-file='ATL04Q1.mp3'>How is the information in the discussion organized?</question-text>
+<answer-list>
+<answer-text>Several celestial bodies are compared.</answer-text>
+<answer-text>Various characteristics of our Sun are outlined.</answer-text>
+<answer-text><exp>A process is explained and applied to a well-known example</exp>.</answer-text>
+<answer-text>The causes of a supernova are explained.</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the discussion, the professor begins by saying <exp>today we're talking about the life cycle of a star</exp> and later says <exp>now let's talk about our Sun and see where it is in its life cycle</exp>. From this, it can be determined that the organization of the information in the discussion is that <exp>a process is explained and applied to a well-known example</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.2' script-file='ATL04P2.xml' skills='5'>
+<question-text audio-file='ATL04Q2.mp3'>Indicate what each type of star is.</question-text>
+<answer-list>
+<answer-text><exp>White dwarf</exp></answer-text>
+<answer-text><exp>Red giant</exp></answer-text>
+<answer-text><exp>Supernova</exp></answer-text>
+</answer-list>
+<choice-list>
+<choice-text><exp>DYING STAR</exp></choice-text>
+<choice-text><exp>COLLAPSED SMALL STAR</exp></choice-text>
+<choice-text><exp>EXPLODED LARGE STAR</exp></choice-text>
+</choice-list>
+<key>213</key>
+<explain-list>
+<explain-text>One of the students says <exp>if a star is small, it collapses gently and remains collapsed. This is called a white dwarf</exp>. From this, it can be determined that a <exp>white dwarf</exp> is a <exp>collapsed small star</exp>. You should therefore click in the second column.</explain-text>
+<explain-text>One of the students says <exp>the first sign of old age is that the star begins to swell and turn red in its outer regions. It's called a red giant</exp>. From this, it can be determined that a <exp>red giant</exp> is a <exp>dying star</exp>. You should therefore click in the first column.</explain-text>
+<explain-text>One of the students says <exp>if a star is large, there's a violent explosion&#8230;This is called a supernova</exp>. From this, it can be determined that a <exp>supernova</exp> is an <exp>exploded large star</exp>. You should therefore click in the third column.</explain-text>
+</explain-list>
+</question>
+
+<question type='check.1' script-file='ATL04P3.xml' skills='2'>
+<question-text audio-file='ATL04Q3.mp3'>What is true about our Sun?</question-text>
+<answer-list>
+<answer-text>It <exp>is middle-aged</exp>.</answer-text>
+<answer-text>It is five million years old.</answer-text>
+<answer-text>It is one of the largest stars.</answer-text>
+<answer-text>It <exp>formed from remnants of other stars</exp>.</answer-text>
+</answer-list>
+<key>1001</key>
+<explain-text>In the discussion, Doug states that <exp>our Sun is an average size, middle-aged star</exp>, and Sally states that <exp>our Sun was formed from the remains of numerous other stars</exp>. This means that our Sun <exp>is middle-aged</exp> and <exp>formed from remnants of other stars</exp>. The first and last answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL04P4.xml' skills='2'>
+<question-text audio-file='ATL04Q4.mp3'>What causes a star to die?</question-text>
+<answer-list>
+<answer-text>Nuclear reactions begin inside of it.</answer-text>
+<answer-text><exp>Its hydrogen fuel is gone</exp>.</answer-text>
+<answer-text>Pressure on its core ceases.</answer-text>
+<answer-text>The force of gravity on it diminishes.</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the discussion, Sally states that <exp>when all the hydrogen's used up, the star collapses and dies</exp>. This means that a star dies when <exp>its hydrogen fuel is gone</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='ATL04P5.xml' skills='6'>
+<question-text audio-file='ATL04Q5.mp3'>What will our Sun probably become?</question-text>
+<answer-list>
+<answer-text><exp>A red giant</exp></answer-text>
+<answer-text>A supernova</answer-text>
+<answer-text><exp>A white dwarf</exp></answer-text>
+<answer-text>Part of other stars</answer-text>
+</answer-list>
+<key>1010</key>
+<explain-text>In the discussion, Doug states that <exp>our Sun&#8230;will most likely become a red giant in about five billion years</exp>; the instructor later states that <exp>our Sun is expected to end its life as a white dwarf</exp>. This means that our Sun will probably become <exp>a red giant</exp> and then <exp>a white dwarf</exp>. The first and third answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL04P6.xml' skills='4'>
+<question-text audio-file='ATL04Q6.mp3'>How does the professor seem to feel about Rob's responses?</question-text>
+<answer-list>
+<answer-text>They are really good.</answer-text>
+<answer-text>They are acceptable.</answer-text>
+<answer-text>The professor does not seem to notice them.</answer-text>
+<answer-text>They <exp>seem to frustrate the professor</exp>.</answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the discussion, the professor reponds to Rob's answers by saying <exp>maybe someone else could try answering the question</exp>, and <exp>maybe you'll want to read the assignment more carefully next time, Rob</exp>, and <exp>you don't sound exactly sure, Rob</exp>. From this, it can be determined that Rob's responses <exp>seem to frustrate the professor</exp>. The last answer is therefore the best answer to this question. </explain-text>
+</question>
+
+</question-list>

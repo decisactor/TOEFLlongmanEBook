@@ -1,0 +1,92 @@
+<?xml version='1.0'?>
+<question-list type='listen' audio-file='ASL08.mp3' script-file='ASL08P0.xml'>
+
+<question type='multichoice' script-file='ASL08P1.xml' skills='5'>
+<question-text audio-file='ASL08Q1.mp3'>How do the students organize their discussion?</question-text>
+<answer-list>
+<answer-text><exp>By following the class syllabus</exp></answer-text>
+<answer-text>By discussing one author after another</answer-text>
+<answer-text>By taking turns presenting different short stories</answer-text>
+<answer-text>By meeting on different days to discuss different types of literature</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the discussion, the students say <exp>I've got my syllabus right here, let's look over what's going on this week,&#8230;let's review Monday's class first,&#8230;let's move on to Wednesday's class</exp>, and <exp>for tomorrow, we're supposed to read Poe's famous poem, "The Raven."</exp>  From this, it can be determined that the students organize their discussion <exp>by following the class syllabus</exp>. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL08P2.xml' skills='6'>
+<question-text audio-file='ASL08Q2.mp3'>How many times have these students most likely met to discuss this course?</question-text>
+<answer-list>
+<answer-text>Two times</answer-text>
+<answer-text>Five times</answer-text>
+<answer-text><exp>Seven times</exp></answer-text>
+<answer-text>Ten times</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the discussion, the students say that <exp>we've been getting together each week to discuss this American literature class</exp> and that <exp>today's Thursday of the seventh week of the quarter</exp>. From this, it can be determined that the students have most likely met <exp>seven times</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ASL08P3.xml' skills='5'>
+<question-text audio-file='ASL08Q3.mp3'>How has the week on Poe been organized by the professor?</question-text>
+<answer-list>
+<answer-text>One work by each of three different authors has been assigned for each class meeting.</answer-text>
+<answer-text><exp>One example of each type of writing has been assigned for each class meeting</exp>.</answer-text>
+<answer-text>A different piece of literary criticism has been assigned for each class meeting.</answer-text>
+<answer-text>Different short stories have been assigned for each class meeting.</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the passage, one student says <exp>so far, we covered Poe's literary criticism in class on Monday and one of Poe's short stories, "The Fall of the House of Usher," yesterday</exp> and <exp>we'll be dealing with Poe's famous poem, "The Raven," in tomorrow's class</exp>. From this, it can be determined that <exp>one example of each type of writing has been assigned for each class meeting</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.2' script-file='ASL08P4.xml' skills='5'>
+<question-text audio-file='ASL08Q4.mp3'>Indicate which day of the week each subject is covered in class.</question-text>
+<answer-list>
+<answer-text><exp>Short story</exp></answer-text>
+<answer-text><exp>Poetry</exp></answer-text>
+<answer-text><exp>Literary Criticism</exp></answer-text>
+</answer-list>
+<choice-list>
+<choice-text><exp>MONDAY</exp></choice-text>
+<choice-text><exp>WEDNESDAY</exp></choice-text>
+<choice-text><exp>FRIDAY</exp></choice-text>
+</choice-list>
+<key>231</key>
+<explain-list>
+<explain-text>The students say <exp>today's Thursday</exp>, and <exp>we covered&#8230;one of Poe's short stories, "The Fall of the House of Usher," yesterday</exp>. From this, it can be determined that a <exp>short story</exp> was covered on <exp>Wednesday</exp>. You should therefore click in the second column.</explain-text>
+<explain-text>The students say <exp>today's Thursday</exp>, and <exp>we'll be dealing with Poe's famous poem, "The Raven," in tomorrow's class</exp>. From this, it can be determined that <exp>poetry</exp> will be covered on <exp>Friday</exp>. You should therefore click in the third column.</explain-text>
+<explain-text>One of the students says <exp>we covered Poe's literary criticism in class on Monday</exp>. From this, it can be determined that <exp>literary criticism</exp> was covered on <exp>Monday</exp>. You should therefore click in the first column.</explain-text>
+</explain-list>
+</question>
+
+<question type='multichoice' script-file='ASL08P5.xml' skills='6'>
+<question-text audio-file='ASL08Q5.mp3'>Why was Hawthorne most likely a part of a lesson on Poe?</question-text>
+<answer-list>
+<answer-text>Hawthorne was highly critical of Poe.</answer-text>
+<answer-text>The professor compared Poe's novels to Hawthorne's novels.</answer-text>
+<answer-text><exp>Poe wrote a review of a book by Hawthorne</exp>.</answer-text>
+<answer-text>Hawthorne assisted Poe in writing one of his poems.</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the discussion, one student says that <exp>Poe's most famous piece of literary criticism was his review of a book of short stories by Nathaniel Hawthorne</exp>. From this, it can be determined that <exp>Poe wrote a review of a book by Hawthorne</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.2' script-file='ASL08P6.xml' skills='6' width='500'>
+<question-text audio-file='ASL08Q6.mp3'>Based on the information in the conversation, indicate whether the statements below reflect Poe's philosophy of good writing.</question-text>
+<answer-list>
+<answer-text><exp>One author cannot criticize another.</exp></answer-text>
+<answer-text><exp>All elements of a novel must be unified.</exp></answer-text>
+<answer-text><exp>Every detail in a short story needs to be unified.</exp></answer-text>
+<answer-text><exp>Short stories should always be cheerful.</exp></answer-text>
+</answer-list>
+<choice-list width='75'>
+<choice-text>YES</choice-text>
+<choice-text>NO</choice-text>
+</choice-list>
+<key>2212</key>
+<explain-list>
+<explain-text>In the discussion, one of the students says <exp>Poe's most famous piece of literary criticism was his review of a book of short stories by Nathaniel Hawthorne</exp>. From this, it can be determined that it is NOT part of Poe's philosophy that <exp>one author cannot criticize another</exp>. You should therefore click in the NO column.</explain-text>
+<explain-text>In the discussion, one of the students says <exp>a successful novel can have a variety of different elements</exp>. From this, it can be determined that it is NOT part of Poe's philosophy that <exp>all elements of a novel must be unified</exp>. You should therefore click in the NO column.</explain-text>
+<explain-text>In the discussion, one of the students says <exp>a successful short story needs to be unified, to have everything lead to one unified whole</exp>. From this, it can be determined that it is part of Poe's philosophy that <exp>every detail in a short story needs to be unified</exp>. You should therefore click in the YES column.</explain-text>
+<explain-text>In the discussion, one of the students says <exp>Poe's especially famous for his short stories, and "The Fall of the House of Usher" is certainly one of his best known</exp>, and another student says <exp>it really creates a terrifying mood and pulls the reader into the story</exp>. From this, it can be determined that it is NOT part of Poe's philosophy that <exp>short stories should always be cheerful</exp>. You should therefore click in the NO column.</explain-text>
+</explain-list>
+</question>
+</question-list>

@@ -1,0 +1,50 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR12P00.xml'>
+
+    <question type="multichoice" passage-file="ASR12P01.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 1? <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.</question-text>
+        <answer-list>
+            <answer-text>Unequal rewards for competition should be distributed equally to achieve cooperation.</answer-text>
+            <answer-text>Earlier definitions of competition andcooperation described them in basically the same way.</answer-text>
+            <answer-text>Competition and cooperation were seen as opposites, with rewards distributed equally to those who competed and unequally to those who cooperated.</answer-text>
+            <answer-text>Competition was defined in terms of unequal distribution of rewards and cooperation in terms of equal distribution of rewards.</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>
+
+    <question type="multichoice" passage-file="ASR12P02.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 2? <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.</question-text>
+        <answer-list>
+            <answer-text>It does not work well to define competition and cooperation in terms of rewards because definitions of this type incorrectly indicate that the two are opposites.</answer-text>
+            <answer-text>Researchers tend to define competition and cooperation on the basis of rewards because this shows how the two differ.</answer-text>
+            <answer-text>Researchers are looking for ways to define cooperation and competition in terms of rewards but have so far not been able to come up with definitions.</answer-text>
+            <answer-text>Research has shown that the optimal definitions of competition and cooperation are those indicating that the two are opposites.</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+
+    <question type="multichoice" passage-file="ASR12P03.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 2? <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.</question-text>
+        <answer-list>
+            <answer-text>Because sports and politics are so competitive, participants may appear to be cooperating but are not really doing so.</answer-text>
+            <answer-text>In a number of contexts, cooperation is necessary both among team members and between opposing teams.</answer-text>
+            <answer-text>When cooperation exists in contests such as games and elections, competition naturally decreases.</answer-text>
+            <answer-text>In sports, cooperation is necessary among team members but should not take place between opposing teams.</answer-text>
+        </answer-list>
+        <key>2</key>
+
+    </question>
+    <question type="multichoice" passage-file="ASR12P04.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 3? <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.</question-text>
+        <answer-list>
+            <answer-text>The derivation of the word competition indicates that competition and cooperation are clearly opposing forces. </answer-text>
+            <answer-text>The derivation of the word competition shows us that competition isnecessary for cooperation to succeed.</answer-text>
+            <answer-text>The derivation of the word competition demonstrates that cooperation is an integral part of competition.</answer-text>
+            <answer-text>The derivation of the word competition leads to the conclusion that cooperation cannot exist without competition.</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>
+
+</question-list>
+
+

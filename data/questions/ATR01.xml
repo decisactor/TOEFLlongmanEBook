@@ -1,0 +1,197 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ATR01P0.xml'>
+<question type="multichoice" passage-file="ATR01P1.xml" skills="1">
+      <question-text>The word <bg>inclement</bg> in paragraph 1 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>local</answer-text>
+         <answer-text><exp>stormy</exp></answer-text>
+         <answer-text>favored</answer-text>
+         <answer-text>stable</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage mentions <exp>an indication of imminent inclement weather</exp> and later mentions <exp>indicators of approaching storms</exp>. From this context, it can be determined that <exp>inclement</exp> is closest in meaning to <exp>stormy</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR01P2.xml" skills="1">
+      <question-text>The word <bg>roost</bg> in paragraph 2 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>feed</answer-text>
+         <answer-text>communicate</answer-text>
+         <answer-text>grow</answer-text>
+         <answer-text><exp>settle</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>birds&#8230;stay on the ground or roost in trees instead of soaring in the skies</exp>. From this context, it can be determined that <exp>roost</exp> is closest in meaning to <exp>settle</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR01P3.xml" skills="2">
+      <question-text>The word <bg>that</bg> in paragraph 2 refers to</question-text>
+      <answer-list>
+         <answer-text>a high volume</answer-text>
+         <answer-text>croaking frogs</answer-text>
+         <answer-text><exp>indicators</exp></answer-text>
+         <answer-text>other animals</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage states that <exp>an unusual amount of quacking by ducks and a high volume of croaking by frogs are both indicators that are believed to occur because of the high degree of sensitivity of ducks and frogs to the change in pressure</exp>. From this context, it can be determined that <exp>that</exp> refers to <exp>indicators</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="ATR01P4.xml" skills="5">
+      <question-text>It is stated in the passage that, as air pressure drops before a storm, which of the following happens?</question-text>
+      <answer-list>
+         <answer-text>Swallows soar in the sky.</answer-text>
+         <answer-text>Ducks suddenly fall silent.</answer-text>
+         <answer-text>Frogs gather together in large groups.</answer-text>
+         <answer-text><exp>Ants scurry around more frantically than usual</exp>.</answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>ants become more active prior to storms, most likely because of their sensitivity to lower pressure</exp>. This means that, as air pressure drops before a storm, <exp>ants scurry around more frantically than usual</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>      
+<question type="multichoice" passage-file="ATR01P5.xml" skills="1">
+      <question-text>The word <bg>emit</bg> in paragraph 3 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>hold in</answer-text>
+         <answer-text>listen to</answer-text>
+         <answer-text><exp>send out</exp></answer-text>
+         <answer-text>make up</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage states that <exp>approaching thunderstorms emit low-frequency sound waves that certain animals can hear but humans cannot</exp>. From this context, it can be determined that <exp>emit</exp> is closest in meaning to <exp>send out</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>         
+<question type='insert' passage-file='ATR01P6.xml' skills='4'>
+<insert-text><b>Not all <exp>animals</exp> that foretell coming weather do so by <exp>reacting to changes in the air pressure</exp>.</b></insert-text>
+<key>1</key>
+<explain-text>
+The first sentence of paragraph 2 states that <exp>a number of animals are remarkably sensitive to variations in air pressure</exp>, and the first sentence of paragraph 3 states that <exp>other animals are good weather forecasters because they are more sensitive to low-frequency sounds</exp>. A sentence mentioning <exp>animals&#8230;reacting to changes in the air pressure</exp> would logically come at the beginning of paragraph 3 to relate the idea that was presented in paragraph 2 to the idea that is going to be presented in paragraph 3. The first square in paragraph 3 is therefore the best answer to this question.
+</explain-text>
+</question>            
+<question type="multichoice" passage-file="ATR01P7.xml" skills="6">
+      <question-text>Which of the following is NOT a type of behavior that is caused by low-frequency sounds from approaching thunderstorms?</question-text>
+      <answer-list>
+         <answer-text>Agitated behavior in birds</answer-text>
+         <answer-text><exp>Gentle behavior from horses</exp></answer-text>
+         <answer-text>Unusually aggressive behavior from goats</answer-text>
+         <answer-text>Excessive noise from donkeys</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>these behaviors may be due to a sensitivity to low-frequency sound waves</exp> and that <exp>behaviors of this sort&#8230;</exp>include<exp>&#8230;normally gentle horses shying away from their owners</exp>. From this, it can be determined that a type of behavior that is NOT caused by low-frequency sounds from approaching thunderstorms is <exp>gentle behavior from horses</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>               
+<question type="multichoice" passage-file="ATR01P8.xml" skills="3">
+      <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 4?</question-text>
+      <answer-list>
+         <answer-text>There is a scientific basis for the belief that certain behaviors in animals influence the paths taken by thunderstorms.</answer-text>
+         <answer-text>Short-range weather forecasts have become increasingly more successful in predicting thunderstorms.</answer-text>
+         <answer-text>Scientists are studying the possibility that certain animal behaviors may occur during storms.</answer-text>
+         <answer-text><exp>Quite possibly there are scientific reasons</exp> why <exp>animals act in certain ways before storms</exp>.</answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The highlighted sentence states that <exp>there is good reason to believe</exp> and that this <exp>may have a scientific basis</exp>, which means <exp>quite possibly there are scientific reasons</exp>, and that <exp>these animal behaviors seem to occur regularly prior to storms</exp>, which means <exp>animals act in certain ways before storms</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>                  
+<question type="multichoice" passage-file="ATR01P9.xml" skills="8">
+      <question-text>Why does the author mention <bg>proverbs</bg> in paragraph 3?</question-text>
+      <answer-list>
+         <answer-text>To introduce a new idea into a passage about weather forecasters</answer-text>
+         <answer-text><exp>To provide supporting information about beliefs in certain cultures</exp></answer-text>
+         <answer-text>To lighten up the heavy scientific tone of the passage</answer-text>
+         <answer-text>To contrast the scientific information presented in the passage</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage mentions <exp>proverbs</exp> and states that <exp>these behaviors may be due to a sensitivity to low-frequency sound waves</exp> and that <exp>behaviors of this sort that have been noticed in various cultures and included in proverbs</exp>. From this, it can be determined that the author mentions <exp>proverbs</exp> in paragraph 3 in order <exp>to provide supporting information about beliefs in certain cultures</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>                     
+<question type="multichoice" passage-file="ATR01P10.xml" skills="1">
+      <question-text>The phrase <bg>erroneous notion</bg> in paragraph 4 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>forgotten ability</answer-text>
+         <answer-text>distinct impression</answer-text>
+         <answer-text>inaccurate idea</answer-text>
+         <answer-text>proven assumption</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage mentions <exp>the erroneous notion that squirrels are good indicators of long-range weather patterns</exp> and states that this <exp>is not an indicator of cold weather to come</exp>. From this context, it can be determined that the phrase <exp>erroneous notion</exp> is closest in meaning to <exp>inaccurate idea</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>                        
+<question type="multichoice" passage-file="ATR01P11.xml" skills="1">
+      <question-text>A <bg>harbinger</bg> in paragraph 4 is most likely a</question-text>
+      <answer-list>
+         <answer-text><exp>forewarning</exp></answer-text>
+         <answer-text>reward</answer-text>
+         <answer-text>consequence</answer-text>
+         <answer-text>belief</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that <exp>the squirrel develops a long and bushy tail because of earlier good weather and not as a harbinger of bad weather to come</exp>. From this context, it can be determined that a <exp>harbinger</exp> is most likely a <exp>forewarning</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>                           
+<question type="multichoice" passage-file="ATR01P12.xml" skills="7">
+      <question-text>It can be inferred from the passage that the proverbs relating to squirrels that are mentioned in paragraph 4</question-text>
+      <answer-list>
+         <answer-text>provide useful information about approaching weather</answer-text>
+         <answer-text>tell more about winter weather than weather in other seasons</answer-text>
+         <answer-text>do not accurately describe squirrel behaviors</answer-text>
+         <answer-text><exp>are not actually very good weather predictors</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+Paragraph 4 mentions <exp>one proverb</exp> and states that <exp>this behavior in squirrels&#8230;is not an indicator of cold weather to come</exp>; paragraph 4 then mentions <exp>another proverb about squirrels</exp> and states that this is&#8230;<exp>not&#8230;a harbinger of bad weather to come</exp>. From this, it can be determined that the proverbs relating to squirrels <exp>are not actually very good weather predictors</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>                              
+<question type='select.1' passage-file='ATR01P13.xml' skills='9'>
+<direction-text>Select the appropriate sentences from the answer choices that are key points in the discussion of <exp>animals as weather forecasters</exp>. THREE of the answer choices will NOT be used. <i><b>This question is worth 3 points.</b></i></direction-text>
+<intro-text><b>Animals as weather forecasters</b></intro-text>
+<answer-list>
+<answer>
+<answer-text><exp>Some animals that seem to exhibit behaviors well in advance of ongoing weather patterns most likely are not doing so</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>there is good reason to believe that the fact that these animal behaviors seem to occur regularly prior to storms may have a scientific basis and that the animals demonstrating these behaviors may actually be good short-range weather forecasters</exp> and that <exp>their ability to predict long-range weather patterns is rather suspect</exp>. From this, it can be determined that <exp>some animals that seem to exhibit behaviors well in advance of ongoing weather patterns most likely are not doing so</exp>. This answer provides critical information to support the topic of <exp><b>animals as weather forecasters</b></exp> and is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Some animals that are sensitive to increasing air pressure exhibit predictable behaviors immediately before bad weather occurs</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>a number of animals are remarkably sensitive to variations in air pressure, and some of them exhibit consistent, noticeable, and predictable behaviors as air pressure drops before a storm hits</exp>. From this, it can be determined that it is NOT true that <exp>some animals that are sensitive to increasing air pressure exhibit predictable behaviors immediately before bad weather occurs</exp>. This answer is therefore not a correct answer to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Some animals that are sensitive to low-frequency sounds exhibit predictable behaviors immediately before bad weather occurs</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>other animals are good weather forecasters because they are more sensitive to low-frequency sounds than humans are, and approaching thunderstorms emit low-frequency sound waves that certain animals can hear but humans cannot</exp>. From this, it can be determined that <exp>some animals that are sensitive to low-frequency sounds exhibit predictable behaviors immediately before bad weather occurs</exp>. This answer provides critical information to support the topic of <exp><b>animals as weather forecasters</b></exp> and is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Some animals that are sensitive to long-range weather patterns exhibit predictable behaviors well before the weather patterns set in</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>there is good reason to believe that the fact that these animal behaviors seem to occur regularly prior to storms may have a scientific basis and that the animals demonstrating these behaviors may actually be good short-range weather forecasters and that their ability to predict long-range weather patterns is rather suspect</exp>. From this, it can be determined that it is NOT true that <exp>some animals that are sensitive to long-range weather patterns exhibit predictable behaviors well before the weather patterns set in</exp>. This answer is therefore not a correct answer to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Some animals that are sensitive to sounds that humans cannot hear exhibit unpredictable behaviors</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>sensitivity of certain animals to&#8230;low-frequency sound waves that humans cannot hear&#8230;causes behaviors in animals that certain societies have come to recognize as predictors of storms</exp>. From this, it can be determined that <exp>some animals that are sensitive to sounds that humans cannot hear exhibit unpredictable behaviors</exp>. From this, it can be determined that it is NOT a point of the passage that <exp>some animals that are sensitive to sounds that humans cannot hear exhibit unpredictable behaviors</exp>. This answer is therefore not a correct answer to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Some animals that are sensitive to changes in air pressure exhibit predictable behaviors immediately before bad weather comes</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>a number of animals are remarkably sensitive to variations in air pressure, and some of these animals exhibit consistent, noticeable, and predictable behaviors as air pressure drops before a storm hits</exp>. From this, it can be determined that <exp>some animals that are sensitive to changes in air pressure exhibit predictable behaviors immediately before bad weather comes</exp>. This answer provides critical information to support the topic of <exp><b>animals as weather forecasters</b></exp> and is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+</answer-list>
+<key>2.1..0</key>
+</question>
+</question-list>   
+

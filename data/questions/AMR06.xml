@@ -1,0 +1,197 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='AMR06P0.xml'>
+<question type="multichoice" passage-file="AMR06P1.xml" skills="1">
+      <question-text>The word <bg>faded</bg> in paragraph 1 could best be replaced by</question-text>
+      <answer-list>
+         <answer-text><exp>declined</exp></answer-text>
+         <answer-text>discolored</answer-text>
+         <answer-text>cleared</answer-text>
+         <answer-text>organized</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that <exp>the glory of the ancient Egyptian empire faded as a series of conquerors&#8230;invaded Egypt</exp>. From this context, it can be determined that <exp>faded</exp> could best be replaced by <exp>declined</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR06P2.xml" skills="7">
+      <question-text>It can be inferred from the passage that it would have been difficult to find someone who could read Egyptian hieroglyphics</question-text>
+      <answer-list>
+         <answer-text>in 1400 B.C.</answer-text>
+         <answer-text>in 300 A.D.</answer-text>
+         <answer-text><exp>in 1400 A.D.</exp></answer-text>
+         <answer-text>in 1900 A.D.</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage states that <exp>in the year 384 A.D., the Roman Emperor Theodosus issued a decree</exp>, that <exp>this effectively put an end to the reading and writing of hieroglyphics</exp>, and that <exp>for the next 1,400 years, hieroglyphics remained on the monuments of ancient Egypt, but the ability to decode them was lost</exp>. From this, it can be inferred that it would have been difficult to find someone who could read Egyptian hieroglyphics <exp>in 1400 A.D.</exp>  The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="AMR06P3.xml" skills="6">
+      <question-text>According to the passage, it is NOT true that the Rosetta Stone</question-text>
+      <answer-list>
+         <answer-text>is a piece of a larger stone</answer-text>
+         <answer-text>was discovered in Egypt</answer-text>
+         <answer-text>can be found in the British Museum</answer-text>
+         <answer-text><exp>contains only hieroglyphics</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>the Rosetta Stone&#8230;contains text in three types of writing: 14 lines of hieroglyphics, 32 lines of demotics&#8230;, and Greek</exp>. This means that it is NOT true that the Rosetta Stone <exp>contains only hieroglyphics</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="AMR06P4.xml" skills="1">
+      <question-text>The phrase <bg>bestowed upon</bg> in paragraph 2 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>discussed with</answer-text>
+         <answer-text>used for</answer-text>
+         <answer-text><exp>given to</exp></answer-text>
+         <answer-text>hidden from</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage mentions <exp>the gifts and goodwill that he had bestowed upon the temples</exp>. From this context, it can be determined that the phrase <exp>bestowed upon</exp> is closest in meaning to <exp>given to</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type='insert' passage-file='AMR06P5.xml' skills='4'>
+<insert-text><b><exp>This Egyptian town</exp> was named Rosetta.</b></insert-text>
+<key>2</key>
+<explain-text>
+The first sentence of paragraph 2 mentions <exp>fortifications close to an Egyptian town</exp>. A sentence that starts with <exp>this Egyptian town</exp> would logically follow such a sentence. The second square in paragraph 2 is therefore the best answer to this question.
+</explain-text>
+</question>   
+<question type="multichoice" passage-file="AMR06P6.xml" skills="1">
+      <question-text>The word <bg>frames</bg> in paragraph 3 could best be replaced by</question-text>
+      <answer-list>
+         <answer-text>letters</answer-text>
+         <answer-text>meanings</answer-text>
+         <answer-text>pictures</answer-text>
+         <answer-text><exp>borders</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>oval frames throughout the hieroglyphics...were used in the hieroglyphics to highlight the names of kings</exp>. From this context, it can be determined that <exp>frames</exp> could best be replaced by <exp>borders</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="AMR06P7.xml" skills="2">
+      <question-text>The word <bg>which</bg> in paragraph 3 refers to</question-text>
+      <answer-list>
+         <answer-text>a young historian and linguist</answer-text>
+         <answer-text><exp>the names</exp></answer-text>
+         <answer-text>the non-Egyptian kings</answer-text>
+         <answer-text>the cartouches</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>a young historian and linguist&#8230;was then able to decode the names&#8230;, which were written phonetically</exp>. From this context, it can be determined that <exp>which</exp> refers to <exp>the names</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR06P8.xml" skills="1">
+      <question-text>The word <bg>rulers</bg> in paragraph 3 could best be replaced by</question-text>
+      <answer-list>
+         <answer-text>measurers</answer-text>
+         <answer-text><exp>monarchs</exp></answer-text>
+         <answer-text>lawyers</answer-text>
+         <answer-text>calculators</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage mentions <exp>the non-Egyptian kings</exp> and later mentions <exp>the non-Egyptian rulers</exp>. From this context, it can be determined that <exp>rulers</exp> could best be replaced by <exp>monarchs</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR06P9.xml" skills="3">
+      <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 4?</question-text>
+      <answer-list>
+         <answer-text>Champollion determined that, <exp>unlike the hieroglyphics for names of the non-Egyptian rulers, other hieroglyphics were not entirely phonetic</exp>.</answer-text>
+         <answer-text>Champollion decoded the names of the Egyptian rulers in the same way that he had decoded the names of the other rulers.</answer-text>
+         <answer-text>Champollion was able to figure out that none of the hieroglyphics could be decoded by matching hieroglyphs to sounds.</answer-text>
+         <answer-text>Champollion was unable to decode the names of the non-Egyptian rulers as easily as he had decoded the others.</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The sentence mentions <exp>the phonetically written names of the non-Egyptian rulers in the hieroglyphics</exp> and states that <exp>all of the hieroglyphics could not be decoded simply by matching a hieroglyph to a sound</exp>. This means that <exp>unlike the hieroglyphics for names of the non-Egyptian rulers, other hieroglyphics were not entirely phonetc</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR06P10.xml" skills="5">
+      <question-text>According to the passage, what did Champollion discover about the hieroglyphics?</question-text>
+      <answer-list>
+         <answer-text>That each of the hieroglyphs represented a single sound</answer-text>
+         <answer-text>That it took several hieroglyphs to represent a single sound</answer-text>
+         <answer-text>That the pictographs represented multiple sounds</answer-text>
+         <answer-text><exp>That one word might be composed of different types of hieroglyphs</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>Champollion's amazing breakthrough&#8230;was that these three different types of hieroglyphs could be used together in a single word</exp>. This means that Champollion discovered <exp>that one word might be composed of different types of hieroglyphs</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR06P11.xml" skills="1">
+      <question-text><bg>An amalgamation</bg> in paragraph 4 is most likely</question-text>
+      <answer-list>
+         <answer-text>a description</answer-text>
+         <answer-text><exp>a mix</exp></answer-text>
+         <answer-text>a history</answer-text>
+         <answer-text>a type</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage mentions names that were written <exp>only with hieroglyphs representing single sounds</exp> and later mentions names that were written <exp>in an amalgamation of all three types of hieroglyphs</exp>. From this context, it can be determined that <exp>an amalgamation</exp> is most likely <exp>a mix</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="AMR06P12.xml" skills="8">
+      <question-text>Why does the author mention <bg>Ramses</bg> in paragraph 4?</question-text>
+      <answer-list>
+         <answer-text>To indicate that one name could be written in only one type of writing</answer-text>
+         <answer-text>To provide an example of a non-Egyptian king who had written in hieroglyphics</answer-text>
+         <answer-text>To refute the idea that Champollion had been able to decode the hieroglyphics</answer-text>
+         <answer-text><exp>To provide an example of a name that includes the three different types of hieroglyphics</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>the names of the Egyptian kings could be written in an amalgamation of all three types of hieroglyphs</exp> and that <exp>the decoding of the hieroglyphics that referred to the Egyptian king Ramses indicated how the three types of hieroglyphics could be combined into one word</exp>. From this context, it can be determined that the author mentions Ramses in order <exp>to provide an example of a name that includes the three different types of hieroglyphics</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type='select.1' passage-file='AMR06P13.xml' skills='9'>
+<direction-text>Select the appropriate phrases from the answer choices that are key points in a discussion of <exp>steps in the decoding of hieroglyphics</exp>. TWO of the answer choices will NOT be used. <i><b>This question is worth 3 points</b></i>.</direction-text>
+<intro-text><b>Steps in the decoding of hieroglyphics</b></intro-text>
+<answer-list>
+<answer>
+<answer-text><exp>The discovery of an ancient stone remnant with various types of writing</exp></answer-text>
+<explain-text>
+The passage states that <exp>at the time of Napoleon's campaign in Egypt, a French officer found a fragment of a stone</exp>, that <exp>the stone&#8230;has been named the Rosetta Stone</exp>, and that <exp>the significance of the Rosetta Stone is that it contains text in three types of writing: 14 lines of hieroglyphics, 32 lines if demotic (a simplified cursive form of hieroglyphics), and Greek</exp>. From this, it can be determined that <exp><b>the discovery of an ancient stone remnant with various types of writing</b></exp> provides critical information to support the topic of <exp>steps in the decoding of hieroglyphics</exp>. This answer is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>The decoding of the sound clusters and pictographs</exp></answer-text>
+<explain-text>
+The passage states that <exp>Champollion's amazing breakthrough in decoding the remaining hieroglyphs was the discovery that, while some of the hieroglyphs did indeed each represent a single sound, others represented groups of sounds, and still others were pictographs representing concepts</exp>. From this, it can be determined that <exp>the decoding of the sound clusters and pictographs</exp> provides critical information to support the topic of <exp><b>steps in the decoding of hieroglyphics</b></exp>. This answer is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>The decoding of the laws of King Ptolemy</exp></answer-text>
+<explain-text>
+The passage states that <exp>the stone contained a message dating from 196 B.C. thanking King Ptolemy V for gifts and goodwill that he had bestowed upon the temples at Memphis</exp>. From this, it can be determined that the decoding of <exp>the laws of King Ptolemy</exp> is NOT discussed in the passage. This answer is therefore not a correct answer to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>The decoding of the phonetically written names</exp></answer-text>
+<explain-text>
+The passage states that <exp>a young historian and linguist, Jean-Fran&#0231;ois Champollion, was then able to decode the names of some of the non-Egyptian kings in the cartouches, which were written phonetically</exp>. From this, it can be determined that <exp>the decoding of the phonetically written names</exp> provides critical information to support the topic of <exp><b>steps in the decoding of hieroglyphics</b></exp>. This answer is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Champollion's trip to Egypt as an officer in Napoleon's army</exp></answer-text>
+<explain-text>
+The passage states that <exp>at the time of Napoleon's campaign in Egypt, a French officer found a fragment of a stone</exp> and that <exp>a young historian and linguist, Jean-Fran&#0231;ois Champollion, was then able to decode the names</exp>. From this, it can be determined that it is NOT true that Champollion made a trip to Egypt as an officer in Napoleon's army and <exp>Champollion's trip to Egypt as an officer in Napoleon's army</exp> does not provide information that supports the topic. This answer is therefore not a correct answer to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>The understanding of the meaning of the cartouches</exp></answer-text>
+<explain-text>
+The passage states that <exp>a first step in the decoding of the hieroglyphics was the understanding that oval frames throughout the hieroglyphics, known as cartouches or royal rings, were used in the hieroglyphics to highlight the names of kings</exp>. From this, it can be determined that <exp>the understanding of the meaning of the cartouches</exp> provides critical information to support the topic of <exp><b>steps in the decoding of hieroglyphics</b></exp>. This answer is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+</answer-list>
+<key>03.2.1</key>
+</question>
+</question-list>
+

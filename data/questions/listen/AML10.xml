@@ -1,0 +1,75 @@
+<?xml version='1.0'?>
+<question-list type='listen' audio-file='AML10.mp3' script-file='AML10P0.xml'>
+
+<question type='multichoice' script-file='AML10P1.xml' skills='1'>
+<question-text audio-file='AML10Q1.mp3'>This lecture is part of which course?</question-text>
+<answer-list>
+<answer-text>The Works of Margaret Mitchell</answer-text>
+<answer-text>The History of the Civil War</answer-text>
+<answer-text><exp>Famous American Novels</exp></answer-text>
+<answer-text>The Culture of the South</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the lecture, the professor opens the lecture by mentioning <exp>this course on well-known American novels</exp>. This means that the lecture is part of a course on <exp>famous American novels</exp>. The third answer is the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML10P2.xml' skills='2'>
+<question-text audio-file='AML10Q2.mp3'>What does the professor say about <i>Gone with the Wind</i>?</question-text>
+<answer-list>
+<answer-text><exp>It took place in the South</exp>.</answer-text>
+<answer-text>It was relatively short.</answer-text>
+<answer-text>It was written during the Civil War.</answer-text>
+<answer-text>It described Margaret Mitchell's family.</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the lecture, the professor states that the novel was <exp>set in the South</exp>. This means that <exp>it took place in the South</exp>. The first answer is the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='AML10P3.xml' skills='2'>
+<question-text audio-file='AML10Q3.mp3'>What is true about the success of <i>Gone with the Wind</i>?</question-text>
+<answer-list>
+<answer-text>The novel took several years to become successful.</answer-text>
+<answer-text><exp>Fifty thousand copies of the novel were sold in one day</exp>.</answer-text>
+<answer-text><exp>The novel was translated into 25 languages</exp>.</answer-text>
+<answer-text>The novel sold three and a half million copies in its first year.</answer-text>
+</answer-list>
+<key>0110</key>
+<explain-text>In the lecture, the professor states that the novel <exp>set sales records of 50,000 copies in one day</exp> and that it was <exp>translated into 25 other languages</exp>. This means that <exp>fifty thousand copies of the novel were sold in one day</exp> and that <exp>the novel was translated into 25 languages</exp>. The second and third answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML10P4.xml' skills='6'>
+<question-text audio-file='AML10Q4.mp3'>What can be inferred from the lecture about Margaret Mitchell's upbringing?</question-text>
+<answer-list>
+<answer-text>It had little effect on her as an adult.</answer-text>
+<answer-text>It was based on the idea that it is important to live in the present.</answer-text>
+<answer-text>It encouraged her to dream of becoming a famous actor.</answer-text>
+<answer-text>It <exp>had considerable impact on the theme of <i>Gone with the Wind</i></exp>.</answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the lecture, the professor states that Margaret Mitchell <exp>was born&#8230;to parents whose families had lived in the South for generations and were firmly rooted in the culture of the South</exp> and that <exp>Margaret's father was an expert on Civil War military campaigns, and her mother was a student of the social customs of that period</exp>. The professor also makes the point that <exp>the novel <i>Gone with the Wind</i></exp> was <exp>set in the South during the American Civil War and the period of Reconstruction in the South at the end of the war</exp>. From this, it can be inferred that Margaret Mitchell's upbringing <exp>had considerable impact on the theme of <i>Gone with the Wind</i></exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML10P5.xml' skills='2'>
+<question-text audio-file='AML10Q5.mp3'>How could Margaret Mitchell's efforts in making <i>Gone with the Wind</i> successful be characterized?</question-text>
+<answer-list>
+<answer-text>She refused to have the novel published.</answer-text>
+<answer-text><exp>She seemed rather indifferent toward having a successful novel</exp>.</answer-text>
+<answer-text>She took a number of steps to try and get the book published.</answer-text>
+<answer-text>She devoted all of her energy to making the novel successful.</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the lecture, the professor says that Margaret Mitchell <exp>apparently gave little thought to its publication</exp> and <exp>a mutual friend, encouraged Mitchell to present her work to the&#8230;publisher</exp>. <exp>Though Mitchell at first seemed reticent to submit the novel, she finally did so</exp>. From this, it can be determined that <exp>she seemed rather indifferent toward having a successful novel</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML10P6.xml' skills='4'>
+<question-text audio-file='AML10Q6.mp3'>Which of the following might Margaret Mitchell have said about her earlier novel set during World War I?</question-text>
+<answer-list>
+<answer-text><exp>"I am so unhappy with it that I want to make sure no one ever sees it."</exp></answer-text>
+<answer-text>"I hope it can be as successful as <i>Gone with the Wind</i>."</answer-text>
+<answer-text>"I actually think it's a better novel than <i>Gone with the Wind</i>."</answer-text>
+<answer-text>"It is really different from <i>Gone with the Wind</i> because it is set during a war."</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the lecture, the professor says <exp>that first novel was set during World War I</exp> and <exp>that novel was destroyed by the author because of her doubts about its merits</exp>. From this, it can be determined that Margaret Mitchel might have said <exp>"I am so unhappy with it that I want to make sure no one ever sees it"</exp> about her earlier novel set in World War I. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+</question-list>

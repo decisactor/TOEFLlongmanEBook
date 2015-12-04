@@ -1,0 +1,75 @@
+<?xml version='1.0'?>
+<question-list type='listen' genre='lecture' audio-file='AML12.mp3' script-file='AML12P0.xml'>
+
+<question type='multichoice' script-file='AML12P1.xml' skills='1'>
+<question-text audio-file='AML12Q1.mp3'>What main point is the professor trying to make about people's perceptions?</question-text>
+<answer-list>
+<answer-text>They are generally accurate.</answer-text>
+<answer-text>They change often.</answer-text>
+<answer-text>They <exp>are often wrong</exp>.</answer-text>
+<answer-text>They are very strange.</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the lecture, the professor states that <exp>people's perceptions often differ from reality</exp> and the student states <exp>people may think something's true when, in reality, the opposite is true</exp>. This means that people's perceptions <exp>are often wrong</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML12P2.xml' skills='5'>
+<question-text audio-file='AML12Q2.mp3'>How is the information in the lecture organized?</question-text>
+<answer-list>
+<answer-text><exp>A concept is supported by an extended example</exp>.</answer-text>
+<answer-text>An example that contradicts a concept is presented.</answer-text>
+<answer-text>Several examples are presented to support a concept.</answer-text>
+<answer-text>Several concepts related to a single example are presented.</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the lecture, the professor states that <exp>today we're going to look at a really clear case where certain perceptions held by Americans can differ considerably from reality</exp> and that <exp>the example I'm using today is about what Americans think about multimillionaires</exp>. From this, it can be determined that the organization of the information in the passage is that <exp>a concept is supported by an extended example</exp>. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='AML12P3.xml' skills='2'>
+<question-text audio-file='AML12Q3.mp3'>What do most people think about American multimillionaires?</question-text>
+<answer-list>
+<answer-text>They eat simple food.</answer-text>
+<answer-text>They <exp>wear clothes that cost a lot</exp>.</answer-text>
+<answer-text>They <exp>are unconcerned about small amounts of money</exp>.</answer-text>
+<answer-text>They drive inexpensive cars.</answer-text>
+</answer-list>
+<key>0110</key>
+<explain-text>In the lecture, the professor states that <exp>most people think that the typical American multimillionaire has&#8230;the most expensive clothes, and doesn't worry about pennies</exp>. This means that most people think that American multimillionaires <exp>wear clothes that cost a lot</exp> and <exp>are unconcerned about small amounts of money</exp>. The second and third answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML12P4.xml' skills='4'>
+<question-text audio-file='AML12Q4.mp3' replay-before='AML12Q4B.mp3' replay-after='AML12Q4A.mp3' replay-before-graphic='AML12G3.jpg'>What does the professor mean when he says this:</question-text>
+<answer-list>
+<answer-text>You go to the same ballpark as most people.</answer-text>
+<answer-text>You have similar possessions as most people.</answer-text>
+<answer-text>You are in the same social group as most people.</answer-text>
+<answer-text><exp>Your ideas are similar to those of most people</exp>.</answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the lecture, the professor states that <exp>you're in the same ballpark with most people</exp> and then goes on to explain this by saying <exp>most people think that the typical American multimillionaire has the most expensive car, the most expensive food, and the most expensive clothes, and doesn't worry about pennies, and you seem to have the same idea</exp>. From this, it can be determined that the professor means that <exp>your ideas are similar to those of most people</exp> when he says <exp>you're in the same ballpark with most people</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML12P5.xml' skills='4'>
+<question-text audio-file='AML12Q5.mp3'>According to the lecture, which comment would most likely be made by the average American multimillionaire?</question-text>
+<answer-list>
+<answer-text>"Oh, no! I won't have time to buy a new silk evening gown!"</answer-text>
+<answer-text>"Oh, no!  I <exp>hate the thought of buying a new car</exp>!"</answer-text>
+<answer-text>"Oh, no!  I forgot to order the champagne for the gala on Friday."</answer-text>
+<answer-text>"Oh, no!  Our car is almost a year old. We've got to start looking for a new one!"</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the lecture, the professor states that typical multimillionaires <exp>drive old vehicles</exp>. This means that the typical multimillionaire would most likely <exp>hate the thought of buying a new car</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML12P6.xml' skills='6'>
+<question-text audio-file='AML12Q6.mp3'>What conclusion can be drawn from the information provided by the professor concerning multimillionaires?</question-text>
+<answer-list>
+<answer-text>That the perception of them is generally similar to reality</answer-text>
+<answer-text>That they do not have a clear perception of reality</answer-text>
+<answer-text><exp>That the perception of them often differs from reality</exp></answer-text>
+<answer-text>That their perception of other people matches with reality</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the lecture, the professor states that <exp>today we're going to look at a really clear case where certain perceptions held by Americans can differ considerably from reality</exp> and that <exp>the example I'm using today is about what Americans think about multimillionaires</exp>. From this, a conclusion can be drawn concerning multimillionaires <exp>that the perception of them often differs from reality</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+</question-list>

@@ -1,0 +1,198 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ATR06P0.xml'>
+<question type="multichoice" passage-file="ATR06P1.xml" skills="1">
+      <question-text>The phrase <bg>a major impact</bg> in paragraph 1 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>a deep intrusion</answer-text>
+         <answer-text>a powerful strike</answer-text>
+         <answer-text><exp>an important effect</exp></answer-text>
+         <answer-text>a direct hit</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage states that the <exp>work has had a major impact on modern education</exp>. From this context, it can be determined that the phrase <exp>a major impact</exp> is closest in meaning to <exp>an important effect</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR06P2.xml" skills="3">
+      <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 1?</question-text>
+      <answer-list>
+         <answer-text>Intelligence was believed by some to be part of the nervous system rather than a physiological process.</answer-text>
+         <answer-text><exp>Some people used to believe that the best way to measure intelligence was to measure the speed of a particular physiological process</exp>.</answer-text>
+         <answer-text>It was believed that it was more difficult to measure intelligence in nervous people than in those who were not.</answer-text>
+         <answer-text>Some physiologists believed that neural impulses moved more slowly in people who were more intelligent.</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The highlighted sentence states that <exp>it was believed by some that intelligence&#8230;could be assessed by measuring physiological processes</exp>. This means that <exp>some people used to believe that the best way to measure intelligence was to measure the speed of a particular physiological process</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR06P3.xml" skills="6">
+      <question-text>Which of the following is NOT mentioned in the passage as a function measured as part of early intelligence tests?</question-text>
+      <answer-list>
+         <answer-text>The sense of awareness of surroundings</answer-text>
+         <answer-text><exp>The amount of time that it takes to react</exp></answer-text>
+         <answer-text><exp>The capacity of the lungs</exp></answer-text>
+         <answer-text><exp>The strength of the muscles</exp></answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that <exp>early intelligence tests thus consisted of measurements of physiological functions such as sensorimotor function, reaction time, and even breathing capacity and muscular strength</exp>. <exp>The amount of time that it takes to react</exp> in the second answer refers to <exp>reaction time</exp>, <exp>the capacity of the lungs</exp> in the third answer refers to <exp>breathing capacity</exp>, and <exp>the strength of the muscles</exp> in the last answer refers to <exp>muscular strength</exp>. The first answer is the one that is NOT mentioned in the passage and is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR06P4.xml" skills="1">
+      <question-text>The phrase <bg>a leading proponent</bg> in paragraph 1 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>a commanding presence</answer-text>
+         <answer-text>a controlling chief</answer-text>
+         <answer-text>a notable adversary</answer-text>
+         <answer-text><exp>a well-known advocate</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>Alfred Binet was a leading proponent of the school of thought</exp>. From this context, it can be determined that the phrase <exp>a leading proponent</exp> is closest in meaning to <exp>a well-known advocate</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR06P5.xml" skills="1">
+      <question-text>The word <bg>assessing</bg> in paragraph 2 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text><exp>evaluating</exp></answer-text>
+         <answer-text>creating</answer-text>
+         <answer-text>developing</answer-text>
+         <answer-text>reducing</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage mentions <exp>the field of intelligence testing</exp> and states that <exp>intelligence could be measured by assessing ten mental functions</exp>. From this context, it can be determined that <exp>assessing</exp> is closest in meaning to <exp>evaluating</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR06P6.xml" skills="7">
+      <question-text>It can be inferred from the passage that Binet would be LEAST likely to agree with which of the following statements?</question-text>
+      <answer-list>
+         <answer-text>Intelligence testing should not solely measure physiological processes.</answer-text>
+         <answer-text>Intelligence tests in place at the end of the nineteenth century did not adequately assess intelligence.</answer-text>
+         <answer-text><exp>Intelligence can be measured effectively using a test based on memory</exp>.</answer-text>
+         <answer-text>A group of interactive mental functions serves as the basis of intelligence.</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage states that <exp>the basic tenant of Binet's work in the field of intelligence testing was that intelligence could be measured by assessing ten mental functions</exp> and that <exp>he considered these mental functions to be interactive rather than individual skills</exp>. From this context, it can be determined that Binet would be LEAST likely to agree with the statement that <exp>intelligence can be measured effectively using a test based on memory</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR06P7.xml" skills="8">
+      <question-text>The author mentions <bg>following a lighted candle and comparing two lines of slightly unequal length</bg> in paragraph 3 because these are examples of</question-text>
+      <answer-list>
+         <answer-text>items added to the revised test of 1908</answer-text>
+         <answer-text>individual skills that are the basis of intelligence</answer-text>
+         <answer-text>items that differentiate children according to mental age</answer-text>
+         <answer-text><exp>items to test a child's need for special education</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>Binet was charged with the task of developing a test to identify students in the educational system who were in need of special education</exp> and that he <exp>introduced a simple test in 1905 that assessed a child's ability to deal with items such as following a lighted candle and comparing two lines of slightly unequal length</exp>. From this, it can be determined that the author mentions <exp>following a lighted candle and comparing two lines of slightly unequal length</exp> because these are examples of <exp>items to test a child's need for special education</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR06P8.xml" skills="5">
+      <question-text>According to the passage, the concept of mental age</question-text>
+      <answer-list>
+         <answer-text>was a part of early physiological tests of mental ability</answer-text>
+         <answer-text><exp>developed from tests based upon completing tasks classified by age level</exp></answer-text>
+         <answer-text>was appropriate only for the testing of special education students</answer-text>
+         <answer-text>meant that a six-year-old would have a mental age of eight if he or she was able to complete eight tasks on a list</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>from this classification of items by age levels, the idea of mental age as a measurement of intelligence developed</exp>. This means that the concept of mental age <exp>developed from tests based upon completing tasks classified by age level</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR06P9.xml" skills="1">
+      <question-text>The phrase <bg>tied to</bg> in paragraph 3 could best be replaced by</question-text>
+      <answer-list>
+         <answer-text>knotted around</answer-text>
+         <answer-text><exp>related to</exp></answer-text>
+         <answer-text>grouped inside</answer-text>
+         <answer-text>spliced onto</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>the test items tied to a specific age level</exp>. From this context, it can be determined that the phrase <exp>tied to</exp> could best be replaced by <exp>related to</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR06P10.xml" skills="2">
+      <question-text>The phrase <bg>this evaluative mechanism</bg> in paragraph 4 refers to</question-text>
+      <answer-list>
+         <answer-text>Lewis Terman</answer-text>
+         <answer-text>Stanford University</answer-text>
+         <answer-text><exp>the Stanford-Binet Intelligence Scale</exp></answer-text>
+         <answer-text>Binet's 1911 version of the test</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage mentions <exp>the Stanford-Binet Intelligence Scale</exp> and states that <exp>this evaluative mechanism was quite similar to Binet's 1911 version of the test</exp>. From this context, it can be determined that <exp>this evaluative mechanism</exp> refers to <exp>the Stanford-Binet Intelligence Scale</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type='insert' passage-file='ATR06P11.xml' skills='4'>
+<insert-text><b><exp>These two variations</exp> differed in content but were each designed to test the same mental abilities.</b></insert-text>
+<key>2</key>
+<explain-text>
+The fourth sentence of paragraph 4 mentions <exp>the L form and the M form</exp>. A sentence mentioning <exp>these two variations</exp> would logically follow such an idea. The second square in paragraph 4 is therefore the best answer to this question.
+</explain-text>
+</question>
+<question type="multichoice" passage-file="ATR06P12.xml" skills="1">
+      <question-text>The word <bg>disparate</bg> in paragraph 4 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text><exp>diverse</exp></answer-text>
+         <answer-text>common</answer-text>
+         <answer-text>difficult</answer-text>
+         <answer-text>established</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage mentions <exp>the disparate ethnic and socioeconomic backgrounds of students in American schools</exp>. From this context, it can be determined that <exp>disparate</exp> is closest in meaning to <exp>diverse</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type='select.1' passage-file='ATR06P13.xml' skills='9'>
+<direction-text>Select the appropriate phrases from the answer choices that are <exp>key developments in Binet's work in the field of intelligence testing</exp>. TWO of the answer choices will NOT be used. <i><b>This question is worth 3 points.</b></i></direction-text>
+<intro-text><b>Key developments in Binet's work in the field of intelligence testing</b></intro-text>
+<answer-list>
+<answer>
+<answer-text><exp>The classification of functions by age levels in intelligence testing</exp></answer-text>
+<explain-text>
+The passage states that <exp>the 1905 test was revised and expanded in 1908 and again in 1911 to include items classified by age levels extending from three to thirteen years</exp>. From this, it can be determined that <exp>the classification of functions by age levels in intelligence testing</exp> provides critical information to support the topic of <exp><b>key developments in Binet's work in the field of intelligence testing</b></exp>. This answer is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Further refinements of and improvements to existing tests</exp></answer-text>
+<explain-text>
+The passage mentions <exp>an Americanized version of the test</exp> and states that <exp>the 1916 test was later replaced in 1937 by a more refined test that appeared in two different forms, the L form and the M form</exp>, that <exp>then, in 1960, the best items were selected from  the two forms to create a single test, known as Form L-M of the Stanford-Binet</exp>, and that <exp>further modifications were made to the test in the 1972 version</exp>. From this, it can be determined that <exp>further refinements of an improvements to existing tests</exp> provides critical information to support the topic of <exp><b>key developments in Binet's work in the field of intelligence testing</b></exp>. This answer is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>The physiological basis of intelligence testing in Binet's work</exp></answer-text>
+<explain-text>
+The passage states that <exp>intelligence testing in the era before Binet was based upon the assumption that intelligence had a physiological basis</exp> and that <exp>Alfred Binet was a leading proponent of the school of thought that believed that intelligence testing needed to concentrate not on physiological processes but on higher mental abilities</exp>. From this, it can be determined that it is NOT true that there was a <exp>physiological basis of intelligence testing in Binet's work</exp>. This answer is therefore not a correct answer to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>The use of the concept of mental age in intelligence testing</exp></answer-text>
+<explain-text>
+The passage states that <exp>from this classification of items by age levels, the idea of <b>mental age</b> as a measurement of intelligence developed</exp>. From this, it can be determined that <exp>the use of the concept of mental age in intelligence testing</exp> provides critical information to support the topic of <exp><b>key developments in Binet's work in the field of intelligence testing</b></exp>. This answer is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>The assessment of intelligence by measuring specific mental functions</exp></answer-text>
+<explain-text>
+The passage states that <exp>the basic tenant of Binet's work in the field of intelligence testing was that intelligence could be measured by assessing ten mental functions</exp>. From this, it can be determined that <exp>the assessment of intelligence by measuring specific mental functions</exp> provides critical information to support the topic of <exp><b>key developments in Binet's work in the field of intelligence testing</b></exp>. This answer is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>The use of Binet's tests to identify students worthy of scholarships</exp></answer-text>
+<explain-text>
+The passage states that <exp>Binet was charged with the task of developing a test to identify students in the educational system who were in need of special education</exp>. However, the passage does NOT mention <exp>the use of Binet's tests to identify students worthy of scholarships</exp>. This answer is therefore not a correct answer to this question.
+</explain-text>
+</answer>
+</answer-list>
+<key>13.20.</key>
+</question>
+
+</question-list>
+

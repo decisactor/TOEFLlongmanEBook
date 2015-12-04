@@ -1,0 +1,84 @@
+<?xml version='1.0'?>
+<question-list type='listen' audio-file='AML11.mp3' script-file='AML11P0.xml'>
+
+<question type='multichoice' script-file='AML11P1.xml' skills='1'>
+<question-text audio-file='AML11Q1.mp3'>What is the main topic of the discussion?</question-text>
+<answer-list>
+<answer-text>The common characteristics of evergreens</answer-text>
+<answer-text><exp>A certain tree and what comes from it</exp></answer-text>
+<answer-text>How cocoa and chocolate are different</answer-text>
+<answer-text>Where cacao trees grow</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the discussion, the instructor says <exp>we're going to talk about the cacao tree and some of the products we get from this tree</exp>. From this, it can be determined that the main topic of the discussion is <exp>a certain tree and what comes from it</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML11P2.xml' skills='2'>
+<question-text audio-file='AML11Q2.mp3'>Where is the cacao tree probably NOT found?</question-text>
+<answer-list>
+<answer-text>In Europe</answer-text>
+<answer-text>In <exp>Central America</exp></answer-text>
+<answer-text>In <exp>South America</exp></answer-text>
+<answer-text>In <exp>Africa</exp></answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the discussion, one of the students says <exp>cacao trees're native to the coastal areas of&#8230;Mexico, Central America, and South America</exp> and <exp>along the west coast of&#8230;Africa</exp>. The speaker mentions <exp>Central America</exp> in the second answer, <exp>South America</exp> in the third answer, and <exp>Africa</exp> in the last answer. The first answer is the one that is NOT mentioned and is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='AML11P3.xml' skills='2'>
+<question-text audio-file='AML11Q3.mp3'>What is stated about the leaves of the cacao tree?</question-text>
+<answer-list>
+<answer-text>They are <exp>long</exp>.</answer-text>
+<answer-text>They are thin.</answer-text>
+<answer-text>They are <exp>shiny</exp>.</answer-text>
+<answer-text>They are narrow.</answer-text>
+</answer-list>
+<key>1010</key>
+<explain-text>In the discussion, one of the students says <exp>the cacao tree has long, thick, shiny leaves</exp>. This means that the leaves of the cacao plant are <exp>long</exp> and <exp>shiny</exp>. The first and third answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML11P4.xml' skills='4'>
+<question-text audio-file='AML11Q4.mp3' replay-after='AML11Q4A.mp3'>What does the instructor mean when she says this?</question-text>
+<answer-list>
+<answer-text><exp>"I expect you to know more."</exp></answer-text>
+<answer-text>"Let's go over the topics of the previous lesson."</answer-text>
+<answer-text>"I don't think you agree with what I just said."</answer-text>
+<answer-text>"Do you know what we're discussing?"</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the discussion, one of the students responds to the instructor's questions by saying <exp>what about the fruit</exp> and <exp>I'm not sure</exp>, and the instructor then says <exp>come on, we've talked about this before</exp>. From this it can be determined that the instructor means <exp>I expect you to know more</exp>. The first answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML11P5.xml' skills='2'>
+<question-text audio-file='AML11Q5.mp3'>How is chocolate made?</question-text>
+<answer-list>
+<answer-text>The fruit of the cacao plant is dried and chopped.</answer-text>
+<answer-text>The seeds of the cocoa plant are mixed with the fruit and dried.</answer-text>
+<answer-text>The fresh leaves of the cacao tree are ground.</answer-text>
+<answer-text><exp>The seeds of the fruit of the cacao tree are roasted and then ground</exp>.</answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the discussion, one of the students says <exp>chocolate is the product that comes from the seeds of the cacao tree</exp> and <exp>to get chocolate, the seeds're first roasted and then ground</exp>. From this it can be determined that <exp>the seeds of the fruit of the cacao tree are roasted and then ground</exp> to make chocolate. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.2' script-file='AML11P6.xml' skills='5'>
+<question-text audio-file='AML11Q6.mp3'>How are each of these items described in the discussion?</question-text>
+<answer-list>
+<answer-text><exp>Cocoa</exp></answer-text>
+<answer-text><exp>Chocolate</exp></answer-text>
+<answer-text><exp>Cacao</exp></answer-text>
+</answer-list>
+<choice-list>
+<choice-text><exp>TREE</exp></choice-text>
+<choice-text><exp>HIGH-FAT PRODUCT</exp></choice-text>
+<choice-text><exp>DEFATTED PRODUCT</exp></choice-text>
+</choice-list>
+<key>321</key>
+<explain-list>
+<explain-text>In the discussion, one of the students says <exp><i>cocoa</i>&#8230;is a product that results when much of the fat is removed from chocolate</exp>. This means that <exp>cocoa</exp> is a <exp>defatted product</exp>. You should therefore click in the third column.</explain-text>
+<explain-text>In the discussion, one of the students says <exp>chocolate has a high fat content</exp>. This means that <exp>chocolate</exp> is a <exp>high-fat product</exp>. You should therefore click in the second column.</explain-text>
+<explain-text>In the discussion, one of the students says <exp><i>cacao</i>&#8230;is the name of the tree</exp>. This means that <exp>cacao</exp> is a <exp>tree</exp>. You should therefore click in the first column.</explain-text>
+</explain-list>
+</question>
+</question-list>
+

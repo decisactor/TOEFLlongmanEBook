@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<passage>
+    <passage-text>
+        <div align="center">
+            <b>Smog</b>
+        </div>
+        <br/>   
+            The oxidation of exhaust gases is one of the primary sources of the world's pollution.
+        The brown haze that is poised over some of the world's largest cities is properly called
+        <i>photochemical smog<i/>; it results from chemical reactions that take place in the air, using the
+        energy of sunlight. The production of smog begins when gases are created in the cylinders
+        of vehicle engines. It is there that oxygen and nitrogen gas combine as the fuel burns to
+        form nitric oxide (NO), a colorless gas. The nitric oxide is forced out into the air through the
+        vehicle tailpipe along with other gases.
+        <br/>
+            When the gas reaches the air, it comes into contact with available oxygen from the
+        atmosphere and combines with the oxygen to produce nitrogen dioxide (N02), which is a
+        gas with a brownish hue. This nitrogen dioxide plays a role in the formation of acid rain in
+        wetter or more humid climates and tends to decompose back into nitric oxide as it releases
+        an oxygen atom from each molecule; the released oxygen atoms quickly combine with
+        oxygen (02) molecules to form ozone (03). The brownish colored nitrogen dioxide is partially
+        responsible for the brown color in smoggy air; the ozone is the toxic substance that causes
+        irritation to eyes.
+    </passage-text>
+</passage>

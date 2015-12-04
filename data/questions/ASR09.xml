@@ -1,0 +1,166 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR09P0.xml'>
+<question type="multichoice" passage-file="ASR09P1.xml" skills="5">
+      <question-text>What is stated about the Ice Age in paragraph 1?</question-text>
+      <answer-list>
+         <answer-text>It caused the rotation of the Earth to swing.</answer-text>
+         <answer-text>It was a period of sustained intensely cold weather.</answer-text>
+         <answer-text>It <exp>came about as a result of variation in the Earth's rotation</exp>.</answer-text>
+         <answer-text>It lasted for two million years.</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage states that <exp>the world's climate has undergone a series of dramatic changes that have most likely resulted from oscillations, or pendulum-like swings, in the rotation of the Earth </exp>and that <exp>one such dramatic climate change was&#8230;the Ice Age</exp>. This means that the Ice Age <exp>came about as a result of variation in the Earth's rotation</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ASR09P2.xml" skills="3">
+      <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 1?</question-text>
+      <answer-list>
+         <answer-text>During the Ice Age, there were periods when the glaciers moved forcefully and other periods when the movement of glaciers was weaker.</answer-text>
+         <answer-text>During glacial periods, the glaciers moved to colder areas in the north, while during interglacial periods, glaciers moved toward the south.</answer-text>
+         <answer-text>During the Ice Age, glaciers tended to freeze north of the equator and melt south of the equator.</answer-text>
+         <answer-text><exp>The Ice Age really consisted of colder glacial periods and warmer interglacial periods.</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The highlighted sentence states that <exp>the Ice Age was in reality a series of&#8230;glacial periods during which sheets of ice expanded and&#8230;interglacial periods when the glaciers melted</exp>, which means that <exp>the Ice Age really consisted of colder glacial periods and warmer interglacial periods</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ASR09P3.xml" skills="1">
+      <question-text>The word <bg>striking</bg> in paragraph 1 could best be replaced by</question-text>
+      <answer-list>
+         <answer-text><exp>remarkable</exp></answer-text>
+         <answer-text>violent</answer-text>
+         <answer-text>attractive</answer-text>
+         <answer-text>dangerous</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage mentions <exp>striking effects on the world's landscape</exp> and later states that <exp>the effect on the world's landscape&#8230;was dramatic</exp>. From this context, it can be determined that <exp>striking</exp> could best be replaced by <exp>remarkable</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="ASR09P4.xml" skills="2">
+      <question-text>The word <bg>it</bg> in paragraph 1 refers to</question-text>
+      <answer-list>
+         <answer-text>a different impact</answer-text>
+         <answer-text><exp>the ice</exp></answer-text>
+         <answer-text>melting</answer-text>
+         <answer-text>the landscape</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage mentions <exp>how far south the ice extended, how long it lasted, and how much it changed</exp>. From this context, it can be determined that <exp>it</exp> refers to <exp>the ice</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>      
+<question type="multichoice" passage-file="ASR09P5.xml" skills="6">
+      <question-text>All of the following are mentioned in paragraph 1 as affecting the impact of a glacial period EXCEPT</question-text>
+      <answer-list>
+         <answer-text><exp>the amount of area that was covered with ice</exp></answer-text>
+         <answer-text><exp>the length of time that a glacier lasted</exp></answer-text>
+         <answer-text><exp>the effect that a glacier had on the geography of the land</exp></answer-text>
+         <answer-text>the effect that a glacier had on the chemistry of the water</answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>each glacial period in the series of colder and warmer phases had a different impact, depending on how far south the ice extended, how long it lasted before melting, and how much it changed the landscape and sea levels</exp>. <exp>The amount of area that was covered with ice</exp> in the first answer refers to <exp>how far south the ice extended</exp>, <exp>the length of time that a glacier lasted</exp> in the second answer refers to <exp>how long it lasted before melting</exp>, and <exp>the effect that a glacier had on the geography of the land</exp> in the third answer refers to <exp>how much it changed the landscape and sea levels</exp>. All of the answers EXCEPT the last answer are mentioned in the passage. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>         
+<question type="multichoice" passage-file="ASR09P6.xml" skills="2">
+      <question-text>The word <bg>they</bg> in paragraph 2 refers to</question-text>
+      <answer-list>
+         <answer-text>these areas</answer-text>
+         <answer-text><exp>the glacial sheets</exp></answer-text>
+         <answer-text>the northern continents</answer-text>
+         <answer-text>large amounts</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>as the glacial sheets of ice crept southward&#8230;, they trapped large amounts of water</exp>. From this context, it can be determined that <exp>they</exp> refers to <exp>the glacial sheets</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>            
+<question type="multichoice" passage-file="ASR09P7.xml" skills="1">
+      <question-text>The word <bg>aridity</bg> in paragraph 2 is closest in meaning  to</question-text>
+      <answer-list>
+         <answer-text>precipitation</answer-text>
+         <answer-text>irrigation</answer-text>
+         <answer-text>vegetation</answer-text>
+         <answer-text><exp>dryness</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage mentions <exp>further aridity and the expansion of deserts</exp>. From this context, it can be determined that <exp>aridity</exp> is closest in meaning to <exp>dryness</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>               
+<question type="multichoice" passage-file="ASR09P8.xml" skills="6">
+      <question-text>It is NOT true according to paragraph 2 that during glacial periods</question-text>
+      <answer-list>
+         <answer-text>France and England were connected</answer-text>
+         <answer-text><exp>Japan was a cluster of distinct islands</exp></answer-text>
+         <answer-text>Java was attached to Asia</answer-text>
+         <answer-text>North America and Asia were connected</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>during glacial periods&#8230;the islands of Japan&#8230;were connected to the Asian mainland</exp>. This means that it is NOT true that during glacial periods <exp>Japan was a cluster of distinct islands</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>                   
+<question type="multichoice" passage-file="ASR09P9.xml" skills="5">
+      <question-text>According to paragraph 3, prehistoric people</question-text>
+      <answer-list>
+         <answer-text>failed to adapt to environmental changes</answer-text>
+         <answer-text>tended to stay in one place during the Ice Age</answer-text>
+         <answer-text>lived only in the grassland areas of Asia</answer-text>
+         <answer-text><exp>were living in the less frigid parts of Europe</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>prehistoric people&#8230;could be found living&#8230;in the temperate areas of southern Europe</exp>. This means that prehistoric people <exp>were living in the less frigid parts of Europe</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ASR09P10.xml" skills="1">
+      <question-text>The phrase <bg>in response to</bg> in paragraph 3 could be replaced by</question-text>
+      <answer-list>
+         <answer-text>to provide an answer to</answer-text>
+         <answer-text><exp>in reaction to</exp></answer-text>
+         <answer-text>resulting in</answer-text>
+         <answer-text>with knowledge of</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>they moved from place to place in response to climatic changes</exp>. From this context, it can be determined that the phrase <exp>in response to</exp> could best be replaced by <exp>in reaction to</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>                        
+<question type="multichoice" passage-file="ASR09P11.xml" skills="6">
+      <question-text>What is NOT true about prehistoric people, according to paragraph 3?</question-text>
+      <answer-list>
+         <answer-text>They made changes in what they ate.</answer-text>
+         <answer-text>They used basic tools.</answer-text>
+         <answer-text>They did not live out in the open.</answer-text>
+         <answer-text><exp>They did not wear clothing.</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>the use of clothing came about during this period</exp>. From this context, it can be determined that it is NOT true that <exp>they did not wear clothing</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question> 
+<question type='insert' passage-file='ASR09P12.xml' skills='4'>
+<insert-text><b><exp>The effect of the changes on living beings was not as negative as might be expected.</exp></b></insert-text>
+<key>1</key>
+<explain-text>
+The passage states that <exp>prehistoric people seem to have adapted well</exp>. A sentence stating that <exp>the effect of the changes on living beings was not as negative as might be expected</exp> would logically introduce such an idea. The first square in paragraph 3 is therefore the best answer to this question.
+</explain-text>
+</question>                                                                        
+<question type="multichoice" passage-file="ASR09P13.xml" skills="3">
+      <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 3?</question-text>
+      <answer-list>
+         <answer-text>Many species failed to survive because of the adaptations that they made during this period.</answer-text>
+         <answer-text>During glacial periods, the glaciers moved to colder areas in the north, while during interglacial periods, glaciers moved toward the south.</answer-text>
+         <answer-text><exp>Unlike some other species, humans were able to survive by adapting</exp> to the changing environment.</answer-text>
+         <answer-text>The actions of prehistoric humans caused many other species to fail to survive during this period.</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The highlighted sentence states that <exp>these sorts of adaptations&#8230;enabled humans to survive and progress</exp>, which means that <exp>humans were able to survive by adapting</exp>, and that <exp>many other species failed to survive and thrive</exp>, which is captured in the idea that humans were <exp>unlike some other species</exp>. The third answer is therefore the best answer to this question
+</explain-text>
+   </question>                                                                                                                                               
+</question-list>   

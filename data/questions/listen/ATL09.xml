@@ -1,0 +1,83 @@
+<?xml version='1.0'?>
+<question-list type='listen' audio-file='ATL09.mp3' script-file='ATL09P0.xml'>
+
+<question type='multichoice' script-file='ATL09P1.xml' skills='6'>
+<question-text audio-file='ATL09Q1.mp3'>What might be the name of this course?</question-text>
+<answer-list>
+<answer-text>Music for Theater and Film</answer-text>
+<answer-text>Broadway Composers</answer-text>
+<answer-text>The History of Folk Music</answer-text>
+<answer-text><exp>American Composers</exp></answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the lecture, the professor says <exp>today we'll continue our discussion of American composers</exp>. This means that each lecture in this series is about <exp>American Composers</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL09P2.xml' skills='2'>
+<question-text audio-file='ATL09Q2.mp3'>What kind of music did the lecturer NOT mention as music that Gershwin composed?</question-text>
+<answer-list>
+<answer-text><exp>Popular music</exp></answer-text>
+<answer-text><exp>Musical theater</exp></answer-text>
+<answer-text>Band music</answer-text>
+<answer-text><exp>Concertos</exp></answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the lecture, the professor states that <exp>he began writing popular songs</exp>, which means <exp>popular music</exp> in the first answer. The professor also says that <exp>George&#8230;began writing scores for Broadway musicals</exp>, which means <exp>musical theater</exp> in the second answer. Finally, the professor says that <exp>"Rhapsody in Blue" is his most successful jazz piano concerto</exp>, which means <exp>concertos</exp> in the last answer. The third answer is the one that is NOT mentioned in the lecture and is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='ATL09P3.xml' skills='2'>
+<question-text audio-file='ATL09Q3.mp3'>What two ideas are mentioned in the lecture about Gershwin's music?</question-text>
+<answer-list>
+<answer-text><exp>Many of his songs are considered American folk music</exp>.</answer-text>
+<answer-text><exp>His orchestral pieces often have jazz themes</exp>.</answer-text>
+<answer-text>He experimented with using folk music in ballet scores.</answer-text>
+<answer-text>His work often uses a contrast of rhythms.</answer-text>
+</answer-list>
+<key>1100</key>
+<explain-text>In the lecture, the professor states that <exp>his music</exp> has <exp>become part of American folk music</exp> and that <exp>he began experimenting with jazz and blues themes in orchestral pieces</exp>. This means that <exp>many of his songs are considered American folk music</exp> and that <exp>his orchestral pieces often have jazz themes</exp>. The first and second answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL09P4.xml' skills='2'>
+<question-text audio-file='ATL09Q4.mp3'>According to the lecture, which of the following statements is true?</question-text>
+<answer-list>
+<answer-text>Al Jolson worked with the Gershwin brothers in writing music.</answer-text>
+<answer-text><exp>Al Jolson performed a song written by the Gershwin brothers</exp>.</answer-text>
+<answer-text>The Gershwin song sung by Al Jolson was an opera song.</answer-text>
+<answer-text>George Gershwin wrote the words to "Swanee," while his brother wrote the music.</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the lecture, the professor states that <exp>Al Jolson's version of "Swanee" popularized the Gershwin brothers' first real hit song</exp>. From this, it can be determined that <exp>Al Jolson performed a song written by the Gershwin brothers.</exp> The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.2' script-file='ATL09P5.xml' skills='5'>
+<question-text audio-file='ATL09Q5.mp3'>What genre of music is each of the pieces listed below?</question-text>
+<answer-list>
+<answer-text><exp>"Rhapsody in Blue"</exp></answer-text>
+<answer-text><exp>"An American in Paris"</exp></answer-text>
+<answer-text><exp><i>Porgy and Bess</i></exp></answer-text>
+</answer-list>
+<choice-list>
+<choice-text><exp>OPERA</exp></choice-text>
+<choice-text><exp>JAZZ</exp></choice-text>
+<choice-text><exp>ART MUSIC</exp></choice-text>
+</choice-list>
+<key>231</key>
+<explain-list>
+<explain-text>The professor mentions <exp>the jazz piece "Rhapsody in Blue."</exp>  This means that <exp>"Rhapsody in Blue"</exp> is <exp>jazz</exp>. You should therefore click in the second column.</explain-text>
+<explain-text>The professor states that <exp>Gershwin tried composing "art music"</exp> and that <exp>the result was the very popular piece "An American in Paris."</exp>  From this, it can be determined that <exp>"An American in Paris"</exp> is <exp>art music</exp>. You should therefore click in the third column.</explain-text>
+<explain-text>The professor states that <exp>Gershwin also tried writing opera</exp> and that <exp>he did</exp> this <exp>with <i>Porgy and Bess</i></exp>. From this, it can be determined that <exp><i>Porgy and Bess</i></exp> is <exp>opera</exp>. You should therefore click in the first column.</explain-text>
+</explain-list>
+</question>
+
+<question type='multichoice' script-file='ATL09P6.xml' skills='6'>
+<question-text audio-file='ATL09Q6.mp3'>What can be concluded from the lecture?</question-text>
+<answer-list>
+<answer-text>Gershwin enjoyed serious music more than popular music.</answer-text>
+<answer-text>A composer who has to do too many things cannot succeed.</answer-text>
+<answer-text>Gershwin was better know for his serious pieces than for his musicals.</answer-text>
+<answer-text><exp>It is possible to excel in composing various genres of music</exp>.</answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the lecture, the professor says <exp>the composer we'll discuss today wrote a huge volume and wide variety of works that are extremely well known today</exp> and <exp>he not only composed scores for musicals, films, and operas that are well know universally but also concert pieces and piano pieces</exp>, and <exp>throughout his career, he wrote numerous other kinds of music, and he's well known today for music in a variety of genres</exp>. From this, it can be concluded that <exp>it is possible to excel in composing various genres of music</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+</question-list>

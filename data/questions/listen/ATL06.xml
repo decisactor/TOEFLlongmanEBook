@@ -1,0 +1,92 @@
+<?xml version='1.0'?>
+<question-list type='listen' genre='lecture' audio-file='ATL06.mp3' script-file='ATL06P0.xml'>
+
+<question type='multichoice' script-file='ATL06P1.xml' skills='5'>
+<question-text audio-file='ATL06Q1.mp3'>How is the information in the lecture organized?</question-text>
+<answer-list>
+<answer-text>Various mounds built by the Adena are described.</answer-text>
+<answer-text><exp>A general topic is followed by three examples of the topic</exp>.</answer-text>
+<answer-text>Reasons that something happened are explained.</answer-text>
+<answer-text>Two objects are contrasted.</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the passage, the professor states that <exp>today we're going to be talking about the mound builders</exp> and later states that <exp>three of the primary mound-building cultures were the Adena, the Hopewell, and the Mississippians, and we're going to talk about these three today</exp>. He later goes on to discuss <exp>the Adena&#8230;, the second of these cultures, the&#8230;Hopewell&#8230;</exp>, and <exp>the third of the mound-builder cultures, the Mississippian culture</exp>. From this, it can be determined that the organization of the lecture is that <exp>a general topic is followed by three examples of the topic</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.2' script-file='ATL06P2.xml' skills='5' width='500'>
+<question-text audio-file='ATL06Q2.mp3'>Based on the information in the lecture, indicate whether the statements are true about the mound builders.</question-text>
+<answer-list height='40'>
+<answer-text><exp>There were only three cultures of<br/>mound builders</exp>.</answer-text>
+<answer-text><exp>Some of the mounds were used for burial</exp>.</answer-text>
+<answer-text><exp>The mounds were often constructed from<br/>tons of material</exp>.</answer-text>
+<answer-text><exp>The mounds were built with wheeled<br/>vehicles</exp>.</answer-text>
+</answer-list>
+<choice-list>
+<choice-text>YES</choice-text>
+<choice-text>NO</choice-text>
+</choice-list>
+<key>2112</key>
+<explain-list>
+<explain-text>The professor mentions <exp>these three main mound-building cultures</exp>. From this, it can be determined that it is NOT true that <exp>there were only three cultures of mound builders</exp>. You should therefore click in the NO column.</explain-text>
+<explain-text>The professor states that <exp>these inhabitants&#8230;used these mounds as burial sites, as platforms for important buildings, and, most probably, as part of their ceremonial practices</exp>. From this, it can be determined that <exp>some of the mounds were used for burial</exp>. You should therefore click in the YES column.</explain-text>
+<explain-text>The professor states that <exp>it's interesting to note that many of the mounds were built using hundreds of tons of dirt and rock</exp>. This means that it is true that <exp>the mounds were often constructed from tons of material</exp>. You should therefore click in the YES column.</explain-text>
+<explain-text>The professor mentions the mounds and states that <exp>they were made by cultures that did not possess vehicles with wheels</exp>. From this, it can be determined that it is NOT true that <exp>the mounds were built with wheeled vehicles</exp>. You should therefore click in the NO column.</explain-text>
+</explain-list>
+</question>
+
+<question type='check.1' script-file='ATL06P3.xml' skills='2'>
+<question-text audio-file='ATL06Q3.mp3'>What is stated in the lecture about Serpent Mound?</question-text>
+<answer-list>
+<answer-text>It was built on top of a circular mound.</answer-text>
+<answer-text>It is in Georgia.</answer-text>
+<answer-text>It <exp>has an egg as part of it</exp>.</answer-text>
+<answer-text>It is about <exp>a quarter of a mile long</exp>.</answer-text>
+</answer-list>
+<key>0011</key>
+<explain-text>In the lecture, the professor mentions <exp>Serpent Mound&#8230;with a large egg in its jaws</exp> and states that <exp>it measures nearly a quarter of a mile from tip to tip</exp>. This means that Serpent Mound <exp>has an egg as part of it</exp> and <exp>is about a quarter of a mile long</exp>. The third and fourth answers are therefore the best answers to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL06P4.xml' skills='3'>
+<question-text audio-file='ATL06Q4.mp3' replay-before='ATL06Q4B.mp3' replay-after='ATL06Q4A.mp3' replay-before-graphic='ATL06G5.jpg'>Why does the professor say this:</question-text>
+<answer-list>
+<answer-text>To indicate that he does not believe the scholars</answer-text>
+<answer-text>To make the point that the scholars are not sure if they found Serpent Mound</answer-text>
+<answer-text>To clarify the beliefs held by the Adena in regard to the burial mound</answer-text>
+<answer-text><exp>To show that scholars are not sure</exp> who built Serpent Mound</answer-text>
+</answer-list>
+<key>1</key>
+<explain-text>In the lecture, the professor states that <exp>Serpent Mound&#8230;is believed by some scholars to have been constructed by the Adena</exp> and then goes on to say <exp>please note that I said "believe."</exp>  From this, it can be determined that the professor emphasizes the word <i>believe</i> in order <exp>to show that scholars are not sure</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='ATL06P5.xml' skills='5'>
+<question-text audio-file='ATL06Q5.mp3'>In which order did these cultures develop?</question-text>
+<answer-list>
+<answer-text>The Adena, the Mississippians, and the Hopewell</answer-text>
+<answer-text>The Mississippians, the Adena, and the Hopewell</answer-text>
+<answer-text>The Mississippians, the Hopewell, and the Adena</answer-text>
+<answer-text><exp>The Adena, the Hopewell, and the Mississippians</exp></answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the lecture, the professor states that <exp>the Adena were the earliest of these three main mound-building cultures</exp>, that <exp>the&#8230;Hopewell culture began perhaps 600 years after the Adena culture</exp>, and that <exp>the Mississippian culture began long after the Adena and the Hopewell had disappeared</exp>. From this, it can be determined that the order in which these cultures developed is first the Adena, then the Hopewell, and finally the Mississippians. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.2' script-file='ATL06P6.xml' skills='5'>
+<question-text audio-file='ATL06Q6.mp3'>The professor gives examples of the mounds in each of three mound-building cultures. Indicate for each culture the mound that was most likely part of it.</question-text>
+<answer-list height='54'>
+<answer-text><exp>Eagle Mound</exp></answer-text>
+<answer-text><exp>Serpent Mound</exp></answer-text>
+<answer-text><exp>A mound with<br/>an octagonal<br/>ridge</exp></answer-text>
+</answer-list>
+<choice-list width='120'>
+<choice-text><exp>HOPEWELL</exp></choice-text>
+<choice-text><exp>ADENA</exp></choice-text>
+<choice-text><exp>MISSISSIPPIANS</exp></choice-text>
+</choice-list>
+<key>321</key>
+<explain-list>
+<explain-text>The professor states that <exp>one of the most famous mounds thought to have been constructed by the Mississippians is Eagle Mound</exp>. From this, it can be determined that <exp>Eagle Mound</exp> was most likely constructed by the <exp>Mississippians</exp>. You should therefore click in the third column.</explain-text>
+<explain-text>The professor states that <exp>Serpent Mound&#8230;is believed by some scholars to have been constructed by the Adena</exp>. From this, it can be determined that <exp>Serpent Mound</exp> was most likely constructed by the <exp>Adena</exp>. You should therefore click in the second column.</explain-text>
+<explain-text>In the lecture, the professor states that <exp>the largest of the Hopewell mounds...is the huge octagonal ridge</exp>. From this, it can be determined that <exp>a mound with an octagonal ridge</exp> was most likely constructed by the <exp>Hopewell</exp>. You should therefore click in the first column.</explain-text>
+</explain-list>
+</question>
+</question-list>

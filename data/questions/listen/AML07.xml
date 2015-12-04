@@ -1,0 +1,72 @@
+<?xml version='1.0'?>
+<question-list type='listen' genre='conversation' audio-file='AML07.mp3' script-file='AML07P0.xml'>
+
+<question type='multichoice' script-file='AML07P1.xml' skills='1'>
+<question-text audio-file='AML07Q1.mp3'>Why does the student go to see the professor?</question-text>
+<answer-list>
+<answer-text>To find out how she did on a project</answer-text>
+<answer-text><exp>To discuss how a project is to be completed</exp></answer-text>
+<answer-text>To talk about how she could do better in the political science class</answer-text>
+<answer-text>To discuss who should be her partner on a project</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the conversation, the student says <exp>I'd like&#8230;to talk about the&#8230;project for your political science class</exp> and <exp>I'd&#8230;like to do it a bit differently if I could</exp>. From this, it can be determined that the student goes to see the professor <exp>to discuss how a project is to be completed</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='multichoice' script-file='AML07P2.xml' skills='4'>
+<question-text audio-file='AML07Q2.mp3' replay-before='AML07Q2B.mp3' replay-before-graphic='AML07G2.jpg'> What does the professor seem to think?</question-text>
+<answer-list>
+<answer-text>That it is not a good time to ask a question</answer-text>
+<answer-text>That the project was already completed in class</answer-text>
+<answer-text>That he will answer any questions in class tomorrow</answer-text>
+<answer-text><exp>That the student should already understand what to do</exp></answer-text>
+</answer-list>
+<key>4</key>
+<explain-text>In the conversation, the professor says <exp>you have a question? But we talked about the project quite a bit today in class</exp>. It can be inferred from this that the professor thinks <exp>that the student should already understand what to do</exp>. The last answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.2' script-file='AML07P3.xml' skills='5'>
+<question-text audio-file='AML07Q3.mp3'>The professor has described an assignment. Indicate whether each of these is part of the assignment.</question-text>
+<answer-list>
+<answer-text><exp>To find a partner</exp></answer-text>
+<answer-text><exp>To select an issue</exp></answer-text>
+<answer-text><exp>To present the issue</exp></answer-text>
+<answer-text><exp>To debate the issue</exp></answer-text>
+</answer-list>
+<choice-list>
+<choice-text>YES</choice-text>
+<choice-text>NO</choice-text>
+</choice-list>
+<key>1111</key>
+<explain-list>
+<explain-text>The student says <exp>you said we should get together with another student for the project</exp>. This means that it is true that the professor has assigned the students <exp>to find a partner</exp>. You should therefore click in the YES column.</explain-text>
+<explain-text>The professor says <exp>you're supposed to choose an issue, one that's interesting to you</exp>. This means that it is true that the professor has assigned the students <exp>to select an issue</exp>. You should therefore click in the YES column.</explain-text>
+<explain-text>The professor says <exp>you're supposed to&#8230;present the issue clearly so everyone understands it</exp>. This means that it is true that the professor has assigned the students <exp>to present the issue</exp>. You should therefore click in the YES column.</explain-text>
+<explain-text>The professor says <exp>I want you to have a debate, where each one of you presents a different side of the issue and you each argue on the issue from a different perspective</exp>. This means that it is true that the professor has assigned the students <exp>to debate the issue</exp>. You should therefore click in the YES column.</explain-text>
+</explain-list>
+</question>
+
+<question type='multichoice' script-file='AML07P4.xml' skills='2'>
+<question-text audio-file='AML07Q4.mp3'>What does the student want?</question-text>
+<answer-list>
+<answer-text>To postpone the project</answer-text>
+<answer-text>To have a debate with another student</answer-text>
+<answer-text><exp>To work without a partner</exp></answer-text>
+<answer-text>To discuss several issues</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the conversation, the student says <exp>I'd rather do the project by myself</exp> and <exp>I really want to work on this myself, and I'm willing to prepare both sides of the issue in order to work on it alone</exp>. From this it can be determined that the student wants <exp>to work without a partner</exp>. The third answer is therfore the answer to this question.</explain-text>
+</question>
+
+<question type='check.1' script-file='AML07P5.xml' skills='2'>
+<question-text audio-file='AML07Q5.mp3'>What reasons does the professor give to say no?</question-text>
+<answer-list>
+<answer-text><exp>He wants the students to debate an issue</exp>.</answer-text>
+<answer-text><exp>He wants the students to work together</exp>.</answer-text>
+<answer-text>He wants the students to select several partners each.</answer-text>
+<answer-text>He wants each to work alone.</answer-text>
+</answer-list>
+<key>1100</key>
+<explain-text>In the conversation, the professor says <exp>I want you to actually discuss the issue&#8212;to debate it&#8212;and you really can't <u>debate</u> an issue yourself</exp> and <exp>that raises another argument because I really want you to work with another student</exp>. From this, it can be determined that the professor says no because <exp>he wants the students to debate an issue</exp> and <exp>he wants the students to work together</exp>. The first and second answers are therefore the best answers to this question.</explain-text>
+</question>
+</question-list>

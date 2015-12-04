@@ -1,0 +1,49 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR11P00.xml'>
+    <question type="multichoice" passage-file="ASR11P01.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 1? <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.</question-text>
+        <answer-list>
+            <answer-text>Joseph Pulitzer generously offered to donate a large sum of money to Columbia University for two specific purposes.</answer-text>
+            <answer-text>In 1903, an attempt was made by Joseph Pulitzer to halt the movement of the school of journalism and the journalism prizes from Columbia University.</answer-text>
+            <answer-text>Joseph Pulitzer requested that Columbia University donate a large sum of money to the New York World and the St. Louis Post-Dispatch for the purpose of establishing journalism scholarships and prizes.</answer-text>
+            <answer-text>In 1903, Joseph Pulitzer decided to give up his position as head of two newspapers to take over the department of journalism at Columbia University.</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+
+    <question type="multichoice" passage-file="ASR11P02.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 2? <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.</question-text>
+        <answer-list>
+            <answer-text>The university immediately appreciated Pulitzer's proposal, agreeing completely with Pulitzer as to the need for high-quality journalism.</answer-text>
+            <answer-text>University officials were unhappy when they read a sensationalized version of Pulitzer's proposal in one of Pulitzer's newspapers.</answer-text>
+            <answer-text>Initially, the university was not interested in working with Pulitzer because they did not have a high opinion of newspapers in general and Pulitzer's in particular.</answer-text>
+            <answer-text>The Pulitzer papers did not have a high regard for what was being taught in Columbia University's school of journalism.</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>
+
+    <question type="multichoice" passage-file="ASR11P03.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 2? <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.</question-text>
+        <answer-list>
+            <answer-text>There were long discussions about the names that could be used in the new school of journalism and the journalism prizes, and these discussions proved quite harmful to Pulitzer.</answer-text>
+            <answer-text>It took quite some time for Pulitzer and Columbia University to reach an agreement, and the agreement was not actually implemented until after Pulitzer's death.</answer-text>
+            <answer-text>University officials spent years discussing what the new journalism building would look like and finally came to a decision about it in 1911.</answer-text>
+            <answer-text>Pulitzer's death caused university officials to rethink their decision on a school of journalism and to decide that it was a good idea to have one.</answer-text>
+        </answer-list>
+        <key>2</key>
+
+    </question>
+    <question type="multichoice" passage-file="ASR11P04.xml" skills="3">
+        <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 3? <i>Incorrect</i> choices change the meaning in important ways or leave out essential information.</question-text>
+        <answer-list>
+            <answer-text>The 21 awards are divided equally among journalism, letters, and music.</answer-text>
+            <answer-text>Three different awards are given to journalists, while the others are given to artists and musicians.</answer-text>
+            <answer-text>Most awards are given in three different areas of journalism, while the rest are given in letters and music.</answer-text>
+            <answer-text>Two-thirds of the awards are for journalism, while the other third goes to other fields.</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>
+
+</question-list>
+
+

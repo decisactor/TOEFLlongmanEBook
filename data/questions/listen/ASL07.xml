@@ -1,0 +1,74 @@
+<?xml version='1.0'?>
+<question-list type='listen' audio-file='ASL07.mp3' script-file='ASL07P0.xml'>
+
+<question type='multichoice' script-file='ASL07P1.xml' skills='5'>
+<question-text audio-file='ASL07Q1.mp3'>How is the information organized in the lecture?</question-text>
+<answer-list>
+<answer-text>By contrasting various periods in American history</answer-text>
+<answer-text><exp>By classifying various types of colonies</exp></answer-text>
+<answer-text>By describing developments leading to the American revolution</answer-text>
+<answer-text>By outlining steps in the development of royal colonies</answer-text>
+</answer-list>
+<key>2</key>
+<explain-text>In the lecture, the professor says that <exp>we'll look at the three kinds of American colonies before the American revolution: royal colonies, proprietary colonies, and corporate colonies</exp>, that <exp>the first type of American colony was a royal colony</exp>, that <exp>the second type of American colony was a proprietary colony</exp>, that <exp>the last type of American colony was a corporate colony</exp>, and that <exp>these were the three types of colonies: royal, proprietary, and corporate</exp>. From this, it can be determined that the information in the lecture is organized <exp>by classifying various types of colonies</exp>. The second answer is therefore the best answer to this question.</explain-text>
+</question>
+
+<question type='check.2' script-file='ASL07P2.xml' skills='5'>
+<question-text audio-file='ASL07Q2.mp3'>Which of these were discussed in the lecture as types of American colonies?</question-text>
+<answer-list>
+<answer-text><exp>Corporate</exp></answer-text>
+<answer-text><exp>Charter</exp></answer-text>
+<answer-text><exp>Proprietary</exp></answer-text>
+<answer-text><exp>Grant</exp></answer-text>
+<answer-text><exp>Royal</exp></answer-text>
+</answer-list>
+<choice-list width='130'>
+<choice-text>YES</choice-text>
+<choice-text>NO</choice-text>
+</choice-list>
+<key>12121</key>
+<explain-list>
+<explain-text>In the lecture, the professor says <exp>the last type of American colony was a corporate colony</exp>. This means that a <exp>corporate</exp> colony is discussed in the lecture. You should therefore click in the YES column.</explain-text>
+<explain-text>In the lecture, the professor says <exp>these were the three types of colonies: royal, proprietary, and corporate</exp>. From this, it can be determined that a <exp>charter</exp> colony is NOT discussed in the lecture. You should therefore click in the NO column.</explain-text>
+<explain-text>In the lecture, the professor says <exp>the second type of American colony was a proprietary colony</exp>. This means that a <exp>proprietary</exp> colony is discussed in the lecture. You should therefore click in the YES column.</explain-text>
+<explain-text>In the lecture, the professor says <exp>these were the three types of colonies: royal, proprietary, and corporate</exp>. From this, it can be determined that a <exp>grant</exp> colony is NOT discussed in the lecture. You should therefore click in the NO column.</explain-text>
+<explain-text>In the lecture, the professor says <exp>the first type of American colony was a royal colony</exp>. This means that a <exp>royal</exp> colony is discussed in the lecture. You should therefore click in the YES column.</explain-text>
+</explain-list>
+</question>
+
+<question type='check.2' script-file='ASL07P3.xml' skills='5' width='500'>
+<question-text audio-file='ASL07Q3.mp3'>Which best describes each type of colony?</question-text>
+<answer-list height='40'>
+<answer-text><exp>Controlled by a group of
+<br/>people under the king</exp></answer-text>
+<answer-text><exp>Controlled by an<br/>individual
+ under the king</exp></answer-text>
+<answer-text><exp>Controlled directly by the
+<br/>king</exp></answer-text>
+</answer-list>
+<choice-list width='100'>
+<choice-text><exp>ROYAL</exp></choice-text>
+<choice-text><exp>PROPRIETARY</exp></choice-text>
+<choice-text><exp>CORPORATE</exp></choice-text>
+</choice-list>
+<key>321</key>
+<explain-list>
+<explain-text>The professor states that <exp>a corporate colony</exp>&#8230;was&#8230;<exp>governed&#8230;by a company's stockholders</exp>. From this, it can be determined that a <exp>corporate</exp> colony was <exp>controlled by a group of people under the king</exp>. You should therefore click in the third column.</explain-text>
+<explain-text>The professor states that <exp>a proprietary colony was under the control of an individual</exp>. From this, it can be determined that a <exp>proprietary</exp> colony was <exp>controlled by an individual under the king</exp>. You should therefore click in the second column.</explain-text>
+<explain-text>The professor states that <exp>a royal colony was directly under the control of the king</exp>. From this, it can be determined that a <exp>royal</exp> colony was <exp>controlled directly by the king</exp>. You should therefore click in the first column.</explain-text>
+</explain-list>
+</question>
+
+<question type='multichoice' script-file='ASL07P4.xml' skills='6'>
+<question-text audio-file='ASL07Q4.mp3'>What can be inferred from the lecture about changes in types of colonies?</question-text>
+<answer-list>
+<answer-text>Royal colonies tended to become proprietary colonies.</answer-text>
+<answer-text>Corporate colonies tended to become proprietary colonies.</answer-text>
+<answer-text><exp>Proprietary colonies tended to become royal colonies</exp>.</answer-text>
+<answer-text>Royal colonies tended to become corporate colonies.</answer-text>
+</answer-list>
+<key>3</key>
+<explain-text>In the lecture, the professor states that <exp>by&#8230;1775, eight of the colonies had become royal colonies</exp> and that <exp>by 1775, only three of the colonies remained proprietary colonies</exp>. From these statements, it can be inferred that <exp>proprietary colonies tended to become royal colonies</exp>. The third answer is therefore the best answer to this question.</explain-text>
+</question>
+</question-list>
+

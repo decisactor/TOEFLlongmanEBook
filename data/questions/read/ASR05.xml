@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<question-list type="read" passage-file="ASR05P00.xml">
+   
+   <question type="multichoice" passage-file="ASR05P01.xml" skills="2">
+      <question-text>The word <bg>those</bg> in the passage refers to</question-text>
+      <answer-list>
+         <answer-text>types</answer-text>
+         <answer-text>animals</answer-text>
+         <answer-text>advantages</answer-text>
+         <answer-text>groups</answer-text>
+      </answer-list>
+      <key>3</key>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR05P02.xml" skills="2">
+      <question-text>The word <bg>it</bg> in the passage refers to</question-text>
+      <answer-list>
+         <answer-text>advantage</answer-text>
+         <answer-text>membership</answer-text>
+         <answer-text>community</answer-text>
+         <answer-text>safety</answer-text>
+      </answer-list>
+      <key>2</key>
+
+   </question>
+   
+   <question type="multichoice" passage-file="ASR05P03.xml" skills="2">
+      <question-text>The word <bg>one</bg> in the passage refers to</question-text>
+      <answer-list>
+         <answer-text>group</answer-text>
+         <answer-text>prey</answer-text>
+         <answer-text>predator</answer-text>
+         <answer-text>point</answer-text>
+      </answer-list>
+      <key>1</key>
+   </question>
+   
+   <question type="multichoice" passage-file="ASR05P04.xml" skills="2">
+      <question-text>The word <bg>it</bg> in the passage refers to</question-text>
+      <answer-list>
+         <answer-text>predator</answer-text>
+         <answer-text>group</answer-text>
+         <answer-text>mass</answer-text>
+         <answer-text>goal</answer-text>
+      </answer-list>
+      <key>1</key>
+   </question>
+   
+</question-list>

@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+<script>
+<page>
+<paragraph time='00:00:00' speaker='narrator' graphic-file='AML07G1.jpg'>Listen to a conversation between a student and a professor.</paragraph>
+</page>
+<page>
+<paragraph time='00:00:04' speaker='student' graphic-file='AML07G2.jpg'>Hi, Professor Scott. Could I talk with you for a moment?</paragraph>
+<paragraph   speaker='professor' graphic-file='AML07G2.jpg'>Certainly. I have office hours now, so this's the perfect time to talk with me. What's your question?</paragraph>
+<paragraph   speaker='student' graphic-file='AML07G2.jpg'>Well, I'd like&#8230;uh&#8230;like to talk about the&#8230;uh&#8230;project for your political science class.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML07G2.jpg'>You have a question? But we talked about the project quite a bit today in class. OK&#8230;well&#8230;what's your question?</paragraph>
+<paragraph   speaker='student' graphic-file='AML07G2.jpg'>Well, what you said <u>was</u> clear, but I'd&#8230;uh&#8230;like to do it a bit differently if I could.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML07G2.jpg'>What did you want to change?</paragraph>
+<paragraph   speaker='student' graphic-file='AML07G2.jpg'>Well, you said we should get together with another student for the project, that two of us should work together, but I would rather work alone. I'd rather do the project by myself.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML07G2.jpg'>Well, I don't think that would work out very well because you know you're supposed to choose an issue, one that's interesting to you&#8230;and then present the issue clearly so everyone understands it. Then I want you to have a debate, where each one of you presents a different side of the issue and you each argue on the issue from a different perspective.</paragraph>
+<paragraph   speaker='student' graphic-file='AML07G2.jpg'>I was thinking I could present the issue and then discuss each side of the issue myself&#8230;talk about one side of the issue very thoroughly and then talk about the other side just as thoroughly.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML07G2.jpg'>I don't think that would work out too well because I want you not just to present each side of the issue; I want you to actually discuss the issue&#8212;to debate it&#8212;and you really can't <u>debate</u> an issue yourself.</paragraph>
+<paragraph   speaker='student' graphic-file='AML07G2.jpg'>But I really want to work on this myself, and I'm willing to prepare both sides of the issue in order to work on it alone.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML07G2.jpg'>Well, that raises another argument because I really want you to work with another student. This assignment isn't just about learning about an issue; it's about being able to work with another student to debate an issue convincingly with someone else.</paragraph>
+<paragraph   speaker='student' graphic-file='AML07G2.jpg'>So I really need to find a partner to work with?</paragraph>
+<paragraph   speaker='professor' graphic-file='AML07G2.jpg'>Yes, that's the assignment, and I'd really like you to do it as I assigned it. Here's a list of students from the class who're looking for partners for the project. Why don't you talk with some of them and see if you can find someone you'd like to work with?</paragraph>
+</page>
+</script>

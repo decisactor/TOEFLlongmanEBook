@@ -1,0 +1,32 @@
+<?xml version='1.0'?>
+<script>
+<page>
+<paragraph time='00:00:00' speaker='narrator' graphic-file='AML01G1.jpg'>Listen to a conversation between a student and a professor.</paragraph>
+</page>
+<page>
+<paragraph time='00:00:04' speaker='student' graphic-file='AML01G2.jpg'>Hi, Professor Harley. Could I talk with you for a moment? I have a question for you.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML01G2.jpg'>Sure, Tom. What's your question?</paragraph>
+<paragraph   speaker='student' graphic-file='AML01G2.jpg'>Well, I'm in your class, the Eastern Cultures class at 9:00.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML01G2.jpg'>Yes, I know.</paragraph>
+<paragraph   speaker='student' graphic-file='AML01G2.jpg'>And we have that big research project due next month.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML01G2.jpg'>Yes, you do.</paragraph>
+<paragraph   speaker='student' graphic-file='AML01G2.jpg'>And I was wondering&#8230;wondering&#8230;if&#8230;uh&#8230;</paragraph>
+<paragraph   speaker='professor' graphic-file='AML01G2.jpg'>What's your question, Tom? Aren't you sure what you're supposed to be doing for the research project?</paragraph>
+<paragraph   speaker='student' graphic-file='AML01G2.jpg'>No, it's not that.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML01G2.jpg'>Well, what's your question?</paragraph>
+<paragraph   speaker='student' graphic-file='AML01G2.jpg'>I was wondering if it would be possible to&#8230;um&#8230;turn in the project late.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML01G2.jpg'>You want to turn the project in late? But you've got more than a month to finish it. You have plenty of time to get it done before the due date&#8230;.</paragraph>
+<paragraph   speaker='student' graphic-file='AML01G2.jpg'>Well, you see, I'm going to be missing a few days of school next month&#8230;.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML01G2.jpg'>You are? Why's that?</paragraph>
+<paragraph   speaker='student' graphic-file='AML01G2.jpg'><exp>I have a really good reason for missing school&#8230;and delaying the project</exp>. <exp>You see, my brother</exp>&#8230;my older brother&#8230;well&#8230;<exp>he's getting married then. It's going to be a really big wedding and I'm going to be part of the wedding&#8230;so&#8230;. I'll have to</exp>, to <exp>miss a few days of school next month&#8230;for the wedding</exp>.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML01G2.jpg'>Well, your brother's wedding sounds like a good reason to miss a couple of days of school&#8230;. But&#8230;well&#8230;what's that got to do with the research paper?</paragraph>
+<paragraph   speaker='student' graphic-file='AML01G2.jpg'>You see, the research paper's due on one of the days I'm going to be gone&#8230;for my brother's wedding.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML01G2.jpg'>Uh-huh&#8230;.</paragraph>
+<paragraph   speaker='student' graphic-file='AML01G2.jpg'>So I'd really appreciate it if I didn't have to finish the research project until after the wedding&#8230;maybe a week&#8230;or two weeks&#8230;or so&#8230;after the wedding.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML01G2.jpg'>But the wedding's not for another month from now. You have plenty of time to get the project done before you leave for the wedding.</paragraph>
+<paragraph   speaker='student' graphic-file='AML01G2.jpg'>I was hoping I could put it off until after the wedding&#8230;so I wouldn't have to worry about it until then.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML01G2.jpg'>Listen, I'm going to do you a big favor, though you might not believe right now that it actually <u>is</u> a big favor. I want you to get the project done now, get it done early, before the wedding. That way, you won't have it hanging over your head during the wedding.</paragraph>
+<paragraph   speaker='student' graphic-file='AML01G2.jpg'>That doesn't really sound like much of a favor.</paragraph>
+<paragraph   speaker='professor' graphic-file='AML01G2.jpg'>You might not appreciate it now, but I'm sure you'll appreciate it later.</paragraph>
+</page>
+</script>

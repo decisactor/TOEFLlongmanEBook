@@ -1,0 +1,198 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ATR04P0.xml'>
+<question type="multichoice" passage-file="ATR04P1.xml" skills="1">
+      <question-text>The word <bg>it</bg> in paragraph 1 refers to</question-text>
+      <answer-list>
+         <answer-text><exp>the progressive movement</exp></answer-text>
+         <answer-text>the American political system</answer-text>
+         <answer-text>the first two decades</answer-text>
+         <answer-text>the twentieth century</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage mentions <exp>the progressive movement</exp> and states that <exp>it arose in reaction to the domination of the social and political system</exp>. From this context, it can be determined that <exp>it</exp> refers to <exp>the progressive movement</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR04P2.xml" skills="1">
+      <question-text>The word <bg>rampant</bg> in paragraph 1 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>insubstantial</answer-text>
+         <answer-text>potential</answer-text>
+         <answer-text><exp>widespread</exp></answer-text>
+         <answer-text>nonexistent</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage states that <exp>the progressive movement was a powerful and broad-based movement of reform</exp> that <exp>arose in reaction to&#8230;rampant corruption</exp>. From this context, it can be determined that <exp>rampant</exp> is closest in meaning to <exp>widespread</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR04P3.xml" skills="7">
+      <question-text>It can be inferred from the passage that the progressive movement strongly influenced the American political system for</question-text>
+      <answer-list>
+         <answer-text>one year</answer-text>
+         <answer-text>five years</answer-text>
+         <answer-text><exp>a decade or two</exp></answer-text>
+         <answer-text>a half a century</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage states that <exp>progressivism emerged as a force during the presidency of Theodore Roosevelt, from 1901 to 1909, and reached its height in the presidential campaign of 1912</exp> and that <exp>by the time the United States entered World War I in 1917, progressivism as a force had faded from the political scene</exp>. From this, it can be inferred that the progressive movement strongly influenced the American political system for <exp>a decade or two</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR04P4.xml" skills="1">
+      <question-text>The word <bg>instigating</bg> in paragraph 2 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>improving</answer-text>
+         <answer-text><exp>causing</exp></answer-text>
+         <answer-text>understanding</answer-text>
+         <answer-text>ending</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>the progressive movement was focused on instigating, or initiating, change</exp>. From this context, it can be determined that <exp>instigating</exp> is closest in meaning to <exp>causing</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR04P5.xml" skills="3">
+      <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 2?</question-text>
+      <answer-list>
+         <answer-text><exp>The progressive movement sought to reduce the power of the huge industrialists</exp>.</answer-text>
+         <answer-text>Big business used the progressive movement in an attempt to gain influence over government.</answer-text>
+         <answer-text>The progressive movement came about as a result of legal and government controls.</answer-text>
+         <answer-text>The success of the wealthy industrial barons grew out of the progressive movement.</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The highlighted sentence states that <exp>one area that was of major interest to the progressive movement was the imposition of...control over big business</exp> and then mentions <exp>the wealthy industrial barons</exp>. This means that <exp>the progressive movement sought to reduce the power of the huge industrialists</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR04P6.xml" skills="6">
+      <question-text>Which of the following is NOT listed in paragraph 2 as an area of focus of the progressive movement?</question-text>
+      <answer-list>
+         <answer-text><exp>The power of big business</exp></answer-text>
+         <answer-text><exp>Social problems</exp></answer-text>
+         <answer-text><exp>Corrupt politics</exp></answer-text>
+         <answer-text>The unclean environment</answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>one area that was of major interest to the progressive movement was the imposition of legal and government control over big business</exp>, which refers to <exp>the power of big business</exp> in the first answer. The passage also states that <exp>a second area of interest to the progressive movement was the improvement of the social system</exp>, which refers to <exp>social problems</exp> in the second answer. In addition, the passage states that <exp>a final area of interest was the cleaning up of the political system</exp>, which refers to <exp>corrupt politics</exp> in the third answer. The last answer is the one that is NOT listed in the paragraph and is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR04P7.xml" skills="1">
+      <question-text><bg>A grassroots movement</bg> in paragraph 3 is one that develops</question-text>
+      <answer-list>
+         <answer-text>because of a charismatic leader</answer-text>
+         <answer-text><exp>from the bottom up</exp></answer-text>
+         <answer-text>in agricultural areas</answer-text>
+         <answer-text>without much public support</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>progressivism was a grassroots movement that first gained force at the local level</exp> and that <exp>the progressive movement then worked its way from the local level to the state level</exp>. From this context, it can be determined that <exp>a grassroots movement</exp> is one that develops <exp>from the bottom up</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR04P8.xml" skills="1">
+      <question-text>The author mentions <bg>workers' compensation and unemployment insurance</bg> in paragraph 3 in order to</question-text>
+      <answer-list>
+         <answer-text>indicate areas that were the focus of party candidates</answer-text>
+         <answer-text>prove that workers in Wisconsin were needier than workers in other states</answer-text>
+         <answer-text><exp>provide examples of reforms intended to help the working class</exp></answer-text>
+         <answer-text>demonstrate the need for direct democratic vote</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage states that <exp>numerous reforms were instituted</exp> and that <exp>policies directed at improving the lives of workers&#8212;such as workers' compensation and unemployment insurance&#8212;were instituted</exp>. From this, it can be determined that the author mentions workers' compensation and unemployment insurance in order to <exp>provide examples of reforms intended to help the working class</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR04P9.xml" skills="1">
+      <question-text>The phrase <bg>making its mark on</bg> in paragraph 4 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>making the best of</answer-text>
+         <answer-text>putting a signature on</answer-text>
+         <answer-text>losing oneself in</answer-text>
+         <answer-text><exp>having an effect on</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>the progressive movement was making its mark on national politics</exp>, that <exp>federal measures&#8230;were instituted</exp>, and that <exp>action was taken</exp>. From this context, it can be determined that <exp>making its mark on</exp> is closest in meaning to <exp>having an effect on</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR04P10.xml" skills="1">
+      <question-text>The word <bg>flagbearer</bg> in paragraph 4 could best be replaced by</question-text>
+      <answer-list>
+         <answer-text><exp>leader</exp></answer-text>
+         <answer-text>choice</answer-text>
+         <answer-text>example</answer-text>
+         <answer-text>laborer</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that <exp>the two candidates in the presidential election&#8230;each claimed to be the flagbearer of the progressive movement</exp>. From this context, it can be determined that <exp>flagbearer</exp> is closest in meaning to <exp>leader</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR04P11.xml" skills="5">
+      <question-text>According to the passage, what had occurred by 1917?</question-text>
+      <answer-list>
+         <answer-text>World War I had ended.</answer-text>
+         <answer-text><exp>Feelings of nationalism had increased</exp>.</answer-text>
+         <answer-text>The progressive movement had grown in strength.</answer-text>
+         <answer-text>Nationalistic fervor had wound down.</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>by 1917, when the United States entered the first world war, the nationalistic passion associated with the entry into the war had overtaken the fervor of the progressive movement, and involvement in the movement wound down</exp>. This means that by 1917 <exp>feelings of nationalism had increased</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type='insert' passage-file='ATR04P12.xml' skills='4'>
+<insert-text><b>However, <exp>the effectiveness of the progressive movement did not endure for long</exp>.</b></insert-text>
+<key>3</key>
+<explain-text>
+The fourth sentence of paragraph 4 states that <exp>after Wilson assumed office in 1913, he instituted a number of additional social reform bills</exp> and the following sentence states that <exp>by 1917&#8230;involvement in the movement wound down</exp>. A sentence stating that <exp>the effectiveness of the progressive movement did not endure for long</exp> would logically follow such an idea. 
+The third square in paragraph 4 is therefore the best answer to this question.
+</explain-text>
+</question> 
+<question type='select.1' passage-file='ATR04P13.xml' skills='9'>
+<direction-text>Select the appropriate phrases from the answer choices that are key in a discussion of the <exp>progressive movement in early twentieth-century America</exp>. TWO of the answer choices will NOT be used.  <i><b>This question is worth 3 points.</b></i></direction-text>
+<intro-text><b>The progressive movement in early twentieth-century America</b></intro-text>
+<answer-list>
+<answer>
+<answer-text><exp>It was supportive of the wealthy industrialists such as Rockefeller and Carnegie</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>one area that was of major interest to the progressive movement was the imposition of legal and government control over big business, which had usurped an extraordinary amount of power in the era of the wealthy industrial barons such as Rockefeller and Carnegie</exp>. From this, it can be determined that it is NOT true that <exp>it was supportive of the wealthy industrialists such as Rockefeller and Carnegie</exp>. This answer is therefore not a correct answer to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>It developed because of social and political problems in the era of big business</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>the <b>progressive movement</b>&#8230;arose in reaction to the domination of the social and political system by business interests and rampant corruption throughout the political party system</exp>. From this, it can be determined that <exp>it developed because of social and political problems in the era of big business</exp>. This answer provides critical information to support the topic of <exp><b>the progressive movement in early twentieth-century America</b></exp> and is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>It was at its height in the early part of the twentieth century and then declined in importance</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>progressivism emerged as a force during the presidency of Theodore Roosevelt, from 1901 to 1909, and reached its height in the presidential campaign of 1912</exp> and that <exp>by the time the United States entered World War I in 1917, progressivism as a force had faded from the political scene</exp>. From this, it can be determined that <exp>it was at its height in the early part of the twentieth century and then declined in importance</exp>. This answer provides critical information to support the topic of <exp><b>the progressive movement in early twentieth-century America</b></exp> and is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>It focused on changes in business, society, and politics</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>the progressive movement was focused on instigating, or initiating, change</exp>. From this, it can be determined that <exp>it focused on changes in business, society, and politics</exp>. This answer provides critical information to support the topic of <exp><b>the progressive movement in early twentieth-century America</b></exp> and is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text>It <exp>was very strong in the state of Wisconsin</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>the progressive movement then worked its way from the local level to the state level</exp> and that <exp>in the state of Wisconsin, for example, "Fighting Bob" La Follette led the drive for change, first in his role as governor of the state (1901&#8211;1906) and later as the U.S. senator representing the state (1906&#8211;1925)</exp>. From this, it can be determined that the progressive movement <exp>was very strong in the state of Wisconsin</exp>; however, this point is a detail rather than a main point. This answer is therefore not a correct answer to this question.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>It started at the local level and moved up to the national level</exp>.</answer-text>
+<explain-text>
+The passage states that <exp>the progressive movement then worked its way from the local level to the state level and then on to the national level</exp>. From this, it can be determined that <exp>it started at the local level and moved up to the national level</exp>. This answer provides critical information to support the topic of <exp><b>the progressive movement in early twentieth-century America</b></exp> and is therefore one of the correct answers to this question.
+</explain-text>
+</answer>
+</answer-list>
+<key>.031.2</key>
+</question>
+</question-list>   
+

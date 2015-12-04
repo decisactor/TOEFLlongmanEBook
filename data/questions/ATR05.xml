@@ -1,0 +1,216 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ATR05P0.xml'>
+<question type="multichoice" passage-file="ATR05P1.xml" skills="5">
+      <question-text>What is stated in paragraph 1 about the continental masses?</question-text>
+      <answer-list>
+         <answer-text>Continental shields are found in the active areas of the continental masses.</answer-text>
+         <answer-text><exp>The continental masses consist of a large percentage of stable area and a smaller percentage of unstable area</exp>.</answer-text>
+         <answer-text>Mountain roots are in inactive regions of the continental masses, while continental shields are not.</answer-text>
+         <answer-text>Volcanism and tectonic activity occur only in a small percentage of the continental shields.</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>the continental masses broadly consist of two basic subtypes, the active belts where mountains are created and inactive regions where older and more stable rock is found</exp> and that <exp>the belts of recent mountain-making activity account for only a small percentage of the continental crust</exp>. From this, it can be determined that <exp>the continental masses consist of a large percentage of stable area and a smaller percentage of unstable area</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR05P2.xml" skills="1">
+      <question-text>The word <bg>extrusion</bg> in paragraph 1 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text><exp>forcing out</exp></answer-text>
+         <answer-text>heating up</answer-text>
+         <answer-text>hardening</answer-text>
+         <answer-text>shrinking up</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage states that <exp>volcanism is a process in which massive accumulations of volcanic rock are formed from the extrusion of magma</exp>. From this context, it can be determined that <exp>extrusion</exp> is closest in meaning to <exp>forcing out</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR05P3.xml" skills="1">
+      <question-text>The phrase <bg>account for</bg> in paragraph 1 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>count on</answer-text>
+         <answer-text><exp>make up</exp></answer-text>
+         <answer-text>bank on</answer-text>
+         <answer-text>write up</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>the belts of recent mountain-making activity account for only a small percentage of the continental crust</exp>. From this context, it can be determined that the phrase <exp>account for</exp> is closest in meaning to <exp>make up</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>   
+<question type="multichoice" passage-file="ATR05P4.xml" skills="8">
+      <question-text>Why does the author state that <bg>there are two distinct types of crust: continental shelves and mountain roots</bg> at the end of paragraph 1?</question-text>
+      <answer-list>
+         <answer-text><exp>To announce the two main categories of stable crust that will be discussed</exp></answer-text>
+         <answer-text>To indicate that there are two different types of mountainous regions</answer-text>
+         <answer-text>To explain the difference between the mountainous and non-mountainous regions of the crust</answer-text>
+         <answer-text>To lead into a discussion of geographically stable and unstable regions</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The last sentence of the first paragraph states that <exp>within these stable regions, there are two distinct types of crust: continental shields and mountain roots</exp>; paragraphs 2 and 3 then discuss <exp>continental shields</exp>, and paragraphs 4 and 5 discuss <exp>mountain roots</exp>. From this, it can be determined that the author states that there are two distinct types of crust, continental shields and mountain roots, in order <exp>to announce the two main categories of stable crust that will be discussed</exp>. The first  answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR05P5.xml" skills="6">
+      <question-text>What is NOT true about shields, according to the passage?</question-text>
+      <answer-list>
+         <answer-text><exp>Continental shields have the appearance of towering peaks</exp>.</answer-text>
+         <answer-text>Not all continental shields are covered shields.</answer-text>
+         <answer-text>Rocks in the exposed shields can be very old.</answer-text>
+         <answer-text>Layers of sediment can cover shields.</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage mentions <exp>continental shields</exp> and then states that <exp>today, they generally appear as low hills and plateaus that have been continuously eroded during their exposure</exp>. From this, it can be determined that it is NOT true that <exp>continental shields have the appearance of towering peaks</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR05P6.xml" skills="3">
+      <question-text>Which of the sentences below expresses the essential information in the highlighted sentence in paragraph 3?</question-text>
+      <answer-list>
+         <answer-text>The shield rocks are much younger than the layers of sediment that accumulated in earlier eras.</answer-text>
+         <answer-text><exp>The younger layers of sediment covering the shields built up from marine sediments when ocean water covered the shields</exp>.</answer-text>
+         <answer-text>The shields accumulated during periods of dryness and were later covered with water.</answer-text>
+         <answer-text>The younger layers of marine sediments are covered by shields that were created during the Paleozoic and Cenozoic eras.</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The highlighted sentence states that <exp>these younger layers&#8230;accumulated during periods when the shields&#8230;were covered with water</exp> and then refers to <exp>marine sediments</exp>. From this, it can be determined that the highlighted sentence means that <exp>the younger layers of sediment covering the shields built up from marine sediments when ocean water covered the shields</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR05P7.xml" skills="1">
+      <question-text>The word <bg>receded</bg> in paragraph 3 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>melted</answer-text>
+         <answer-text>surged up</answer-text>
+         <answer-text><exp>pulled back</exp></answer-text>
+         <answer-text>remained</answer-text>
+      </answer-list>
+      <key>3</key>
+      <explain-text>
+The passage states that <exp>the shield areas&#8230;became land surfaces again as the water receded</exp>. From this context, it can be determined that <exp>receded</exp> is closest in meaning to <exp>pulled back</exp>. The third answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR05P8.xml" skills="2">
+      <question-text>The phrase <bg>these remnants</bg> in paragraph 4 refers to</question-text>
+      <answer-list>
+         <answer-text><exp>today's mountain roots</exp></answer-text>
+         <answer-text>many locations</answer-text>
+         <answer-text>vast quantities</answer-text>
+         <answer-text>overlying rocks</answer-text>
+      </answer-list>
+      <key>1</key>
+      <explain-text>
+The passage mentions <exp>today's mountain roots</exp> and states that <exp>vast quantities of overlying rocks have eroded away these remnants of tectonic ranges</exp>. From this context, it can be determined that <exp>these remnants</exp> refers to <exp>today's mountain roots</exp>. The first answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR05P9.xml" skills="1">
+      <question-text>The word <bg>belie</bg> in paragraph 4 is closest in meaning to</question-text>
+      <answer-list>
+         <answer-text>seem to encourage</answer-text>
+         <answer-text>attempt to state</answer-text>
+         <answer-text>serve to prove</answer-text>
+         <answer-text><exp>appear to contradict</exp></answer-text>
+      </answer-list>
+      <key>4</key>
+      <explain-text>
+The passage states that <exp>mountain roots&#8230;rarely exceed 1,000 meters in height and belie the fact that</exp> they <exp>were formerly towering peaks</exp>. From this context, it can be determined that <exp>belie</exp> is closest in meaning to <exp>appear to contradict</exp>. The last answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR05P10.xml" skills="7">
+      <question-text>Which of the following can be inferred from the passage about the Caledonians?</question-text>
+      <answer-list>
+         <answer-text>They are not as old as the Himalayas.</answer-text>
+         <answer-text>They <exp>will most likely continue to decrease in height</exp>.</answer-text>
+         <answer-text>They used to be taller than today's Himalayas.</answer-text>
+         <answer-text>They used to extend farther south than they do today.</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage states that <exp>the Caledonians were extremely high alpine mountain chains, but since that time they have been eroding away to much lower mountains, hills, and plateaus</exp>. From this, it can be inferred that the Caledonians <exp>will most likely continue to decrease in height</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type="multichoice" passage-file="ATR05P11.xml" skills="1">
+      <question-text>The word <bg>belt</bg> in paragraph 5 could best be replaced by</question-text>
+      <answer-list>
+         <answer-text>leather thong</answer-text>
+         <answer-text><exp>long line</exp></answer-text>
+         <answer-text>clothing accessory</answer-text>
+         <answer-text>big cluster</answer-text>
+      </answer-list>
+      <key>2</key>
+      <explain-text>
+The passage mentions <exp>a belt of highlands</exp>. From this context, it can be determined that <exp>belt</exp> could best be replaced by <exp>long line</exp>. The second answer is therefore the best answer to this question.
+</explain-text>
+   </question>
+<question type='insert' passage-file='ATR05P12.xml' skills='4'>
+<insert-text><b><exp>The Appalachians</exp> are a younger mountain root system than <exp>the Caledonians</exp>.</b></insert-text>
+<key>4</key>
+<explain-text>
+The first sentence of paragraph 5 indicates that the paragraph will discuss <exp>the Caledonians and the Appalachians</exp>, the second, third, and fourth sentences discuss <exp>the Caledonians</exp>, and the fifth sentence begins the discussion of <exp>the Appalachians</exp>. A sentence relating <exp>the Appalachians</exp> to <exp>the Caledonians</exp> would logically come between the fourth and fifth sentences. The last square in paragraph 5 is therefore the best answer to this question.
+</explain-text>
+</question>
+<question type='select.2' passage-file='ATR05P13.xml' skills='10'>
+<direction-text>Select the appropriate phrases from the answer choices and match them to the type of geographical formation to which they relate. TWO of the answer choices will NOT be used. <i><b>This question is worth 3 points</b></i>.</direction-text>
+<key>13.50.42</key>
+<category-list>
+<category>
+<category-text><b><exp>Continental shields</exp></b></category-text>
+</category>
+<category>
+<category-text><b><exp>Mountain roots</exp></b></category-text>
+</category>
+</category-list>
+<answer-list>
+<answer>
+<answer-text><exp>Can be exposed as low hills and plateaus</exp></answer-text>
+<explain-text>
+The passage mentions <exp><i>continental shields</i></exp> and states that <exp>the exposed shields...generally appear as low hills and plateaus that have been continuously eroded during their exposure</exp>. From this, it can be determined that continental shields <exp>can be exposed as low hills and plateaus</exp>. This answer should therefore be used to describe <exp><b>continental shields</b></exp>.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Are what remains of formerly soaring peaks</exp></answer-text>
+<explain-text>
+The passage states that <exp>inactive remnants of what were once towering mountains are called <i>mountain roots</i></exp>. From this, it can be determined that mountain roots <exp>are what remains of formerly soaring peaks</exp>. This answer should therefore be used to describe <exp><b>mountain roots</b></exp>.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Are towering mountain peaks</exp></answer-text>
+<explain-text>
+The passage states that <exp><i>continental shields</i> are low-lying continental surfaces</exp> and that <exp>inactive remnants of what were once towering mountains are called <i>mountain roots</i></exp>. From this, it can be determined that it is NOT true that either continental shields or mountain roots <exp>are towering mountain peaks</exp>. This answer is therefore not a correct answer choice.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Are today's long, low, narrow ridges</exp></answer-text>
+<explain-text>
+The passage states that <exp>mountain roots have the appearance of long and narrow ridges</exp>. From this, it can be determined that mountain roots <exp>are today's long, low, narrow ridges</exp>. This answer should therefore be used to describe mountain roots.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Are the inactive lower-level surfaces of the continents</exp></answer-text>
+<explain-text>
+The passage states that <exp>within these stable regions, there are two distinct types of crust: continental shields and mountain roots</exp> and that <exp>continental shields are low-lying continental surfaces</exp>. From this, it can be determined that continental shields <exp>are the inactive lower-level surfaces of the continents</exp>. This answer should therefore be used to describe <exp><b>continental shields</b></exp>.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Are relatively active volcanic or tectonic regions</exp></answer-text>
+<explain-text>
+The passage states that <exp>within these stable regions, there are two distinct types of crust: continental shields and mountain roots</exp>. From this, it can be determined that it is NOT true that there <exp>are relatively active volcanic or tectonic regions</exp> within either of these stable regions. This answer is therefore not a correct answer choice.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>May have worn away or become metamorphic rocks</exp></answer-text>
+<explain-text>
+The passage states that <exp>many of what are today's mountain roots are formed of&#8230;sedimentary rocks that&#8230;have turned into metamorphic rocks&#8230;have eroded away</exp>. From this, it can be determined that mountain roots <exp>may have worn away or become metamorphic rocks</exp>. This answer should therefore be used to describe <exp><b>mountain roots</b></exp>.
+</explain-text>
+</answer>
+<answer>
+<answer-text><exp>Can be covered with layers of sediment</exp></answer-text>
+<explain-text>
+The passage states that <exp>areas where the continental shields have been covered by younger sedimentary layers are covered shields</exp>. From this, it can be determined that continental shields <exp>can be covered with layers of sediment</exp>. This answer should therefore be used to describe <exp><b>continental shields</b></exp>.
+</explain-text>
+</answer>
+</answer-list>
+</question>
+</question-list>   
+
