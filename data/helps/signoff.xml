@@ -1,0 +1,5 @@
+<help>
+	<copy>Choose <b>Copy Data</b> to save data to a disk for use on this or another computer.</copy>
+	<exit>Choose <b>Exit Program</b> to exit the program.</exit>
+	<all>copy|exit</all>
+</help>

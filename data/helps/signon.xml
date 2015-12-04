@@ -1,0 +1,7 @@
+<help>
+	<new>Choose <b>New User</b> if you have never used the program before and have no saved data. This will delete all previous scores and essays you or another user saved on this computer.</new>
+	<local>Choose <b>Local User</b> if you have already used the program on this computer. This will save today's scores and essays with your previous scores and essays saved on this computer.</local> 
+	<disk>Choose <b>Disk User</b> if you have used the program on this computer or on a different computer and have your data stored on a disk. Your disk will replace all previous scores and essay you or another user saved on this computer.</disk>
+	<exit>Choose <b>Exit Program</b> to exit the Program.</exit>
+	<all>new|local|disk|exit</all>
+</help>

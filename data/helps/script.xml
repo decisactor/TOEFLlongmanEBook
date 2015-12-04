@@ -1,0 +1,12 @@
+<help>
+	<page.1>Click on the page number to see or hear a different part of the script.</page.1>
+	<page.2>Click on the page number to see or hear a different part of the script. (The part of the script with the answer to the question you are on is highlighted in blue.)</page.2>
+	<page.3>The part of the script with the answer to the question you are on is highlighted in blue.</page.3>
+	<play>Click on <b>Play</b> to play the audio.</play>
+	<pause>Click on <b>Pause</b> to pause the audio after it starts to play.</pause>
+	<stop>Click on <b>Stop</b> to stop the audio after it starts to play.</stop>
+	<volume>Click on <b>Volume</b> to adjust the volume. Click on, hold, and move the volume indicator to the left and right. To close the volume control, click on another part of the screen.</volume>
+	<back>Click on <b>Back</b> to return to the question.</back>
+	<exit>Click on <b>Section Exit</b> to return to the menu.</exit>
+	<all>page|play|pause|stop|volume|back|exit</all>
+</help>

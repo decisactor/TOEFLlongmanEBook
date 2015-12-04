@@ -1,0 +1,237 @@
+<help>
+
+    <answer.1>Click on your answer to the question. This also activates <b>Check Answer</b>.</answer.1>
+    <answer.1a>Click on your answer to the question. This also activates <b>Check Answer</b>.</answer.1a>
+    <answer.1b>Click on your answer to the question.</answer.1b>
+    <answer.2a>Click on two answer choices to answer the question. This also activates <b>Check Answer</b>.</answer.2a>
+    <answer.2b>Click on two answer choices to answer the question.</answer.2b>
+    <answer.3a>Click on a box in each row of the chart to answer the question.</answer.3a>
+    <answer.3b>Click on a box in each row of the chart to answer the question.</answer.3b>
+    <answer.4a>Click on a square in the reading passage to insert the sentence. This also activates <b>Check Answer</b>.</answer.4a>
+    <answer.4b>Click on a square in the reading passage to insert the sentence.</answer.4b>
+    <answer.5a>Drag you answer choices to the spaces where they belong. This also activates <b>Check Answer</b>.</answer.5a>
+    <answer.5b>Drag you answer choices to the spaces where they belong.</answer.5b>
+    <answer.6>Follow the Directions by clicking on a group of words in the essay question.</answer.6>
+    <answer.7>Follow the Directions by clicking on one of the phrases, sentences or paragraphs in the essay.</answer.7>
+    <answer.8>Follow the Directions by clicking on each of the errors in the paragraph. You must click on the EXACT number of errors stated in the Directions to see the <b>Check Answer</b> button.</answer.8>
+    <answer.9>Type the essay on the screen where the cursor is blinking.</answer.9>
+    <change.1>Click on a different answer to change your answer.</change.1>
+    <change.2>Click on an answer to remove it.</change.2>
+    <change.3a>Click on a different answer choice to change your answer. You must click on TWO answers to see the <b>Check Answer</b> button.</change.3a>
+    <change.3b>Click on a different answer choice to change your answer.</change.3b>
+    <change.4>Click on a different box in the row to change your answer.</change.4>
+    <change.5>Click on the inserted sentence to remove it from the reading passage.</change.5>
+    <change.6>Click on a different square to change your answer.</change.6>
+    <change.7>Drag different answer choices to the spaces where they belong to change your answer.</change.7>
+    <change.8>Click on a different group of words in the essay question to change your answer.</change.8>
+    <change.9>Click on a different phrase, sentence or paragraph in the essay to change your answer.</change.9>
+    <change.10>Answer the question in a different way by changing one or more of your answers.</change.10>
+    <change.11>Click on a word in blue to remove it as an answer.</change.11>
+    <next.1>Click on <b>Next</b> to activate <b>OK</b>.</next.1>
+    <next.2a>Click on <b>Next</b> to move to a new question.</next.2a>
+    <next.2b>Click on <b>Next</b> to complete the section.</next.2b>
+    <next.3>Click on <b>Next</b> to move to the next screen.</next.3>
+    <next.4>Click on <b>Next</b> to complete the section. If you have not saved your recording at the Checklist screen, your response will be deleted.</next.4>
+    <next.5>Click on <b>Next</b> to save your essay and leave this question.</next.5>
+    <back>Click on <b>Back</b> to return to the last question.</back>
+    <ok.1a>Click on <b>OK</b> to record your answer and move to a new question.</ok.1a>
+    <ok.1b>Click on <b>OK</b> to record your answer and complete the section.</ok.1b>
+    <ok.2a>Click on <b>OK</b> to move to a new question.</ok.2a>
+    <ok.2b>Click on OK to complete the section.</ok.2b>
+    <review>Click on <b>Review</b> to see a list of questions in this section. Use <b>Review</b> to go back to questions you have already seen.</review>
+    <text>Click on <b>View Text</b> to review the reading passage.</text>
+    <check>Click on <b>Check Answer</b> to see if your answer is correct or incorrect.</check>
+    <explain>Click on <b>Explain Answer</b> to see an explanation of the correct answer.</explain>
+    <listen>Click on <b>Listen</b> to replay the audio.</listen>
+    <script>Click on <b>View Script</b> to read the script and to replay the audio.</script>
+    <listen.script>Click on <b>Listen/View</b> to read the script and to replay the audio.</listen.script>
+    <volume>Click on <b>Volume</b> to adjust the volume. Click on, hold, and move the volume indicator to the left and right. To close the volume control, click on another part of the screen.</volume>
+    <time>Click on <b>Hide</b> or <b>Show</b> to hide or show the time.</time>
+    <exit>Click on <b>Section Exit</b> to return to the menu.</exit>
+    <replay>Click on the <b>Headphone Icon</b> to replay the question audio.</replay>
+    <view.checklist.1a>Click on <b>Check List</b> to see the checklist. You can save your recording on the checklist screen.</view.checklist.1a>
+    <view.checklist.1b>Click on a box to enter a checkmark for <i>Yes</i> or <i>No</i>.</view.checklist.1b>
+    <view.checklist.2a>Click on <b>Check List</b> to see the checklist.</view.checklist.2a>
+    <view.checklist.2b>Click on a box to enter a checkmark for <i>Yes</i> or <i>No</i>.</view.checklist.2b>
+    <view.sample.1>Click on <b>Sample Answer</b> to read and listen to a sample answer.</view.sample.1>
+    <view.sample.2>Click on <b>Play Sample</b> to hear the sample answer.</view.sample.2>
+    <view.sample.3>Click on <b>Pause</b> and <b>Stop</b> to pause or stop the audio after it starts to play.</view.sample.3>
+    <view.sample.4>Click on <b>Sample Answer</b> to read a sample response.</view.sample.4>
+    <view.question.1>Click on <b>View Question</b> to see only the question.</view.question.1>
+    <view.question.2>Click on <b>View Question</b> to see the question.</view.question.2>
+    <view.text>Click on <b>View Text</b> to see the reading passage.</view.text>
+    <view.notes>Click on <b>Sample Notes</b> to see the sample notes.</view.notes>
+    <record.1>Click on <b>Record</b> and speak into the microphone to record your response.</record.1>
+    <record.2>To change your response, click on <b>Record</b> and speak into the microphone. This will erase your previous response.</record.2>
+    <stop>Click on <b>Stop</b> to stop recording.</stop>
+    <play>Click on <b>Play</b> to hear your response.</play>
+    <save>Click on <b>Save Recording</b> to save your response.</save>
+    <copy>Click on <b>Copy</b> (after you highlight a block of text) to copy the text from the essay.</copy>
+    <cut>Click on <b>Cut</b> (after you highlight a block of text) to cut the text from the essay.</cut>
+    <paste>Click on <b>Paste</b> (after you cut a block of text and click on the spot where you want it to appear) to paste the text.</paste>
+    <print.1>Click on <b>Print</b> to print a copy of your essay.</print.1>
+
+    <drill>
+
+        <listen>
+            <multichoice>
+                <question>answer.1|next.1|listen|script|volume|exit|replay</question>
+                <answer>change.1|next.1|ok.1|check|listen|script|volume|exit|replay</answer>
+                <check>change.1|next.1|ok.1|explain|listen|script|volume|exit|replay</check>
+                <explain>ok.2|listen|script|exit|replay</explain>
+            </multichoice>
+            <check.1>
+                <question>answer.2|next.1|listen|script|volume|exit|replay</question>
+                <answer>change.2|change.3|next.1|ok.1|check|listen|script|volume|exit|replay</answer>
+                <check>change.2|change.3|next.1|ok.1|explain|listen|script|volume|exit|replay</check>
+                <explain>ok.2|listen|script|exit|replay</explain>
+            </check.1>
+            <check.2>
+                <question>answer.3|next.1|listen|script|volume|exit|replay</question>
+                <answer>change.4|next.1|ok.1|check|listen|script|volume|exit|replay</answer>
+                <check>change.4|next.1|ok.1|explain|listen|script|volume|exit|replay</check>
+                <explain>ok.2|listen|script|exit|replay</explain>
+            </check.2>
+        </listen>
+
+        <read>
+            <multichoice>
+                <question>answer.1|next.2|back|review|exit</question>
+                <answer>change.1|next.2|back|check|review|exit</answer>
+                <check>change.1|next.2|back|explain|review|exit</check>
+                <explain>next.2|back|review|exit</explain>
+            </multichoice>
+            <insert>
+                <question>answer.4|next.2|back|review|exit</question>
+                <answer>change.5|change.6|next.2|back|check|review|exit</answer>
+                <check>change.5|change.6|next.2|back|explain|review|exit</check>
+                <explain>next.2|back|review|exit</explain>
+            </insert>
+            <select.1>
+                <question>answer.5|text|next.2|back|review|exit</question>
+                <answer>change.2|change.7|text|next.2|back|check|review|exit</answer>
+                <check>change.2|change.7|text|next.2|back|explain|review|exit</check>
+                <explain>next.2|back|text|review|exit</explain>
+            </select.1>
+            <select.2>
+                <question>answer.5|text|next.2|back|review|exit</question>
+                <answer>change.2|change.7|text|next.2|back|check|review|exit</answer>
+                <check>change.2|change.7|text|next.2|back|explain|review|exit</check>
+                <explain>next.2|back|text|review|exit</explain>
+            </select.2>
+        </read>
+
+        <speak>
+			<1>volume|next.3|exit</1>
+			<10>volume|next.3|exit</10>
+			<35>listen|script|volume|next.3|exit</35>
+			<40>listen|script|volume|next.3|exit</40>
+			<50>view.question.1|view.text|view.notes|listen|script|volume|next.3|exit</50>
+			<55>listen|script|volume|next.3|exit</55>
+			<56>listen|script|volume|next.3|exit</56>
+			<70>record.1|record.2|stop|play|volume|next.3|exit</70>
+            <speech>
+                <question>play|save|view.checklist.1|view.text|view.notes|view.sample.1|view.sample.2|view.sample.3|listen|script|volume|next.4|exit</question>
+            </speech>
+            <reend>play|save|view.checklist.1|view.text|view.notes|view.sample.1|view.sample.2|view.sample.3|listen.script|volume|next.4|back|exit</reend>
+        </speak>
+
+        <write>
+			<0a>next.3|exit</0a>
+			<1a>next.3|exit</1a>
+			<4a>listen|script|next.3|exit</4a>
+			<5a>listen|script|next.3|exit</5a>
+			<6a>view.text|view.notes|listen|script|next.3|exit</6a>
+			<0b>next.3|exit</0b>
+			<1b>view.question.2|view.notes|next.3|exit</1b>
+			<2b>view.question.2|view.notes|next.3|exit</2b>
+            <multichoice>
+                <question>answer.1|next.2|back|exit</question>
+                <answer>change.1|next.2|back|check|exit</answer>
+                <check>change.1|next.2|back|explain|exit</check>
+                <explain>next.2|back|exit</explain>
+            </multichoice>
+            <select.word.1>
+                <question>answer.6|next.2|back|exit</question>
+                <answer>change.8|next.2|back|check|exit</answer>
+                <check>change.8|next.2|back|explain|exit</check>
+                <explain>next.2|back|exit</explain>
+            </select.word.1>
+            <select.word.2>
+                <question>answer.7|next.2|back|exit</question>
+                <answer>change.9|next.2|back|check|exit</answer>
+                <check>change.9|next.2|back|explain|exit</check>
+                <explain>next.2|back|exit</explain>
+            </select.word.2>
+            <select.sentence>
+                <question>answer.7|next.2|back|exit</question>
+                <answer>change.9|next.2|back|check|exit</answer>
+                <check>change.9|next.2|back|explain|exit</check>
+                <explain>next.2|back|exit</explain>
+            </select.sentence>
+            <select.paragraph>
+                <question>answer.7|next.2|back|exit</question>
+                <answer>change.9|next.2|back|check|exit</answer>
+                <check>change.9|next.2|back|explain|exit</check>
+                <explain>next.2|back|exit</explain>
+            </select.paragraph>
+            <select.errors>
+                <question>answer.8|next.2|back|exit</question>
+                <answer>change.10|change.11|next.2|back|check|exit</answer>
+                <check>change.10|change.11|next.2|back|explain|exit</check>
+                <explain>next.2|back|exit</explain>
+            </select.errors>
+        </write>
+
+    </drill>
+
+    <test>
+
+        <listen>
+            <multichoice>
+                <question>answer.1|next.1|time|volume|exit</question>
+                <answer>change.1|next.1|ok.1|time|volume|exit</answer>
+            </multichoice>
+            <check.1>
+                <question>answer.2|next.1|time|volume|exit</question>
+                <answer>change.2|change.3|next.1|ok.1|time|volume|exit</answer>
+            </check.1>
+            <check.2>
+                <question>answer.3|next.1|time|volume|exit</question>
+                <answer>change.4|next.1|ok.1|time|volume|exit</answer>
+            </check.2>
+        </listen>
+
+        <read>
+            <multichoice>
+                <question>answer.1|next.2|back|time|review|exit</question>
+                <answer>change.1|next.2|back|time|review|exit</answer>
+            </multichoice>
+            <insert>
+                <question>answer.4|next.2|back|time|review|exit</question>
+                <answer>change.5|change.6|next.2|back|time|review|exit</answer>
+            </insert>
+            <select.1>
+                <question>answer.5|text|next.2|back|time|review|exit</question>
+                <answer>change.2|change.7|text|next.2|back|time|review|exit</answer>
+            </select.1>
+            <select.2>
+                <question>answer.5|text|next.2|back|time|review|exit</question>
+                <answer>change.2|change.7|text|next.2|back|time|review|exit</answer>
+            </select.2>
+        </read>
+
+        <speak>
+            <reend>play|save|view.checklist.1|view.text|view.notes|view.sample.1|view.sample.2|view.sample.3|listen.script|volume|next.4|back|exit</reend>
+        </speak>
+
+        <write>
+            <essay>
+                <question>answer.9|copy|cut|paste|print.1|time|next.5|exit</question>
+            </essay>
+            <reend>view.checklist.2|view.text|view.question.2|view.notes|view.sample.4|listen|script|print.1|next.2|exit</reend>
+        </write>
+
+    </test>
+
+</help>

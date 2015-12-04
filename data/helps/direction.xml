@@ -1,0 +1,10 @@
+<help>
+    <volume>Click on the <b>Volume</b> icon to change the volume. When volume control appears, move the volume indicator to the left or to the right.<br/>
+        To close the volume control, click on another part of the screen.</volume>
+    <microphone>Check that your microphone is connected correctly.<br/>
+        Click on <b>Section Exit</b> and go to the Overview to read tips on checking your microphone connections.</microphone>
+    <dismiss>Click on <b>Continue</b> to begin.</dismiss>
+    <exit>Click on <b>Section Exit</b> to return to the menu.</exit>
+    <speak>volume|microphone|dismiss|exit</speak>
+    <write>volume|dismiss|exit</write>
+</help>
