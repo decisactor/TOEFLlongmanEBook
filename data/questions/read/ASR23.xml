@@ -1,0 +1,59 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR23P00.xml'>
+
+    <question type="multichoice" passage-file="ASR23P01.xml" skills="6">
+        <question-text>It is NOT indicated in paragraph 1 that young William was working</question-text>
+        <answer-list>
+            <answer-text>in Chicago</answer-text>
+            <answer-text>for his father</answer-text>
+            <answer-text>as a soap salesman</answer-text>
+            <answer-text>in his father's factory</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>  
+    
+    <question type="multichoice" passage-file="ASR23P02.xml" skills="6">
+        <question-text>According to paragraph 1, it is NOT true that the soap that young Wrigley was selling</question-text>
+        <answer-list>
+            <answer-text>was originally well-liked</answer-text>
+            <answer-text>was originally priced at five cents</answer-text>
+            <answer-text>originally provided little profit for merchants</answer-text>
+            <answer-text>eventually became more popular with merchants</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+               
+    <question type="multichoice" passage-file="ASR23P03.xml" skills="6">
+        <question-text>According to paragraph 2, it is NOT true that, when Wrigley first founded his own company, he was</question-text>
+        <answer-list>
+            <answer-text>selling soap</answer-text>
+            <answer-text>selling chewing gum</answer-text>
+            <answer-text>giving away cookbooks</answer-text>
+            <answer-text>using baking soda as a premium</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>
+    
+    <question type="multichoice" passage-file="ASR23P04.xml" skills="6">
+        <question-text>It is NOT mentioned in paragraph 2 that Wrigley later</question-text>
+        <answer-list>
+            <answer-text>sold baking soda</answer-text>
+            <answer-text>used chewing gum as a premium to sell baking soda</answer-text>
+            <answer-text>sold chewing gum</answer-text>
+            <answer-text>used baking soda as a premium to sell chewing gum</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>   
+    
+    <question type="multichoice" passage-file="ASR23P05.xml" skills="6">
+        <question-text>According to paragraph 3, the Wm. Wrigley Jr. Company did all of the following EXCEPT</question-text>
+        <answer-list>
+            <answer-text>begin with two brands of gum</answer-text>
+            <answer-text>add new brands to the original two</answer-text>
+            <answer-text>phase out the last two brands</answer-text>
+            <answer-text>phase out the first two brands</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>      
+                             
+</question-list>   

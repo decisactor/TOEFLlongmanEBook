@@ -1,0 +1,59 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR21P00.xml'>
+
+    <question type="multichoice" passage-file="ASR21P01.xml" skills="6">
+        <question-text>It is NOT stated in the passage that sand dabs</question-text>
+        <answer-list>
+            <answer-text>are a type of flatfish</answer-text>
+            <answer-text>are in the same family as flounders</answer-text>
+            <answer-text>have evolved</answer-text>
+            <answer-text>are colorfully decorated</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>  
+    
+    <question type="multichoice" passage-file="ASR21P02.xml" skills="6">
+        <question-text>According to the passages, it is NOT true that sand dabs and flounders</question-text>
+        <answer-list>
+            <answer-text>have flattened bodies</answer-text>
+            <answer-text>live along the ocean floor</answer-text>
+            <answer-text>live in the deepest part of the ocean</answer-text>
+            <answer-text>live along the continental shelf</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+               
+    <question type="multichoice" passage-file="ASR21P03.xml" skills="6">
+        <question-text>All of the following are stated about the vision of sand dabs and flounders EXCEPT that they are</question-text>
+        <answer-list>
+            <answer-text>overly sensitive to light</answer-text>
+            <answer-text>able to see colors</answer-text>
+            <answer-text>able to see the sea bottom</answer-text>
+            <answer-text>aware of their surroundings</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>
+    
+    <question type="multichoice" passage-file="ASR21P04.xml" skills="6">
+        <question-text>It is NOT true that chromatophores</question-text>
+        <answer-list>
+            <answer-text>are skin cells</answer-text>
+            <answer-text>carry pigment</answer-text>
+            <answer-text>adapt to surrounding colors</answer-text>
+            <answer-text>change the ocean floor</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>   
+    
+    <question type="multichoice" passage-file="ASR21P05.xml" skills="6">
+        <question-text>It is NOT mentioned in the passage that sand dabs and flounders</question-text>
+        <answer-list>
+            <answer-text>move to new environments</answer-text>
+            <answer-text>adapt their behavior</answer-text>
+            <answer-text>can change color</answer-text>
+            <answer-text>adapt to textures around them</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>      
+                             
+</question-list>   

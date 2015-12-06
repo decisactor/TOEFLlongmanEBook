@@ -1,0 +1,81 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR24P00.xml'>
+
+    <question type="multichoice" passage-file="ASR24P01.xml" skills="6">
+        <question-text>It is NOT stated in paragraph 1 that someone suffering from dissociative identity disorder has</question-text>
+        <answer-list>
+            <answer-text>a psychological condition</answer-text>
+            <answer-text>a fragmented identity</answer-text>
+            <answer-text>a number of independent identities</answer-text>
+            <answer-text>some violent and some nonviolent identities</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>  
+   
+    <question type="multichoice" passage-file="ASR24P02.xml" skills="6">
+        <question-text>It is indicated in paragraph 1 that distinct personalities can differ in all of the following ways EXCEPT</question-text>
+        <answer-list>
+            <answer-text>manner of dressing</answer-text>
+            <answer-text>manner of moving</answer-text>
+            <answer-text>manner of speaking</answer-text>
+            <answer-text>manner of gesturing</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+               
+    <question type="multichoice" passage-file="ASR24P03.xml" skills="6">
+        <question-text>It is indicated in paragraph 2 that it is NOT true that Eve</question-text>
+        <answer-list>
+            <answer-text>suffered from dissociative identity disorder</answer-text>
+            <answer-text>starred in the movie about her life</answer-text>
+            <answer-text>had 22 distinct personalities</answer-text>
+            <answer-text>had only 3 distinct personalities at any one time</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>
+   
+    <question type="multichoice" passage-file="ASR24P04.xml" skills="6">
+        <question-text>It is NOT stated in paragraph 2 that The <i>Three Faces of Eve</i></question-text>
+        <answer-list>
+            <answer-text>was based on the life of a real woman</answer-text>
+            <answer-text>was the title of a book</answer-text>
+            <answer-text>was the title of a movie</answer-text>
+            <answer-text>was made into a movie in 1950</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>   
+   
+    <question type="multichoice" passage-file="ASR24P05.xml" skills="6">
+        <question-text>All of the following are mentioned in paragraph 2 about Carolyn Sizemore EXCEPT that she</question-text>
+        <answer-list>
+            <answer-text>wrote <i>I'm Eve</i></answer-text>
+            <answer-text>was one of Eve's personalities</answer-text>
+            <answer-text>wrote a book in the 1970s</answer-text>
+            <answer-text>was familiar with all 22 personalities</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>     
+   
+    <question type="multichoice" passage-file="ASR24P06.xml" skills="6">
+        <question-text>According to paragraph 2, it is NOT true that Sybil</question-text>
+        <answer-list>
+            <answer-text>was a real person</answer-text>
+            <answer-text>suffered from dissociative identity disorder</answer-text>
+            <answer-text>developed all her personalities over 16 years</answer-text>
+            <answer-text>developed 16 distinctive personalities over a long period of time</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question> 
+   
+    <question type="multichoice" passage-file="ASR24P07.xml" skills="6">
+        <question-text>It is NOT indicated in paragraph 2 that the book describing Sybil's experiences</question-text>
+        <answer-list>
+            <answer-text>took 40 years to write</answer-text>
+            <answer-text>was written by Flora Rheta Schreiber</answer-text>
+            <answer-text>appeared in the 1970s</answer-text>
+            <answer-text>was made into a movie</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>        
+                             
+</question-list>   

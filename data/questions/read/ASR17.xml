@@ -1,0 +1,59 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR17P00.xml'>
+
+    <question type="multichoice" passage-file="ASR17P01.xml" skills="5">
+        <question-text>What is stated in paragraph 1 about the shape of Lake Baikal?</question-text>
+        <answer-list>
+            <answer-text>It is wider than it is long.</answer-text>
+            <answer-text>It is circular in shape.</answer-text>
+            <answer-text>Its width is one-half of its length.</answer-text>
+            <answer-text>It is shaped like a new moon.</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>
+   
+    <question type="multichoice" passage-file="ASR17P02.xml" skills="5">
+        <question-text>It is indicated in paragraph 1 that the area of Lake Baikal</question-text>
+        <answer-list>
+            <answer-text>is less than the area of eight other lakes</answer-text>
+            <answer-text>is one-ninth the area of Siberia</answer-text>
+            <answer-text>is greater than the area of any other freshwater lake</answer-text>
+            <answer-text>is equal to the area of the five Great Lakes</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>   
+   
+    <question type="multichoice" passage-file="ASR17P03.xml" skills="5">
+        <question-text>According to paragraph 1 , Lake Baikal</question-text>
+        <answer-list>
+            <answer-text>holds one-fifth of the world's water</answer-text>
+            <answer-text>holds five times the water of the Great Lakes</answer-text>
+            <answer-text>holds one-ninth of the world's water</answer-text>
+            <answer-text>holds 20 percent of the world's fresh water</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>   
+   
+    <question type="multichoice" passage-file="ASR17P04.xml" skills="5">
+        <question-text>According to paragraph 1, the Olkhon Crevice is</question-text>
+        <answer-list>
+            <answer-text>outside of Lake Baikal</answer-text>
+            <answer-text>400 meters below sea level</answer-text>
+            <answer-text>the deepest part of Lake Baikal</answer-text>
+            <answer-text>5,000 meters deep</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>   
+      
+    <question type="multichoice" passage-file="ASR17P05.xml" skills="5">
+        <question-text>It is mentioned in paragraph 2 that Lake Baikal</question-text>
+        <answer-list>
+            <answer-text>is not as old as some other lakes</answer-text>
+            <answer-text>formed when sections of the Earth were moving away from each other</answer-text>
+            <answer-text>was fully formed 25 million years ago</answer-text>
+            <answer-text>is today located on the edge of the Asian peninsula</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>      
+                      
+</question-list>

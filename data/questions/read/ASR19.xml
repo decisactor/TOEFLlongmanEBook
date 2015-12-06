@@ -1,0 +1,59 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR19P00.xml'>
+
+    <question type="multichoice" passage-file="ASR19P01.xml" skills="5">
+        <question-text>According to paragraph 1, postage stamps were first suggested</question-text>
+        <answer-list>
+            <answer-text>They date from around 10,000 B.C.</answer-text>
+            <answer-text>They have been in use for 12,000 years.</answer-text>
+            <answer-text>They have been found at only one location.</answer-text>
+            <answer-text>They were discovered by archeologists hundreds of years ago.</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+   
+    <question type="multichoice" passage-file="ASR19P02.xml" skills="5">
+        <question-text>According to paragraph 1, the town of Clovis</question-text>
+        <answer-list>
+            <answer-text>is in Mexico</answer-text>
+            <answer-text>was founded in 1932</answer-text>
+            <answer-text>is where all members of the Clovis culture lived</answer-text>
+            <answer-text>is where the first remnants of an ancient culture were found</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>   
+   
+    <question type="multichoice" passage-file="ASR19P03.xml" skills="5">
+        <question-text>It is indicated in paragraph 1 that the tools found near Clovis, New Mexico, were</question-text>
+        <answer-list>
+            <answer-text>very rudimentary</answer-text>
+            <answer-text>similar to others found prior to 1932</answer-text>
+            <answer-text>rather advanced</answer-text>
+            <answer-text>similar to some found in Africa and Europe</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>   
+   
+    <question type="multichoice" passage-file="ASR19P04.xml" skills="5">
+        <question-text>According to paragraph 2, what conclusion have archeologists drawn from the Clovis finds?</question-text>
+        <answer-list>
+            <answer-text>That the Clovis tended to remain in one place</answer-text>
+            <answer-text>That the Clovis expanded relatively quickly</answer-text>
+            <answer-text>That the Clovis lived throughout the world</answer-text>
+            <answer-text>That the Clovis were a seafaring culture</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>   
+      
+    <question type="multichoice" passage-file="ASR19P05.xml" skills="5">
+        <question-text>It is mentioned in paragraph 3 that it is believed that the Clovis</question-text>
+        <answer-list>
+            <answer-text>lived in familial groups of four or five people</answer-text>
+            <answer-text>had a relatively stable population</answer-text>
+            <answer-text>lived only in New Mexico</answer-text>
+            <answer-text>spent summers and winters in different places</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>   
+                         
+</question-list>

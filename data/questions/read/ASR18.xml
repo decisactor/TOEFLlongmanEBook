@@ -1,0 +1,59 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR18P00.xml'>
+
+    <question type="multichoice" passage-file="ASR18P01.xml" skills="5">
+        <question-text>According to paragraph 1, postage stamps were first suggested</question-text>
+        <answer-list>
+            <answer-text>in the first half of the eighteenth century</answer-text>
+            <answer-text>in the second half of the eighteenth century</answer-text>
+            <answer-text>in the first half of the nineteenth century</answer-text>
+            <answer-text>in the second half of the nineteenth century</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>
+   
+    <question type="multichoice" passage-file="ASR18P02.xml" skills="5">
+        <question-text>It is indicated in paragraph 1 that Sir Rowland Hill believed that postage fees</question-text>
+        <answer-list>
+            <answer-text>should be paid by the sender</answer-text>
+            <answer-text>should be related to distance</answer-text>
+            <answer-text>should have nothing to do with how heavy a package is</answer-text>
+            <answer-text>should be collected after the package is delivered</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>   
+   
+    <question type="multichoice" passage-file="ASR18P03.xml" skills="5">
+        <question-text>What is stated in paragraph 2 about the first English postage stamp?</question-text>
+        <answer-list>
+            <answer-text>It was designed by Queen Victoria.</answer-text>
+            <answer-text>It contained a drawing of a black penny.</answer-text>
+            <answer-text>It was produced in sheets of 14 stamps.</answer-text>
+            <answer-text>It could be used to send a lightweight letter.</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>   
+   
+    <question type="multichoice" passage-file="ASR18P04.xml" skills="5">
+        <question-text>According to paragraph 2, Brazil introduced postage stamps</question-text>
+        <answer-list>
+            <answer-text>before England</answer-text>
+            <answer-text>before Switzerland</answer-text>
+            <answer-text>after the United States</answer-text>
+            <answer-text>after Switzerland</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>   
+      
+    <question type="multichoice" passage-file="ASR18P05.xml" skills="5">
+        <question-text>It is mentioned in paragraph 2 that in 1847</question-text>
+        <answer-list>
+            <answer-text>postage stamps were in use in 90 different countries</answer-text>
+            <answer-text>it cost fifteen cents to mail a letter in the United States</answer-text>
+            <answer-text>two different denominations of postage stamps were introduced in the United States</answer-text>
+            <answer-text>the U.S. Congress introduced the "penny black" stamp</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>   
+                         
+</question-list>

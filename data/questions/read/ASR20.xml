@@ -1,0 +1,81 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR20P00.xml'>
+
+    <question type="multichoice" passage-file="ASR20P01.xml" skills="5">
+        <question-text>It is stated in the passage that the mass of an average brown dwarf</question-text>
+        <answer-list>
+            <answer-text>is smaller than the mass of the Sun</answer-text>
+            <answer-text>generates an extremely high internal temperature</answer-text>
+            <answer-text>is capable of igniting nuclear burning</answer-text>
+            <answer-text>causes the release of considerable energy and light</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+    
+    <question type="multichoice" passage-file="ASR20P02.xml" skills="5">
+        <question-text>According to paragraph 2, a brown dwarf cools off</question-text>
+        <answer-list>
+            <answer-text>within the first million years of its existence</answer-text>
+            <answer-text>after its contraction is complete</answer-text>
+            <answer-text>at the same time that it contracts</answer-text>
+            <answer-text>in order to begin contracting</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>   
+    
+    <question type="multichoice" passage-file="ASR20P03.xml" skills="5">
+        <question-text>What is stated in paragraph 2 about a brown dwarf that has cooled off for several million years?</question-text>
+        <answer-list>
+            <answer-text>Its weak light makes it difficult to see from Earth.</answer-text>
+            <answer-text>It no longer emits light.</answer-text>
+            <answer-text>Its weak light has begun the process of restrengthening.</answer-text>
+            <answer-text>Scientists are unable to study it.</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>   
+    
+    <question type="multichoice" passage-file="ASR20P04.xml" skills="5">
+        <question-text>It is indicated in paragraph 3 that</question-text>
+        <answer-list>
+            <answer-text>the amount of hydrogen in a brown dwarf has increased dramatically</answer-text>
+            <answer-text>a brown dwarf had far more hydrogen when it first formed</answer-text>
+            <answer-text>three-quarters of the core of a brown dwarf is hydrogen</answer-text>
+            <answer-text>the internal composition of a brown dwarf is always changing</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>    
+      
+    <question type="multichoice" passage-file="ASR20P05.xml" skills="5">
+        <question-text>According to paragraph 3, a white dwarf</question-text>
+        <answer-list>
+            <answer-text>It was easier to blend cocoa powder with sugar than it was to blend cocoa butter with sugar.</answer-text>
+            <answer-text>still burns a considerable amount of hydrogen</answer-text>
+            <answer-text>creates hydrogen from helium</answer-text>
+            <answer-text>no longer has a predominantly hydrogen core</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question> 
+     
+    <question type="multichoice" passage-file="ASR20P06.xml" skills="5">
+        <question-text>What is mentioned in paragraph 4 about brown dwarfs?</question-text>
+        <answer-list>
+            <answer-text>They are quite different from large planets.</answer-text>
+            <answer-text>They are formed in the same way as large planets.</answer-text>
+            <answer-text>They can share some similarities with large planets.</answer-text>
+            <answer-text>They have nothing in common with large planets.</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>    
+   
+    <question type="multichoice" passage-file="ASR20P07.xml" skills="5">
+        <question-text>It is indicated in paragraph 4 that Jupiter</question-text>
+        <answer-list>
+            <answer-text>radiates far less energy than a brown dwarf</answer-text>
+            <answer-text>is a brown dwarf</answer-text>
+            <answer-text>formed in the same way as a brown dwarf</answer-text>
+            <answer-text>is in at least one respect similar to a brown dwarf</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>   
+                 
+</question-list>

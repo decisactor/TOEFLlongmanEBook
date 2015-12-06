@@ -1,0 +1,59 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR22P00.xml'>
+
+    <question type="multichoice" passage-file="ASR22P01.xml" skills="6">
+        <question-text>It is indicated in paragraph 1 that all of the following are part of the process of forming limestone caves EXCEPT that</question-text>
+        <answer-list>
+            <answer-text>rainwater dissolves lime from limestone</answer-text>
+            <answer-text>the lime-filled water seeps into breaks in the ground</answer-text>
+            <answer-text>the lime in the water evaporates</answer-text>
+            <answer-text>the cracks in the ground develop into caves</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>  
+    
+    <question type="multichoice" passage-file="ASR22P02.xml" skills="6">
+        <question-text>According to paragraph 2, it is NOT true that stalactites</question-text>
+        <answer-list>
+            <answer-text>enlarge cave ceilings</answer-text>
+            <answer-text>are found in limestone caves</answer-text>
+            <answer-text>grow in a downward direction</answer-text>
+            <answer-text>grow quite slowly</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+               
+    <question type="multichoice" passage-file="ASR22P03.xml" skills="6">
+        <question-text>It is NOT mentioned in paragraph 2</question-text>
+        <answer-list>
+            <answer-text>how long stalactites may grow</answer-text>
+            <answer-text>how the age of a stalactite is determined</answer-text>
+            <answer-text>what one of the effects of a limited water supply is</answer-text>
+            <answer-text>what causes stalactites to disappear</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>
+    
+    <question type="multichoice" passage-file="ASR22P04.xml" skills="6">
+        <question-text>According to paragraph 3, stalagmites are NOT formed</question-text>
+        <answer-list>
+            <answer-text>on cave floors</answer-text>
+            <answer-text>from lime dissolved in water</answer-text>
+            <answer-text>above stalactites</answer-text>
+            <answer-text>as water containing lime evaporates</answer-text>  
+        </answer-list>
+        <key>4</key>
+    </question>
+    
+    <question type="multichoice" passage-file="ASR22P05.xml" skills="6">
+        <question-text>It is NOT indicated in paragraph 3 that limestone pillars</question-text>
+        <answer-list>
+            <answer-text>result when a stalactite and a stalagmite grow together</answer-text>
+            <answer-text>are attached to both the floor and the ceiling of a cave</answer-text>
+            <answer-text>are attached to both the floor and the ceiling of a cave</answer-text>
+            <answer-text>are more durable than stalactites and stalagmites</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>   
+                             
+</question-list>   
