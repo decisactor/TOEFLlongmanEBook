@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<question-list type="read" passage-file="ASR26P00.xml">
+
+    <question type="multichoice" passage-file="ASR26P01.xml" skills="7">
+        <question-text>It can be inferred from paragraph 1 that</question-text>
+        <answer-list>
+            <answer-text>some major phyla developed during periods other than the Cambrian period</answer-text>
+            <answer-text>many other phyla of animals became extinct during the Cambrian Explosion</answer-text>
+            <answer-text>descriptions of various animal phyla were created during the Cambrian period</answer-text>
+            <answer-text>the major phyla of animals that came about during the Cambrian period died out in the Cambrian Explosion</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+   
+    <question type="multichoice" passage-file="ASR26P02.xml" skills="7">
+        <question-text>It can be determined from paragraph 1 that the Cambrian Explosion most likely lasted</question-text>
+        <answer-list>
+            <answer-text>40 million years</answer-text>
+            <answer-text>450 million years</answer-text>
+            <answer-text>500 million years</answer-text>
+            <answer-text>540 million years</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+   
+    <question type="multichoice" passage-file="ASR26P03.xml" skills="7">
+        <question-text>It is implied in paragraph 2 that</question-text>
+        <answer-list>
+            <answer-text>only one theory to explain the rapid diversification has been proposed</answer-text>
+            <answer-text>the polar wander explanation is accepted by all scientists</answer-text>
+            <answer-text>the theory of polar wander fails to adequately explain the rapid diversification</answer-text>
+            <answer-text>the theory of polar wander is not the only theory to explain the rapid diversification</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>
+
+    <question type="multichoice" passage-file="ASR26P04.xml" skills="7">
+        <question-text>It can be inferred from paragraph 2 that one basis of the theory of polar wander is that</question-text>
+        <answer-list>
+            <answer-text>relatively little change in the Eartfi's crust took place during the Cambrian period</answer-text>
+            <answer-text>rapid diversification was unable to take place because of the changes in the Earth's crust</answer-text>
+            <answer-text>the Earth's crust changed more slowly in other periods</answer-text>
+            <answer-text>evolutionary change is unrelated to changes in the environment</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>
+   
+</question-list>

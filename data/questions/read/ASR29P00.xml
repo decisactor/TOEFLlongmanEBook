@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<passage scroll0='20' scroll='10'>
+    <passage-text>
+        <div align="center">
+            <b>Xerography</b>
+        </div>
+        <br/>
+            One more familiar use of electrochemistry that has made its way into the mainstream
+        is xerography, a process for replicating documents that is dependent on photoconductive
+        materials. A photoconductive material is an insulator in the dark but becomes a conductor
+        when exposed to bright light. When a photocopy is being made, an image of a document is
+        projected onto the surface of a rotating drum, and bright light causes the photoconductive
+        material on the surface of the drum to become conductive.
+        <br/>
+            As a result of the conductivity, the drum loses its charge in the lighted areas, and toner
+        (small grains to which dry ink adheres) attaches itself only to the darker parts of the image.
+        The grains are then carried to a sheet of paper and fused with heat. When a laser printer is
+        used, the image is projected by means of a laser beam, which creates a brighter light and
+        a greater contrast between lighter and darker areas and therefore results in sharper printed
+        images.
+    </passage-text>
+</passage>

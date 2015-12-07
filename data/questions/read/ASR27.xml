@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<question-list type="read" passage-file="ASR27P00.xml">
+
+    <question type="multichoice" passage-file="ASR27P01.xml" skills="7">
+        <question-text>It can be inferred from paragraph 1 that, at the beginning of the 1930s, comic books most likely cost</question-text>
+        <answer-list>
+            <answer-text>nothing</answer-text>
+            <answer-text>5 cents</answer-text>
+            <answer-text>10 cents</answer-text>
+            <answer-text>25 cents</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+   
+    <question type="multichoice" passage-file="ASR27P02.xml" skills="7">
+        <question-text>Comic books would least likely have been used to promote</question-text>
+        <answer-list>
+            <answer-text>soap</answer-text>
+            <answer-text>cookies</answer-text>
+            <answer-text>jewelry</answer-text>
+            <answer-text>bread</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>
+   
+    <question type="multichoice" passage-file="ASR27P03.xml" skills="7">
+        <question-text>It is implied in the passage that <i>Famous Funnies</i></question-text>
+        <answer-list>
+            <answer-text>was a promotional item</answer-text>
+            <answer-text>appeared in a magazine</answer-text>
+            <answer-text>had been produced prior to 1934</answer-text>
+            <answer-text>was published on a regular basis</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>
+
+    <question type="multichoice" passage-file="ASR27P04.xml" skills="7">
+        <question-text>From the information in paragraph 2, it appears that Superman most likely</question-text>
+        <answer-list>
+            <answer-text>was introduced sometime after Batman</answer-text>
+            <answer-text>was a character that first appeared in a comic book</answer-text>
+            <answer-text>first appeared in <i>Famous Funnies</i></answer-text>
+            <answer-text>first appeared in a promotional comic strip</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>
+   
+    <question type="multichoice" passage-file="ASR27P05.xml" skills="7">
+        <question-text>It is implied in paragraph 2 that it is surprising that</question-text>
+        <answer-list>
+            <answer-text>comic strips were more popular than comic books</answer-text>
+            <answer-text>superheroes were not too popular</answer-text>
+            <answer-text>90 percent of U.S. children did not read comics</answer-text>
+            <answer-text>comic books developed so quickly</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>
+   
+</question-list>
+        

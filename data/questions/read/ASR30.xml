@@ -1,0 +1,59 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR30P00.xml'>
+ 
+    <question type="multichoice" passage-file="ASR30P01.xml" skills="8">
+        <question-text>Why does the author include the phrase <bg>as high as 50 births annually per thousand people in the early nineteenth century</bg> in paragraph 1?</question-text>
+        <answer-list>
+            <answer-text>To show that metropolitan areas of the country had higher birthrates than rural areas</answer-text>
+            <answer-text>To provide statistical evidence of the elevated birthrate in the 1870s</answer-text>
+            <answer-text>To quantify what had happened with the American population in the previous century</answer-text>
+            <answer-text>To argue against the belief that the demographics of the country had changed</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>  
+   
+    <question type="multichoice" passage-file="ASR30P02.xml" skills="8">
+        <question-text>The author uses the word <bg>however</bg> in paragraph 1 in order</question-text>
+        <answer-list>
+            <answer-text>to make it clear that an extreme change had taken place</answer-text>
+            <answer-text>to emphasize how tremendously the population was increasing</answer-text>
+            <answer-text>to point out an alternate explanation for the change</answer-text>
+            <answer-text>to indicate a difference of opinion with other demographers</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>   
+   
+    <question type="multichoice" passage-file="ASR30P03.xml" skills="8">
+        <question-text>The author includes the word <bg>too</bg> in paragraph 3</question-text>
+        <answer-list>
+            <answer-text>to indicate that both the birthrate and the deathrate were holding steady</answer-text>
+            <answer-text>to indicate that both the birthrate and the deathrate were holding steady</answer-text>
+            <answer-text>to clarify the explanation that population trends before and after 1870 were. similar</answer-text>
+            <answer-text>to emphasize that paragraph 3 discusses a second factor in the demographic change</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question> 
+   
+    <question type="multichoice" passage-file="ASR30P04.xml" skills="8">
+        <question-text>Why does the author mention <bg>better medical care</bg> in paragraph 3?</question-text>
+        <answer-list>
+            <answer-text>It helps to explain why the birthrate is increasing.</answer-text>
+            <answer-text>It is an example of a factor that contributed to the improved birthrate.</answer-text>
+            <answer-text>It helps to explain why the deathrate is increasing.</answer-text>
+            <answer-text>It is an example of a factor that contributed to the improved deathrate.</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>      
+
+    <question type="multichoice" passage-file="ASR30P05.xml" skills="8">
+        <question-text>The author includes the expression <bg>Most likely</bg> in paragraph 3 to show</question-text>
+        <answer-list>
+            <answer-text>that the data about the average number of deaths was not verified</answer-text>
+            <answer-text>that doctors and hospitals may not have actually been more available</answer-text>
+            <answer-text>that other factors may have contributed to the decreasing deathrate</answer-text>
+           <answer-text>that the deathrate may not have decreased as much as stated</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>    
+                                               
+</question-list>   

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<passage>
+    <passage-text>
+        <div align="center">
+            <b>The Hubble Telescope</b>
+        </div>
+        <br/>
+            The Hubble telescope was launched into space with great fanfare on April 25, 1990.
+        Although there are many powerful telescopes at various Locations on Earth, the Hubble
+        telescope was expected to be able to provide considerably better information because it
+        would be able to operate from the vacuum of space, without interference from the Earth's
+        atmosphere. By launching the Hubble telescope into space, NASA was, <bg>in essence</bg>, placing
+        an observatory above the Earth's atmosphere.
+        <br/>
+            <b>Unfortunately</b>, the Hubble telescope was initially delayed in relaying its first pictures
+        back from space due to a simple mathematical miscalculation. The Hubble telescope
+        relies upon certain stars to orient its observations, and astronomers working on the
+        pointing instructions for the telescope used charts created in 1950, with adjustments for
+        the movements of the stars in the ensuing period. In making these adjustments, however,
+        astronomers added the amount of the adjustment rather than subtracting it&#8211;a simple
+        checkbook&#8211;balancing error. The adjustment was a change of only half a degree, but by
+        adding half a degree rather than subtracting it, the telescope's aim was misdirected by
+        millions of miles.
+    </passage-text>
+</passage>

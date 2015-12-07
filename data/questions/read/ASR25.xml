@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<question-list type="read" passage-file="ASR25P00.xml">
+
+    <question type="multichoice" passage-file="ASR25P01.xml" skills="7">
+        <question-text>It is implied in the passage about the order <i>Lepidoptera</i> that</question-text>
+        <answer-list>
+            <answer-text>all members of the order are moths</answer-text>
+            <answer-text>there may be more than 100,000 species in this order</answer-text>
+            <answer-text>all members of the order are brightly colored</answer-text>
+            <answer-text>there are most likely fewer than 100,000 species in this order</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>
+   
+    <question type="multichoice" passage-file="ASR25P02.xml" skills="7">
+        <question-text>It can be inferred from the passage that the tiger moth was so named because</question-text>
+        <answer-list>
+            <answer-text>its coloration resembles that of a tiger</answer-text>
+            <answer-text>it is a ferocious predator, like the tiger</answer-text>
+            <answer-text>its habitat is the same as the tiger's</answer-text>
+            <answer-text>it is a member of the same scientific classification as the tiger</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+   
+    <question type="multichoice" passage-file="ASR25P03.xml" skills="7">
+        <question-text>What would most likely happen to a predator that wanted to eat a tiger moth?</question-text>
+        <answer-list>
+            <answer-text>The predator would be unable to catch it.</answer-text>
+            <answer-text>The predator would capture it by poisoning it.</answer-text>
+            <answer-text>The predator would be unable to find it.</answer-text>
+            <answer-text>The predator would back away from it.</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>
+
+    <question type="multichoice" passage-file="ASR25P04.xml" skills="7">
+        <question-text>Which of the following would a predator be most likely to attack successfully?</question-text>
+        <answer-list>
+            <answer-text>A purple and orange moth</answer-text>
+            <answer-text>A green and blue moth</answer-text>
+            <answer-text>A brown and grey moth</answer-text>
+            <answer-text>A red and yellow moth</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>
+   
+</question-list>
+        

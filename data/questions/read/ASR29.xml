@@ -1,0 +1,59 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR29P00.xml'>
+ 
+    <question type="multichoice" passage-file="ASR29P01.xml" skills="8">
+        <question-text>The author begins the first paragraph with <bg>One more familiar use of electrochemistry</bg> in order to</question-text>
+        <answer-list>
+            <answer-text>explain that xerography is one of the less familiar uses of electrochemistry</answer-text>
+            <answer-text>make it clear that electrochemistry requires photoconductive materials</answer-text>
+            <answer-text>show that xerography is the only known use for electrochemistry</answer-text>
+            <answer-text>indicate that other less familiar uses have already been discussed</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>  
+   
+    <question type="multichoice" passage-file="ASR29P02.xml" skills="8">
+        <question-text>Why does the author explain that <bg>A photoconductive material is an insulator in the dark but becomes a conductor when exposed to bright light?</bg></question-text>
+        <answer-list>
+            <answer-text>It gives an explanation of a property that is necessary for xerography.</answer-text>
+            <answer-text>It indicates that bright light is required for insulation to take place.</answer-text>
+            <answer-text>It gives one example of a successful xerographic process.</answer-text>
+            <answer-text>It explains the role of insulation in xerography.</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>   
+   
+    <question type="multichoice" passage-file="ASR29P03.xml" skills="8">
+        <question-text>The author places the phrase <bg>small grains to which dry ink adheres</bg> in parentheses in order to</question-text>
+        <answer-list>
+            <answer-text>provide information that contradicts the previous statement</answer-text>
+            <answer-text>provide another example of conductivity</answer-text>
+            <answer-text>provide further detail information about toner</answer-text>
+            <answer-text>provide an alternate explanation for the effectiveness of toner</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question> 
+   
+    <question type="multichoice" passage-file="ASR29P04.xml" skills="8">
+        <question-text>Why is <bg>a laser printer</bg> mentioned?</question-text>
+        <answer-list>
+            <answer-text>It is an alternative to xerography.</answer-text>
+            <answer-text>It is a way of duplicating without using electrochemistry.</answer-text>
+            <answer-text>It is a second example of xerography.</answer-text>
+            <answer-text>It is a less effective type of xerography than is a photocopier.</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>      
+
+    <question type="multichoice" passage-file="ASR29P05.xml" skills="8">
+        <question-text>The author mentions <bg>a Pittsburgh department store</bg> in paragraph 5 in order to show that the development of commercial radio broadcasting was enabled because broadcasting</question-text>
+        <answer-list>
+            <answer-text>could take place in department stores</answer-text>
+            <answer-text>required receivers to be installed at stores</answer-text>
+            <answer-text>offered opportunities to other commercial ventures</answer-text>
+            <answer-text>could be promoted during sales at stores</answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>    
+                                               
+</question-list>   

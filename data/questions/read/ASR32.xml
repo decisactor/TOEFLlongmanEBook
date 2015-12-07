@@ -1,0 +1,59 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR32P00.xml'>
+ 
+    <question type="multichoice" passage-file="ASR32P01.xml" skills="8">
+        <question-text>Why does the author include <bg>the fight for exclusive control of a particular area</bg> in paragraph 1?</question-text>
+        <answer-list>
+            <answer-text>It presents an argument against a previously stated point.</answer-text>
+            <answer-text>It provides a definition of a previously stated term.</answer-text>
+            <answer-text>It presents a second area of focus of aggressive behavior.</answer-text>
+            <answer-text>It introduces a new idea to be further developed in the paragraph.</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>  
+   
+    <question type="multichoice" passage-file="ASR32P02.xml" skills="8">
+        <question-text>The author uses the word <bg>instead</bg> in paragraph 2 to show that the information that follows</question-text>
+        <answer-list>
+            <answer-text>To demonstrate that birds create beautiful sounds</answer-text>
+            <answer-text>To provide an example of unusual behavior by birds</answer-text>
+            <answer-text>To show how violently aggressive some bird behavior is</answer-text>
+            <answer-text>To demonstrate that some types of territorial behaviors are not very aggressive</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>   
+   
+    <question type="multichoice" passage-file="ASR32P03.xml" skills="8">
+        <question-text>Why does the author mention <bg>singing contests</bg> in paragraph 2?</question-text>
+        <answer-list>
+            <answer-text>To demonstrate that birds create beautiful sounds</answer-text>
+            <answer-text>To provide an example of unusual behavior by birds</answer-text>
+            <answer-text>To show how violently aggressive some bird behavior is</answer-text>
+            <answer-text>To demonstrate that some types of territorial behaviors are not very aggressive</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question> 
+   
+    <question type="multichoice" passage-file="ASR32P04.xml" skills="8">
+        <question-text>The author discusses <bg>the swan</bg> in paragraph 2 to provide an example of</question-text>
+        <answer-list>
+            <answer-text>a bird that makes threatening postures with its wings</answer-text>
+            <answer-text>a bird whose territorial behavior is extremely aggressive</answer-text> 
+            <answer-text>non-lethal contests for control of territory</answer-text>
+            <answer-text>the limited aggressive behavior generally exhibited by birds</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>      
+
+    <question type="multichoice" passage-file="ASR32P05.xml" skills="8">
+        <question-text>The author mentions <bg>their necks entwined</bg> in paragraph 2 in order</question-text>
+        <answer-list>
+            <answer-text>to indicate that swans are really rather affectionate</answer-text>
+            <answer-text>to emphasize how long swans' necks are</answer-text>
+            <answer-text>to make the point that the swans are only pretending to hurt one another</answer-text>
+            <answer-text>to create a mental image for the reader of fighting swans</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>    
+                                               
+</question-list>   

@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<question-list type="read" passage-file="ASR28P00.xml">
+
+    <question type="multichoice" passage-file="ASR28P01.xml" skills="7">
+        <question-text>It can be inferred from the information in paragraph 1 that around 1800</question-text>
+        <answer-list>
+            <answer-text>the first filibuster took place</answer-text>
+            <answer-text>legislative action was never delayed</answer-text>
+            <answer-text>the term <i>filibuster</i> was not in use in the U.S. Congress</answer-text>
+            <answer-text>the Dutch introduced the term <i>freebooter</i></answer-text>
+        </answer-list>
+        <key>3</key>
+    </question>
+   
+    <question type="multichoice" passage-file="ASR28P02.xml" skills="7">
+        <question-text>It can be determined from paragraph 1 that a <i>freebooter</i> was most likely someone who</question-text>
+        <answer-list>
+            <answer-text>served in the Senate</answer-text>
+            <answer-text>robbed passing ships</answer-text>
+            <answer-text>enacted legislation</answer-text>
+            <answer-text>served in the Dutch government</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>
+   
+    <question type="multichoice" passage-file="ASR28P03.xml" skills="7">
+        <question-text>It is implied in paragraph 2 that, in its early  years, the House</question-text>
+        <answer-list>
+            <answer-text>had no rules against filibusters</answer-text>
+            <answer-text>had few filibusters</answer-text>
+            <answer-text>had fewer filibusters than the Senate</answer-text>
+            <answer-text>had the longest filibuster on record</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>
+
+    <question type="multichoice" passage-file="ASR28P04.xml" skills="7">
+        <question-text>Based on the information in paragraph 3, a vote of cloture would most likely be used to</question-text>
+        <answer-list>
+            <answer-text>initiate filibusters</answer-text>
+            <answer-text>break filibusters</answer-text>
+            <answer-text>extend filibusters</answer-text>
+            <answer-text>encourage filibusters</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>
+     
+    <question type="multichoice" passage-file="ASR28P05.xml" skills="7">
+        <question-text>It can be inferred from the information in paragraph 3 that the 1975 rule change</question-text>
+        <answer-list>
+            <answer-text>increased the number of people needed to vote for cloture</answer-text>
+            <answer-text>made it easier to limit a filibuster</answer-text>
+            <answer-text>covered all types of Senate votes</answer-text>
+            <answer-text>decreased the number of people in the Senate</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>
+
+    <question type="multichoice" passage-file="ASR28P06.xml" skills="7">
+        <question-text>Which of the following would a predator be most likely to attack successfully?</question-text>
+        <answer-list>
+            <answer-text>filibusters</answer-text>
+            <answer-text>lecturing on the law</answer-text>
+            <answer-text>speaking in the Senate</answer-text>
+            <answer-text>the Civil Rights Act of 1957</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>
+ 
+</question-list>
+        

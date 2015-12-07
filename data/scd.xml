@@ -653,9 +653,14 @@
             </menu-item>
             <menu-item title='Inferences' action='menu'>
               <menu title='Skills - Inferences' color='read' width='450' height='33' gap='16' toolbar='read'>
-                <menu-item title='Passage 1 (Skills 7-8)' action='read.4.1'/>
-                <menu-item title='Passage 2 (Skills 7-8)' action='read.4.2'/>
-                <menu-item title='Passage 3 (Skills 1-8)' action='read.4.3'/>
+                <menu-item title='Passage 1 (Skills 7)' action='read.4.1'/>
+                <menu-item title='Passage 2 (Skills 7)' action='read.4.2'/>
+                <menu-item title='Passage 3 (Skills 7)' action='read.4.3'/>
+                <menu-item title='Passage 4 (Skills 7)' action='read.4.4'/>
+                <menu-item title='Passage 5 (Skills 8)' action='read.4.5'/>
+                <menu-item title='Passage 6 (Skills 8)' action='read.4.6'/>
+                <menu-item title='Passage 7 (Skills 8)' action='read.4.7'/>
+                <menu-item title='Passage 8 (Skills 8)' action='read.4.8'/>
               </menu>
             </menu-item>
             <menu-item title='Reading to Learn' action='menu'>
@@ -959,6 +964,7 @@
     <read.1.6 title='Skills - Vocabulary and Reference - Passage 6' alias='ASR06' count='5'/>
     <read.1.7 title='Skills - Vocabulary and Reference - Passage 7' alias='ASR07' count='4'/>
     <read.1.8 title='Skills - Vocabulary and Reference - Passage 8' alias='ASR08' count='5'/>
+    
     <read.2.1 title='Skills - Sentences - Passage 1' alias='ASR09' count='2'/>
     <read.2.2 title='Skills - Sentences - Passage 2' alias='ASR10' count='4'/>
     <read.2.3 title='Skills - Sentences - Passage 3' alias='ASR11' count='4'/>
@@ -967,6 +973,7 @@
     <read.2.6 title='Skills - Sentences - Passage 6' alias='ASR14' count='3'/>
     <read.2.7 title='Skills - Sentences - Passage 7' alias='ASR15' count='2'/>
     <read.2.8 title='Skills - Sentences - Passage 8' alias='ASR16' count='2'/>
+    
     <read.3.1 title='Skills - Details - Passage 1' alias='ASR17' count='5'/>
     <read.3.2 title='Skills - Details - Passage 2' alias='ASR18' count='5'/>
     <read.3.3 title='Skills - Details - Passage 3' alias='ASR19' count='5'/>
@@ -975,9 +982,16 @@
     <read.3.6 title='Skills - Details - Passage 6' alias='ASR22' count='5'/>
     <read.3.7 title='Skills - Details - Passage 7' alias='ASR23' count='5'/>
     <read.3.8 title='Skills - Details - Passage 8' alias='ASR24' count='7'/>
-    <read.4.1 title='Skills - Inferences - Passage 1' alias='ASR10' count='10'/>
-    <read.4.2 title='Skills - Inferences - Passage 2' alias='ASR11' count='10'/>
-    <read.4.3 title='Skills - Inferences - Passage 3' alias='ASR12' count='13'/>
+    
+    <read.4.1 title='Skills - Inferences - Passage 1' alias='ASR25' count='4'/>
+    <read.4.2 title='Skills - Inferences - Passage 2' alias='ASR26' count='4'/>
+    <read.4.3 title='Skills - Inferences - Passage 3' alias='ASR27' count='5'/>
+    <read.4.4 title='Skills - Inferences - Passage 4' alias='ASR28' count='6'/>
+    <read.4.5 title='Skills - Inferences - Passage 5' alias='ASR29' count='4'/>
+    <read.4.6 title='Skills - Inferences - Passage 6' alias='ASR30' count='5'/>
+    <read.4.7 title='Skills - Inferences - Passage 7' alias='ASR31' count='5'/>
+    <read.4.8 title='Skills - Inferences - Passage 8' alias='ASR32' count='5'/>
+    
     <read.5.1 title='Skills - Reading to Learn - Passage 1' alias='ASR13' count='1'/>
     <read.5.2 title='Skills - Reading to Learn - Passage 2' alias='ASR14' count='1'/>
     <read.5.3 title='Skills - Reading to Learn - Passage 3' alias='ASR15' count='13'/>

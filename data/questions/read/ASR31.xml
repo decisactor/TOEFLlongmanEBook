@@ -1,0 +1,59 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR31P00.xml'>
+ 
+    <question type="multichoice" passage-file="ASR31P01.xml" skills="8">
+        <question-text>Why does the author mention <bg>many powerful telescopes at various locations on Earth</bg> in paragraph 1?</question-text>
+        <answer-list>
+            <answer-text>To emphasize the need for telescopes at various locations on Earth</answer-text>
+            <answer-text>To show that the Hubble telescope was different from existing telescopes</answer-text>
+            <answer-text>To indicate how the atmosphere improves the quality of information from space</answer-text>
+            <answer-text>To emphasize the similarities between the Hubble telescope and other telescopes</answer-text>
+        </answer-list>
+        <key>2</key>
+    </question>  
+   
+    <question type="multichoice" passage-file="ASR31P02.xml" skills="8">
+        <question-text>The author uses the phrase <bg>in essence</bg> in paragraph 2 in order to indicate that the information that follows the phrase</question-text>
+        <answer-list>
+            <answer-text>provides a simplified description of a previously stated situation</answer-text>
+            <answer-text>indicates the cause of a previously stated effect</answer-text>
+            <answer-text>provides further details about a previously stated main idea</answer-text>
+            <answer-text>indicates the classification to which previously stated examples belong</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>   
+   
+    <question type="multichoice" passage-file="ASR31P03.xml" skills="8">
+        <question-text>Why does the author begin paragraph 2 with <bg>Unfortunately?</bg></question-text>
+        <answer-list>
+            <answer-text>It indicates that NASA has been unhappy with all of Hubble's photographs.</answer-text>
+            <answer-text>It shows that NASA's plan to use stars to orient the Hubble telescope was misguided.</answer-text>
+            <answer-text>It emphasizes the need to have telescopes on Earth.</answer-text>
+            <answer-text>It indicates that high expectations were not initially met.</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question> 
+   
+    <question type="multichoice" passage-file="ASR31P04.xml" skills="8">
+        <question-text>The author mentions <bg>a simple checkbook&#8211;balancing error</bg> in paragraph 2 in order to suggest that</question-text>
+        <answer-list>
+            <answer-text>the astronomers must have difficulties with their checkbooks</answer-text>
+            <answer-text>the adjustment made by the astronomers should have been more than half a degree</answer-text>
+            <answer-text>a more balanced approach was needed when making adjustments</answer-text>
+            <answer-text>the mistake made by the astronomers was a simple, everyday error</answer-text>
+        </answer-list>
+        <key>4</key>
+    </question>      
+
+    <question type="multichoice" passage-file="ASR31P05.xml" skills="8">
+        <question-text>Why does the author mention the detail <bg>millions of miles</bg> in paragraph 2?</question-text>
+        <answer-list>
+            <answer-text>It reinforces the idea that the mistake had a huge effect.</answer-text>
+            <answer-text>It emphasizes the wide range of the Hubble telescope.</answer-text>
+            <answer-text>It demonstrates that the Hubble telescope travels long distances.</answer-text>
+            <answer-text>It helps the reader to understand how powerful the Hubble telescope is.</answer-text>
+        </answer-list>
+        <key>1</key>
+    </question>    
+                                               
+</question-list>   
