@@ -9,7 +9,7 @@
             <answer-text>as a soap salesman</answer-text>
             <answer-text>in his father's factory</answer-text>
         </answer-list>
-        <key>1</key>
+        <key>4</key>
     </question>  
     
     <question type="multichoice" passage-file="ASR23P02.xml" skills="6">
@@ -31,7 +31,7 @@
             <answer-text>giving away cookbooks</answer-text>
             <answer-text>using baking soda as a premium</answer-text>
         </answer-list>
-        <key>4</key>
+        <key>2</key>
     </question>
     
     <question type="multichoice" passage-file="ASR23P04.xml" skills="6">
@@ -53,7 +53,7 @@
             <answer-text>phase out the last two brands</answer-text>
             <answer-text>phase out the first two brands</answer-text>
         </answer-list>
-        <key>2</key>
+        <key>3</key>
     </question>      
                              
 </question-list>   

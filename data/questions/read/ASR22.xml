@@ -9,7 +9,7 @@
             <answer-text>the lime in the water evaporates</answer-text>
             <answer-text>the cracks in the ground develop into caves</answer-text>
         </answer-list>
-        <key>1</key>
+        <key>3</key>
     </question>  
     
     <question type="multichoice" passage-file="ASR22P02.xml" skills="6">
@@ -42,7 +42,7 @@
             <answer-text>above stalactites</answer-text>
             <answer-text>as water containing lime evaporates</answer-text>  
         </answer-list>
-        <key>4</key>
+        <key>3</key>
     </question>
     
     <question type="multichoice" passage-file="ASR22P05.xml" skills="6">

@@ -9,7 +9,7 @@
             <answer-text>a number of independent identities</answer-text>
             <answer-text>some violent and some nonviolent identities</answer-text>
         </answer-list>
-        <key>1</key>
+        <key>4</key>
     </question>  
    
     <question type="multichoice" passage-file="ASR24P02.xml" skills="6">
@@ -31,7 +31,7 @@
             <answer-text>had 22 distinct personalities</answer-text>
             <answer-text>had only 3 distinct personalities at any one time</answer-text>
         </answer-list>
-        <key>4</key>
+        <key>2</key>
     </question>
    
     <question type="multichoice" passage-file="ASR24P04.xml" skills="6">
@@ -53,7 +53,7 @@
             <answer-text>wrote a book in the 1970s</answer-text>
             <answer-text>was familiar with all 22 personalities</answer-text>
         </answer-list>
-        <key>2</key>
+        <key>4</key>
     </question>     
    
     <question type="multichoice" passage-file="ASR24P06.xml" skills="6">
@@ -64,7 +64,7 @@
             <answer-text>developed all her personalities over 16 years</answer-text>
             <answer-text>developed 16 distinctive personalities over a long period of time</answer-text>
         </answer-list>
-        <key>4</key>
+        <key>3</key>
     </question> 
    
     <question type="multichoice" passage-file="ASR24P07.xml" skills="6">
