@@ -1,0 +1,48 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR35P00.xml'>
+    
+    <question type='select.1' passage-file='ASR35P01.xml' skills='9'>
+        
+        <direction-text>Select the appropriate sentences from the answer choices that are key points in a discussion of <exp>how well various publishers succeeded in creating adless newspapers</exp>. <i>
+                <b>This question is worth 3 points.</b>
+            </i>
+        </direction-text>
+        
+        <intro-text>
+            <b>This passage discusses radical shifts in population that the bald eagle has undergone</b>
+        </intro-text>
+        
+        <answer-list>
+
+            <answer>
+                <answer-text>The numbers of bald eagles were greatly reduced, at least in part due to the effects of a pesticide.</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>The legislation has had a positive effect on the number of bald eagles.</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>The bald eagle was named as the national symbol of the United States in the late eighteenth century.</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Early in the history of the United States, there were huge numbers of bald eagles.</answer-text>
+            </answer>
+            
+            <answer>
+                <answer-text>Two different pieces of legislation that affected the bald eagle were enacted 33 years apart.</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>The federal government enacted legislation specifically designed to protect the bald eagle as well as to outlaw the pesticide DDT.</answer-text>
+            </answer>
+
+        </answer-list>
+        
+        <key>01.2.3</key>
+    
+    </question>
+    
+</question-list>
+

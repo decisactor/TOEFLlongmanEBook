@@ -1,0 +1,70 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR38P00.xml'>
+    <question type='select.2' passage-file='ASR38P01.xml' skills='10'>
+
+        <direction-text>
+            Select the appropriate phrases from the answer choices, and match them to the pairs of words to which they relate. TWO of the answer choices will not be used. <i><b>This question is worth 4 points.</b></i>
+        </direction-text>
+
+        <key>40.52.13</key>
+        
+        <category-list>
+            
+            <category>
+                <category-text>
+                    <b><i>buckaroo</i> and <i>vaquero</i></b>
+                </category-text>
+            </category>
+         
+            <category>
+                <category-text>
+                    <b><i>buckaroo</i> and <i>vaccine</i></b>
+                </category-text>
+            </category>
+            
+            <category>
+                <category-text>
+                    <b><i>vacca</i> and <i>vaccine</i></b>
+                </category-text>
+            </category>
+            
+        </category-list>
+
+        <answer-list>
+            <answer>
+                <answer-text>Are from different languages (Latin and English)</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Have the same meaning</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Are both Spanish words</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Refer to different things (an animal and a substance)</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Are found in the same language</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Have meanings referring to preventative medicine</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Are used in different languages (Spanish and English)</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Have different meanings (a person and a substance)</answer-text>
+            </answer>
+
+        </answer-list>
+    </question>
+</question-list>
+
+

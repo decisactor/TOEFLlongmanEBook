@@ -1,0 +1,43 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR33P00.xml'>
+    <question type='select.1' passage-file='ASR33P01.xml' skills='9'>
+        
+        <direction-text>Select the appropriate sentences from the answer choices that are key points in a discussion of <exp>how well various publishers succeeded in creating adless newspapers</exp>. <i>
+                <b>This question is worth 3 points.</b>
+            </i>
+        </direction-text>
+        
+        <intro-text>
+            <b>This passage discusses Ben and Jerry's unconventional company.</b>
+        </intro-text>
+        
+        <answer-list>
+            <answer>
+                <answer-text>Some seeds are able to float great distances in the air.</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Some plant life existed before islands were cut off from larger bodies of land.</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Some islands have many different varieties of plants.</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Birds sometimes carry seeds to islands.</answer-text>
+            </answer>
+			
+            <answer>
+                <answer-text>Some islands were created when rising water cut them off from larger bodies of land.</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Some plant seeds are carried to islands by the wind.</answer-text>
+            </answer>
+        </answer-list>
+        <key>.0.1.2</key>
+    
+    </question>
+</question-list>
+

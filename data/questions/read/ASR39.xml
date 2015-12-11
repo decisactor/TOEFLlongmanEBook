@@ -1,0 +1,57 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR39P00.xml'>
+    <question type='select.2' passage-file='ASR39P01.xml' skills='10'>
+
+        <direction-text>
+            Select the appropriate phrases from the answer choices, and match them to the type of carniverous plant to which they relate. TWO of the answer choices will not be used. <i><b>This question is worth 3 points.</b></i>
+        </direction-text>
+
+        <key>20.31..</key>
+        
+        <category-list>
+        
+            <category>
+                <category-text>
+                    <b>those with active traps</b>
+                </category-text>
+            </category>
+            
+            <category>
+                <category-text>
+                    <b>those with inactive traps</b>
+                </category-text>
+            </category>
+            
+        </category-list>
+
+        <answer-list>
+        
+            <answer>
+                <answer-text>Butterworts</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Bladderworts</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Dragonflies</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Pitcher plants</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Venus flytraps</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Dandelions</answer-text>
+            </answer>
+
+        </answer-list>
+    </question>
+</question-list>
+
+

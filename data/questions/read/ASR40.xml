@@ -1,0 +1,64 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR40P00.xml'>
+    <question type='select.2' passage-file='ASR40P01.xml' skills='10'>
+
+        <direction-text>
+            Select the appropriate phrases from the answer choices, and match them to the phase of William Faulkner's career to which they relate. TWO of the answer choices will not be used. <i><b>This question is worth 3 points.</b></i>
+        </direction-text>
+
+        <key>30.41.52</key>
+        
+        <category-list>
+        
+            <category>
+                <category-text>
+                    <b>Faulkner in the first phase of his career</b>
+                </category-text>
+            </category>
+            
+            <category>
+                <category-text>
+                    <b>Faulkner in the second phase of his career</b>
+                </category-text>
+            </category>
+            
+        </category-list>
+
+        <answer-list>
+            <answer>
+                <answer-text>Was considered one of America's greatest writers</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Received a small amount of critical acclaim</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Died as a result of a horseback-riding incident</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Received numerous awards and acclaim</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Was considered merely a regional writer</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Wrote novels about various American regions</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Made his living as a novelist</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Made his living with writing other than novels</answer-text>
+            </answer>
+
+        </answer-list>
+    </question>
+</question-list>
+
+

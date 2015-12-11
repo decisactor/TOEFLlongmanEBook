@@ -1,0 +1,60 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR37P00.xml'>
+    <question type='select.2' passage-file='ASR37P01.xml' skills='10'>
+
+        <direction-text>
+            Select the appropriate phrases from the answer choices, and match them to the critical information about the sand dunes to which they relate. THREE of the answer choices will not be used. <i><b>This question is worth 3 points.</b></i>
+        </direction-text>
+
+        <key>2.3.0.1</key>
+        
+        <category-list>
+        
+            <category>
+                <category-text>
+                    <b>amount of sand</b>
+                </category-text>
+            </category>
+            
+            <category>
+                <category-text>
+                    <b>direction of winds</b>
+                </category-text>
+            </category>
+            
+        </category-list>
+
+        <answer-list>
+            <answer>
+                <answer-text>Ridge and crescent dunes form where the winds blow from one direction.</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Crescent dunes are also known as barchan dunes.</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Star-shaped dunes form where the winds blow from different directions.</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Transverse dunes are created parallel to the wind.</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Ridge and star dunes form where there is a lot of sand.</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Star-shaped dunes are more stable than crescent dunes.</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Crescent dunes form where there is less sand.</answer-text>
+            </answer>
+
+        </answer-list>
+    </question>
+</question-list>
+
+

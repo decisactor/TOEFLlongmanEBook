@@ -1,0 +1,48 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR36P00.xml'>
+    
+    <question type='select.1' passage-file='ASR36P01.xml' skills='9'>
+        
+        <direction-text>Select the appropriate sentences from the answer choices that are key points in a discussion of <exp>how well various publishers succeeded in creating adless newspapers</exp>. <i>
+                <b>Though modernism in art shares certain characteristics, these characteristics can be difficult to define precisely .</b>
+            </i>
+        </direction-text>
+        
+        <intro-text>
+            <b>This passage discusses Ben and Jerry's unconventional company.</b>
+        </intro-text>
+        
+        <answer-list>
+
+            <answer>
+                <answer-text>A reflection of the reality of modern life is one aspect of modernism.</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>There is no universal agreement as to exactly what makes up modern life.</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Modernism is a highly individualistic style of art.</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>Modernism in art must improve upon the style of the mainstream.</answer-text>
+            </answer>
+            
+            <answer>
+                <answer-text>There were many different styles of American art in the early twentieth century.</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>It can be difficult to define what the mainstream is.</answer-text>
+            </answer>
+
+        </answer-list>
+        
+        <key>01.2.3</key>
+    
+    </question>
+    
+</question-list>
+

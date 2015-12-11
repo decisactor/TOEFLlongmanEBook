@@ -1,0 +1,48 @@
+<?xml version='1.0'?>
+<question-list type='read' passage-file='ASR34P00.xml'>
+    
+    <question type='select.1' passage-file='ASR34P01.xml' skills='9'>
+        
+        <direction-text>Select the appropriate sentences from the answer choices that are key points in a discussion of <exp>how well various publishers succeeded in creating adless newspapers</exp>. <i>
+                <b>This question is worth 3 points.</b>
+            </i>
+        </direction-text>
+        
+        <intro-text>
+            <b>This passage discusses Ben and Jerry's unconventional company.</b>
+        </intro-text>
+        
+        <answer-list>
+
+            <answer>
+                <answer-text>They each had a personal commitment to social causes.</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>They began their business with little background and investment.</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>They believed strongly in producing a very high-quality product.</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>They had a salary structure that limits the salaries of high-level executives.</answer-text>
+            </answer>
+            
+            <answer>
+                <answer-text>They set aside a noteworthy portion of their profits for social causes.</answer-text>
+            </answer>
+
+            <answer>
+                <answer-text>They borrowed several thousand dollars from friends to start their business.</answer-text>
+            </answer>
+
+        </answer-list>
+        
+        <key>.0.12.</key>
+    
+    </question>
+    
+</question-list>
+
